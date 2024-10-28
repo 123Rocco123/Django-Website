@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block extra_css %}<link rel="stylesheet" href="{% static 'register/register.css' %}">{% endblock %}
+{% load crispy_forms_tags %}
+
+{% block content %}
+<div class="loginSection">
+    <div class="square">
+        <h1>
+            Create an Account
+        </h1>
+
+        <form method="post" class="from-group">
+            <!-- Used to save the user infromation when they create the account -->
+            {% csrf_token %}
+            <!-- Contains the registration form -->
+            {{ form|crispy }}
+
+
+            <br>
+            <button type="submit">Register</button>
+
+        </form>
+    </div>
+</div>
+{% endblock %}
