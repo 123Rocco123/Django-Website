@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block extra_css %}<link rel="stylesheet" href="{% static 'register/login.css' %}">{% endblock %}
+
+{% block content %}
+
+<div class="loginSection">
+    <div class="square">
+        <h1>
+            Sign In
+        </h1>
+
+        <form method="post" class="from-group">
+            {% csrf_token %}
+            {{ form }}
+
+            <p>Not registered? Register <a href="/register">Here</a></p>
+            <button type="submit">Login</button>
+
+        </form>
+    </div>
+</div>
+    
+{% endblock %}
+
