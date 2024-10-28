@@ -1,0 +1,34 @@
+h1 {
+    font-weight: 400;
+}
+
+.content {
+    height: 100vh; /* Full height minus navbar */
+    padding-top: 80px; /* Space for navbar */
+    box-sizing: border-box; /* Ensures padding doesn’t add extra height */
+    overflow-y: auto; /* Optional: add scroll if content overflows */
+}
+
+.loginSection {
+    color: black;
+
+    height: 75vh; /* Full height minus navbar */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.square {
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    flex-direction: column;
+    justify-content: center;
+
+    position: relative;
+    box-sizing: border-box;
+    text-align: center; /* Center text inside */
+    padding: 20px; /* Optional padding for better spacing */
+    background-color: white;
+    border-radius: 10px; /* Optional rounded corners */
+}
