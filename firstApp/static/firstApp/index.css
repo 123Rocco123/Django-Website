@@ -1,0 +1,38 @@
+/* Center the carousel vertically and horizontally */
+.carousel-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Ensure the images maintain consistent size, aspect ratio, and smooth transitions */
+.carousel-item {
+    width: 100%;
+}
+
+.carousel-item img {
+    width: 100%; /* Ensures image takes full width of the carousel item */
+    height: 400px; /* Set a fixed height for all images */
+    object-fit: contain; /* Ensures the image covers the container without distortion */
+}
+
+/* Override the default Bootstrap transition to keep the carousel centered */
+/* Ensure the carousel itself has consistent sizing */
+.carousel-inner {
+    width: 100%;
+}
+
+/* Style for paymentplan button */
+.btn-paymentplan {
+margin-left: auto; /* Push the button to the right */
+}
+
+/* Style for signup and login links */
+.signup-link, .login-link, .logout-link {
+text-decoration: none; /* Remove underline */
+}
+
+/* Sets the color of the text for the Signup and Login buttons */
+.navbar-custom .navbar-nav .nav-link, .navbar-custom .navbar-brand {
+    color: white;
+}
