@@ -1,0 +1,46 @@
+/* Used to set the background color for the page */
+.content {
+    background-color: rgb(31, 31, 31)
+}
+
+/* Custom navbar background */
+.navbar-custom {
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 20px;
+    z-index: 1000;
+    position: fixed;
+    box-shadow: 0 2px 5px #0000001a;
+    transition: background-color 0.3s ease;
+}
+
+.navbar-custom.transparent {
+    background-color: rgba(31, 31, 31, 0.75); /* 50% transparent */
+    transition: 0.75s;
+    padding: 10px;
+}
+
+.content {
+    /* For demonstration, adjust as needed */
+    height: 2000px; 
+    /* Space for the fixed navbar */
+    padding-top: 80px;
+}
+
+/* Dropdown hover styles */
+.nav-item.dropdown:hover .dropdown-menu {
+    display: block; /* Show the dropdown menu on hover */
+    position: fixed; /* Fix position to cover the viewport */
+    left: 0; /* Align to left */
+    width: 100%; /* Full width */
+    overflow: auto; /* Allow scrolling if content overflows */
+}
+
+.nav-item.dropdown .dropdown-menu {
+    display: none; /* Hide the dropdown menu by default */
+}
+
+.navbar-custom .signup-link, .navbar-custom .login-link, .logout-link, .logout-link:hover, .navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link, .dropdown-item {
+    color: white;
+}
