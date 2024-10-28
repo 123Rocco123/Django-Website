@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block extra_css %}<link rel="stylesheet" href="{% static 'firstApp/pricing.css' %}">{% endblock %}
+
+{% block title %}Pricing{% endblock %}
+
+{% block content %}
+<div class="paragraphText">
+    <p>To be added eventually (2027)</p>
+    <br>
+    <p>Days remaining: {{ timer }}</p>
+</div>
+
+{% endblock %}
