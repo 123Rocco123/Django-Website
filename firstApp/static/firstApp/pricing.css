@@ -1,0 +1,19 @@
+p {
+    color: white;
+}
+
+.content {
+    height: 100vh; /* Full height minus navbar */
+    padding-top: 80px; /* Space for navbar */
+    box-sizing: border-box; /* Ensures padding doesn’t add extra height */
+    overflow-y: auto; /* Optional: add scroll if content overflows */
+}
+
+.paragraphText {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    flex-direction: column;
+    justify-content: center;
+}
