@@ -10,7 +10,8 @@ urlpatterns = [
     path("", views.index, name = "index"),
     # Contains the view link to the pricing page
     path("pricing/", views.pricing, name = "pricing"),
-
+    # Contains the view link to the pricing page
+    path("about/", views.aboutMe, name = "aboutMe"),
     # Different path means that its a subdirectory
     path("idea", views.projectIdea, name = "projectIdea"),
 ]
