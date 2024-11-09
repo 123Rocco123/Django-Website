@@ -1,3 +1,5 @@
+import os
+
 from datetime import date
 
 from django.shortcuts import render
@@ -25,6 +27,15 @@ def pricing(request):
     }
 
     return render(request, 'firstApp/pricing.html', context)
+
+def aboutMe(request):
+    # Read the content of the .txt file
+    with open(f"{os.getcwd()}/firstApp/texts/letterToReader.txt", 'r', encoding='utf-8') as file:
+        file_content = file.read()
+    
+    #file_content = os.getcwd()
+
+    return render(request, 'firstApp/about.html', {'letter': file_content})
 
 # Different subpage to the first app directory
     # I.e. Subdirectory
