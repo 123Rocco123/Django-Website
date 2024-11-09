@@ -1,0 +1,17 @@
+Hey,
+
+My name is Rocco Petruccio, and this is my website and program. I wanted to share a bit about the goals of this platform to give you, the user, some context on what I aim to achieve.
+
+For many years, I have been interested in investing money in the stock market, especially after watching movies like The Wolf of Wall Street, Wall Street, The Big Short, and Margin Call. However, like most people initially starting out in this field, I didn't know which information was most important when evaluating companies and investments and, most importantly, I had a fear of losing those investments.
+
+In November 2021, while considering ways to overcome these obstacles, I came up with the idea of creating a program that could predict future stock prices using machine learning and deep learning algorithms. At the time, I was learning about ML in Python and experimenting with small projects, such as predicting real housing prices.
+
+Admittedly, the first attempts were not so great. I had to learn about web scraping, financial information, and which algorithms are best for which scenario. I kept pushing through and improving my craft. With each new version of the program, I improved on the previous design while adding new features and functionalities that I had previously not known about.
+
+When I was working on my thesis for my BSc in Computer Science, I realized that my program needed to be accessible as a web app. I wanted others, especially students like me, to have the opportunity to gain financial independence without the fear of losing their hard-earned money.
+
+This led me to where I am today. I have created this website to give you, the user reading this now, the ability to invest your money while lowering the skill threshold needed to do so. I depend on you to make this program better. Please suggest features, report bugs, write accuracy or inaccuracy reports—in essence, tell me what this program is missing, and I will strive to improve it.
+
+I cannot guarantee that this program will be flawless from the start; if anything, the opposite will be true. But I guarantee that I will not go quietly into the night. I will push on. I will strive to make this program a true competitor to all others out there in this field. I hope that you'll be with me throughout my and your journey for financial independence and that together we can forge a better future for ourselves.
+
+P.S. Go Yankees!
