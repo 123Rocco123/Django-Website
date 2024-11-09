@@ -1,0 +1,29 @@
+.content {
+    height: 100vh; /* Full height minus navbar */
+    padding-top: 80px; /* Space for navbar */
+    box-sizing: border-box; /* Ensures padding doesn’t add extra height */
+    overflow-y: auto; /* Optional: add scroll if content overflows */
+}
+
+h2 {
+    text-align: center;
+}
+
+figcaption {
+    color: white;
+    text-align: center;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.imageContainer {
+    padding: 15px;
+}
+
+.textContainer {
+    padding: 15px;
+    border-radius: 15px;
+    background-color: gray;
+}
