@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}The "Team"{% endblock %}
+
+{% block content %}
+
+{% block extra_css %}<link rel="stylesheet" href="{% static 'firstApp/about.css' %}">{% endblock %}
+
+<div class="container">
+    <div class="row align-items-center"> <!-- Align items vertically center -->
+        <div class="col-md-6 imageContainer">
+            <figure>
+                <img src="{% static 'firstApp/images/me.jpg' %}" class="img-fluid" alt="Sample Image">
+                
+                <figcaption>
+                    The one and only
+
+                    <div class="links">
+                        <a href="https://uk.linkedin.com/in/roccopetruccio">
+                            <img src="{% static 'firstApp/images/LinkedInLogo.png' %}" alt="LinkedIn" id="linkedinBu
+                            ">
+                        </a>
+                        
+                            <a href="https://github.com/123Rocco123">GitHub</a>
+                    </div>
+                </figcaption>
+            </figure>
+        </div>
+        
+        <div class="col-md-6 textContainer">
+            <h2>From Me to You</h2>
+            <p>{{ letter|linebreaks }}</p>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
+
+{% block extra_js %}
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+{% endblock %}
