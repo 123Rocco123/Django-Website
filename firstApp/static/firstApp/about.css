@@ -21,3 +21,16 @@ figcaption {
     border-radius: 15px;
     background-color: gray;
 }
+
+.icon-container {
+    display: flex;
+    align-items: center; /* Adjusts vertical alignment */
+    gap: 0; /* Removes any gap between images */
+}
+
+#linkedinButton,
+#gitHubButton {
+    display: inline-block;
+    width: 15%;
+    border-radius: 15%;
+}
