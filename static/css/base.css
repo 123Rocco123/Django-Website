@@ -23,7 +23,7 @@
 
 .content {
     /* For demonstration, adjust as needed */
-    height: 2000px; 
+    height: auto; 
     /* Space for the fixed navbar */
     padding-top: 80px;
 }
