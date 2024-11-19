@@ -1,0 +1,4 @@
+11/18/2024
+
+- Added the "Timeline" and "Features to be Implemented" blocks on homepage.
+- Fixed issues with the background color of the pages
