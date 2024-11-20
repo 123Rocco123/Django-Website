@@ -10,7 +10,14 @@ from django.http import HttpResponse
 # Function used to initialize the webpage
     # Sending us to the index.html page
 def index(request):
-    return render(request, 'firstApp/index.html')
+    # Read the content of the .txt file
+    with open(f"{os.getcwd()}/firstApp/texts/timeline.txt", 'r', encoding='utf-8') as file:
+        timeline = file.read()
+
+    with open(f"{os.getcwd()}/firstApp/texts/FtbI.txt", 'r', encoding='utf-8') as file:
+        featurestbImplemented = file.read()
+
+    return render(request, 'firstApp/index.html', {'timeline': timeline, "ftbi" : featurestbImplemented})
 
 def register(request):
     return render(request, 'firstApp/createAccount.html')
