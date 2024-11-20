@@ -1,0 +1,28 @@
+.notifications {
+    margin: 10px 10% 10px 10%;
+    padding: 1rem;
+
+    border-radius: 10px;
+    
+    background-color: rgb(65, 65, 65);
+}
+
+.graphContainer, .watchList {
+    height: 60vh;
+    overflow: scroll;
+
+    background-color: white;
+    
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.news {
+    padding: 10px;
+    height: 20vh;
+
+    border-radius: 10px;
+    border: 1px solid black;
+    background-color: white;
+}
+
