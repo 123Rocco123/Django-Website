@@ -25,6 +25,15 @@ def index(request):
 
     return render(request, 'firstApp/index.html', {'timeline': timeline, "ftbi" : featurestbImplemented, "importantMessages" : importantMessages})
 
+def portfolioHome(request):
+    x_data = [0,1,2,3]
+    y_data = [x**2 for x in x_data]
+    plot_div = plot([Scatter(x=x_data, y=y_data,
+                        mode='lines', name='test',
+                        opacity=0.8, marker_color='green')],
+               output_type='div')
+
+    return render(request, 'firstApp/portfolioHome.html', context={'plot_div': plot_div})
 
 def register(request):
     return render(request, 'firstApp/createAccount.html')
