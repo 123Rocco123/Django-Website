@@ -36,9 +36,9 @@
 /* Dropdown hover styles */
 .nav-item.dropdown:hover .dropdown-menu {
     display: block; /* Show the dropdown menu on hover */
-    position: fixed; /* Fix position to cover the viewport */
+    position: absolute; /* Fix position to cover the viewport */
     left: 0; /* Align to left */
-    width: 100%; /* Full width */
+    width: wrap; /* Full width */
     overflow: auto; /* Allow scrolling if content overflows */
 }
 
