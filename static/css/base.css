@@ -51,3 +51,24 @@
 .navbar-custom .signup-link, .navbar-custom .login-link, .logout-link, .logout-link:hover, .navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link, .dropdown-item {
     color: white;
 }
+
+/* Center the search bar and adjust its size */
+.stockSearchBar {
+    width: 40%; /* Adjust width to control the central alignment */
+    max-width: 300px; /* Set a max-width for consistency across screen sizes */
+}
+
+.stockSearchBar input {
+    width: 100%; /* Make input fill the container */
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgb(40, 40, 40);
+    color: white;
+}
+
+.stockSearchBar input:focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
