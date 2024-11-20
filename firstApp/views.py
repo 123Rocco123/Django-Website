@@ -2,6 +2,9 @@ import os
 
 from datetime import date
 
+from plotly.offline import plot
+from plotly.graph_objs import Scatter
+
 from django.shortcuts import render
 from django.http import HttpResponse
 
