@@ -1,3 +1,10 @@
+11/20/2024
+
+- Start the integration of the website with the code
+    - Preferably make it so that the CSV files get copied from the program directories into a different directory that this project has access to
+    - (Safety measure)
+
+
 11/18/2024
 
 - Registration & Login features
