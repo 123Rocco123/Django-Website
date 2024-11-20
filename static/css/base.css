@@ -43,6 +43,8 @@
 }
 
 .nav-item.dropdown .dropdown-menu {
+    background-color: rgb(31, 31, 31);
+
     display: none; /* Hide the dropdown menu by default */
 }
 
