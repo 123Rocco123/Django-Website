@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}User Home{% endblock %}
+
+{% block extra_css %}
+  <link rel="stylesheet" href="{% static 'firstApp/portfolioHome.css' %}">
+{% endblock %}
+
+{% block content %}
+<div class="notifications mt-5">
+  <div class="row g-3">
+    <!-- First Div -->
+      <div class="col-md-10 col-12 p-3 graphContainer">
+        {% autoescape off %}
+            {{ plot_div }}
+        {% endautoescape %}
+      </div>
+
+
+      <div class="col-md-2 col-12 p-3 watchList">
+        
+      </div>
+    </div>
+
+  <div class="row g-3">
+      <div class="news">
+          
+      </div>
+  </div>
+</div>
+
+{% endblock %}
