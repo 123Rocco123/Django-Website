@@ -22,7 +22,7 @@
     <!-- Navbar with Dropdown -->
         <!-- Class names used to define the element using bootstrap syntax -->
     <nav class="navbar navbar-expand-lg navbar-light navbar-custom">
-        <div class="container-fluid">        
+        <div class="container-fluid">
             <a class="navbar-brand" href="{% url 'index' %}">PTRFinance</a>
             
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -47,7 +47,6 @@
                     <li class="nav-item">
                         <a class="nav-link" href="{% url 'aboutMe' %}">About</a>
                     </li>
-
                     <li class="nav-item">
                         <a class="nav-link" href="{% url 'pricing' %}">Pricing</a>
                     </li>
@@ -65,9 +64,7 @@
                         <a class="nav-link logout-link" href="{% url 'logout' %}" role="button">Logout</a>
                     {% else %}
                         <a class="nav-link signup-link" href="{% url 'register' %}" role="button">Sign Up</a>
-                        <!-- Login Link -->
                         <a class="nav-link login-link ms-3" href="{% url 'login' %}" role="button">Login</a>
-                        <!-- Get Started Button -->
                         <a class="btn btn-primary btn-paymentplan ms-3" href="#" role="button">Get Started</a>
                     {% endif %}
                 </div>
