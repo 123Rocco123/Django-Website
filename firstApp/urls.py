@@ -12,6 +12,11 @@ urlpatterns = [
     path("pricing/", views.pricing, name = "pricing"),
     # Contains the view link to the pricing page
     path("about/", views.aboutMe, name = "aboutMe"),
+
+    # Contains the view link to the user's homepage
+    path("home/", views.portfolioHome, name = "portfolioHome"),
+    
+    
     # Different path means that its a subdirectory
     path("idea", views.projectIdea, name = "projectIdea"),
 ]
