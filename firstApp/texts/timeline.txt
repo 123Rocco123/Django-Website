@@ -1,3 +1,9 @@
+11/20/2024
+
+- Added the outline for the homepage for the user
+    - Added a test graph to the main block
+
+
 11/18/2024
 
 - Added the "Timeline" and "Features to be Implemented" blocks on homepage.
