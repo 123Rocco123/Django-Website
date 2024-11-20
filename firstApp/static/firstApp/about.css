@@ -28,8 +28,7 @@ figcaption {
     gap: 0; /* Removes any gap between images */
 }
 
-#linkedinButton,
-#gitHubButton {
+#linkedinButton, #gitHubButton {
     display: inline-block;
     width: 15%;
     border-radius: 15%;
