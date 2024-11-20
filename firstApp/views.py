@@ -20,7 +20,11 @@ def index(request):
     with open(f"{os.getcwd()}/firstApp/texts/FtbI.txt", 'r', encoding='utf-8') as file:
         featurestbImplemented = file.read()
 
-    return render(request, 'firstApp/index.html', {'timeline': timeline, "ftbi" : featurestbImplemented})
+    with open(f"{os.getcwd()}/firstApp/texts/importantmessages.txt", 'r', encoding='utf-8') as file:
+        importantMessages = file.read()
+
+    return render(request, 'firstApp/index.html', {'timeline': timeline, "ftbi" : featurestbImplemented, "importantMessages" : importantMessages})
+
 
 def register(request):
     return render(request, 'firstApp/createAccount.html')
