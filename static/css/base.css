@@ -1,5 +1,10 @@
+/* Hides the scrollbar */
+::-webkit-scrollbar {
+    display: none;
+}
+
 /* Used to set the background color for the page */
-.content {
+.content, html {
     background-color: rgb(31, 31, 31)
 }
 
