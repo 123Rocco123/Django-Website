@@ -39,8 +39,7 @@ text-decoration: none; /* Remove underline */
 
 .notifications {
     padding: 2rem;
-    margin-bottom: 25px;
-
+    
     border-radius: 10px;
     
     background-color: rgb(65, 65, 65);
