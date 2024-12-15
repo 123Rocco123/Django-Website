@@ -18,7 +18,108 @@ from plotly.graph_objs import Scatter
 from django.shortcuts import render
 from django.http import HttpResponse
 
-# Create your views here.
+# ----------------------------------------------------------------------------------------------------------------------------------------
+#                                                           Auxiliary Functions
+# ----------------------------------------------------------------------------------------------------------------------------------------
+
+# Function used to gather the most recent stock values for the specified stock
+def returnIsProfitable(stock):
+    # Variable used to contain the stock information of the passed in company
+    stockInformation = pd.read_csv(f"{os.getcwd()}/database/StockValues/{stock}/{stock}.csv").tail(2)
+
+    # Returns True if today the stock increased in value
+        # False if the opposite is true
+    return stockInformation["Close"].tolist()[0] < stockInformation["Close"].tolist()[1]
+
+# Function returns the most recent stock price
+def returnPrice(stock):
+    # Variable used to contain the stock information of the passed in company
+    stockInformation = pd.read_csv(f"{os.getcwd()}/database/StockValues/{stock}/{stock}.csv").tail(1)
+
+    # Returns True if today the stock increased in value
+        # False if the opposite is true
+    return round(float(stockInformation["Close"].values.tolist()[0]), 4)
+
+def returnCurrency(stock):
+    currencies = {"$" : ["TSMC", "Visa", "Nvidia", "ARM", "AMD"],
+                  "€" : ["Unicredit"]}
+
+    for values in currencies:
+        if stock in currencies[values]:
+            return values
+
+# LOGO FUNCTIONS
+
+# Function used to set driver to headless mode
+    # While also making it so that we run it with a virtual window
+def virtualWindow():
+    options = Options()
+    # Simulate a real window
+    options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3")
+    # Set the window size
+    options.add_argument("--window-size=1920x1080")
+    # Used to attempt to disable headless mode website detection
+    options.add_argument("--disable-blink-features=AutomationControlled")
+    # Disabling GPU can help with headless mode stability
+    options.add_argument("--disable-gpu")
+    # Used to run the chrome driver without opening the browser
+    options.add_argument('--headless=new')
+
+    return options
+
+# Function used to reject the cookies searching something on Google
+def rejectGoogleCookies(driver):
+    rejectAll = [x for x in driver.find_elements(By.TAG_NAME, "button") if x.text == "Reject all"][0]
+    rejectAll.click()
+
+# Function used to find and download the company's logo
+    # Used if we don't have one
+def findCompanyLogo(stockName):
+    # Contains the options for the driver
+    driver = webdriver.Chrome()#options = virtualWindow())
+
+    driver.get(f"https://www.google.com/search?q={stockName}+wikipedia+logo")
+    # Reject Google Cookies
+    rejectGoogleCookies(driver)
+    # Find elements with alt attribute containing '- Wikipedia'
+    driver.find_element(By.XPATH, "//*[@alt and contains(@alt, '- Wikipedia')]").click()
+
+    # Load Image
+    time.sleep(1)
+
+    try:
+        firstImage = driver.find_element(By.CSS_SELECTOR, f"[alt*='File:{stockName} Logo.svg - Wikipedia']").get_attribute("src")
+
+        try:
+            img_response = requests.get(firstImage)
+        except:
+            firstImage = driver.find_elements(By.CSS_SELECTOR, f"[alt*='File:{stockName} Logo.svg - Wikipedia']")[1].get_attribute("src")
+    except:
+        try:
+            # Find all img elements with "https://upload.wikimedia.org/wikipedia/" in the src attribute
+            firstImage = driver.find_element("xpath", "//img[contains(@src, 'https://upload.wikimedia.org/wikipedia/')]").get_attribute("src")
+        except:
+            firstImage = driver.find_elements("xpath", "//img[contains(@alt, '- Wikipedia')]")[0].get_attribute("src")
+
+    img_response = requests.get(firstImage)
+
+    if img_response.status_code == 200:
+        with open(f"{os.getcwd()}/firstApp/static/firstApp/images/{stockName}.png", 'wb') as file:
+            file.write(img_response.content)
+
+    driver.close()
+
+# Function used to return the stock specific logo
+    # It will get one off of google if we don't have it already
+def checkForLogo(stockName):
+    if os.path.exists(f"{os.getcwd()}/firstApp/static/firstApp/images/{stockName}.png"):
+        return f"{stockName}.png"
+    else:
+        try:
+            findCompanyLogo(stockName)
+        except:
+            return None
+
 
 # Function used to initialize the webpage
     # Sending us to the index.html page
