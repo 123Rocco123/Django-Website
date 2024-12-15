@@ -6,7 +6,7 @@
 {% block extra_css %}<link rel="stylesheet" href="{% static 'firstApp/index.css' %}">{% endblock %}
 
 {% block content %}
-<body>
+<body class="mainBlock">
     <!-- Slideshow (Carousel) in the middle of the page -->
     <div class="carousel-container">
         <div id="imageCarousel" class="carousel slide" data-bs-ride="carousel">
@@ -60,4 +60,8 @@
         </div>
     </div>
 </body>
+{% endblock %}
+
+{% block footer %}
+    <p class="hardlined">Special thanks to those that have helped and inspired:</p> {{ footer | linebreaks }}
 {% endblock %}
