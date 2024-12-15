@@ -16,7 +16,6 @@ urlpatterns = [
     # Contains the view link to the user's homepage
     path("home/", views.portfolioHome, name = "portfolioHome"),
     
-    
     # Different path means that its a subdirectory
     path("idea", views.projectIdea, name = "projectIdea"),
 ]
