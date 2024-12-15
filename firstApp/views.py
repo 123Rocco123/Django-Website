@@ -120,6 +120,9 @@ def checkForLogo(stockName):
         except:
             return None
 
+# ----------------------------------------------------------------------------------------------------------------------------------------
+#                                                              Views Functions
+# ----------------------------------------------------------------------------------------------------------------------------------------
 
 # Function used to initialize the webpage
     # Sending us to the index.html page
@@ -134,7 +137,13 @@ def index(request):
     with open(f"{os.getcwd()}/firstApp/texts/importantmessages.txt", 'r', encoding='utf-8') as file:
         importantMessages = file.read()
 
-    return render(request, 'firstApp/index.html', {'timeline': timeline, "ftbi" : featurestbImplemented, "importantMessages" : importantMessages})
+    with open(f"{os.getcwd()}/firstApp/texts/footer.txt", 'r', encoding='utf-8') as file:
+        footer = file.read()
+
+    return render(request, 'firstApp/index.html', {'timeline': timeline,
+                                                   "ftbi" : featurestbImplemented,
+                                                   "importantMessages" : importantMessages,
+                                                   "footer" : footer})
 
 def portfolioHome(request):
     x_data = [0,1,2,3]
@@ -144,7 +153,12 @@ def portfolioHome(request):
                         opacity=0.8, marker_color='green')],
                output_type='div')
 
-    return render(request, 'firstApp/portfolioHome.html', context={'plot_div': plot_div})
+    # Variable used to contain the file names of the tracked stocks
+        # Used so that we can display the options (initially only)
+    allowedStocks = [{"name" : stock, "currency" : returnCurrency(stock), "price" : returnPrice(stock), "logo" : checkForLogo(stock), "is_profitable" : returnIsProfitable(stock)}
+                     for stock in os.listdir(f"{os.getcwd()}/database/StockValues/")]
+
+    return render(request, 'firstApp/portfolioHome.html', context={'plot_div': plot_div, "stocks" : allowedStocks})
 
 def register(request):
     return render(request, 'firstApp/createAccount.html')
