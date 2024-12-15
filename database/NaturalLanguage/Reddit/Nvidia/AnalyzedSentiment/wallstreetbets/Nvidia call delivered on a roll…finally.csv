@@ -1,0 +1,8 @@
+date of comment,main comment,comment,depth,sentiment,PTR Sentiment,Flair Outlook,Flair Sentiment
+,Oh yah,GPT-REEEE,0,,0.5,NEGATIVE,0.999
+,Oh yah,"DOWN $36?!??!? Fuck it, I quit.",0,,0.495,NEGATIVE,1.0
+,Oh yah,"It’s flatlining! Nurse, paddles! Stat! We almost lost it the last time.",0,,0.522,POSITIVE,1.0
+,Oh yah,Better sell fast cupcake,0,,0.524,NEGATIVE,0.998
+,Oh yah,Bravo. Now don’t lose it,0,,0.498,POSITIVE,1.0
+,Oh yah,Pocketed the win- but lost to the FOMO today!,1,,0.535,POSITIVE,0.734
+,Oh yah,"Oh no. Be careful with this. Since you sold your win, you’ll need to pay taxes on it as if it was your income. Don’t want to lose all your money but still owe taxes.",2,,0.508,NEGATIVE,1.0

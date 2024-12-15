@@ -1,0 +1,5 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,what tool is that?,0,0.51,0.833,NEGATIVE
+,,Search FINVIZ,1,0.505,0.968,NEGATIVE
+,,"Pretty cool tool, if i had time to analyse during stock trading times",0,0.574,0.997,POSITIVE
+,,Also cool to use after hours because you begin to see trends.1 Day will generally be different (in line with market speculation of economic performance) than say YTD it’s interesting to see shifting trends over time and can kinda show you what part of the cycle we are when.Granted performance 4Q22 was awful and therefore YTD 3month and 6 month almost everything is green 😂,1,0.529,0.899,NEGATIVE

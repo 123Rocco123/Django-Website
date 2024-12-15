@@ -1,0 +1,40 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Outlook,Flair Sentiment
+,,Popped ~7.5% after hours.,0,0.51,NEGATIVE,1.0
+,,"I mean, it only got back what it lost this week currently. No real net gain for the week.",1,0.585,NEGATIVE,1.0
+,,,2,,,
+,,Taking from this should put money into Nvidia on the assumption it rises in the morning?,3,0.531,NEGATIVE,0.999
+,,It's already going to open above what it closed at today. You put in an order to buy now you're not going to be able to take advantage of the difference.,4,0.556,NEGATIVE,0.625
+,,Yeah I’m aggressively new to this and just did a little bit more research and figured this out sorry about that,5,0.544,NEGATIVE,0.671
+,,Just started to look into the stock market tonight and thought It was a good place to start. Would’ve been yesterday 😭,6,0.57,NEGATIVE,0.592
+,,This is so stupid,3,0.5,NEGATIVE,0.998
+,,"Salty about missing the opportunity, eh? Grow up.",4,0.512,NEGATIVE,0.968
+,,You just said no risk lol,5,0.753,POSITIVE,0.728
+,,"Wow, you can read. Color me surprised...",6,0.504,POSITIVE,0.999
+,,I'm curious if it'll be a take profit quick sell off or just renewed euphoria,1,0.576,POSITIVE,0.697
+,,"It could be anything, we don't really know.",2,0.526,NEGATIVE,0.915
+,,"Could be a little of both. I'm in for the long haul so whatever happens, happens.",2,0.573,NEGATIVE,0.886
+,,76% margins is insane,0,0.502,NEGATIVE,0.999
+,,The whole AI realm is mostly an Nvidia monopoly atm. So that profit margin isn't that surprising.,1,0.555,NEGATIVE,0.996
+,,"But it also means a lot of risk in investing 🤷‍♂️No free lunch, I guess.Edit: do you guys not realise that a monopoly means they have everything to lose? lol, come on. this subreddit is supposed to be about businesses.",2,0.515,NEGATIVE,1.0
+,,This just shows how smart Google was to do the TPUs. Now working on the sixth generation with the fifth in production.They were able to completely do Gemini without needing anything from NvidiaThe one that is really hard to understand is Microsoft. Google did the TPUs well over a decade ago and in the open. It was not like a secret.How in the world did Microsoft not get it earlier? They are only starting now to try to copy Google and do their own TPUs.,0,0.519,POSITIVE,1.0
+,,Sorry if I'm admin a solid question here. What is a TPU ?,1,0.574,NEGATIVE,0.995
+,,"Tensor processing Unit. It is silicon that is optimized to process the couple of instructions needed for machine learning.Here is a very dated article that is more true today and explains why Google did the TPUs.https://www.wired.com/2017/04/building-ai-chip-saved-google-building-dozen-new-data-centers/The TPUs give Google a huge strategic advantage. They do NOT have to pay the 800% margins to Nvidia like Microsoft, OpenAI and pretty much everyone but Google",2,0.534,POSITIVE,0.999
+,,why is google lagging in stock price against both nvidia and microsoft?why is gemini worse than gpt4?How their TPU compare to the nvidia gpus and cuda? seems all the players love nvidia,3,0.56,NEGATIVE,0.968
+,,"google doesnt sell their tpus, therefore they arent making the same margins as nvidia right nowtheir business model is also much more than AI alone, which obviously impacts the share price, there are many possible reasons why google is/has been priced a certain waynot sure of gemini is actually worse and the quality of an AI model is a lot more important than the hardware it runs onits hard to comment on googles TPUs. It can however be said that AI training relies on one single type of calculation, which is matrix multiplication. Nvidia GPUs have tensor cores for this purpose, googles TPUs are a whole card with no other purpose than to do these calculations. There probably isnt too much difference between the two, since it is much easier to engineer a TPU that has literally just one single purpose than a GPU that is developed for a much more general application.",4,0.541,NEGATIVE,1.0
+,,"so nvidia chips are multipurpose, gaming, mining, etc… while googles are specific for AI and much cheaper? sounds too good to be true, howcome no one talking about this?",5,0.54,NEGATIVE,0.993
+,,"purpose built chips have been around for a very long timeI think the problem is that developing such chips can still be fairly expensive, nvidia can make much better use of economies of scale by 1) making a lot more chips 2) using a ""one size fits all solutions"", as compared to producing smaller quantities of TPUsNvidia also has the expertise to make general purpose GPUs that perform wellIn addition, Nvidia also makes dedicated server GPUs that have a much bigger focus of AI and other server-related tasks while completely leaving out all gaming capabilitiesI think the point is that yes, Nvidia is in a market dominating position right now, but theyre by far not the only ones who are capable of doing AI as everyone seems to thinkother manufacturers see the same opportunities and i would be surprised if neither AMD or intel are working on their own AI solutions right now",6,0.549,NEGATIVE,0.984
+,,Did my question got edited by an admin or what ? 🤔,2,0.501,NEGATIVE,1.0
+,,,1,,,
+,,"Way too much emotion in this post. Why are you like this? These are tech companies, not football teams...",2,0.531,NEGATIVE,0.999
+,,"80 - 90% of global search engine uses are with Google. They had $20.7B net profit on $86.3B revenue in Q4 2023, and trades at a PE ratio less than other FAANG/big name tech companies. Your opinions on search results does not make the company a joke.",2,0.574,POSITIVE,0.929
+,,Jensen for President!,0,0.522,POSITIVE,0.994
+,,Poor bers,0,0.5,NEGATIVE,1.0
+,,line go up,0,0.57,POSITIVE,0.99
+,,line go up,1,0.57,POSITIVE,0.99
+,,World get gooder,2,0.545,POSITIVE,0.999
+,,"NVDA saves the world. I know they are all but one company, but gyration in the past 3 days underscores the importance of Magnificent 7 to every investor’s portfolio.Maybe with the exception of ARK funds, as Cathy plows more good money into TDOC.",0,0.55,POSITIVE,0.98
+,,Should I invest in NVIDIA now or is it too late?,0,0.577,NEGATIVE,0.985
+,,Invest in Jepq. They have a position in nvidia and pay a dividend.,1,0.553,NEGATIVE,0.923
+,,Sucks to be the shorts and jealous money managers.,0,0.504,NEGATIVE,0.999
+,,"sorry, autocorrect.",0,0.5,NEGATIVE,1.0
+,,,0,,,

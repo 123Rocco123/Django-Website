@@ -1,0 +1,4 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,does this not show that nvidia is 3rd?,0,0.562,1.0,NEGATIVE
+,,Where you got this chart ?,0,0.5,0.899,POSITIVE
+,,And forward pe?,0,0.525,0.673,POSITIVE

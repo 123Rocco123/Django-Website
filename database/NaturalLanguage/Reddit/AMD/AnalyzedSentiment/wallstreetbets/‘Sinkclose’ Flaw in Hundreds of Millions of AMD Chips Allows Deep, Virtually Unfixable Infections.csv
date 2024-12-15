@@ -1,0 +1,91 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,GPT-REEEE,0,0.5,0.999,NEGATIVE
+,,Dude I fucking love this,1,0.503,0.998,POSITIVE
+,,"It is the new golden standard of memes. Thanks, 700k gramma ",2,0.564,0.998,POSITIVE
+,,And I would have gotten away with it if it wasn't for these darn investin' regards,3,0.504,0.657,POSITIVE
+,,Nana must really love him.,1,0.505,0.996,POSITIVE
+,,I am having an asthma attack now,1,0.5,0.996,NEGATIVE
+,,For Nana!,1,0.5,0.993,POSITIVE
+,,praise be,1,0.5,0.959,POSITIVE
+,,"Bless you, nana",1,0.5,0.993,POSITIVE
+,,But Nana I am deep in Amd stonk too,1,0.621,0.992,POSITIVE
+,,Nice try Granny nice try,0,0.502,0.64,POSITIVE
+,,They tried,1,0.505,0.941,NEGATIVE
+,,Nice try INTC,0,0.503,0.726,NEGATIVE
+,,they wouldn't even dare try to talk shit about nvidia. hahaha,1,0.522,0.998,NEGATIVE
+,,redditor sees casual joke about a competitor of a company listed in a postRedditor: “And I took that shit personally”,3,0.565,1.0,NEGATIVE
+,,"It is always a joy to read these counter burns, get me some popcorn please ",4,0.503,0.997,POSITIVE
+,,https://www.nvidia.com/en-us/data-center/grace-cpu/Yes they do.,3,0.538,0.986,POSITIVE
+,,And neither do you. Nvidia absolutely makes cpus.,3,0.544,0.945,NEGATIVE
+,,Brose?Bros.Edit: guy edited his post to not say Brose anymore. What a bitch. Just own it dawg.,3,0.499,0.999,NEGATIVE
+,,That's when bros drink rosé,4,0.5,0.986,POSITIVE
+,,Pat planning to load more AMD shares because for sure Intel wont improve anything.If you cant climb the stairs then pull others down with you,1,0.548,0.992,NEGATIVE
+,,Man that was a garbage article no wonder Wired is only asking $5 for a year of subscription.,0,0.577,1.0,NEGATIVE
+,,I kinda agree. I had a wired subscription when I was a kid in the 90s and it is a lot less interesting and readable now. I resubscribed lately and it just feels… like filler.,1,0.499,1.0,NEGATIVE
+,,Really feels like AI prompts,2,0.554,1.0,NEGATIVE
+,,Wired is investing in AI?I'm all in.,3,0.683,0.867,POSITIVE
+,,98% of the internet seems to either be written by AI or people with a poor understanding of the English language these days.,1,0.526,1.0,NEGATIVE
+,,"Poorly written and focuses on the wrong things. You can summarize the whole article more succinctly and with less hyperbole in like three sentences.   “There’s a really bad exploit, that if exploited publicly at all was done so by nation state actors. AMD has been made aware and is closing the exploit. Any computers infected by this exploit would be exceedingly difficult to restore to a clean state.” ",1,0.515,1.0,NEGATIVE
+,,Article by xX-IntelBagholder-Xx,0,0.5,0.998,NEGATIVE
+,,"Basically you need kernel level access to execute this exploit.So if you have near full control of a system, this allows you to have full control over the system.Normal security precautions will be sufficient here. Kind of a nothing burger.",0,0.512,1.0,NEGATIVE
+,,Do anti cheat software for games have kernel level access?,1,0.524,0.998,NEGATIVE
+,,Yup.,2,0.5,1.0,POSITIVE
+,,"EasyAntiCheat(EAC), PunkBuster, BattlEye, nProtect GameGuard, Xigncode3, and EQU8 are the most common and well known ones if you've played any online games in the past 2 decades. Then you have in-house developed ones like Defense Matrix(Activision-Blizzard), Richochet(Activision-Blizzard), Vanguard(Riot), TenProtect(Tencent) and many more.There's already huge incidents of kernel level anti-cheats being exploited by hackers to access people's PC:Ransomware abuses Genshin Impact's kernel mode anti-cheat to bypass antivirus protectionApex Legends hacker said he hacked tournament games ‘for fun’(tl;dr he used RC execution vulnerability to remotely install hacks onto their computers in the middle of pro play, meaning he could have installed ransomware or anything he wants really)Cybersecurity experts have openly objected against kernel level cheats since its inception, but there's no laws stopping game companies from forcing it onto users because the lawmakers who could barely operate a toaster don't understand nor care about the problem.Nowadays those who can afford it and can't quit gaming tend to build an additional computer specifically for gaming and on its own separate router. The more technological savvy ones or people in tech field straight up build their own router with custom firmware too so they can manage their own security better(eg. pfSense or OPNSense).",2,0.514,0.999,NEGATIVE
+,,Bro wrote an entire thesis dissertation analysis on the dichotomy of God knows what in a place where nobody can read /s,3,0.505,0.975,POSITIVE
+,,"Just because I can type doesn't mean I can read neither!! /s only works in daily thread brother, too many people from outside the sub click in for normal posts, all I can do is give you 1 updoot to mitigate the very important karma lossJokes aside, I yapped so much that I forgot what I was trying to say in the first place anyway. Main point is don't install games with kernel level cheat on AMD machine I guess, but looking at the state of Intel, it's either you get hacked or your com crashes mid game :4271:",4,0.517,1.0,NEGATIVE
+,,Most do nowadays,2,0.5,0.983,POSITIVE
+,,"Sorta, the biggest thing is that the infection can persist after a clean install as it hides in non-volatile EEPROM. For the average user it's not really a big concern but state or rogue actors could target large enterprises or someone of special interest as part of a larger, persistent, attack.",1,0.511,1.0,NEGATIVE
+,,"They don't design them usually, just know of them and tell nobody about them.",1,0.525,0.862,POSITIVE
+,,"They don't design them usually, just know of them and tell nobody about them.",2,0.525,0.862,POSITIVE
+,,nice try jia tan,3,0.501,0.821,POSITIVE
+,,Oh to be this naive,3,0.5,0.989,NEGATIVE
+,,"The article mentions 'millions of computers' the vast majority of which are personal computers at home. With decent protection the majority of those will never need to worry about this, no one is digging that hard to gain enough access to exploit this hole. Institutional machines though? Ehhhh...",1,0.508,0.998,NEGATIVE
+,,I love the fake security experts of Reddit.,1,0.511,0.977,POSITIVE
+,,You are so spot on,2,0.495,0.999,POSITIVE
+,,"not sure how much it matters, since one already needs kernal access... and amd's already released mitigations. so probably a nothingburger for the stock, unless the talking heads want to doom it hard like 2022 (neon!)",0,0.546,0.996,NEGATIVE
+,,Crowdstrike driver enters the chat,1,0.5,0.888,NEGATIVE
+,,Crowdstike drivers girlfriend also enters the chat,2,0.537,0.786,NEGATIVE
+,,"Absolutely a nothingburger, the exploit requires kernel access which basically means you can steal money from a bank vault after getting past the alarms, guards, security systems, etc",1,0.514,0.998,NEGATIVE
+,,priced in,0,0.5,0.698,NEGATIVE
+,,Well yeah this was globogov backdoor operation for sure,1,0.527,0.964,NEGATIVE
+,,"AMD compares the Sinkhole technique to a method for accessing a bank’s safe-deposit boxes after already bypassing its alarms, the guards, and vault door.Fuckin lol",0,0.529,0.999,NEGATIVE
+,,"It's understating the problem, because what they don't mention is that the vault is then extremely difficult / impossible to make safe again.So, once compromised your fucked. And being compromised can happen at many points in the lifecycle of the system.",1,0.505,0.995,NEGATIVE
+,,Unfixable infections? WHO should intervene. Pandemic is here...,0,0.501,0.997,NEGATIVE
+,,Granny's ghost haunting AMD chips.,0,0.599,0.939,POSITIVE
+,,IOActive (company who did research) has been commissioned by intel in the past to find security failures in AMD chips / studies comparing the two directly. https://ioactive.com/resources/library/page/2/,0,0.576,0.838,NEGATIVE
+,,"Good, competition should keep everyone sharp and on their best game.",1,0.534,0.99,POSITIVE
+,,"All for competition and fair comparisons, but when one of the competitors funds the study, it’s a clear conflict of interest imo and I get skeptical of the findings",2,0.513,0.998,NEGATIVE
+,,"Sure, so the report needs to be investigated with that in mind. But the outcome can still be true and valuable.",3,0.509,0.996,POSITIVE
+,,"Fair point, in this case (I am an embedded software engineer) a lot of others have shared, the vulnerability is at the kernel levels which, if accessed, many other levels of security had to have failed in a major way before that’s a concern, but you are totally right and appreciate the nuance actually",4,0.511,0.757,POSITIVE
+,,https://en.wikipedia.org/wiki/Hitman_(franchise)They also made the Hitman series.,1,0.524,0.994,POSITIVE
+,,"Lmao, had me for a sec, I think slightly different companies tho (IO Interactive vs IO Active lolol, apologies if you were making a joke haha)",2,0.512,1.0,NEGATIVE
+,,That's prolly what the AI spit out and then they cleaned it up lol.,0,0.553,0.983,NEGATIVE
+,,That's prolly what the AI spit out and then they cleaned it up lol.,1,0.553,0.983,NEGATIVE
+,,Great my processor has an incurable STD,0,0.505,0.863,POSITIVE
+,,"Nerd here, ignore and carry on",0,0.5,0.999,NEGATIVE
+,,"Sell the news, buy the rumor.",0,0.579,0.997,NEGATIVE
+,,Is this rumor or news?,1,0.54,0.993,NEGATIVE
+,,Calls on INTC then? Right?,0,0.513,0.877,NEGATIVE
+,,And on that terrible news INTC has fallen a whole 3% or 26cents… wait that’s the wrong company 🤣,0,0.57,1.0,NEGATIVE
+,,"shouldn't be much of a problem, but considering the fact I just bought some AMD yesterday I'm expecting a drop",0,0.589,0.948,NEGATIVE
+,,"Nice, I was waiting for my new monthly zero-day",0,0.572,0.993,POSITIVE
+,,Who still remembers Ryzenfall?,0,0.508,0.739,POSITIVE
+,,It's not that bad tbf.,0,0.495,0.866,POSITIVE
+,,INTC has something similar impacting both its 13th and 14th gen (current) CPUs. Both chipmakers are kinda meh,0,0.507,0.982,NEGATIVE
+,,"One is a response to a load balance request on power draw, burning chips up to failure.The other is a possible exploit if you have kernel access.",1,0.512,0.637,NEGATIVE
+,,They aren't similar lol,1,0.502,0.987,NEGATIVE
+,,"""In a background statement to WIRED, AMD emphasized the difficulty of exploiting Sinkclose: To take advantage of the vulnerability, a hacker has to already possess access to a computer's kernel, the core of its operating system. AMD compares the Sinkhole technique to a method for accessing a bank's safe-deposit boxes after already bypassing its alarms, the guards, and vault door.""Nice try Intel, nice try",0,0.538,0.922,NEGATIVE
+,,This amd fanboy cope is delicious,0,0.619,0.996,POSITIVE
+,,"The only article or video on this ""sinkclose"" flaw just links to this exact 1 article in wired... not saying its fake just why is there no other reporting? youtube content demons usually would be foaming at the mouth for this kinda video?",0,0.505,1.0,NEGATIVE
+,,The Presentation is tomorrow. We'll see what the researchers show then. I'm sure other people will be reporting on it afterwards.,1,0.537,0.815,POSITIVE
+,,"I bet it requires physical access to the PC, i.e. nothing burger",2,0.508,1.0,NEGATIVE
+,,Probably not. AMD knows and has known about it — it’s not serious.,2,0.581,1.0,NEGATIVE
+,,Source: Userbenchmark,0,0.508,0.586,NEGATIVE
+,,"I've learned from long experience that if I'm building a PC, I build blue. Red always f*cks you on optimization. And then you drop 20-100 fps just when you think you got that Chicken Dinner.",0,0.534,0.978,POSITIVE
+,,"Lol this is such BS, if you already have access to kernel then who cares what they can exploit, you have already handed over keys. BS article",0,0.506,1.0,NEGATIVE
+,,"decades old problem, thanks for the click bait",0,0.506,1.0,NEGATIVE
+,,"Pathetic cucks, can't even beat a dead horse ......if it's true...",0,0.506,1.0,NEGATIVE
+,,Will this negatively impact the stock price?,0,0.625,0.999,NEGATIVE
+,,One of us,0,0.58,0.901,POSITIVE
+,,"Weird, all these catastrophic flaws showing up in all chips everywhere all of a sudden.",0,0.504,1.0,NEGATIVE
+,,Still won't help Intel,0,0.576,0.996,NEGATIVE

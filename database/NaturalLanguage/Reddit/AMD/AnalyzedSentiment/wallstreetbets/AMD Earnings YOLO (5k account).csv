@@ -1,0 +1,5 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,GPT-REEEE,0,0.5,0.999,NEGATIVE
+,,Wait did you buy a call and sell a put at the same strike?,0,0.539,0.996,NEGATIVE
+,,"Well, if I did that, I wouldn’t have made a large RoITry looking again",1,0.531,0.994,NEGATIVE
+,,"You’re right I looked at it too quickly, nice gains!",2,0.507,0.937,POSITIVE

@@ -1,0 +1,11 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,Does this rally really have legs?🤔,0,0.505,0.981,NEGATIVE
+,,Like 12 people bought stocks today,1,0.552,0.978,NEGATIVE
+,,And 11 sold,2,0.525,0.9,NEGATIVE
+,,Amazon is taking me for a ride lately.,0,0.505,0.999,POSITIVE
+,,"Where is this data from, because it’s wrong? TSM was not in the red today…",0,0.508,1.0,NEGATIVE
+,,Yep TSM up 3% today so this is bs,1,0.539,0.972,POSITIVE
+,,That was the red flag. I had to check that things didn’t go to shit at the last minute.,2,0.514,0.975,POSITIVE
+,,Finviz,1,0.5,0.68,POSITIVE
+,,Market has been sideways for a week pick a goddam direction,0,0.567,1.0,NEGATIVE
+,,F my Pypl,0,0.51,0.996,NEGATIVE

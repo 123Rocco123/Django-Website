@@ -1,0 +1,9 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,What is this for?,ARM is traded on US exchanges via ADS. All ADS stocks usually have a fee for the service.,0,0.543,0.995,NEGATIVE
+,What is this for?,"Someone needs to do some research on ADS, you'll always have that ongoing fee unfortunately. It's how the big banks/firms make money for creating that ADS in the first place.",0,0.512,1.0,NEGATIVE
+,What is this for?,When you hold a foreign company's stock there's a withholding. I hold stock in a Brazilian oil company and a tax from dividends are withheld and returned to the taxing authorities.,0,0.656,1.0,NEGATIVE
+,What is this for?,How often sre you charged this fee,0,0.496,0.994,NEGATIVE
+,What is this for?,Just had this charge so far today. I haven't bought any in the last few days but had some shares since almost the beginning with their IPO.,1,0.537,0.999,POSITIVE
+,What is this for?,ADR fees are charged once per year usually,2,0.62,0.946,POSITIVE
+,What is this for?,I was also charged a fee on SoFi.,2,0.558,0.987,NEGATIVE
+,What is this for?,Citi is charging ARM ADR fee $0.02 per DRhttps://depositaryreceipts.citi.com/adr/guides/dsfhist.aspx?cusip=042068205So you held 11 shares of ARM?,0,0.515,0.945,NEGATIVE

@@ -1,0 +1,8 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Outlook,Flair Sentiment
+,Compare NVIDIA performance comparing to the rest stocks of NASDAQ 100 list. Values of Market Cap are in $billions.,How did you calculate risk for the x axis?,0,0.499,NEGATIVE,0.998
+,Compare NVIDIA performance comparing to the rest stocks of NASDAQ 100 list. Values of Market Cap are in $billions.,"sd(diff(log(x))[-1,]) * 1000",1,0.5,POSITIVE,0.802
+,Compare NVIDIA performance comparing to the rest stocks of NASDAQ 100 list. Values of Market Cap are in $billions.,"sd is standard deviation, and diff does what?",2,0.505,NEGATIVE,0.999
+,Compare NVIDIA performance comparing to the rest stocks of NASDAQ 100 list. Values of Market Cap are in $billions.,"Basically I took time series data of stock prices, made log returns for all values of column by using diff(log(x)), then reduce first value (row) as it does not have previous value [-1,], then I calculate standard deviation of all log returns and make value more clear by multiplying value by 1000. I hope my answer is coherent and understandable.",3,0.529,NEGATIVE,0.959
+,Compare NVIDIA performance comparing to the rest stocks of NASDAQ 100 list. Values of Market Cap are in $billions.,"Enough , thanks",4,0.512,POSITIVE,0.945
+,Compare NVIDIA performance comparing to the rest stocks of NASDAQ 100 list. Values of Market Cap are in $billions.,Whohoo! Charter bag holder here. For like 2 years. Bought at ~500 expecting things to turn around.,0,0.517,POSITIVE,0.998
+,Compare NVIDIA performance comparing to the rest stocks of NASDAQ 100 list. Values of Market Cap are in $billions.,Sound like a lot of work for no usable information. Maybe divide by the 2nd derivative of R&D expense,0,0.506,NEGATIVE,1.0

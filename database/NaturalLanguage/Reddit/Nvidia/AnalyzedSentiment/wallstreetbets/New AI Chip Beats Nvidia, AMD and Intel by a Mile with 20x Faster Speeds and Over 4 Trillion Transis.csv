@@ -1,0 +1,32 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Outlook,Flair Sentiment
+,,GPT-REEEE,0,0.5,NEGATIVE,0.999
+,,Lol pump and dump article,0,0.499,NEGATIVE,0.91
+,,It’s a private company and unlikely to IPO any time soon.,1,0.626,NEGATIVE,0.779
+,,Actually they are planned for October lol,2,0.505,NEGATIVE,0.621
+,,Yup. My close friend is working for this company. They are pre-ipo atm.,3,0.604,POSITIVE,0.996
+,,So is this all fluff or what,4,0.5,NEGATIVE,1.0
+,,MODS get rid of this trash... it's a private company that does not meet the requirements for the sub to post about.,0,0.584,NEGATIVE,1.0
+,,lol @ the terrible ai image of an ai chip. Cerebras is wafer scale morons,0,0.561,NEGATIVE,1.0
+,,A wafer-scale moron?,1,0.503,NEGATIVE,0.999
+,,One gorgillion times faster you say?,0,0.52,POSITIVE,0.903
+,,1 million terafaps a second,1,0.677,NEGATIVE,0.622
+,,Haha sounds like bs,0,0.5,NEGATIVE,1.0
+,,Dirty HODLer,0,0.5,NEGATIVE,1.0
+,,How many guys did the creator have to jerk off to do that?,0,0.5,NEGATIVE,0.998
+,,Is there still room to pump it,0,0.507,NEGATIVE,0.998
+,,Fact: It does not.,0,0.51,NEGATIVE,0.989
+,,Does it also have blast processing?,0,0.59,NEGATIVE,0.933
+,,My penis has 99999x processing power of Blackwell. Trust me bro,0,0.508,POSITIVE,0.999
+,,Does this mean Skynet will be here sooner 🤪,0,0.501,POSITIVE,0.597
+,,It's only for inference. Nvda continues to be the king of training which is also where most of its revenues come from.,0,0.538,NEGATIVE,0.992
+,,Bullshit. They can't even make a properly working transistor. They are bullshit.,0,0.511,NEGATIVE,1.0
+,,Huh sources?,1,0.5,NEGATIVE,0.994
+,,"One of the main issues with a wafer size chip is yield issues become extremely noticable. Sure, a singular chip might be very fast for specific tasks, but if you have to throw most away it becomes wildly expensive and hard to scale. ",0,0.513,NEGATIVE,1.0
+,,It has 900k individual cores. They simply turn off the cores that have flaws.,1,0.506,NEGATIVE,0.998
+,,This is exactly it. They will not be able to mass produce this chip due to crazy low yields. Still impressive but different ballpark than Nvidia.,1,0.525,NEGATIVE,0.522
+,,It’s not a single processor - they turn off the individual cores that fail during test. They still get the advantage of the faster interconnects by being wafer scale even if the process means they have to turn off 1-5% of the individual cores.This is no different to how Intel and AMD increase their yields by binning their processors (those with failing cores get binned into a lower count SKU).,2,0.533,NEGATIVE,0.996
+,,"I think you're missing the point, it's not about turning off 1-5% of the cores, it's about the yield issues becoming extremely noticeable as the chip size increases. Even with binning, Intel and AMD still have to deal with yields and defect rates, this wafer-scale approach just amplifies those problems.",3,0.534,POSITIVE,0.865
+,,And it can core an apple…the chchchip of the future,0,0.521,POSITIVE,0.994
+,,And they will IPO very soon,0,0.52,POSITIVE,0.945
+,,I'm tired boss,0,0.643,NEGATIVE,0.999
+,,"if true, NVDA would buy them in the blink of an eye",0,0.54,NEGATIVE,0.914

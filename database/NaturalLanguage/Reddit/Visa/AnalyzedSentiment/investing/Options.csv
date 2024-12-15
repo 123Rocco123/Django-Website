@@ -1,0 +1,8 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,Sept. 28 $148 call. A good idea for Visa?,I like MA better. Oct 17.,0,0.519,0.996,NEGATIVE
+,Sept. 28 $148 call. A good idea for Visa?,You mean Oct 19?,1,0.512,0.995,NEGATIVE
+,Sept. 28 $148 call. A good idea for Visa?,MA Oct 19 $220s in at $4.80~,2,0.505,0.975,NEGATIVE
+,Sept. 28 $148 call. A good idea for Visa?,Buy 3-4 months out atleast otherwise u r just betting,0,0.545,0.941,NEGATIVE
+,Sept. 28 $148 call. A good idea for Visa?,Those are a little expesive for me. Im sure Visa can rise 1% in 8 trading days,1,0.517,0.516,POSITIVE
+,Sept. 28 $148 call. A good idea for Visa?,"If they are expensive then you can consider spreads. Your gains will be limited but u wud need less capital. Plus, risk is less than what u wud have in weeklies.",2,0.499,0.982,NEGATIVE
+,Sept. 28 $148 call. A good idea for Visa?,"Prediction: Tariffs are going to put a damper on ""the holiday gift buying season"". Payment card transactions are going to see a drop in ""velocity"" and first quarter earnings for Visa and Mastercard are going to be off.",0,0.524,1.0,NEGATIVE

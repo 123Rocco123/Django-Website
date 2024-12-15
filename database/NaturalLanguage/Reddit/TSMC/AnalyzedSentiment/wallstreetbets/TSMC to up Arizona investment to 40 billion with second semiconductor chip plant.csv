@@ -1,0 +1,97 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Outlook,Flair Sentiment
+,nan,GPT-REEEE,0,0.5,NEGATIVE,0.999
+,nan,Let's see Paul Allens semiconductor plant,0,0.523,POSITIVE,0.997
+,nan,"Intel: ""I cant believe the US Gov't prefers TSMC's fabs to mine.""",1,0.522,NEGATIVE,0.976
+,nan,"more likeIntel: ""I can't believe Tim Apple prefers TSMC's fabs to mine.""",2,0.505,NEGATIVE,0.993
+,nan,"“Many people are saying, believe me” 👐",1,0.496,POSITIVE,0.601
+,nan,"“Many people are saying, believe me” 👐",2,0.496,POSITIVE,0.601
+,nan,Meanwhile Intel whines that they can’t afford a new plant and the second the government hands them the money they announce layoffs and stock buy backs. I honestly don’t know what Intels long term plan is at this point.,0,0.568,NEGATIVE,1.0
+,nan,"Easy, buy back stock and fold",1,0.628,NEGATIVE,0.894
+,nan,The big investors are old fucks who’ll be dead soon. They don’t give a shit about long term.,1,0.53,NEGATIVE,0.999
+,nan,Chips are made of potatoes,2,0.513,NEGATIVE,1.0
+,nan,Chips are made of potatoes,3,0.513,NEGATIVE,1.0
+,nan,Jewish Space Laser Show,1,0.505,POSITIVE,0.976
+,nan,"Already happened, ASML is sending the first HNA EUV tool (EXE5000 series) to Intel.",1,0.521,POSITIVE,0.904
+,nan,"Already happened, ASML is sending the first HNA EUV tool (EXE5000 series) to Intel.",2,0.521,POSITIVE,0.904
+,nan,"Whenever anyone goes ""I have no idea where Intel is going"" I just would argue look at AMD in 2013.In the dark days AMD had Bulldozer AMD FX processors. They were awful. Completely uncompetitive, AMD had bet big on muti-threaded workloads but the IPC was awful and the design was terrible. On the GPU side, AMD was getting wrecked by the Gtx 700 series Nvidia had.AMD today is competitive in both processors and graphics cards. They first started their turnaround with the Ryzen series of processors in 2017 and the ""chiplet"" design. It wasn't perfect at first but over time it became much better. Today, the chiplet design really is not a problem.For graphics cards AMD has been the budget option and barely competitive for years. They still are in that boat, but with the Rx 6000 series they finally have their drivers sorted out and the feature set/price to performance to justify their products over Nvidia at times. They look to be continuing that with the Rx 7000 series.Intel is kind of in an odd phase themselves that is reminiscent of AMD. The Intel CPUs starting with 12th gen (2021) switched to a P core and E core design. The logic is you pair expensive and large die size performance cores with tiny crappy cores that are for heavily threaded workloads called ""efficiency cores"". It actually makes sense though, because if some program is using more than 8 cores, it tends to scale basically linearly with more cores. It's on par with AMD currently, but it's got potential and it remains to be seen who will come out ahead with their opposing styles. Meanwhile, Intel's ARC GPUs are a nightmare but exist. There's potential to grow if they just suck it up and eat the losses today. Intel does have the dominance in server CPUs with Xeon (for now, in spite of ARM/AMD eclipsing their performance) and the dominance in laptops (with AMD and Apple being much bigger threats than before).Overall, Intel is kind of in an ok position but not a dominant one.Really the entire cpu/GPU/computing sector is kind of odd right now though. Apple's M1 and M2 chips aren't there yet but they are SO close to being there. They can basically compete with x86 head to head no problem and also compete with lower end Dgpus. Meanwhile, Qualcomm just is shit as is Samsung. X86 is improving at scaling down in tdp as shown by AMD/Intel. What's gonna be the long term? x86 or ARM? Dgp+CPU or SOC? Eventually, you have to imagine that ARM is gonna takeover everything Apple based.Oddly enough I'm scared shitless of Apple if I make any processor or graphics card lol.",1,0.544,NEGATIVE,1.0
+,nan,Apple M1/M2 is what you get when you have an unlimited R&D budget. The power/performance is insane and this is their first shot across the bow. It would be amazing if they componentized it but they never have before and probably never will.,2,0.513,POSITIVE,0.997
+,nan,They aren’t worried about their investors. Up top only care about themselves,1,0.523,POSITIVE,0.832
+,nan,Intel has an ambitious product roadmap and is going in heavy with ASML tech. If they can deliver it might mean a turnaround for them. We’ll see though,1,0.528,NEGATIVE,0.865
+,nan,"nah they'll be fine, they have some new secret sauce",1,0.565,NEGATIVE,0.641
+,nan,Let's up it to a third plant,0,0.543,NEGATIVE,0.654
+,nan,"""everyone look under your seats. You get a semiconductor plant and you get a semiconductor plant ...""",1,0.538,NEGATIVE,0.999
+,nan,"For those of you wondering it’s easy to recycle water for chip manufacturing. Intel recycles more than 80% of it. That being said, it still takes up a decent amount. Calls on water",0,0.57,POSITIVE,0.98
+,nan,isnt Arizona like a desert?,1,0.499,NEGATIVE,0.884
+,nan,Yes but the problem is you need sand to make chips...,2,0.504,NEGATIVE,0.559
+,nan,Arizona is mostly a rock desert. It's not like the sandy deserts of the middle east.,3,0.504,NEGATIVE,0.979
+,nan,Yes but the problem is you need rock to make dams...,4,0.5,POSITIVE,0.61
+,nan,Ya but it rained yesterday so it’s fine /s,2,0.511,POSITIVE,0.852
+,nan,It's spelled dessert,2,0.5,NEGATIVE,0.76
+,nan,The dessert is all in Scottsdale at Maya Dayclub 😛,3,0.501,POSITIVE,0.862
+,nan,What are the best plays for investing in water directly?,1,0.536,NEGATIVE,0.935
+,nan,Coca Cola,2,0.495,POSITIVE,0.987
+,nan,I'll sell you my grandfather's old map that leads to the real location of Poland Spring.,2,0.517,NEGATIVE,0.684
+,nan,Bro that's my biggest head scratcher on all this shit. I firmly believe drinking water is going to be a huge commodity in the next century or so.,1,0.52,NEGATIVE,0.985
+,nan,"People really don't know how water works in the west. Arizona got Cucked in the initial Colorado River negotiations so they've never relied on it.Nevada is like 100% reliant, So cal is like 70%, AZ is only 36%, and dropping. Damming up Bartlett and Roosevelt with better dams, and getting groundwater running better, has meant AZ is less affected.Arizona uses less water than it did in 1957.https://www.azcentral.com/story/news/local/arizona-environment/2019/02/12/arizona-water-usage-state-uses-less-now-than-1957/2806899002/https://www.arizonawaterfacts.com/water-your-factsCalls on TSMC its gunna hit january hits again in 2023",0,0.507,NEGATIVE,0.973
+,nan,Updoot for someone who’s not a moron and actually knows their facts about Arizona’s water,1,0.504,POSITIVE,0.956
+,nan,"There's still a massive drain on the aquifer. CAP putting water into the ground via CAGRD is great but there's salinity problems from drawing so much water especially all the mega farms. Another major issue is electricity. These plants use massive amounts of electricity. Which require fuel pipelined in especially since coal is now considered dirty so that leaves Navajo/,Apache counties out. Not like AZ have dams to supply the electrical needs (a few.) One nuclear power plant at Palo Verde.Then the developers bought idk how many acres east of the 202 with no water rights... so they'll pay off someone to drill wells and suck that aquifer up for 2 million homes. Facebook is installing a massive server farm in that area right now by ellsworth.Water is still a major issue throughout Arizona. I don't think you have a clue.It's not horrid, yet, but it's also not improving especially with the droughts and little snowmelt and now giving up more share of the colorado river.",2,0.52,NEGATIVE,1.0
+,nan,Why are they all setting up in AZ? In the desert..?,0,0.5,NEGATIVE,0.999
+,nan,What about the lack of water?,1,0.512,NEGATIVE,0.994
+,nan,What about the lack of water?,2,0.512,NEGATIVE,0.994
+,nan,Water recycling is extremely efficient now,3,0.529,POSITIVE,0.997
+,nan,Lots of space…. Use of sun for solar panels?,1,0.516,POSITIVE,0.974
+,nan,"Next to the St-Lawrence and a contributing rivers in Quebec would give them unlimited fresh water and cheap hydroelectricity, but wrong country.Edit: Actually upstate New York around Plattsburgh or Burlington Vermont would check all boxes. The new power line from Quebec supplies power, lake champlain has enough water for any purpose.",2,0.535,NEGATIVE,1.0
+,nan,What about water?,2,0.525,NEGATIVE,0.869
+,nan,That's why Intel Went to Ohio as well.... :),3,0.562,POSITIVE,0.616
+,nan,No natural disasters,1,0.51,POSITIVE,0.993
+,nan,Yep manufacturing chips requires a low vibration area or else they can come out flawed. So as little interference from nature as possible is ideal. I rmeber reading about a chip manufacturer (might have even been tsmc) that kept having a bad batch of chips every so often at the same time of day. Turns out it was a train that ran near by and was vibrating the facilities at the same time of day causing defects.,2,0.515,NEGATIVE,1.0
+,nan,Chips are made of silicon. Arizona is like 90% sand.,1,0.512,NEGATIVE,1.0
+,nan,Arizona is a rocky desert. It's not sandy dunes.,2,0.5,NEGATIVE,0.981
+,nan,With 40 billion invested already you dont think they can filter rocks from sand?,3,0.516,NEGATIVE,0.995
+,nan,That's not how I'd spend my $40 billion but I guess whatever filters your rocks.,4,0.516,NEGATIVE,0.841
+,nan,"I was under the impression that sand for silicon chips needed to be a very specific kind, not just any playground type sand.",2,0.506,NEGATIVE,0.962
+,nan,"Apparently the US exports most of the sand used for chips, so even if its not the right type Arizona probably isn't that far from the nearest high-end sand deposit.",3,0.513,NEGATIVE,0.943
+,nan,40B towards water would be a lot cooler,0,0.512,NEGATIVE,0.999
+,nan,Pretty sure these plants are water intensive too,1,0.508,POSITIVE,0.93
+,nan,"They’ve gotten pretty good at water recycling.After a drought in Taiwan, TSMC started investing in creating infrastructure to achieve this and were able to hit around 90%.I’d imagine these new plants will have all the bells and whistles to do the same.",2,0.534,POSITIVE,0.999
+,nan,It'd be pretty dicks to make a whole factory over there while Arizona's drying out and bank on them having spare tons of water to dump into the factory. That's just asking for shit to happen.,3,0.507,NEGATIVE,1.0
+,nan,I'm pretty sure they're a closed system and may actually give water back to the surrounding area.,1,0.553,NEGATIVE,0.886
+,nan,Would you drink that water?,2,0.518,NEGATIVE,0.978
+,nan,"Sure, it's probably reverse osmosified so a lot more pure than city water supply.",3,0.524,POSITIVE,0.671
+,nan,Why wouldn’t you? Do you have a real specific reason based in the process of semiconductor manufacturing to not drink the water?,3,0.534,NEGATIVE,0.995
+,nan,They use arsenic to manufacture wafers. Arsenic water? No thank you.,4,0.517,NEGATIVE,1.0
+,nan,RIP Colorado River,0,0.5,POSITIVE,0.547
+,nan,It was good while it lasted!,1,0.54,NEGATIVE,0.935
+,nan,Mid river,1,0.497,NEGATIVE,0.648
+,nan,"TSMC opening up fabs in Arizona tells me they're taking the China-Taiwan issue seriously. I'm not a big fan of INTC, but holding some INTC over the next 2 years I think is a fair hedge incase China starts sh!t. INTC has most fabs outside of China. AMD and NVDA get their wafers from TSMC.",0,0.545,NEGATIVE,0.899
+,nan,I grew up watching Peter North,0,0.558,POSITIVE,0.976
+,nan,Gotta disagree with you on that one. The west is screwed as far as water and putting more manufacturing (that relies heavily on water) in the desert is an awful idea.Desal plants have a long way to go before they are viable. The byproduct kills everything so they are hard to get past environmental reviews. Plus they require a ton of energy which is primarily going to come from fossil fuel sources.The Colorado has no additional water left and at the rate the ground water is being used up that’s not going to be around for long either.Why these aren’t built somewhere like the southeast that has ample water (and is still relatively cheap) is beyond me.If you want a grim look at the future of water in the Western US take a look at the book Cadillac Desert.,1,0.516,NEGATIVE,1.0
+,nan,I grew up watching Peter North,2,0.558,POSITIVE,0.976
+,nan,"AZ is not as reliant on the Colorado river as you think. Do some real research. Groundwater and Salt + Verde river reservoirs provide most of the Central AZ water, not the Colorado river. A lot of the Colorado river water consumed by AZ is excess and is used to recharge underground aquafers by pumping it into the ground. The vast majority of Colorado river water in AZ is used for agriculture.",2,0.507,NEGATIVE,1.0
+,nan,A good amount goes into recharging the aquifer. If you pull more water from the aquifer than you recharge (since farming is the same. People growing. Companies growing. Less share of colorador river) that means you'll be depleting it quicker. Not only does it draw it down but it also causes high salinity so the water you'd o have left is useless before it runs out.The colorado river is still a major impact on Arizona no matter what.,3,0.523,POSITIVE,0.978
+,nan,"Arizonans blaming media and patting themselves on the back for thinking about future conservation is a huge problem. Vegas is way, way, way ahead of you. AZ still allows unlimited use of groundwater, wastes so much irrigation water via evaporation, and its conservation efforts are moving in slow motion. That's why Saudi Arabia built its alfalfa farms there in the first place. Once Mead hits dead pool, you'll need every drop of that groundwater.",1,0.509,POSITIVE,0.856
+,nan,I grew up watching Peter North,2,0.558,POSITIVE,0.976
+,nan,So this is what Buffet knew about TSMC,0,0.498,POSITIVE,0.705
+,nan,Whyyyy Isnt Arizona guna just catch on fire any day now,0,0.506,NEGATIVE,0.661
+,nan,wow looks like something happened to bring manufacturing to USA,0,0.517,POSITIVE,0.842
+,nan,ITT: wHaT aBoUt tHe wAtEr,0,0.512,NEGATIVE,0.923
+,nan,I love a bunch of people in a reddit sub thinking that a company investing $40 billion didn't do any due diligence about the fact that they're investing in a desert...,0,0.551,POSITIVE,0.696
+,nan,"TSMC’s commitment is 15% of the cost. Additionally, they are bringing about 1,000 engineers to Phoenix to work in the Fab 1.TSMC bought a small fab in Oregon 10 years ago and it’s still unprofitable primarily due to over regulation and a lazy workforce.They didn’t want to open a Fab in the US but was pressured to do so due to geo-political concerns.Regarding the workforce, all engineers in the fab will be Taiwanese. All other positions will be locals.The Taiwanese will accept unlimited overtime while the locals will want flex schedules, 8-hour shifts, weekends, holidays, birthdays, sick pay, vacation, etc.Our Gen Z snowflakes who get hired at TSMC will soon be seeing how the rest of the world works.",0,0.507,NEGATIVE,0.918
+,nan,"Fabs usually run 24hrs with two 12hr shift staffing so 8hr shifts are most likely already off the table .... the US is also pretty well known for being poor compared to other western countries when giving holidays / vacations / sick pay etc, so I don't know why you would want to bring that up.I don't know why anyone would want to glorify the 9,9,6 culture of some eastern countries that for the most part leads to highly unproductive staffing.",1,0.525,NEGATIVE,0.999
+,nan,Is this person saying the western country with 0 mandatory days off doesn’t know anything about how to exploit labor?,1,0.509,NEGATIVE,1.0
+,nan,I hope these plants don't need a lot of water or this will be a very short lived investment.....,0,0.511,NEGATIVE,0.997
+,nan,Do they already have a water right secured for this?,0,0.521,NEGATIVE,0.999
+,nan,🫃🏻🅱️🅱️🅱️🅱️🫃🏻,1,0.5,NEGATIVE,0.761
+,nan,Thanks Biden!!!,0,0.508,POSITIVE,0.997
+,nan,Why in a drought state? Wouldn’t semiconductors manufacturing require a shit ton of water?,0,0.513,NEGATIVE,0.999
+,nan,🫃🏻🅱️🅱️🅱️🅱️🫃🏻,1,0.5,NEGATIVE,0.761
+,nan,taps head chips don’t mind being made from clean shit water.,2,0.516,NEGATIVE,0.681
+,nan,It does require a shit ton of water. But then yet in the US we light have large cities in the middle of deserts with no natrual water source. (Vegas is a good example),1,0.518,NEGATIVE,0.635
+,nan,"Think it's easier to transport water than sand (silicon). But yeah, lack of water is going to be a problem in a desert.",1,0.513,NEGATIVE,0.974
+,nan,Will it be easier for US to steal chip manufacturing now,0,0.549,NEGATIVE,0.69
+,nan,"You must be new to the USA, home of Texas Instruments, Grace Hopper and the first documented “computer bug” thanks to the US military… Cope harder that we earned big chongus status on the world stage.China needs to steal, other countries pay to acquire. Sorry if your ex wife’s new Boyfriend is Unapologetically American.",1,0.539,NEGATIVE,0.996
+,nan,dont these plants need water cooling?,0,0.504,NEGATIVE,0.914
+,nan,Good thing Arizona has lots of water.,0,0.52,POSITIVE,0.991
+,nan,"Wish people knew the facts. Industrial water use in AZ is 6%. Even if they somehow doubled it, it doesn't put a dent in the 72% farm water usage. Many farms get unlimited water with their land lease and simply dump it with flood irrigation, rather than make conservation efforts. The chip plants however are forced to recycle water.",1,0.509,NEGATIVE,0.99
+,nan,So you’re saying AZ has even less water to provide than advertised?,2,0.51,NEGATIVE,1.0
+,nan,He's saying two wrongs make it easier to justify the lesser wrong.,3,0.513,NEGATIVE,0.949

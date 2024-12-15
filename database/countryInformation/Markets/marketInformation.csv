@@ -1,0 +1,12 @@
+market index,ticker,country,fullName
+FTSE MIB,FTSEMIB.MI,ITA,Italy
+NASDAQ,^IXIC,US,United States of America
+CAC 40,^FCHI,FRA,France
+S&P500,^GSPC,US,United States of America
+FTSE 100,^FTSE,GB,United Kingdom
+FTSE 250,^FTMC,GB,United Kingdom
+IBEX 35,^IBEX,SPA,Spain
+DAX,^GDAXI,GER,Germany
+SSE,000001.SS,CHI,China
+NYSE,^NYA,US,United States of America
+Nikkei 225,^N225,JPN,Japan

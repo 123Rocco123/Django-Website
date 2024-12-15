@@ -1,0 +1,12 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Outlook,Flair Sentiment
+,nan,GPT-REEEE,0,0.5,NEGATIVE,0.999
+,nan,I'm going to release early too,0,0.641,POSITIVE,0.86
+,nan,I am releasing as we speak,1,0.5,NEGATIVE,0.518
+,nan,I am speaking as we release,2,0.548,POSITIVE,0.994
+,nan,"Also, Blackwell Ultra production has been brought forward.Besides Nvidia, two other winners could be SK Hynix which leads in HBM4 production, and TSMC which has scaled its processes to allow 12 HBM4 memory stacks, and other suppliers who can scale HBM4 production.",0,0.529,POSITIVE,0.998
+,nan,"Pretty sure it’s the FV Lorax that leads with its TGL8 production, and PLFS who has scaled its production to 24 TGL8.5 memory stacks.",1,0.507,POSITIVE,0.998
+,nan,will succeed only if it comes on rye with thousand island,0,0.502,NEGATIVE,0.988
+,nan,Their new architecture Rubin Madiq Ra is slated to finish next year,0,0.627,POSITIVE,0.999
+,nan,Hope it doesn't impact sales of current stuff,0,0.593,NEGATIVE,0.835
+,nan,"They are on an yearly release cycle, so this was expected. The change here is TSM ready to scale production to meet the new design, and hbm4 production scaling up. And that it would be extremely hard for any competitor to catch up with this in the next 1 year atleast, which almost guarantees Nvidia's continued monopoly in this segment, given almost 90% marketshare.",1,0.557,POSITIVE,0.967
+,nan,It literally says The Next Great Thing is released 6 months earlier than expected.Obviously this usually has some cannibalizing effect on sales of current things as customers may cancel or not order the current thing if they know something better is around the corner (earlier than expected).,2,0.563,NEGATIVE,1.0

@@ -1,0 +1,72 @@
+date of comment,main comment,comment,depth,sentiment,PTR Sentiment,Flair Outlook,Flair Sentiment
+,,GPT-REEEE,0,,0.5,NEGATIVE,0.999
+,,Grandma will save us 🙏🫡😤,0,,0.522,POSITIVE,0.998
+,,Is that Nana down there underwater?,1,,0.5,POSITIVE,0.661
+,,"This would be the 19th AI chip this quarter they've announced, shuttered, started over, and announced again.",0,,0.572,NEGATIVE,1.0
+,,"Unless they come with an AI that translates CUDA code perfectly, they are going to miss the bubble.",1,,0.53,NEGATIVE,0.997
+,,miss the bubble lol that's a hell of a way to put it.,2,,0.503,NEGATIVE,0.865
+,,"They don’t need to translate, they need to provide first party support for whatever their GPGPU API is into the mainstream machine learning libraries like nvidia has done with CUDAWith translation you are gated to statically linked CUDA runtime APIs (see ZLUDA)",2,,0.514,NEGATIVE,0.726
+,,"They're so god awful behind and they can't possibly convince people needing or wanting to use a GPU product of why they should go with them over Green and Red and wallstreet keeps imagining that for some reason it will happen just because. It's literally eating them alive.I said it before, and to this day, AMD refuses to compete on the high end GPU market. The same shit show for Intel. While that strategy is sound at times for consumer it is a death sentence in the enterprise. They aren't looking for cheaper as there is so much space in those data centers. Do you want to fill racks with shit that you can't resell or practically give away or do you want the best you can get per square inch.I don't know how many times Jensen has to say it. It's bonkers really. You can't go shite on the enterprise market and wonder why nobody wants your stuff.",3,,0.537,NEGATIVE,1.0
+,,Please provide a link for your regarded comment from some parallel universe.,1,,0.509,POSITIVE,0.548
+,,Read it and weep. The fact is he can't come close to besting Nvidia and is killing the company tryinghttps://fortune.com/2024/09/24/intel-gelsinger-semiconductor-chips-ai-amazon/https://www.cnbc.com/2023/12/14/intel-unveils-gaudi3-ai-chip-to-compete-with-nvidia-and-amd.htmlhttps://finance.yahoo.com/news/intel-launches-new-ai-chips-as-takeover-rumors-swirl-153749461.htmlhttps://apnews.com/article/intel-amazon-chip-ai-foundry-6846d3d770df95f2f135c878cacbd1a1https://www.cnbc.com/2024/06/04/intel-unveils-new-ai-chips-as-it-seeks-to-take-on-nvidia-and-amd.htmlhttps://www.businesswire.com/news/home/20231214375413/en/Intel-Accelerates-AI-Everywhere-with-Launch-of-Powerful-Next-Gen-Products,2,,0.577,NEGATIVE,1.0
+,,Who cares about ytd unless you invest? Intel calls have printed the last week or two.,0,,0.553,NEGATIVE,1.0
+,,"yup.. smart money makes money both ways, while dumb money blindly follows the herd 🤷‍♂️",1,,0.512,NEGATIVE,0.991
+,,I bought calls for the next week. 24.5. How phucked I am?,0,,0.563,NEGATIVE,0.998
+,,You guys don’t buy ITM calls only?,1,,0.543,NEGATIVE,0.966
+,,Respect the Δ Karen.,2,,0.5,POSITIVE,0.995
+,,I have 100x 25c. We’ll be fine,1,,0.501,POSITIVE,0.906
+,,I don’t feel so good boss,2,,0.521,NEGATIVE,0.999
+,,I have 400 @ 24c exp 10/4. I think we’ll be fine.,2,,0.504,POSITIVE,0.996
+,,It literally can't go tits up,3,,0.498,POSITIVE,0.996
+,,!remindme,4,,0.5,POSITIVE,0.999
+,,"Next Saturday, food stamps or lambo",5,,0.534,NEGATIVE,0.999
+,,Just try to remember that shopping on the 1st of the month when everyone gets their monthly benefit check can be crazy. ;),6,,0.509,NEGATIVE,0.579
+,,,3,,,,
+,,!Remindme Friday October 4,2,,0.523,POSITIVE,0.977
+,,I will be messaging you in 4 days on 2024-10-04 00:00:00 UTC to remind you of this linkCLICK THIS LINK to send a PM to also be reminded and to reduce spam.Parent commenter can delete this message to hide from others.Info Custom Your Reminders Feedback,3,,0.51,NEGATIVE,0.964
+,,,3,,,,
+,,Lmao they got owned,4,,0.513,POSITIVE,0.901
+,,"I sold my entire position at the close and bought VIX calls, so. Tomorrow morning one of us will be very right and the other one very wrong. lol",1,,0.523,NEGATIVE,0.886
+,,"Nice man, can you be my financial consultant?",2,,0.524,POSITIVE,0.994
+,,"I would advise you to buy /ES futures when they drop during JPow’s speech, but the time has already come and gone. lol Bought at 5755.75, just closed the position a few minutes ago at 5800.Now I’m reopening my Intel position and bought a vertical call spread on Cloudflare $NET. I wanted to sell the IBM $220/$225 call spread for a credit this morning but it didn’t fill for the price I wanted. Lots of opportunity, IBM is 2 standard deviations away from the mean in a rising channel, so it should come back in over the next couple of weeks. $MSFT should probably be bought in the $423 area, so I’ve got orders in for the 11 Oct 430 calls. I’ll probably sell them first though, and then reverse on any weakness. I knew they wouldn’t fill today even with the drop earlier, but I feel pretty confident that I’ll get my fill tomorrow sometime if I sell today and then reverse.It was a good day.",3,,0.526,NEGATIVE,0.997
+,,Should be okay. Do you not look at trading view?,1,,0.517,NEGATIVE,1.0
+,,https://youtu.be/Ue2UH6a3X4Q?si=9xKHB9OUKrVVokNF,1,,0.5,POSITIVE,0.51
+,,I got in and out of INTC at the right time lol. Bought calls the of the QCOM rumours and sold the next day for 48% profit,0,,0.54,NEGATIVE,0.869
+,,,1,,,,
+,,Let's see Paul Allen's trades.,2,,0.5,NEGATIVE,0.747
+,,Nanny nuker will rise again,0,,0.527,POSITIVE,0.995
+,,Time to YOLO,0,,0.532,POSITIVE,0.692
+,,It’s only up from here right?,0,,0.508,NEGATIVE,0.765
+,,Stonks only go up!,1,,0.502,POSITIVE,0.994
+,,The UK Times reported this evening that UK-based Arm holdings have approached Intel to buy their design (but not production) division.Arm has quietly grown to be 50% larger than Intel,0,,0.547,NEGATIVE,0.668
+,,Which in itself is crazy because Intel makes ARM's annual revenue in less than a month.,1,,0.546,NEGATIVE,0.999
+,,"Love how everyone can say Intel is late to the AI party, yet AI is still in the first inning. Love how everyone says that Intel is dying when it's foundry burning Capex to catch up. Love how everyone says Intel needs to take drastic steps to turn around the company, and when they do so like cutting the dividend, everyone jumps ship.But most of all, love how everyone's been doom and gloom for 4 years when it takes years for the decisions 4 years ago to show. And now everyone all of a sudden wants to buy up Intel, the very same company everyone says has no value, is now being courted like The Bachelor. I hope Intel does not give up the ghost. If 18A cooks, they will grab huge market share from everyone else.Most people are regarded. Don't think like the herd. If everyone was right we'd all be rich.",0,,0.552,POSITIVE,0.98
+,,Intel is worth at least 300,1,,0.563,POSITIVE,0.998
+,,Yeah I've got 400 shares + LEAPS and I agree that 300 is too much.,2,,0.506,POSITIVE,0.702
+,,Yeah I've got 400 shares + LEAPS and I agree that 300 is too much.,3,,0.506,POSITIVE,0.702
+,,"I'll be honest I do see Intel being worth in the neighborhood of 120-180 in a year or two if 18A works. In addition to product value they will start to eat market share from TSMC. I see it being weighted much more towards that than product. That's why all the Capex is going to foundry and not product. Alot easier to compete with Asia than to compete with Nvidia, whom they want as a customer anyway.If they hadn't rested on laurels all this time, they would be worth 300+.",2,,0.552,NEGATIVE,1.0
+,,"While the Intel turnaround plan may be correct, will the market take another miss, another two? ",1,,0.551,NEGATIVE,0.991
+,,The only miss Intel can't afford to make is 18A. They sacrificed 20A for it. They're going for broke. Foundry is the key to the turnaround plan. They need to burn money to catch up. Product they can afford to lose a bit because x86 is too commonly used to go away.,2,,0.512,NEGATIVE,0.999
+,,"Bro this is WSB, they told you to sell META @100, NVDA @12, not to buy gamestore before a 500% jump and so on. Do your thing and dont listen to the 14yo and bots on this sub (btw Im bullish on INTC but my timeframe is longer, I look for 2/5 years hold)",1,,0.516,NEGATIVE,1.0
+,,"Selling my house, buying more calls 💸🚀",0,,0.511,NEGATIVE,0.929
+,,calls it is,0,,0.52,POSITIVE,0.914
+,,Intel will easily outperform NVDA for the next year possibly more.,0,,0.621,NEGATIVE,0.84
+,,Do it for nana,0,,0.5,POSITIVE,0.981
+,,That’s why it deserves to be at least a 50 dollar stock by eoy,0,,0.572,NEGATIVE,0.992
+,,where's that bag holder alert bot?,1,,0.502,NEGATIVE,0.998
+,,My avg is 18,2,,0.5,POSITIVE,0.943
+,,,3,,,,
+,,It is check my post? Lol I’m all in leaps,4,,0.502,POSITIVE,0.991
+,,Sleeping burpee gonna awaken:,0,,0.5,POSITIVE,0.838
+,,Wait for Nana's fury!,0,,0.5,NEGATIVE,0.886
+,,Buy,0,,0.7,POSITIVE,0.904
+,,Did you just get unthawed from cryogenic freezing or something? Papa?,0,,0.506,NEGATIVE,0.931
+,,"Son of a bitch, I’m here to say that I’m your dad in a major way and I want to buttfuck your sister",1,,0.504,NEGATIVE,0.953
+,,I knew it!,2,,0.5,POSITIVE,0.994
+,,Just mention AI and your stonk goes up. That is how desperate Intel is.,0,,0.563,NEGATIVE,0.999
+,,I can't wait for my toothbrush to rebel and try to kill me,1,,0.5,POSITIVE,0.918
+,,I can't wait for my toothbrush to rebel and try to kill me,2,,0.5,POSITIVE,0.918
+,,AMD is the play right now,0,,0.67,POSITIVE,0.994
+,,MS should buy intel,0,,0.6,NEGATIVE,0.993
+,,glad I sold intel and bought the green bros last year best move of my career,0,,0.594,POSITIVE,0.982
+,,Pretty sure their latest gen thin+light SOC’s are receiving rave reviews and are ahead of AMD and close to Apple for power efficiency. Assuming they don’t have critical flaws in longevity these things will be a hit.,0,,0.528,POSITIVE,0.999

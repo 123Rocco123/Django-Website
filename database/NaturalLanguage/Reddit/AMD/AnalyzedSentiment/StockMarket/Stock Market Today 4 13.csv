@@ -1,0 +1,4 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,Imagine if there was actually good news,0,0.544,0.807,NEGATIVE
+,,Nice rebounce,0,0.5,0.997,POSITIVE
+,,"Imagine if there is bad news... ""Retail Sales"" data on Friday at 8:30am EST.",0,0.581,0.996,NEGATIVE

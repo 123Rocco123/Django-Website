@@ -1,0 +1,522 @@
+date,text,PTR Sentiment,Flair Sentiment,Flair Score,Repost,Hastags
+2024-10-18T15:12:42.000Z,Which do you prefer splurging on?,0.5,NEGATIVE,0.6616,0,[]
+2024-10-08T17:00:01.000Z,Lots of people prefer solo travel. What was your most memorable experience traveling by yourself?,0.5025,NEGATIVE,0.9337,0,[]
+2024-09-20T19:00:00.000Z,Balance means something different to everyone. What's one thing you do to maintain yours? ,0.5138,POSITIVE,0.9998,0,[]
+2024-09-12T19:27:56.000Z,Loud Budgeting means being open with others about your financial limits and giving yourself permission to not make big purchases when you don't want to or can't afford them.,0.5139,NEGATIVE,0.9965,0,[]
+2024-09-09T18:30:08.000Z,"Passing the flag to the #LA28 Olympic & Paralympic Games, we celebrate LA’s endless opportunities thru its iconic sunsets and roads to success. Our blues and yellow show our commitment to #LA28, the community and our 40-year partnership of the #Olympics. #NextUpLA28 #Paralympics",0.5283,POSITIVE,0.9998,0,"['#LA28', '#LA28', '#Olympics', '#NextUpLA28', '#Paralympics']"
+2024-09-09T18:04:20.000Z,Do you know what loud budgeting is? ,0.5217,NEGATIVE,0.997,0,[]
+2024-09-05T13:18:39.000Z,"What a race! @OksanaMasters won Gold in Para Cycling Road Women’s Individual Time Trial H4-5 at the Paris 2024 Paralympic Games, and we’re here for it. #Paralympics #TeamVisa #Paris2024 Visa. Worldwide Payment Technology Partner of the Olympic & Paralympic Games Paris 2024.",0.5212,POSITIVE,0.9998,0,"['#Paralympics', '#TeamVisa', '#Paris2024']"
+2024-08-08T20:51:50.000Z,.@LylesNoah – you’re truly one of a kind. Congratulations on winning Bronze in the Men’s 200m at the Olympic Games Paris 2024 #Paris2024 #Olympics #TeamVisa #VisaVisa. Worldwide Payment Technology Partner of the Olympic & Paralympic Games Paris 2024.,0.516,POSITIVE,0.9948,0,"['#Paris2024', '#Olympics', '#TeamVisa', '#VisaVisa']"
+2024-08-06T20:09:23.000Z,"Let’s go U.S. Olympic Women’s Soccer Team! Olympic Games Paris 2024 Gold Medal Match, coming 8/10! #Paris2024 #Olympics #VisaVisa. Worldwide Payment Technology Partner of the Olympic Games Paris 2024 and Proud Partner of the U.S. Women’s National Team.",0.5125,POSITIVE,0.9997,0,"['#Paris2024', '#Olympics', '#VisaVisa']"
+2024-08-06T13:00:01.000Z,"Good things come to those who wait, and for @Caroline_Marks3 patience paid off! Congratulations on winning your first Gold at the Olympic Games Paris 2024! #Paris2024 #TeamVisa #Olympics Visa. Worldwide Payment Technology Partner of the Olympic & Paralympic Games Paris 2024.",0.5181,POSITIVE,0.9912,0,"['#Paris2024', '#TeamVisa', '#Olympics']"
+2024-08-05T19:56:50.000Z,.@Simone_Biles - Congratulations on winning Silver in the Women’s Floor Exercise! Your performances at the Olympic Games Paris 2024 made us proud to have you on #TeamVisa. #Paris2024 #Olympics #VisaVisa. Worldwide Payment Technology Partner of the Olympic & Paralympic Games,0.5179,POSITIVE,0.9926,0,"['#TeamVisa', '#Paris2024', '#Olympics', '#VisaVisa']"
+2024-08-04T21:47:07.000Z,What a race! Congratulations to @LylesNoah on winning Gold in the Men’s 100m Final at the Olympic Games Paris 2024! #TeamVisa #Paris2024 #Olympics #VisaVisa. Worldwide Payment Technology Partner of the Olympic & Paralympic Games Paris 2024.,0.515,POSITIVE,0.9996,0,"['#TeamVisa', '#Paris2024', '#Olympics', '#VisaVisa']"
+2024-08-03T21:32:30.000Z,Another medal for Kate Douglass at the Olympic Games Paris 2024! Congratulations to this #TeamVisa swimmer on her Silver in the Women’s 200m Individual Medley. #Visa #Paris2024 #Olympics Visa. Worldwide Payment Technology Partner of the Olympic & Paralympic Games Paris 2024.,0.513,POSITIVE,0.9993,0,"['#TeamVisa', '#Visa', '#Paris2024', '#Olympics']"
+2024-08-03T19:43:55.000Z,The U.S. Olympic Women’s Soccer Team are headed to the soccer Semi Final of the Olympic Games Paris 2024! #Visa #Paris2024 #Olympics Visa. Worldwide Payment Technology Partner of the Olympic Games Paris 2024 and Proud Partner of the U.S. Women’s National Team.,0.5131,POSITIVE,0.9994,0,"['#Visa', '#Paris2024', '#Olympics']"
+2024-08-03T19:42:38.000Z,"GOLD – Women’s Vault. #TeamVisa’s @Simone_Biles earned another podium appearance at the Olympic Games Paris 2024! And it never gets old seeing her up there.  Bravo, Simone!Visa. Payment Technology Partner of the Olympic & Paralympic Games Paris 2024.",0.512,POSITIVE,0.999,0,['#TeamVisa']
+2024-07-27T23:54:44.000Z,There’s strength in numbers and #TeamVisa’s Kate Douglass illustrated the phenomenal power of teamwork to help win Silver in the women's 4x100m freestyle relay swimming event at the Olympic Games Paris 2024. Congratulations! #Paris2024 #Olympics #Visa  Visa. Worldwide Payment,0.5045,POSITIVE,0.9994,0,"['#TeamVisa', '#Paris2024', '#Olympics', '#Visa']"
+2024-07-27T01:47:47.000Z,"Welcome to #Paris2024! The Olympic Games Paris 2024 Opening Ceremonies were truly magnifique, and we’re excited to see our #TeamVisa athletes compete with the world’s best, attempt record-breaking feats, and inspire people to pursue their passions.   #Paris2024 #Olympics #Visa",0.508,POSITIVE,0.9998,0,"['#Paris2024', '#TeamVisa', '#Paris2024', '#Olympics', '#Visa']"
+2024-07-16T19:19:26.000Z,"We’re proud to be a sponsor of the @NFLFLAG Championships, the first tournament of its kind for youth. Cheers to the athletes!Visa. Proud Partner of the NFL FLAG Championships.",0.5103,POSITIVE,0.9952,0,[]
+2024-07-15T18:00:25.000Z,Looking for your new favorite artist? Get a FREE ticket with purchase to discover new music with @SofarSounds and Visa!  Limitations apply. See Terms at the link in bio. #SofarSounds #LiveMusic #LocalMusic #Concerts,0.5391,NEGATIVE,0.8923,0,"['#SofarSounds', '#LiveMusic', '#LocalMusic', '#Concerts']"
+2024-07-10T18:00:01.000Z,"Every dream deserves a blueprint, and yours is just waiting to be written! Do you write your goals down?   #Manifesting",0.5011,POSITIVE,0.9964,0,['#Manifesting']
+2024-07-02T17:15:04.000Z,"Whether you're an aimless wanderer or the itinerary maker, Visa ensures your payments are secure when you travel. #Travel",0.5129,POSITIVE,0.9968,0,['#Travel']
+2024-06-21T18:00:00.000Z,What are your summer travel hot takes? Go! ,0.512,POSITIVE,0.9742,0,[]
+2024-06-19T01:00:00.000Z,To anyone whose name starts with a H: Name a place you’ve traveled to that changed you!   #SelfGrowth,0.5041,POSITIVE,0.7682,0,['#SelfGrowth']
+2024-06-12T17:00:01.000Z,Who else gets a warm fuzzy feeling thinking about the small businesses that were part of your childhood? Tell us about a local spot that holds a special place in your heart!  #Nostalgia,0.5092,POSITIVE,0.9996,0,['#Nostalgia']
+2024-06-07T17:20:51.000Z,"Traveling shifts our mindset from ""what if"" to ""why not."" What’s one lesson you’ve learned from your travels?#Travel",0.5055,POSITIVE,0.5829,0,['#Travel']
+2024-05-30T17:00:00.000Z,"With Visa in your mobile wallet your purchases are fast, easy and secure, so you can focus more on enjoying the concert! Because memories are way more fun than worries. ",0.5239,POSITIVE,0.9985,0,[]
+2024-05-28T23:36:21.000Z,.@PostMalone #VisaLiveAtLouvre ,0.5,NEGATIVE,0.9177,0,['#VisaLiveAtLouvre']
+2024-05-28T21:24:08.000Z,I spy with my little eye... @ayrastarr about to go on stage. #VisaLiveAtLouvre,0.5029,POSITIVE,0.9891,0,['#VisaLiveAtLouvre']
+2024-05-28T20:43:10.000Z,The crowd is having a blast with @rainaopr (and so are we). Any RaiNao fans here? #VisaLiveAtLouvre,0.5,POSITIVE,0.9888,0,['#VisaLiveAtLouvre']
+2024-05-28T20:10:01.000Z,.@KungsMusic is right at home on stage at @MuseeLouvre tonight... Playing in his city in front of a cheering crowd must be helping! #VisaLiveAtLouvre,0.5064,POSITIVE,0.9991,0,['#VisaLiveAtLouvre']
+2024-05-23T16:30:00.000Z,"Running a business may feel like you're always sprinting toward the next big thing, but it’s okay to walk and appreciate all you've accomplished. So, tell us – what's your latest win? ",0.5325,POSITIVE,0.9961,0,[]
+2024-05-16T00:30:01.000Z,"The @NFL schedules are out, and we can’t wait! Which matchups are you most excited for? Visa. Proud Sponsor of the NFL.",0.504,POSITIVE,0.9983,0,[]
+2024-05-13T16:00:00.000Z,"That first couples trip isn’t just about the destination, it’s about getting to know each other. What’s one thing you learned on your first vacation? ",0.5189,POSITIVE,0.8036,0,[]
+2024-05-02T17:00:00.000Z,"We all need one less thing to carry, so why not load Visa into your mobile wallet? It’s fast, easy and secure.",0.5231,POSITIVE,0.9995,0,[]
+2024-04-29T17:00:00.000Z,"Customizing clothing is all about expressing yourself. Whether you’re a designer or love crafting something new, what's one DIY you're proud of? ",0.54,POSITIVE,0.9155,0,[]
+2024-04-26T01:13:17.000Z,The journey from dream to reality! Congratulations to @RomeOdunze for being drafted to the @ChicagoBears. Here's to the bright future ahead of you!  #NFLDraft,0.5105,POSITIVE,0.9993,0,['#NFLDraft']
+2024-04-25T22:35:40.000Z,Spring is full of outdoor adventures. What’s one piece of camping gear you purchased that you’re excited to try out? ,0.5077,POSITIVE,0.9992,0,[]
+2024-04-22T16:30:00.000Z,"If you’re reading this at a restaurant, you’re on your phone. Enjoy your dinner out, check back later, and we'll be there when you're ready to pay. ",0.5089,POSITIVE,0.9555,0,[]
+2024-04-19T16:30:00.000Z,Food is culture you can eat! Take your taste buds on a trip around the country with Visa by your side. ,0.5132,POSITIVE,0.9972,0,[]
+2024-04-17T16:00:01.000Z,"Customizing clothing is all about expressing yourself. Whether you’re a designer or love crafting something new, let’s see those pieces you’re proud of! ",0.5323,POSITIVE,0.9986,0,[]
+2024-04-15T16:00:00.000Z,Make your space your own. Visa is here to help with those first purchases that mark your creativity and independence. What's that one piece that made your place feel more like a home? ,0.5138,POSITIVE,0.9381,0,[]
+2024-04-11T19:59:04.000Z,New Moon = new beginnings. Maybe it’s a sign to take that trip you've always wanted to take with your Visa by your side. ,0.5577,POSITIVE,0.9999,0,[]
+2024-04-08T17:00:00.000Z,"There are certain purchases that help take you from an idea to a small business success. To all those business owners out there, what small purchase helped you in a big way? ",0.556,POSITIVE,0.9981,0,[]
+2024-03-25T17:00:27.000Z,"Small business owners tackle ups and downs everyday. We're here to help make this ride as smooth as possible, because for every down comes an even bigger up.  #EntrepreneurLife #EntrepreneurLifestyle",0.5234,POSITIVE,0.998,0,"['#EntrepreneurLife', '#EntrepreneurLifestyle']"
+2024-03-19T21:23:30.000Z,"Springtime means longer days and endless opportunities! For those creators out there, what are you planning to do with that extra daylight? ",0.5035,POSITIVE,0.9823,0,[]
+2024-03-19T17:00:06.000Z,It's the small trips that teach you the biggest lessons. #Travel #LifeLessons,0.5029,NEGATIVE,0.5629,0,"['#Travel', '#LifeLessons']"
+2024-02-11T23:17:32.000Z,.@teehiggins5 gave us the inside scoop on TD dances (practice is key!). #SBLVIII,0.512,POSITIVE,0.9946,0,['#SBLVIII']
+2024-02-11T22:16:24.000Z,Good luck to the @49ers today in #SBLVIII! Every step this season brought you here.Visa. Proud partner of the San Francisco 49ers.,0.5203,POSITIVE,0.9829,0,['#SBLVIII']
+2023-10-06T20:03:59.000Z,You can't forget your wallet if your Visa is already in your phone. #digitalpayments,0.5158,POSITIVE,0.9967,0,['#digitalpayments']
+2023-09-30T15:53:36.000Z,How to get ready for Sunday’s game ,0.5125,POSITIVE,0.9827,0,[]
+2023-09-28T15:21:28.000Z,A new rule change is making it easier for small businesses to fight fraud charges. Learn how it could help business owners show a disputed charge is valid and authorized while protecting cardholder activity: https://vi.sa/467ie8N#FriendlyFraud #SMB,0.5291,NEGATIVE,0.6645,0,"['#FriendlyFraud', '#SMB']"
+2023-09-28T02:49:13.000Z,Proud to continually support @SFMFoodBank and join the @SFGiants at @OracleParkSF’s Strike Out Hunger Drive!,0.5075,POSITIVE,0.995,0,[]
+2023-09-20T20:53:33.000Z,Yeah we think about the Roman Empire... and how they ever managed to move all those coins around quickly and securely.,0.5082,POSITIVE,0.9147,0,[]
+2023-09-15T16:00:00.000Z,Tag your favorite small business owners to shout out and show your support!Small business owners this is for you: We see the passion in your eyes  Keep on doing what you’re doing ,0.5469,POSITIVE,0.9897,0,[]
+2023-09-05T16:00:01.000Z,There’s no better time than now to seize your future! Huge props to everyone with side hustles and doing just that! ,0.5235,POSITIVE,0.9806,0,[]
+2023-09-01T16:00:00.000Z,"If you have a side hustle, we’re on your side.",0.51,POSITIVE,0.999,0,[]
+2023-08-25T23:00:00.000Z,"What does “making it” mean to you? We believe if you’re making, you’re “making it”",0.5061,POSITIVE,0.9095,0,[]
+2023-07-17T21:00:00.000Z,Keep creating amazing things. Our goal is to be here for you when you need to pay and when you get paid.,0.5094,POSITIVE,0.9982,0,[]
+2023-05-12T01:50:01.000Z,"The @NFL just dropped the regular season schedule, and we can’t wait to see the Visa teams in action! Tell us your most anticipated matchups. (1/3)Visa. Proud sponsor of the NFL, @steelers, @49ers, @Giants, @Patriots, @ChicagoBears, @BuffaloBills, @nyjets, and @Ravens.",0.5022,POSITIVE,0.9966,0,[]
+2023-05-12T01:50:02.000Z,(2/3),0.5,POSITIVE,0.9479,0,[]
+2023-05-12T01:50:03.000Z,(3/3),0.5,POSITIVE,0.995,0,[]
+2022-12-15T19:21:35.000Z,"Buds, everyone knows @Visa rolls deep. What should they bring to the #BringHomeTheBud party?",0.5094,NEGATIVE,0.5788,0,['#BringHomeTheBud']
+2022-09-28T13:30:01.000Z,"As a goalkeeper, @timhowardgk has made a career of saving. So of course, he was the perfect #VisaAmbassador for the launch of our latest educational game, #FinancialSoccer.Score goals while flexing your financial knowledge at http://world.financialfootball.com",0.517,POSITIVE,0.9919,0,"['#VisaAmbassador', '#FinancialSoccer']"
+2022-09-10T21:00:15.000Z,"Be open-minded to innovation... You never know where your dreams will lead you! Take it from @Micah_Johnson3 and his digital explorer, Aku, who came with us to @DisneyD23  #DisneyD23 Learn more: http://visa.com/creator",0.515,POSITIVE,0.9896,0,['#DisneyD23']
+2022-09-09T17:50:46.000Z,"Start small, dream big all weekend with us @DisneyD23! Stop by the Visa booth, and get inspired to innovate (and snag your collectible pin!) #D23Expo",0.5109,POSITIVE,0.999,0,['#D23Expo']
+2022-09-09T04:35:55.000Z,"From small businesses to big @NFL stars, anyone can change the game with Visa. #Kickoff2022Visa. Proud partner of the NFL.",0.5138,POSITIVE,0.9751,0,['#Kickoff2022Visa']
+2022-09-04T14:00:02.000Z,Join us in the Public Square and Gardens at @_HudsonYardsNYC as the @USWNT take on Nigeria in an international friendly 9/6. Score preferred seating and other exciting benefits with your Visa: http://visa.com/hudsonyards Visa. Proud partner of the U.S. Women’s National Team.,0.5118,POSITIVE,0.9784,0,[]
+2022-07-27T20:56:19.000Z,Seeing is believing. Students talk about the impact learning from Black professionals had on them during our weeklong Visa Black Scholars Summit. It’s part of Visa’s investment in developing future leaders through our early career and student programs: https://vi.sa/3czK32r,0.5077,POSITIVE,0.9628,0,[]
+2022-06-04T15:50:22.000Z,"Support small businesses, make a big difference  Today through June 9, take $5 off your delivery order of $20 or more from select neighborhood restaurants on #UberEats with an eligible @Visa card. Use code VISASMB. Terms apply.",0.5298,POSITIVE,0.7581,0,['#UberEats']
+2022-05-13T19:00:20.000Z,"She’s Next in Fashion, Empowered by Visa is proud to give 50 women-owned businesses the tools and resources they need to thrive. Meet the 2022 participants and join us in supporting women everywhere who believe in a better future: https://vi.sa/3wbT4WN",0.5166,POSITIVE,0.9791,0,[]
+2022-05-10T21:02:02.000Z,"She’s Next in Fashion, Empowered by Visa is proud to give 50 women entrepreneurs $10k cash grants, a one-year @IFundWomen Coaching Membership, and a custom marketing campaign to help them grow their businesses and thrive. Meet the participants: http://visa.com/shesnextinfashion…",0.5357,POSITIVE,0.976,0,[]
+2022-05-09T20:11:46.000Z,"She's Next in Fashion, Empowered by Visa is working to help close the gender gap by giving women-owned small businesses in fashion & beauty the tools and resources they need to fund, grow, and run their business. Meet this year’s participants: http://visa.com/shesnextinfashion…",0.5227,POSITIVE,0.9879,0,[]
+2022-02-15T14:49:57.000Z,"We've partnered with @Visa to co-host a conversation with retired NFL running back and philanthropist @MattForte22 . Learn how explore new digital tools, implement strategies and learn new ways to amplify the uniqueness of your businesses. Register at http://usblackchambers.org/webinars",0.5315,POSITIVE,0.9479,0,[]
+2022-02-14T01:00:19.000Z,Get centered with @comptonhealth. This holistic wellness space offers herbal remedies rooted in ancestral healing traditions. #VisaSmallBizBlockParty https://comptonhealthbar.com #SBLVI,0.5047,POSITIVE,0.8887,0,"['#VisaSmallBizBlockParty', '#SBLVI']"
+2022-02-14T00:48:52.000Z,"From extra-income side-hustle to nationwide specialty store, #theplantchica was founded with love. #VisaSmallBizBlockParty #SBLVI  https://theplantchica.com",0.513,POSITIVE,0.9194,0,"['#theplantchica', '#VisaSmallBizBlockParty', '#SBLVI']"
+2022-02-14T00:26:52.000Z,"We got moving with @socanomics – an LA-based, virtual dance fitness platform inspired by Caribbean Carnival and Caribbean dance music. They brought the energy at #VisaSmallBizBlockParty all weekend! Join the party: https://socanomics.com #SBLVI",0.5116,POSITIVE,0.995,0,"['#VisaSmallBizBlockParty', '#SBLVI']"
+2022-02-13T23:57:28.000Z,You might recognize @LaMonarcaBakery from multiple LA locations… We got a taste of pastries inspired by the founders’ hometown in Mexico at #VisaSmallBizBlockParty at #SBLVI: https://lamonarcabakery.com,0.5042,POSITIVE,0.9482,0,"['#VisaSmallBizBlockParty', '#SBLVI']"
+2022-02-12T21:57:16.000Z,"More than just a spot to mingle! If you missed @MinglesTeaBar last weekend at #VisaSmallBizBlockParty, stop by their Inglewood location for music, art, education, and, of course, a cup of tea: https://minglesteabar.com #SBLVI",0.511,NEGATIVE,0.8618,0,"['#VisaSmallBizBlockParty', '#SBLVI']"
+2022-02-12T19:08:30.000Z,"Looking for a pick-me-up? Inglewood’s first specialty coffee house is where coffee, community & culture thrive. In case you missed @SipandSonder at #VisaSmallBizBlockParty  last weekend, learn more: https://sipandsonder.com #SBLVI",0.512,POSITIVE,0.9301,0,"['#VisaSmallBizBlockParty', '#SBLVI']"
+2022-02-12T02:00:03.000Z,"I stopped by #VisaSmallBizBlockParty at #SBLVI to meet local artists, musicians, and small business owners who help make our communities thrive. Support your home team and shop local with @Visa. #VisaAmbassador #SBLVIMore at: http://usa.visa.com/promotions/nfl/network-of-neighbors.html…",0.5218,NEGATIVE,0.806,0,"['#VisaSmallBizBlockParty', '#SBLVI', '#VisaAmbassador', '#SBLVIMore']"
+2022-01-19T22:03:56.000Z,"Apply now for a $10k grant! We’ve partnered with @UberEats and @LISC_HQ to help small independent restaurants. Hurry, this window closes 1/24! Learn more  http://lisc.org/uber",0.5028,NEGATIVE,0.9969,0,[]
+2021-08-21T15:10:18.000Z,.@OksanaMasters is about to compete in her fifth Paralympic Games and is extremely dedicated to her training.She is also dedicated to finding the perfect mug for the perfect cup of coffee. Presented by @Visa.,0.5169,POSITIVE,0.9965,0,[]
+2021-08-12T14:00:02.000Z, @RayssaLeal is the winner of The Visa Award as voted by fans around the world!Visa and the IOC congratulate Rayssa for showing the best of humanity at the Olympic Games Tokyo 2020.#TheVisaAward@timebrasil | @worldskatesb,0.5148,POSITIVE,0.9914,0,['#TheVisaAward']
+2021-08-09T10:20:20.000Z,Today is the final day to vote for the Visa Award to celebrate the best of humanity at the Olympic Games Tokyo 2020!  Vote now for your favourite Athlete moments to celebrate acts that rise above competition. #TheVisaAward,0.5217,POSITIVE,0.9361,0,['#TheVisaAward']
+2021-08-08T09:01:42.000Z,"Vote now for the Visa Award to celebrate the best of humanity at Tokyo 2020! This Award recognizes moments that embody Visa’s belief that a more inclusive world uplifts everyone, everywhere and our shared values of friendship, inclusion, acceptance and courage. #TheVisaAward",0.5112,POSITIVE,0.9959,0,['#TheVisaAward']
+2021-07-25T16:00:02.000Z,Here. We. Go. : #NFLTrainingCamp coverage starts 7/26 on NFL Network: BACK TOGETHER SATURDAY - All 32 teams on the field 7/31,0.5123,POSITIVE,0.9426,0,['#NFLTrainingCamp']
+2021-07-25T16:25:27.000Z,Meet Visa. A network working to make every day payday.,0.53,POSITIVE,0.9943,0,[]
+2021-07-21T13:17:10.000Z,"Huge day! Today, we @Visa unveil an exciting global brand evolution. Sharing my biggest learnings from the past year, and where Visa will go from here:",0.5637,POSITIVE,0.9946,0,[]
+2021-07-21T11:03:05.000Z,"Meet Visa. A new, iconic brand symbol is just the beginning. Visa is more than a credit card company; we’re a trusted network that drives commerce forward. Learn more: https://vi.sa/3BoYPRC",0.5634,POSITIVE,0.9973,0,[]
+2021-07-21T13:20:00.000Z,Meet Visa. That name you see on everything is actually more like a signature. It’s a network working for everyone.,0.5183,POSITIVE,0.9981,0,[]
+2021-05-03T16:33:20.000Z,"Visa is giving you a chance to win $25k and $25k for a qualifying small business of your choice. To enter, tap to pay securely with Visa. No Purchase Necessary. 50 U.S. & D.C./18+. Ends 6/30/21. Winners pick small businesses for grant prize. Rules: https://vi.sa/3drGRnS",0.5144,NEGATIVE,0.9487,0,[]
+2021-04-22T16:38:18.000Z,We each play a part in fighting climate change. That’s why we’re harnessing the power of the Visa network through innovative partnerships and initiatives for a more sustainable world every single day. http://vi.sa/3sLNC8a,0.518,POSITIVE,0.9858,0,[]
+2021-04-21T13:38:30.000Z,"This #EarthMonth, we are proud to announce our pledge to net-zero emissions by 2040, our progress to climate positive, and our carbon neutral operations milestone achievement: https://vi.sa/3eqJYvw",0.545,POSITIVE,0.9598,0,['#EarthMonth']
+2021-04-14T15:19:46.000Z,"You don’t have to bend over backwards to be like @Simone_Biles. All you need is Visa. Tap to pay with your contactless Visa card like Simone for a quick, easy and secure way to pay. #Tokyo2020 #TeamVisa Learn more at: http://visa.com/taptopay",0.5035,POSITIVE,0.977,0,"['#Tokyo2020', '#TeamVisa']"
+2021-04-06T11:00:02.000Z,"A third round of Economic Impact Payment (EIP) Cards will soon arrive. Take a moment and review the tips on how to avoid scams https://vi.sa/3cIv0RB. To learn more about EIP Cards, visit http://EIPCard.com.",0.5065,NEGATIVE,0.8641,0,[]
+2021-03-31T15:45:23.000Z,"Today, on International #TransDayOfVisibility, we are proud to celebrate our partnership with Daylight (@JoinDaylight). The Daylight Visa card will allow consumers to choose their preferred name on their card: https://vi.sa/3weNkK2 (Referral Code VISA)",0.5146,POSITIVE,0.9139,0,['#TransDayOfVisibility']
+2021-03-19T18:53:29.000Z,Tap to pay like a pro. #Contactless digital payments are becoming the standard for face-to-face transactions. Here’s how the tech revolution in 2020 changed the ways we pay: http://vi.sa/3tPrU4j,0.5043,POSITIVE,0.9977,0,['#Contactless']
+2021-03-16T13:09:19.000Z," recap from the @Visa Big Air Presented by @LandRoverUSA qualies! Alex Hall & Mac Forehand will represent the U.S. in today’s finals. HOW TO WATCH (EST):Tuesday, March 1612:00 p.m. - Freeski Big Air - LIVE, Aspen, Colo., Broadcast NBCSN, Streaming @peacocktv",0.5198,POSITIVE,0.9911,0,[]
+2021-03-16T05:27:12.000Z,"Big savings for the @Visa Big Air! Pay with your @Visa and enjoy 25% off through March 17, 2021.  Terms and conditions apply.Shop: https://shop.usskiandsnowboard.org",0.5135,POSITIVE,0.8511,0,[]
+2021-02-05T03:55:33.000Z,"Black-owned small businesses like @SpaJuiceBar are essential to our communities. Support the home team and shop local with @Visa. Because now more than ever, where you shop matters. #VisaAmbassador #SBLVhttp://vi.sa/3j5PAgk",0.5086,POSITIVE,0.9701,0,"['#VisaAmbassador', '#SBLVhttp']"
+2021-02-05T03:24:43.000Z,"Now more than ever, where you shop matters. Support the home team by shopping at local Black-owned small businesses like Everyday Café with @Visa. #VisaAmbassador #SBLVhttp://vi.sa/3j5PAgk",0.5095,POSITIVE,0.9899,0,"['#VisaAmbassador', '#SBLVhttp']"
+2021-02-05T16:30:46.000Z,"Now more than ever, where you shop matters. Support the home team by shopping at Black-owned small businesses like @MarcusBooks in Oakland with @Visa. #VisaAmbassador #SBLV http://vi.sa/3j5PAgk",0.5083,POSITIVE,0.9712,0,"['#VisaAmbassador', '#SBLV']"
+2021-02-04T19:07:12.000Z,"Whether you’re looking to start a #smallbusiness or already own one, this #SuperBowl Sunday Visa’s @AuthorizeNet can help you get online, accept digital payments, and save more than $10,000! https://vi.sa/3rnMuaqCertain restrictions and limitations apply. See Terms.",0.5081,POSITIVE,0.8416,0,"['#smallbusiness', '#SuperBowl']"
+2021-02-02T17:00:01.000Z,"The 49ers & @Visa teamed up to support two local, Black-owned businesses with $10k grants.  Fred Warner and Dennis Brown were on hand to deliver the news to the owners of @NirvanaSoulSJ and BackAYard Caribbean Grill.",0.518,POSITIVE,0.9726,0,[]
+2021-02-01T19:11:43.000Z,"Visa is committed to supporting Black-owned small businesses, like @saquon 's favorite spot: Stone’s Original Jerk Chicken. Now more than ever, where you shop matters. Support the home team and shop local with Visa.",0.5081,POSITIVE,0.9694,0,[]
+2021-01-13T12:00:11.000Z,"Only 17% of surveyed consumers say they would revert to their old methods of #payment, post-pandemic. Read the @Visa Back to Business Study, 2021 outlook edition about how #contactless payments are here to stay: https://vi.sa/3nIjat4",0.5165,NEGATIVE,0.986,0,"['#payment', '#contactless']"
+2020-12-16T18:15:02.000Z,"Continuing our #smallbusiness-focused effort throughout this NFL season, Visa and our NFL team partners @NYJets, @Giants, and @49ers will award grants to support Black-owned small businesses affected by COVID-19: https://vi.sa/2LxuNph",0.5052,POSITIVE,0.9857,0,['#smallbusiness']
+2020-12-03T18:31:46.000Z,"When everyone is included, we can all rise higher.On this International Day of Persons with Disabilities, #TeamVisa and @TeamUSA Paralympian @OksanaMasters shares how sport has the power to bring the world together and drive positive change.",0.5271,POSITIVE,0.9899,0,['#TeamVisa']
+2020-12-01T16:00:32.000Z,"As part of our effort to drive real and lasting change, we have launched the @Visa Black Scholars and Jobs Program, in partnership with the @tmcf_hbcu with a $10 million investment over the next 5 years.Learn more and apply today at https://vi.sa/36szcls",0.5394,POSITIVE,0.9782,0,[]
+2020-08-12T16:07:20.000Z,"It’s hard not to touch a cute fluffy dog. It’s easy to avoid touching surfaces at checkout when you tap to pay with Visa. It’s a safe, touch-free way to pay. Learn more at http://visa.com/taptopay",0.5035,NEGATIVE,0.9353,0,[]
+2020-08-04T14:00:17.000Z,Consumers are changing the way they shop and pay during the pandemic.Read the @Visa Back to Business Report to learn how #smallbusinesses can align their business operations with shifting consumer behavior: https://vi.sa/31jARWE,0.5404,NEGATIVE,0.9838,0,['#smallbusinesses']
+2020-06-25T15:59:14.000Z,"We’ll be watching, hope you will too. #Pride",0.505,POSITIVE,0.9998,0,['#Pride']
+2020-06-17T20:05:43.000Z,"We’re proud to celebrate our LGBTQ+ employees, community & the Supreme Court's ruling against #LGBTQ workplace discrimination. We’re moving one step closer to a world where everyone is accepted everywhere. #PRIDELearn more: http://visa.com/inclusion",0.5088,POSITIVE,0.9707,0,"['#LGBTQ', '#PRIDELearn']"
+2020-06-16T17:45:46.000Z,Hold on to your Visa Government Payment Card! It has your current government benefits & can be used for future programs. Learn more: http://visa.com/governmentpaymentcards…,0.5159,POSITIVE,0.6794,0,[]
+2020-06-05T20:44:38.000Z,Read about the actions we’re taking to help stop racial injustice and racial inequality: https://vi.sa/376S3B6,0.5029,POSITIVE,0.8524,0,[]
+2020-05-05T21:36:59.000Z,".@Visa’s ability to move money seamlessly between consumers, businesses, banks and governments is critical to supporting global economic recovery. 4 key actions we are taking to accelerate this support: https://vi.sa/2Wsype4",0.5146,POSITIVE,0.9599,0,[]
+2020-05-05T15:30:01.000Z,"As part of #GivingTuesdayNow today, @Visa is providing a double match to employee donations in support of the following non-profits: - @ifrc- @RedCross- @BritishRedCross- @MSF_USA- @UNICEF Learn more about Visa’s commitment to community support: ",0.5171,POSITIVE,0.5558,0,['#GivingTuesdayNow']
+2020-04-30T21:10:21.000Z,"Now more than ever, @Visa is dedicated to providing safe and secure #payments for merchants and their customers: https://vi.sa/2KTwREpSee below on how #contactless payments have risen in popularity ",0.5147,POSITIVE,0.8905,0,"['#payments', '#contactless']"
+2020-04-16T14:03:22.000Z,"Make payments safe, secure and easy by going contactless. Let’s stay safe together: http://visa.com/contactless",0.5097,NEGATIVE,0.6675,0,[]
+2020-01-16T17:58:15.000Z,"Believe it: As presenting sponsor of the #SheBelieves Cup, Visa is excited to offer cardholders exclusive presale access starting Thursday January 16 at 10AM EST.",0.5094,POSITIVE,0.9746,0,['#SheBelieves']
+2020-01-10T19:17:04.000Z,#TeamVisa's @SimoneBiles hits the road to check out the new Visa and @SiriusXM connected car prototype. Come along on her journey: http://vi.sa/30cKjuhVisa. Everywhere You Want To Be,0.5213,POSITIVE,0.9616,0,['#TeamVisa']
+2019-12-20T16:25:03.000Z,#VisaBigAir  is one of the coolest  (and hottest) things going on in ATL right now! @usskiteam Get tickets at http://braves.com/visabigair Visa. Proud Sponsor of U.S. Ski & Snowboard,0.5095,POSITIVE,0.9728,0,['#VisaBigAir']
+2019-12-14T19:40:41.000Z,"𝟰Congrats, @rissmoore10 on your 4th world title and for qualifying for the Olympic Games Tokyo 2020!  #TeamVisaVisa. Worldwide Sponsor of the Olympic Games Tokyo 2020.",0.5103,POSITIVE,0.9947,0,['#TeamVisaVisa']
+2019-12-11T19:01:46.000Z,Congrats to #TeamVisa star @mPinoe on winning yet another well-deserved award.  ,0.513,POSITIVE,0.9974,0,['#TeamVisa']
+2019-12-05T19:34:34.000Z,@mPinoe makes winning look easy! Congrats on your BIG award. Visa is proud to have you on #TeamVisa,0.5159,POSITIVE,0.9885,0,['#TeamVisa']
+2019-11-26T22:06:11.000Z,We’re proud to have @OksanaMasters on #TeamVisa again and can’t wait to see her at the Tokyo 2020 Paralympic Games! Visa. Proud Partner of the Tokyo 2020 Paralympic Games.,0.5078,POSITIVE,0.9959,0,['#TeamVisa']
+2019-11-26T20:24:26.000Z,"#Tokyo2020 is coming in hot and so is our #TeamVisa athlete,  athletics phenom @LylesNoah! Visa. Official Partner of the Olympic Games Tokyo 2020.",0.5064,POSITIVE,0.9959,0,"['#Tokyo2020', '#TeamVisa']"
+2019-11-26T18:39:03.000Z,"Back-to-back  world champion and soccer phenom @mPinoe is on #TeamVisa, and we can’t wait to see her light up the world stage again at #Tokyo2020. Visa. Official Partner of the Olympic Games Tokyo 2020.",0.5162,POSITIVE,0.9985,0,"['#TeamVisa', '#Tokyo2020']"
+2019-11-14T17:36:57.000Z,for the debut of at #Tokyo2020. We’re stoked to announce @rissmoore10  has joined #TeamVisa!Visa. Official Partner of the Olympic Games Tokyo 2020.,0.5057,POSITIVE,0.9986,0,"['#Tokyo2020', '#TeamVisa']"
+2019-11-13T18:27:10.000Z,We’re flipping out! Four-time Olympic Gold medalist @Simone_Biles has joined #TeamVisa for #Tokyo2020!Visa. Official Partner of the Olympic Games Tokyo 2020.,0.5122,NEGATIVE,0.5396,0,"['#TeamVisa', '#Tokyo2020']"
+2019-06-03T19:31:58.000Z,"You know that love wins. We believe everyone should be accepted, everywhere. @USWNT star @mPinoe has plenty to be proud of. Visa is proud to have her on our team. Happy #Pride!Visa. Everywhere You Want To Be",0.5118,POSITIVE,0.9939,0,['#Pride']
+2019-03-15T17:09:18.000Z,You want to experience more. We’re your passport to new heights. Tap into incredible by using your Visa at @_HudsonYardsNYC — the new heart of New York City. Now open to the public! Visa. Proud partner of Hudson Yards.,0.5622,POSITIVE,0.9928,0,[]
+2019-02-14T18:46:54.000Z,"We recently caught up with @reformationx founder @yaya_aflalo, @MillybyMichelle founder Michelle Smith, @thedrybar co-founder @alliwebb, @wellsfargo’s Heather Philp, & our very own Mary Ann Reilly to hear personal stories about how they rewrote the rules on their road to success.",0.5019,POSITIVE,0.9968,0,[]
+2019-02-13T22:41:37.000Z,We’re empowering female entrepreneurs w/ @NYFW & female-founded brands & charities that are effecting real change for women. 100% of the purchase price of items sold from the Bulletin vending machine w/in the Visa retail experience at NYFW: The Shows will support @dressforsuccess,0.5116,POSITIVE,0.9789,0,[]
+2019-02-13T15:38:30.000Z,"We’re proud to support @rebeccaminkoff & her organization Female Founder Collective, a network of women-led companies whose mission is to positively impact communities. Together, Rebecca Minkoff, Visa & @NYFW are recognizing women-led brands, because we believe #FashionIsChanging",0.5136,POSITIVE,0.984,0,['#FashionIsChanging']
+2019-02-13T03:17:01.000Z,"Nearly 60% of millennial women believe that money represents independence*. That’s why we teamed up with @NYFW to help empower female-founded companies to find financial freedom. *Money is Changing survey, commissioned by Visa and conducted by Lieberman Research Worldwide 2018.",0.5131,POSITIVE,0.5323,0,[]
+2018-09-18T15:48:57.000Z,"Since 1958, Visa has pioneered payments innovation. Today, on our 60th anniversary, we celebrate our legacy as we help build the future of payments. Watch the first 60 years of @Visa's journey.",0.5229,POSITIVE,0.9947,0,[]
+2018-07-19T17:30:10.000Z,Congrats @ChloeKim! #TeamVisa,0.5,POSITIVE,0.9991,0,['#TeamVisa']
+2018-07-18T22:20:24.000Z,You want a fast way to pay. We know faster is always better. See if your card has the next fast thing: just look for the contactless indicator to Tap to pay with Visa. Visa. Everywhere You Want To Be,0.5145,NEGATIVE,0.6686,0,[]
+2017-07-15T18:59:17.000Z,You have a need for speed. We’re driving innovation by enabling a cashless experience at NYC’s 1st global FIA Formula E race. #NYCePrix,0.5134,POSITIVE,0.9992,0,['#NYCePrix']
+2017-07-14T20:02:32.000Z,You have a need for speed. We’re driving innovation. Formula E is racing for the 1st time ever in NYC this weekend! #NYCePrix,0.5071,POSITIVE,0.9992,0,['#NYCePrix']
+2017-07-04T16:45:26.000Z,You sit back and enjoy the fireworks. We can’t wait for the grand finale. Celebrate freedom and acceptance for all this #4thofJuly,0.5017,POSITIVE,0.9996,0,['#4thofJuly']
+2017-06-30T21:32:13.000Z,"You love a good summer BBQ. We love the way you’ve reinvented it! The new summer BBQ’s menu is now local, organic, and 100% delicious.",0.538,POSITIVE,0.9964,0,[]
+2017-05-06T13:00:33.000Z,.@Visa is driving what’s next across the commerce landscape & they're proud to be Presenting Sponsor of the 2017 @WIRED Business Conference,0.5336,POSITIVE,0.9961,0,[]
+2017-05-14T14:34:07.000Z,You’re thankful for the  and support she gives you. Visa celebrates moms everywhere for being there always. #HappyMothersDay,0.5085,POSITIVE,0.9828,0,['#HappyMothersDay']
+2017-04-27T15:39:11.000Z,"From all-star employee to manager of the century, Visa supports parents everywhere who work to make their children proud. #CountOnMe",0.5085,POSITIVE,0.997,0,['#CountOnMe']
+2017-04-27T15:38:14.000Z,Watch as these Visa employees’ kids tell us how their parents work hard to inspire them. Spoiler alert: It’s adorable. #CountOnMe,0.5093,POSITIVE,0.9981,0,['#CountOnMe']
+2017-04-26T21:35:56.000Z,"Visa was honored to sponsor @RefugeesIntl #RIGala2017 last night in Washington, D.C., recognizing work of @SyriaCivilDef & @ChrisMurphyCT",0.5125,POSITIVE,0.982,0,['#RIGala2017']
+2017-03-14T16:17:26.000Z,"Congrats @CelebrityCruise on the launch of their amazing new ship, the #CelebrityEdge   Quite the sight to sea.",0.546,POSITIVE,0.9965,0,['#CelebrityEdge']
+2017-03-11T17:49:16.000Z,"From downhill to podium, Visa congratulates the women of the @usskiteam on their journey to ",0.5,POSITIVE,0.9874,0,[]
+2017-03-11T17:48:36.000Z,"From downhill to podium, Visa congratulates the women of the @usskiteam for getting one step closer to ",0.5115,POSITIVE,0.9648,0,[]
+2017-02-14T17:21:27.000Z,We support love anywhere and everywhere you find it this Valentine’s Day.,0.5157,POSITIVE,0.9927,0,[]
+2017-02-09T22:57:47.000Z,"This #BlackHistoryMonth, we are acknowledging those who championed acceptance and unity because everyone should be accepted everywhere.",0.5019,POSITIVE,0.8692,0,['#BlackHistoryMonth']
+2016-12-10T19:57:30.000Z,"To get the $10 eGift, spend $10+ in the Starbucks app using Visa Checkout to pay. If you did both, then contact Starbucks",0.5068,NEGATIVE,0.9891,0,[]
+2016-12-14T00:29:00.000Z,this offer expires on 12/22/2016 at 11:59 PM PST or when the promotional redemption limit has been reached.,0.5056,NEGATIVE,0.9977,0,[]
+2016-09-18T19:07:52.000Z,you’ll get the $10 eGift bonus within 5 days of using Visa Checkout to load your Starbucks card with $10 or more.,0.5071,NEGATIVE,0.5633,0,[]
+2016-06-18T16:21:14.000Z,It's #50DaysToGo until #Rio2016. Visa USA supports #TeamUSA on their #RoadToRio! @TeamUSA,0.5044,POSITIVE,0.6761,0,"['#50DaysToGo', '#Rio2016', '#TeamUSA', '#RoadToRio']"
+2016-03-08T18:46:32.000Z,"This International Women’s Day, join us in supporting gender equality everywhere. #InternationalWomensDay",0.519,POSITIVE,0.9855,0,['#InternationalWomensDay']
+2015-11-12T01:17:55.000Z,@Ern05001 it’s never a bad time to Live Más. Have fun ordering!,0.5083,POSITIVE,0.999,0,[]
+2015-11-12T01:12:54.000Z,"@Ern05001 this offer is valid through November 16, 2015 or until supplies last. Learn more here: http://vi.sa/1OBszxn",0.5218,NEGATIVE,0.9356,0,[]
+2015-11-11T18:53:01.000Z,"Visa is a proud co-founder of the Veterans Financial Coalition, helping veterans adjust to life back home. https://cards.twitter.com/cards/949uer/15vlw…",0.5145,POSITIVE,0.9776,0,[]
+2015-10-25T19:25:29.000Z,"@ryanpcombs absolutely! Together, Taco Bell and Visa Checkout are changing the taco game.",0.5015,POSITIVE,0.9687,0,[]
+2015-09-28T23:20:11.000Z,Introducing #SamsungPay. One more way you can pay with the power of Visa.http://visa.com/SamsungPay,0.515,POSITIVE,0.8601,0,['#SamsungPay']
+2015-09-11T00:22:28.000Z,@mary_migliaro less time spent paying online means more time to Get Stuff Dunkin’.,0.5162,NEGATIVE,0.9972,0,[]
+2015-06-28T18:57:34.000Z,@SolarisRex We’re committed to diversity and inclusion.,0.502,POSITIVE,0.9714,0,[]
+2015-06-27T00:58:57.000Z,@Adrian_P_Arena We’re proud to support this important cause.,0.5137,POSITIVE,0.9633,0,[]
+2015-06-23T02:03:29.000Z,"@woahjosh_ yup, that’s @joelmchale. We’re big fans of @joelmchale",0.5081,POSITIVE,0.9713,0,[]
+2015-06-16T01:55:00.000Z,@nerdssupoprt what will you spend your $10 bonus on?,0.5,NEGATIVE,0.997,0,[]
+2015-06-16T01:52:01.000Z,@TBBLANZZI the only thing better than Dunkin’ is BONUS Dunkin’.,0.51,POSITIVE,0.5091,0,[]
+2015-06-16T01:07:52.000Z,@yus_arisl what will you spend your $10 bonus on?,0.5,NEGATIVE,0.9958,0,[]
+2015-06-16T00:44:54.000Z,@RightWingRderi what will you spend your $10 bonus on?,0.5,NEGATIVE,0.9973,0,[]
+2015-06-16T00:16:24.000Z,@erave1m1 a coffee for every day of the week.,0.538,POSITIVE,0.9945,0,[]
+2015-06-15T01:46:25.000Z,"@GirlsCEOConcnte $10 worth of donuts, $10 worth of coffee, or a little of each – the choice is yours!",0.5193,POSITIVE,0.9874,0,[]
+2015-04-30T01:53:01.000Z,"@AylaSadeghi pretty cool, isn’t it?",0.5,POSITIVE,0.9195,0,[]
+2015-03-15T01:27:03.000Z,Thanks again to visa for having me at the Everywhere Lounge!   I had a wonderful afternoon! (Repost…,0.5036,NEGATIVE,0.9879,0,[]
+2015-03-14T19:49:05.000Z,"With my friends @Visa at the #Everywhere Lounge in Austin, @JohnLegend performance later, SO excited  #Visa",0.5075,POSITIVE,0.969,0,"['#Everywhere', '#Visa']"
+2015-03-14T19:08:49.000Z,"From London, England to Austin, TX. On the way to perform for visa at SXSW. See you this afternoon,… https://instagram.com/p/0OCR_OESpu/",0.5076,POSITIVE,0.9725,0,[]
+2015-03-14T18:21:47.000Z,Good times yesterday at the Everywhere Lounge with @Visa. Appreciate all the hospitality. We thoroughly enjoyed it.,0.517,POSITIVE,0.9101,0,[]
+2015-03-13T21:18:00.000Z,"Hanging with @Visa at the Everywhere Lounge today in Austin. To their ""credit"" its a pretty cool spot. #VisaCheckouthttp://bit.ly/1NAoJ6S",0.5104,POSITIVE,0.6985,0,['#VisaCheckouthttp']
+2015-03-13T21:08:51.000Z,I’m heading to the @Visa Everywhere Lounge in Austin today around 5pm. Come hang out! see what else is going on: http://bit.ly/1NAoJ6S #ad,0.5126,NEGATIVE,0.5002,0,['#ad']
+2015-03-13T19:01:34.000Z,Visa chip cards work everywhere Visa is accepted! This #infographic details the 3 ways to pay: http://vi.sa/1wlYCKj #ChipReady,0.5066,NEGATIVE,0.9375,0,"['#infographic', '#ChipReady']"
+2015-03-13T18:00:36.000Z,How does implementing chip tech protect payments & prevent counterfeit fraud? Watch this #video & find out http://bit.ly/1rXjzu9 #ChipReady,0.5125,POSITIVE,0.9792,0,"['#video', '#ChipReady']"
+2015-03-10T18:06:18.000Z,Our #everywhere project with @Visa challenges you to take risks. Where will your dreams take you?,0.5144,POSITIVE,0.9383,0,['#everywhere']
+2015-03-10T17:29:57.000Z,Limited time only! Get $8 off $18+ purchase w/ @Visa Checkout and promo code CHECKOUT8! Ltd qty. T&Cs. Shop now: http://bit.ly/18yeKhq,0.5136,NEGATIVE,0.996,0,[]
+2015-03-06T17:12:45.000Z,Going to Austin? See what’s happening & register now. Ltd space. Confirmed RSVP req.   https://cards.twitter.com/cards/949uer/dszs…,0.5089,POSITIVE,0.8517,0,[]
+2015-02-26T18:53:26.000Z,@surahbee It's great to hear you love Visa Checkout. What have you purchased with it?,0.5043,POSITIVE,0.9793,0,[]
+2015-02-20T02:54:28.000Z,Now use Visa Checkout to pay in just a few clicks with @VirginAmerica. https://cards.twitter.com/cards/949uer/cqt5…,0.5088,POSITIVE,0.636,0,[]
+2015-02-02T02:37:59.000Z,"@riggsjessicar, we agree. It was an amazing show!",0.5025,POSITIVE,0.9958,0,[]
+2015-01-31T23:06:11.000Z,Our friends at #Visa and NFL players taught fans to shop with #ApplePay at the #NFLExperience http://mashable.com/2015/01/31/apple-pay-super-bowl-brandspeak/…,0.5053,NEGATIVE,0.7596,0,"['#Visa', '#ApplePay', '#NFLExperience']"
+2015-02-01T02:09:13.000Z,Congrats @LarryFitzgerald for winning Art Rooney Award at #NFLHonors! #TeamVisa #EverywhereWeWantToBe,0.5028,POSITIVE,0.9918,0,"['#NFLHonors', '#TeamVisa', '#EverywhereWeWantToBe']"
+2015-02-01T01:47:26.000Z,Congrats @OBJ_3 on Offensive Rookie of The Year! Seems like the world record is just the beginning!,0.584,POSITIVE,0.9991,0,[]
+2015-01-31T23:48:01.000Z,@official_lester it really was an impressive feat!,0.503,POSITIVE,0.9936,0,[]
+2015-01-31T20:30:23.000Z,This shows how I felt about #Visa bringing me to #NFLX to teach #PatsNation & @ETnow how to use #ApplePay! (J-Mac),0.5079,POSITIVE,0.9564,0,"['#Visa', '#NFLX', '#PatsNation', '#ApplePay']"
+2015-01-31T19:42:43.000Z,With my friends at #Visa having a blast at the Phoenix #NFLX for #ApplePay! This place is buzzing!,0.5006,NEGATIVE,0.9758,0,"['#Visa', '#NFLX', '#ApplePay']"
+2015-01-31T19:27:22.000Z,With my friends at #Visa having a blast in Phoenix at #NFLX!! I am at the #ApplePay demo!,0.5007,POSITIVE,0.999,0,"['#Visa', '#NFLX', '#ApplePay']"
+2015-01-31T19:29:22.000Z,Enjoyed shopping with my friends at #Visa at #NFLX and learning how to use #ApplePay,0.5131,POSITIVE,0.946,0,"['#Visa', '#NFLX', '#ApplePay']"
+2015-01-30T23:51:50.000Z,Having fun with my friends at #Visa at the Phoenix #NFLX learning how to use #ApplePay!,0.5094,POSITIVE,0.9959,0,"['#Visa', '#NFLX', '#ApplePay']"
+2015-01-31T03:29:26.000Z,"Sign up for Visa Checkout, the easier way to get exclusive @KatyPerry merch during her show. https://cards.twitter.com/cards/949uer/blg3…",0.5082,POSITIVE,0.7093,0,[]
+2015-01-30T16:07:37.000Z,Congrats to @DrewBrees & @OBJ_3 for setting the GWR! Thanks @Visa! #CheckoutODBrees http://es.pn/1DnhJ6L,0.5021,POSITIVE,0.9804,0,['#CheckoutODBrees']
+2015-01-29T22:18:15.000Z,In Phoenix with our friends at #Visa teaching football fans to use #ApplePay. See which athletes have dropped by http://mashable.com/2015/01/29/nfl-experience-brandspeak/…,0.5072,NEGATIVE,0.8447,0,"['#Visa', '#ApplePay']"
+2015-01-29T22:21:14.000Z,"Had fun w/#Visa at #NFLX. They taught me how to use #ApplePay, then I taught fans (and babies..bc it's that easy lol)",0.5069,POSITIVE,0.9998,0,"['#Visa', '#NFLX', '#ApplePay']"
+2015-01-29T22:25:36.000Z,Congrats to my boys @OBJ_3 & @drewbrees on the new record & for repping the @Visa family. Im coming for that record though. #CheckoutODBrees,0.5364,POSITIVE,0.9659,0,['#CheckoutODBrees']
+2015-01-29T22:47:29.000Z,All 33 one-handed catches by Odell Beckham Jr. to set the RECORD with the help of @Visa & Drew Brees #CheckoutODBrees http://es.pn/1610qxJ,0.5109,POSITIVE,0.9921,0,['#CheckoutODBrees']
+2015-01-29T23:39:41.000Z,.@EAMaddenNFL @OBJ_3 @GWR How about a 101? That was quite an impressive minute!,0.5042,POSITIVE,0.935,0,[]
+2015-01-29T21:20:59.000Z,.@EAMaddenNFL @OBJ_3 @ESPN We're on the edge of our seats.,0.5017,POSITIVE,0.9934,0,[]
+2015-01-29T20:51:48.000Z,We believe in you. Good luck! @drewbrees @OBJ_3 @espn,0.515,POSITIVE,0.9971,0,[]
+2015-01-29T20:51:27.000Z,We know you’ll keep your eyes (and hand!) on the ball. Good luck! @OBJ_3 @drewbrees @espn,0.5164,POSITIVE,0.9942,0,[]
+2015-01-29T17:00:09.000Z,Hope your arm is warm @DrewBrees. Tune into @ESPN today at 4:30 EST to see me set a world record with Visa #CheckoutODBrees,0.5289,NEGATIVE,0.6465,0,['#CheckoutODBrees']
+2015-01-29T17:38:01.000Z,With my friends at @Visa having a great time at #NFLX in Phoenix. Demoing #ApplePay!,0.5131,NEGATIVE,0.8534,0,"['#NFLX', '#ApplePay']"
+2015-01-29T15:58:44.000Z,Excited to partner with @OBJ_3 and @visa to make history today! Tune into @ESPN at 4:30 EST to see it go down #CheckoutODBrees,0.5204,POSITIVE,0.9957,0,['#CheckoutODBrees']
+2015-01-29T18:08:24.000Z,.@EAMaddenNFL @OBJ_3 That’s right! And we’re confident a new record will be set today.,0.566,POSITIVE,0.9923,0,[]
+2015-01-27T01:50:46.000Z,Odell Beckham Jr will try to set record of most 1-handed catches in a minute on Thursday to promote Visa Checkout. Drew Brees will throw.,0.5081,POSITIVE,0.9758,0,[]
+2015-01-19T00:15:14.000Z,@gireraraqano That’s great. Enjoy the new way to pay.,0.5621,POSITIVE,0.9557,0,[]
+2015-01-02T16:25:21.000Z,@pamisnova Good luck!,0.5267,POSITIVE,0.9169,0,[]
+2015-01-02T16:10:32.000Z,@pamisnova Of course. Which Golden Pin is calling your name?,0.5067,NEGATIVE,0.8826,0,[]
+2015-01-01T17:09:01.000Z,"@smileyleopard Wow, what was his reaction? #ApplePay #Visa",0.5,NEGATIVE,0.8714,0,"['#ApplePay', '#Visa']"
+2015-01-01T01:17:13.000Z,@Donnabayarea Lovely! That should keep your little one busy and having fun for a while. Thanks for using #ApplePay! #Visa,0.5114,POSITIVE,0.9911,0,"['#ApplePay', '#Visa']"
+2014-12-31T18:54:04.000Z,@cheba63 You’re making us a bit hungry. Thanks for sharing and good luck in the sweeps! #ApplePay #Visa,0.5188,NEGATIVE,0.7687,0,"['#ApplePay', '#Visa']"
+2014-12-21T18:30:15.000Z,@cheba63 Thanks for sharing and good luck in the sweeps!,0.5175,POSITIVE,0.963,0,[]
+2014-11-22T19:28:45.000Z,"@cheba63 We’re glad to hear that! #ApplePay is so convenient and easy to use, now you can focus on doing the things you love. #Visa",0.5146,POSITIVE,0.9962,0,"['#ApplePay', '#Visa']"
+2014-12-29T16:23:02.000Z,@daddyrgm Thanks for entering. Wishing all entrants the best of luck!,0.5186,POSITIVE,0.9781,0,[]
+2014-12-29T15:38:11.000Z,@shawnrss Hope you enter soon.,0.5088,POSITIVE,0.9584,0,[]
+2014-12-29T14:22:15.000Z,@KatragaddaCMC when you donate $10 or more through Visa Checkout we will make an additional $15 donation. http://rdcrss.org/1zA6iIV,0.5032,NEGATIVE,0.8745,0,[]
+2014-12-29T14:02:37.000Z,@MalibuBarbaraW  Totally agree. It would be so fun!,0.506,POSITIVE,0.9432,0,[]
+2014-12-29T00:46:20.000Z,@MalibuBarbaraW Excellent. Have you been to Paris before?,0.5,POSITIVE,0.9963,0,[]
+2014-12-28T18:24:43.000Z,@cheba63 Glad to hear! We hope #ApplePay can be useful to you in many other ways. #Visa,0.5028,POSITIVE,0.9964,0,"['#ApplePay', '#Visa']"
+2014-12-28T15:19:12.000Z,@Connie_Lavery We’re excited you’re excited. Fingers crossed.,0.5025,POSITIVE,0.9957,0,[]
+2014-12-27T19:15:41.000Z,@cheba63 Well that’s definitely useful. Enjoy your new remote.,0.565,POSITIVE,0.9632,0,[]
+2014-12-27T02:48:52.000Z,@caty7d You’re making us a bit hungry. Thanks for sharing and good luck in the sweeps! #ApplePay #Visa,0.5188,NEGATIVE,0.9123,0,"['#ApplePay', '#Visa']"
+2014-12-26T19:03:25.000Z,"@cheba63 Wow, what was his/her reaction? #ApplePay #Visa",0.5,POSITIVE,0.6194,0,"['#ApplePay', '#Visa']"
+2014-12-25T20:57:00.000Z,@cheba63 Good looking out and making sure she stays warm this season! Thanks for using #ApplePay. #Visa,0.5146,POSITIVE,0.9876,0,"['#ApplePay', '#Visa']"
+2014-12-25T01:38:01.000Z,@gofuwicukute Thanks for sharing. You could win $500!,0.52,POSITIVE,0.9786,0,[]
+2014-12-24T17:37:16.000Z,@cheba63 That’s the power of #ApplePay. #Visa,0.504,POSITIVE,0.9964,0,"['#ApplePay', '#Visa']"
+2014-12-24T15:55:16.000Z,.@Meryl_Davis You’re welcome Meryl! Happy Holidays and we wish you continued success in the New Year.,0.5937,POSITIVE,0.8922,0,[]
+2014-12-24T01:31:33.000Z,Load your Visa card into #ApplePay on the iPhone 6 to get the same great benefits. https://cards.twitter.com/cards/949uer/9z4d…,0.507,POSITIVE,0.6933,0,['#ApplePay']
+2014-12-23T21:04:09.000Z,Make holiday gifting more fun with Visa Checkout and @Gap https://cards.twitter.com/cards/949uer/a071…,0.5054,POSITIVE,0.5839,0,[]
+2014-12-23T19:47:03.000Z,Visa Checkout is the easier way to book your next getaway on @Orbitz. Happy traveling. https://cards.twitter.com/cards/949uer/9uqw…,0.5159,NEGATIVE,0.7973,0,[]
+2014-12-23T19:46:13.000Z,Book on @Orbitz in just a few clicks with Visa Checkout.  https://cards.twitter.com/cards/949uer/9xw4…,0.5058,NEGATIVE,0.5795,0,[]
+2014-12-23T15:26:40.000Z,@TroungLegacy We’re always glad to hear feedback. After review our VH1 ads will no longer air on Sorority Sisters.,0.5031,NEGATIVE,0.8371,0,[]
+2014-12-21T21:33:28.000Z,@chrissyp55 It’s absolutely worth a shot to enter.,0.5142,POSITIVE,0.9981,0,[]
+2014-12-21T15:54:52.000Z,@ReshmiTweetz Aww that’s a cute gesture. He’ll be delighted. #ApplePay #Visa,0.5033,POSITIVE,0.9916,0,"['#ApplePay', '#Visa']"
+2014-12-21T14:43:56.000Z,@ReshmiTweetz Mouthwatering! What’s next on your list? #ApplePay #Visa,0.5193,POSITIVE,0.8959,0,"['#ApplePay', '#Visa']"
+2014-12-20T19:21:48.000Z,"@cheba63 Wow, what was his reaction? #ApplePay #Visa",0.5,NEGATIVE,0.7914,0,"['#ApplePay', '#Visa']"
+2014-12-19T20:46:35.000Z,@akadelight08 We’re glad to hear customer feedback on this. We’re going to pull ads on Sorority Sisters from our VH1 ad buy.,0.518,POSITIVE,0.5314,0,[]
+2014-11-30T16:29:54.000Z,@cheba63 Nothing is too small or too big to be purchased through #ApplePay! #Visa,0.5107,NEGATIVE,0.7432,0,"['#ApplePay', '#Visa']"
+2014-12-15T02:50:11.000Z,"@MissEvette01 Yep, it’s about that time to start preparing for the celebrations. What’s next on your list? #ApplePay #Visa",0.5175,POSITIVE,0.9891,0,"['#ApplePay', '#Visa']"
+2014-12-14T17:57:40.000Z,"@cheba63 #ApplePay can come in handy for any purchase, big or small.",0.5164,POSITIVE,0.9828,0,['#ApplePay']
+2014-12-13T18:49:05.000Z,@cheba63 Convenience and ease is what #ApplePay is all about. We’re glad you’re liking it! #Visa,0.5006,POSITIVE,0.9981,0,"['#ApplePay', '#Visa']"
+2014-12-13T00:08:51.000Z,"This year, my 12 Days of Giveaways is brought to you by Visa Checkout! @Visa is a great partner. I’m glad they got their check out.",0.5531,POSITIVE,0.9875,0,[]
+2014-12-10T21:40:59.000Z,@missmontavon Good luck!,0.5267,POSITIVE,0.7946,0,[]
+2014-12-09T16:42:37.000Z,@Trvlagntchick Can you imagine being at the game? Sign up on http://VisaCheckout.com and you just might win! http://vi.sa/1tgzmik,0.5077,POSITIVE,0.9746,0,[]
+2014-12-06T20:24:15.000Z,@cheba63 Awesome! How often do you use #ApplePay? #Visa,0.5142,POSITIVE,0.9978,0,"['#ApplePay', '#Visa']"
+2014-12-06T16:36:03.000Z,@kpeavs We’re excited for you! What’s next on your list? #ApplePay #Visa,0.5181,POSITIVE,0.994,0,"['#ApplePay', '#Visa']"
+2014-12-06T00:31:08.000Z,@MicahElie Very thoughtful of you. This warms our heart! #ApplePay #Visa,0.5008,POSITIVE,0.996,0,"['#ApplePay', '#Visa']"
+2014-12-03T18:19:08.000Z,"Spend $50+ at @Gap w/ VisaCheckout, get $20 @GapInc eGiftCard thru 12/16-LtdQty.Terms: https://cards.twitter.com/cards/949uer/8tha…",0.5047,NEGATIVE,0.9999,0,[]
+2014-12-03T18:15:53.000Z,@kpeavs How adorable! We’re glad you could make good use of #ApplePay.  #ApplePay #Visa,0.52,POSITIVE,0.996,0,"['#ApplePay', '#ApplePay', '#Visa']"
+2014-12-03T17:42:16.000Z,@joti67 Thank you for your participation. Please email your handle to customerservice@tenthwave.com within 48-hours regarding your entry.,0.5081,NEGATIVE,0.8947,0,[]
+2014-12-03T17:30:10.000Z,@RAS070 Thank you for your participation. Please email your handle to customerservice@tenthwave.com within 48-hours regarding your entry.,0.5081,NEGATIVE,0.9072,0,[]
+2014-11-30T20:43:22.000Z,@Donnabayarea Aww that’s a cute gesture. He’ll be delighted. #ApplePay #Visa,0.5033,POSITIVE,0.9958,0,"['#ApplePay', '#Visa']"
+2014-11-28T01:38:20.000Z,@Donnabayarea Thanks for sharing. You could win $500!,0.52,POSITIVE,0.99,0,[]
+2014-11-23T18:38:41.000Z,@cheba63 Good for you. Enjoy the sweet treat! #ApplePay #Visa,0.5129,POSITIVE,0.9955,0,"['#ApplePay', '#Visa']"
+2014-11-26T20:08:22.000Z,@RAS070 That’s a really nice gift. You have good taste! #ApplePay #Visa,0.5106,POSITIVE,0.9959,0,"['#ApplePay', '#Visa']"
+2014-11-24T21:09:43.000Z,@joti67 Nice shoes! Thanks for sharing and good luck in the sweeps. #ApplePay #Visa,0.511,POSITIVE,0.9369,0,"['#ApplePay', '#Visa']"
+2014-11-24T02:35:47.000Z,@joti67 Nothing is too small or too big to be purchased through #ApplePay! #Visa,0.5107,NEGATIVE,0.8791,0,"['#ApplePay', '#Visa']"
+2014-11-23T02:57:04.000Z,"@denisepointe, We’re glad you enjoyed this, Denise. Have you given Visa Checkout a try?",0.5006,POSITIVE,0.9798,0,[]
+2014-11-22T16:29:57.000Z,@joti67 Thanks for sharing and good luck in the sweeps!,0.5175,POSITIVE,0.8901,0,[]
+2014-11-22T15:37:55.000Z,@RAS070 Now that’s exciting! We’re glad you could make good use of #ApplePay. #Visa,0.5205,POSITIVE,0.9396,0,"['#ApplePay', '#Visa']"
+2014-11-21T02:56:25.000Z,@AGiler7 Mastering the art of ballet is hard. Using Visa Checkout for your holiday online shopping...simple.,0.5096,POSITIVE,0.7699,0,[]
+2014-11-21T02:27:47.000Z,@MrsKrystie Nice Apple Pay purchase. Thanks for sharing! #Visa #Sweeps,0.51,POSITIVE,0.9876,0,"['#Visa', '#Sweeps']"
+2014-11-21T01:26:20.000Z,@cheba63 Nice Apple Pay purchase. Thanks for sharing! #Visa #Sweeps,0.51,POSITIVE,0.9947,0,"['#Visa', '#Sweeps']"
+2014-11-20T00:42:59.000Z,@ErMcGillicuddy Thanks for sharing and good luck in the sweeps!,0.5175,POSITIVE,0.8402,0,[]
+2014-11-18T02:07:41.000Z,Get $10 off online @Gymboree w/ Visa Checkout and promo code VCHECKOUT. Limited time. See terms. https://cards.twitter.com/cards/949uer/7vaz…,0.5108,NEGATIVE,0.9996,0,[]
+2014-11-15T20:05:03.000Z,@cheba63 Now that’s exciting! We’re glad you could make good use of #ApplePay. #visa,0.5205,POSITIVE,0.9292,0,"['#ApplePay', '#visa']"
+2014-11-15T21:33:07.000Z,@cheba63  Check out our official rules to find out how to enter and more: http://bit.ly/1yKRisl,0.503,NEGATIVE,0.509,0,[]
+2014-11-15T21:27:45.000Z,"@cheba63 Celebrate the launch of Apple Pay, and you may have a chance to win a $500 Visa. Gift card! T&C’s http://bit.ly/1yKRisl",0.5116,POSITIVE,0.9283,0,[]
+2014-11-15T19:55:47.000Z,@cheba63 We’re excited for you! What’s next on your list? #ApplePay #visa,0.5181,POSITIVE,0.9971,0,"['#ApplePay', '#visa']"
+2014-11-14T16:11:30.000Z,@mShalfan Hi Mohammad– Check out our official rules to find out how to enter and more: http://bit.ly/1yKRisl,0.5025,NEGATIVE,0.7947,0,[]
+2014-11-13T16:45:57.000Z,"Book roundtrip flight on @Orbitz, get $100 off qualifying hotel stay w/ Visa Checkout. See terms. https://cards.twitter.com/cards/949uer/7mx4…",0.5062,NEGATIVE,0.7452,0,[]
+2014-11-11T12:45:43.000Z,@missaliciababyy We’re happy you’re excited about Apple Pay. We are too!,0.51,POSITIVE,0.9949,0,[]
+2014-11-09T23:21:04.000Z,"@brethalleran #ApplePay can come in handy for any purchase, big or small.",0.5164,POSITIVE,0.9076,0,['#ApplePay']
+2014-11-09T23:20:17.000Z,@Kayleighpurwin Good for you. Enjoy the sweet treat! #ApplePay #Visa,0.5129,POSITIVE,0.9901,0,"['#ApplePay', '#Visa']"
+2014-11-09T20:43:27.000Z,@cheba63 Nothing is too small or too big to be purchased through #ApplePay! #visa,0.5107,NEGATIVE,0.7432,0,"['#ApplePay', '#visa']"
+2014-11-09T19:08:55.000Z,"@laidbacklady34 #ApplePay can come in handy for any purchase, big or small.",0.5164,POSITIVE,0.9729,0,['#ApplePay']
+2014-11-09T18:52:09.000Z,@daycaremama8 Nothing is too small or too big to be purchased through #ApplePay! #visa,0.5107,NEGATIVE,0.8961,0,"['#ApplePay', '#visa']"
+2014-11-05T00:38:26.000Z,@CatSwagYo Sweet first #ApplePay purchase. What’s next on your list? #Visa,0.5267,POSITIVE,0.9917,0,"['#ApplePay', '#Visa']"
+2014-11-02T18:15:00.000Z,Behind the scenes at my latest video with #VisaCheckout #ad,0.505,NEGATIVE,0.6952,0,"['#VisaCheckout', '#ad']"
+2014-11-02T21:37:02.000Z,@daycaremama8 The future is here. Thanks for paying with #ApplePay. #Visa,0.51,NEGATIVE,0.8627,0,"['#ApplePay', '#Visa']"
+2014-11-02T21:36:12.000Z,@cheba63 Fantastic! What’s next on your list? #ApplePay #Visa,0.52,POSITIVE,0.9983,0,"['#ApplePay', '#Visa']"
+2014-11-02T19:25:27.000Z,@laidbackmama9 Excellent! Use your #ApplePay with purchases big or small.  Simple as that!,0.5206,POSITIVE,0.9787,0,['#ApplePay']
+2014-11-02T19:23:45.000Z,@momincitylife Fantastic! Sounds like something you’ll be needing quite a bit! Thanks for paying with #ApplePay. #Visa,0.5038,POSITIVE,0.9567,0,"['#ApplePay', '#Visa']"
+2014-11-01T20:39:30.000Z,@daycaremama8 Sounds like something you’ll be using quite a bit this winter! Thanks for paying with #ApplePay. #Visa,0.5046,NEGATIVE,0.6212,0,"['#ApplePay', '#Visa']"
+2014-11-01T01:39:38.000Z,@trevwaite We’re happy you’re excited about Apple Pay. We are too!,0.51,POSITIVE,0.996,0,[]
+2014-10-31T14:26:56.000Z,@momincitylife Well that’s definitely useful. Thanks for sharing and good luck in the sweeps! #Visa #ApplePay,0.5192,POSITIVE,0.7914,0,"['#Visa', '#ApplePay']"
+2014-10-30T03:04:20.000Z,@momincitylife Great purchase! Something you’ll be wearing quite a bit! Thanks for paying with #ApplePay. #Visa,0.5083,POSITIVE,0.9937,0,"['#ApplePay', '#Visa']"
+2014-10-29T00:52:15.000Z,"@daycaremama8 Pretty futuristic, right? Thanks for paying with #ApplePay. #Visa",0.5044,NEGATIVE,0.704,0,"['#ApplePay', '#Visa']"
+2014-10-25T22:39:54.000Z,@cheba63 Sounds delicious! Way to celebrate #ApplePay day! #Visa,0.51,POSITIVE,0.9995,0,"['#ApplePay', '#Visa']"
+2014-10-24T16:34:18.000Z,@caelinclover Nice! What’s next on your list? #ApplePay #Visa,0.5193,POSITIVE,0.9944,0,"['#ApplePay', '#Visa']"
+2014-10-22T00:31:55.000Z,@Fearthebeard456 Nice #ApplePay purchase. Thanks for sharing! #Visa,0.51,POSITIVE,0.991,0,"['#ApplePay', '#Visa']"
+2014-10-20T18:34:10.000Z,@jamiechung1 @chase @doughbrooklyn Yum! That looks good. Awesome to have you here with us today!,0.5372,POSITIVE,0.9982,0,[]
+2014-10-17T19:06:34.000Z,Make the most of the season with @LLBean’s Discovery Schools. http://bit.ly/ZxWws5,0.5011,POSITIVE,0.9051,0,[]
+2014-10-12T19:02:02.000Z,Get 10% off when you pay w/ @Visa Checkout & use promo code visacheckout. Details at http://ow.ly/C5sRU,0.5079,NEGATIVE,0.9996,0,[]
+2014-10-11T16:26:39.000Z,Get $50 off $200 or more when you shop online at @Staples w/ Visa Checkout. T&Cs: http://bit.ly/StTW109 https://cards.twitter.com/cards/949uer/5tvj…,0.5063,NEGATIVE,0.9965,0,[]
+2014-10-03T16:27:16.000Z,@CuteJudiciary We love them too! Hope you join us and #startweekending.,0.5192,POSITIVE,0.9879,0,['#startweekending']
+2014-10-02T18:00:24.000Z,"The untold story behind the @Visa ad w/ @LarryFitzgerald, @Kaepernick7, @drewbrees & A. Luck: http://bit.ly/1sPh3pQ",0.5011,POSITIVE,0.908,0,[]
+2014-10-02T18:01:20.000Z,"@USASynchro, we were happy to have you. Amazing performance!",0.5225,POSITIVE,0.9946,0,[]
+2014-09-29T18:02:42.000Z,Shop @Newegg online & get 10% (up to $20) off using Visa Checkout w/ promo code: visacheckout. T&Cs https://cards.twitter.com/cards/949uer/5557…,0.5074,NEGATIVE,0.972,0,[]
+2014-09-27T22:13:22.000Z,@KameronSorensen it’s that simple to pay with Visa Checkout! Pay like a football pro. We know you have the skills. http://vi.sa/1jsqbME,0.5044,NEGATIVE,0.667,0,[]
+2014-09-25T15:03:04.000Z,"Wherever you want to be, you have to start somewhere. Don’t keep your next adventure waiting. #startweekending",0.513,POSITIVE,0.995,0,['#startweekending']
+2014-09-19T00:30:12.000Z,Summer doesn’t end until YOU say so: http://bzfd.it/XNY8gD @Visa #startweekending,0.5061,NEGATIVE,0.8497,0,['#startweekending']
+2014-09-18T15:47:03.000Z,"The weekend is where we all want to be, but it’s never long enough. Let’s kick it off sooner. #startweekending",0.5135,NEGATIVE,0.9047,0,['#startweekending']
+2014-09-17T22:22:08.000Z,Shop online at @Staples w/ Visa Checkout & get $25 off $150. T&C: https://cards.twitter.com/cards/949uer/4jyb…,0.5083,NEGATIVE,0.9012,0,[]
+2014-09-17T17:00:18.000Z,Our life mantra: Treat every day like it's Sunday brunch...http://bzfd.it/Xp8Aej @visa #startweekending,0.5058,POSITIVE,0.8996,0,['#startweekending']
+2014-09-09T22:41:49.000Z,Get the Footballentine Bouquet using Visa Checkout for twice the flowers w/ promo code VISA78. https://cards.twitter.com/cards/949uer/44ht…,0.5053,NEGATIVE,0.9082,0,[]
+2014-09-09T18:00:10.000Z,"Shop @Newegg online to get the latest gadgets, made easier with Visa Checkout. Get started: http://bit.ly/1rwtNeb",0.5116,POSITIVE,0.6014,0,[]
+2014-09-07T15:41:10.000Z,Visa Checkout & @PizzaHut are ready to dish up 1 million pizzas! Learn more. https://cards.twitter.com/cards/949uer/40hn…,0.535,POSITIVE,0.9916,0,[]
+2014-09-05T21:22:48.000Z,behind the scenes of my surf with @Visa and Visa Checkout the other day... https://youtube.com/watch?v=mUD1B9On_7Y… #ad,0.5073,POSITIVE,0.9901,0,['#ad']
+2014-09-06T01:40:08.000Z,Check out my floriology skills in this Footballentines Day #VisaCheckout #ad that @JessieJDecker and I did....https://amp.twimg.com/v/33a58f16-3df0-4fee-b970-eb816120e27d…,0.5042,POSITIVE,0.8564,0,"['#VisaCheckout', '#ad']"
+2014-09-05T15:41:11.000Z,@kgbearclaw Flowers and football - What’s not to love?,0.502,POSITIVE,0.9994,0,[]
+2014-08-29T16:07:13.000Z,"The perfect first bite. If that’s your #everywhere, don’t forget to thank your grill master.",0.5075,POSITIVE,1.0,0,['#everywhere']
+2014-08-21T18:40:29.000Z,Start the party easily & order @PizzaHut online w/ Visa Checkout. http://bit.ly/821PHT2,0.5188,POSITIVE,0.8713,0,[]
+2014-08-13T18:00:41.000Z,Get $10 off $150 at @Staples for back-to-school shopping with Visa Checkout. T&C: http://bit.ly/13twsno https://cards.twitter.com/cards/949uer/2vzx…,0.5066,NEGATIVE,0.9995,0,[]
+2014-08-07T23:13:46.000Z,"Introducing @Visa Checkout, the easier way to pay on http://CUSP.com. Try it now: http://neimanmarc.us/ZavCv9",0.5125,NEGATIVE,0.7027,0,[]
+2014-08-08T18:00:27.000Z,Shop @BeyondTheRack online in a flash with Visa Checkout. The easier way to pay online. http://bit.ly/0808TW,0.5075,POSITIVE,0.6778,0,[]
+2014-07-29T19:30:05.000Z,Shop @WineEnthusiast online & start savoring w/ Visa Checkout. The easier way to pay online. http://vi.sa/1tWPmHZ,0.5056,POSITIVE,0.6288,0,[]
+2014-07-21T22:32:41.000Z,"For a sandwich connoisseur, #everywhere is a classic lobster roll.",0.5008,POSITIVE,0.9984,0,['#everywhere']
+2014-07-16T19:44:47.000Z,"Goodbye endless forms, hello Visa Checkout. The easier way to pay online. Sign up: http://vi.sa/1jQopVZ",0.5043,NEGATIVE,0.9986,0,[]
+2014-07-13T22:21:57.000Z,"At the #WorldCup, fans are the true champions. Be the one to raise the cup at http://vi.sa/teletransporterfansTW…",0.5077,POSITIVE,0.9317,0,['#WorldCup']
+2014-07-13T21:26:05.000Z,One step closer to where #GER wants to be. #WorldCupFinal #Brazil2014,0.5164,POSITIVE,0.9998,0,"['#GER', '#WorldCupFinal', '#Brazil2014']"
+2014-07-13T21:19:30.000Z,The #WorldCupFinal hangs in the balance. The last 15min will feel as long as the 31 days to get here. #Brazil2014,0.53,NEGATIVE,0.9751,0,"['#WorldCupFinal', '#Brazil2014']"
+2014-07-13T20:53:32.000Z,Forget missed chances and focus on getting where you want to be: #WorldCupFinal Champions #Brazil2014,0.5089,POSITIVE,0.6027,0,"['#WorldCupFinal', '#Brazil2014']"
+2014-07-13T20:25:45.000Z,Berlin or Buenos Aires? Who will reach where they want to be? #WorldCupFinal #Brazil2014,0.5086,POSITIVE,0.9766,0,"['#WorldCupFinal', '#Brazil2014']"
+2014-07-13T18:53:58.000Z,We all want #WorldCup magic today. The World Cup final is where every fan wants to be #GERARG,0.5282,POSITIVE,0.9994,0,"['#WorldCup', '#GERARG']"
+2014-07-12T00:31:18.000Z,@jessicaprad8 Cheer them on loud and proud!,0.5062,POSITIVE,0.9969,0,[]
+2014-07-11T23:36:17.000Z,@Loverzz17 That’s the spirit. The Cup is on the line!,0.527,POSITIVE,0.9986,0,[]
+2014-07-11T23:31:24.000Z,@SportsCarSang Sounds like you’ve got your game face on!,0.4993,POSITIVE,0.9938,0,[]
+2014-07-09T22:39:28.000Z,What a difference a day makes. Defense reigns. Penalties will decide who is Rio bound. #NEDvsARG #WorldCup,0.5068,POSITIVE,0.9997,0,"['#NEDvsARG', '#WorldCup']"
+2014-07-08T21:35:26.000Z,Record breaking heartbreaker. #BrazilvsGermany #WorldCup,0.512,POSITIVE,0.8113,0,"['#BrazilvsGermany', '#WorldCup']"
+2014-07-08T20:30:15.000Z,A game of the unexpected. #BRAvsGER #WorldCup,0.5012,POSITIVE,0.9998,0,"['#BRAvsGER', '#WorldCup']"
+2014-07-08T20:26:04.000Z,Drama unfolds in the World Cup semifinals. #BRAvsGER #WorldCup,0.5157,POSITIVE,0.8716,0,"['#BRAvsGER', '#WorldCup']"
+2014-07-08T20:04:32.000Z,Brazil brotherhood never looked so strong. #BRAvsGER #VaiBrasil #WorldCup,0.5181,POSITIVE,0.9984,0,"['#BRAvsGER', '#VaiBrasil', '#WorldCup']"
+2014-07-05T01:00:05.000Z,"The Power Of Football To Unite, Despite Rivalries: http://ift.tt/1lBQoCN Visa. #Everywhere you want to be. #WorldCup",0.5038,POSITIVE,0.999,0,"['#Everywhere', '#WorldCup']"
+2014-07-04T12:44:25.000Z,European giants collide. #FRA meets #GER. #WorldCup #Brazil2014,0.5031,POSITIVE,0.9716,0,"['#FRA', '#GER', '#WorldCup', '#Brazil2014']"
+2014-07-01T21:57:27.000Z,"If you have any fingernails left, they probably won't last much longer. #BELvsUSA #extratime #WorldCup #Brazil2014",0.525,POSITIVE,0.9959,0,"['#BELvsUSA', '#extratime', '#WorldCup', '#Brazil2014']"
+2014-07-01T21:37:41.000Z,"No celebrating with that Belgian beer just yet, huge save keeps them off the board. #USA #WorldCup #Brazil2014 #BELvsUSA",0.5104,POSITIVE,0.9996,0,"['#USA', '#WorldCup', '#Brazil2014', '#BELvsUSA']"
+2014-07-01T21:29:53.000Z,"#USA keeper doing what he does best, making the incredible look easy. #WorldCup #Brazil2014",0.5217,POSITIVE,0.9999,0,"['#USA', '#WorldCup', '#Brazil2014']"
+2014-07-01T17:36:56.000Z,"How do you get millions of people all to say ""OH!"" at once? Nice save Switzerland! #Brazil2014 #WorldCup #ARG vs #SUI",0.5012,POSITIVE,0.9933,0,"['#Brazil2014', '#WorldCup', '#ARG', '#SUI']"
+2014-06-30T16:30:48.000Z,Good luck #GER and #ALG in today's match. The FIFA World Cup is where we all want to be. #WorldCup #Brazil2014,0.5292,POSITIVE,0.9995,0,"['#GER', '#ALG', '#WorldCup', '#Brazil2014']"
+2014-06-30T14:29:45.000Z,Good luck #FRA and #NGA in today's match. The FIFA World Cup is where we all want to be. #WorldCup #Brazil2014,0.5292,POSITIVE,0.9993,0,"['#FRA', '#NGA', '#WorldCup', '#Brazil2014']"
+2014-06-29T16:37:34.000Z,Good luck #CRC and #GRE in today's match. The FIFA World Cup is where we all want to be. #WorldCup #Brazil2014,0.5292,POSITIVE,0.9993,0,"['#CRC', '#GRE', '#WorldCup', '#Brazil2014']"
+2014-06-29T15:40:45.000Z,Good luck #NED and #MEX in today's match. The FIFA World Cup is where we all want to be. #WorldCup #Brazil2014,0.5292,POSITIVE,0.9995,0,"['#NED', '#MEX', '#WorldCup', '#Brazil2014']"
+2014-06-28T19:31:32.000Z,Good luck #COL and #URU in today's match. #WorldCup #Brazil2014,0.5294,POSITIVE,0.9981,0,"['#COL', '#URU', '#WorldCup', '#Brazil2014']"
+2014-06-28T15:34:01.000Z,Good luck #BRA and #CHI in today's match. The FIFA World Cup is where we all want to be. #WorldCup #Brazil2014,0.5292,POSITIVE,0.9982,0,"['#BRA', '#CHI', '#WorldCup', '#Brazil2014']"
+2014-06-13T16:44:27.000Z,Thanks @Visa!!! I just teletransported to the FIFA World Cup to score my first golazo #teletransporter #WorldCup http://youtu.be/Q3FLt-vHjfg,0.5133,POSITIVE,0.8859,0,"['#teletransporter', '#WorldCup']"
+2014-05-23T07:05:06.000Z,Select 2+ tix on a Fri for a Fri show. Limit 1 comp ticket per Visa Signature® card per 30 days. Terms: http://vi.sa/VSigTC [2/2],0.5129,POSITIVE,0.65,0,[]
+2014-05-23T07:00:16.000Z,Select 2+tix to X-Men: Days of Future Past w/Visa Signature® on @Fandango & get 1 on us. http://fandan.co/XMenTix http://bit.ly/1gU1lnO [1/2],0.5112,POSITIVE,0.9623,0,[]
+2014-05-22T14:58:37.000Z,"If bold is your #everywhere, see the @BananaRepublic @Marimekkousa collection. #BRxMarimekko https://cards.twitter.com/cards/949uer/hv9…",0.5043,POSITIVE,0.6595,0,"['#everywhere', '#BRxMarimekko']"
+2014-05-19T15:43:30.000Z,@annalovesrex we know the feeling. He'll never know he doesn't like it until he tries. There's nothing like the feeling of a zip line.,0.5196,NEGATIVE,0.9404,0,[]
+2014-05-15T17:19:13.000Z,@MrsKrystie There’s no better way to feel that rush!,0.5167,NEGATIVE,0.9158,0,[]
+2014-05-13T22:47:37.000Z,Check out these great videos from @Visa featuring @GRob_92 (https://youtube.com/watch?v=ykjf2H30-S8…) and @MichaelSamNFL (https://youtube.com/watch?v=C75q_7TVmCk…).,0.5074,POSITIVE,0.9965,0,[]
+2014-05-09T23:53:04.000Z,We’re happy to support you as you achieve your #everywhere RT @MikeSamFootball: Thank you for your support @Visa! http://bit.ly/Rw643r,0.5111,POSITIVE,0.9282,0,['#everywhere']
+2014-04-18T15:46:10.000Z,@AdrianVenzo beef or chicken?,0.4983,NEGATIVE,0.9994,0,[]
+2014-04-03T15:09:24.000Z,@Santole1994 Yum. Keep slurping!,0.5062,POSITIVE,0.9989,0,[]
+2014-04-03T15:02:55.000Z,@Santole1994 It's the cure for all cravings. How do you like your Pho?,0.499,POSITIVE,0.9966,0,[]
+2014-04-02T17:43:32.000Z,@CheckMyMelodi The Blue Lagoon is in Iceland. Start planning your trip today!,0.5194,POSITIVE,0.8851,0,[]
+2014-04-02T15:20:36.000Z,"@CheckMyMelodi Take a dip in nature’s hot tub, Melodi. You won’t be disappointed.",0.5039,POSITIVE,0.9912,0,[]
+2014-03-27T21:49:08.000Z,"Wishing Buffalo Bills legend, Jim Kelly and his family strength during this difficult time. #GetWellJimKelly",0.51,POSITIVE,0.9941,0,['#GetWellJimKelly']
+2014-03-26T17:21:47.000Z,"Relaxed at the gate. Yes, please. Speed thru security lines w/Visa Signature’s @CLEAR_me offer. Terms: http://vi.sa/IpPttL",0.5072,NEGATIVE,0.5067,0,[]
+2014-03-20T18:56:32.000Z,Recap video from last year's @thedumontcup. Get psyched for this year. Going to be bigger and better.,0.6405,POSITIVE,0.8967,0,[]
+2014-03-19T18:51:35.000Z,Acting up at #visa photo shoot http://instagram.com/p/lvCIqdg-BA/,0.5075,NEGATIVE,0.9886,0,['#visa']
+2014-03-10T21:22:59.000Z,"We’re so proud of you, @alananichols21. We wish you a speedy recovery and hope to see you back on the slopes very soon!",0.5073,POSITIVE,0.9864,0,[]
+2014-03-08T18:22:02.000Z,Congrats to my girl @alananichols21 for her silver medal today! #Sochi2014 #Paralympics @Visa,0.5178,POSITIVE,0.9902,0,"['#Sochi2014', '#Paralympics']"
+2014-03-05T18:21:09.000Z,@Visa.... anything is possible! Thank you for this awesome post!!!! #Paralympics #everywhere #usparalympics #Sochi2014,0.5015,POSITIVE,0.9855,0,"['#Paralympics', '#everywhere', '#usparalympics', '#Sochi2014']"
+2014-03-02T20:59:08.000Z,Feeling like you're at Hollywood's biggest night — that's everywhere. Get in on the glam w/ @BananaRepublic:,0.5064,NEGATIVE,0.9738,0,[]
+2014-02-28T20:03:54.000Z,"Relaxed at the gate. Yes, please. Speed thru security lines w/Visa Signature’s @CLEAR_me offer. Terms: http://vi.sa/IpPttL #everywhere",0.5068,POSITIVE,0.7163,0,['#everywhere']
+2014-02-25T19:23:48.000Z,Thank you @Visa for your unwavering support over the years. So happy to be a part of of this amazing team. #teamvisa,0.523,POSITIVE,0.9909,0,['#teamvisa']
+2014-02-26T03:29:35.000Z,Our #everywhere is a world where everyone can realize their dreams. http://vi.sa/1ehxUZx,0.5128,POSITIVE,0.9726,0,['#everywhere']
+2014-02-23T16:01:09.000Z,"@_jamesvelasquez So will we, but she leaves us with great memories of 2014 and we have 2018 to look forward to. https://vine.co/v/MmMwa3aK93e",0.5187,POSITIVE,0.9714,0,[]
+2014-02-22T22:36:42.000Z,"@motivateyourass Thanks, Ben! Happy to know you're enjoying The Winter Olympics.",0.5156,POSITIVE,0.9926,0,[]
+2014-02-21T03:49:59.000Z,@CountryJunkie_ Here you go! http://bit.ly/1fgnA5j,0.5008,POSITIVE,0.8781,0,[]
+2014-02-21T02:24:00.000Z,"@CountryJunkie_ Great! Check out all the ways to enter, and the contest rules, here: http://vi.sa/1gF2YVI",0.5036,POSITIVE,0.9705,0,[]
+2014-02-20T23:05:59.000Z,I definitely taught this guy a front flip years ago. Huge congrats @mrDavidWise so amazing!,0.5123,POSITIVE,0.997,0,[]
+2014-02-20T21:58:12.000Z,@andrewjcoate @Jeanwrites Glad you're fans. How about a close-up? https://vine.co/v/MW1hPTqArJL,0.5018,POSITIVE,0.9937,0,[]
+2014-02-20T00:43:03.000Z,"For @MrDavidWise, the sky is not the limit. Congrats on the first Olympic Gold Medal in freeski halfpipe. #TeamVisa https://vine.co/v/MZDqp9aAh7i",0.5072,POSITIVE,0.9664,0,['#TeamVisa']
+2014-02-19T19:33:24.000Z,I can't believe I just competed at the Olympics!!!!! It was a dream come true  #Sochi2014,0.5036,POSITIVE,0.9992,0,['#Sochi2014']
+2014-02-19T17:52:53.000Z,@mickeyaddison You’re a part of the #TeamVisa fan mosaic: http://urldg.com/qkjakF Here's a digital autograph:,0.5112,POSITIVE,0.9899,0,['#TeamVisa']
+2014-02-19T17:48:41.000Z,@ImPhillinLucky You’re a part of the #TeamVisa fan mosaic: http://urldg.com/KLWCyi Here's a digital autograph:,0.5112,POSITIVE,0.9348,0,['#TeamVisa']
+2014-02-19T17:46:40.000Z,@MahKayLee You’re a part of the #TeamVisa fan mosaic: http://urldg.com/XoiY9o Here's a digital autograph:,0.5112,POSITIVE,0.9751,0,['#TeamVisa']
+2014-02-19T17:46:37.000Z,@Yomen_Ar You’re a part of the #TeamVisa fan mosaic: http://urldg.com/Bnaepr Here's a digital autograph:,0.5104,POSITIVE,0.9872,0,['#TeamVisa']
+2014-02-19T17:46:35.000Z,@Danniem09 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/JJNgZj Here's a digital autograph:,0.5112,POSITIVE,0.9747,0,['#TeamVisa']
+2014-02-19T17:44:31.000Z,@10mdna You’re a part of the #TeamVisa fan mosaic: http://urldg.com/Jc5JUd Here's a digital autograph:,0.5112,POSITIVE,0.9868,0,['#TeamVisa']
+2014-02-19T17:42:28.000Z,@mariac3716 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/6QpbRD Here's a digital autograph:,0.5112,POSITIVE,0.9873,0,['#TeamVisa']
+2014-02-19T17:42:27.000Z,@C_Franklin15 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/l8KSLT Here's a digital autograph:,0.5104,POSITIVE,0.9897,0,['#TeamVisa']
+2014-02-19T17:41:27.000Z,@brendonalbini You’re a part of the #TeamVisa fan mosaic: http://urldg.com/OXSl23 Here's a digital autograph:,0.5112,POSITIVE,0.9861,0,['#TeamVisa']
+2014-02-19T17:41:25.000Z,@gjblount You’re a part of the #TeamVisa fan mosaic: http://urldg.com/SLsAhy Here's a digital autograph:,0.5112,POSITIVE,0.9831,0,['#TeamVisa']
+2014-02-19T17:36:15.000Z,@AmbieLuczak You’re a part of the #TeamVisa fan mosaic: http://urldg.com/73ODOc Here's a digital autograph:,0.5112,POSITIVE,0.9967,0,['#TeamVisa']
+2014-02-19T17:36:14.000Z,@TracyWare18 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/j0OCDh Here's a digital autograph:,0.5112,POSITIVE,0.9769,0,['#TeamVisa']
+2014-02-19T17:35:15.000Z,@snowcakeharry You’re a part of the #TeamVisa fan mosaic: http://urldg.com/olNHBX Here's a digital autograph:,0.5112,POSITIVE,0.9687,0,['#TeamVisa']
+2014-02-19T17:35:14.000Z,@STREETRUNNR305 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/1HBGGT Here's a digital autograph:,0.5112,POSITIVE,0.9467,0,['#TeamVisa']
+2014-02-19T17:34:08.000Z,@KatKup11 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/MELiOV Here's a digital autograph:,0.5112,POSITIVE,0.9863,0,['#TeamVisa']
+2014-02-19T17:34:07.000Z,@_CROSTHWAITKID_ You’re a part of the #TeamVisa fan mosaic: http://urldg.com/nWiBId Here's a digital autograph:,0.5112,POSITIVE,0.9877,0,['#TeamVisa']
+2014-02-19T17:33:06.000Z,@yoKerbs You’re a part of the #TeamVisa fan mosaic: http://urldg.com/YLFIG0 Here's a digital autograph:,0.5112,POSITIVE,0.973,0,['#TeamVisa']
+2014-02-19T17:31:05.000Z,@athletelife_16 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/64Jp4E Here's a digital autograph:,0.5112,POSITIVE,0.9932,0,['#TeamVisa']
+2014-02-19T17:30:59.000Z,@vasilisaa_b You’re a part of the #TeamVisa fan mosaic: http://urldg.com/Pax19q Here's a digital autograph:,0.5112,POSITIVE,0.9819,0,['#TeamVisa']
+2014-02-19T17:23:49.000Z,@ANEWDay_NEra You’re a part of the #TeamVisa fan mosaic: http://urldg.com/Vj89dF Here's a digital autograph:,0.5104,POSITIVE,0.9863,0,['#TeamVisa']
+2014-02-19T17:23:46.000Z,@Cindy__xo You’re a part of the #TeamVisa fan mosaic: http://urldg.com/Bo1V6s Here's a digital autograph:,0.5104,POSITIVE,0.9784,0,['#TeamVisa']
+2014-02-19T17:22:44.000Z,@morrisaytch You’re a part of the #TeamVisa fan mosaic: http://urldg.com/CeI01I Here's a digital autograph:,0.5112,POSITIVE,0.9922,0,['#TeamVisa']
+2014-02-19T17:21:43.000Z,@KenzieWinzie You’re a part of the #TeamVisa fan mosaic: http://urldg.com/qjnxIP Here's a digital autograph:,0.5112,POSITIVE,0.9835,0,['#TeamVisa']
+2014-02-19T17:21:42.000Z,@thomas_spiegel You’re a part of the #TeamVisa fan mosaic: http://urldg.com/nqBqPa Here's a digital autograph:,0.5104,POSITIVE,0.9813,0,['#TeamVisa']
+2014-02-19T17:21:41.000Z,@SaturZapata You’re a part of the #TeamVisa fan mosaic: http://urldg.com/wsQ9md Here's a digital autograph:,0.5112,POSITIVE,0.9859,0,['#TeamVisa']
+2014-02-19T16:31:00.000Z,.@GraceEGold knows how to turn heads. This is her #everywhere. #TeamVisa #Sochi2014 https://vine.co/v/MZHUatHWvOA,0.5075,POSITIVE,0.9844,0,"['#everywhere', '#TeamVisa', '#Sochi2014']"
+2014-02-19T16:15:56.000Z,@YetundeLara You’re a part of the #TeamVisa fan mosaic: http://urldg.com/iRieql Here's a digital autograph:,0.5112,POSITIVE,0.9829,0,['#TeamVisa']
+2014-02-19T16:14:56.000Z,@LoveuSelena21 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/0Uag9T Here's a digital autograph:,0.5112,POSITIVE,0.9853,0,['#TeamVisa']
+2014-02-19T15:46:49.000Z,@EvolveExistence You’re a part of the #TeamVisa fan mosaic: http://urldg.com/hSivDr Here's a digital autograph:,0.5112,POSITIVE,0.9955,0,['#TeamVisa']
+2014-02-19T06:02:41.000Z,@CKojin You’re a part of the #TeamVisa fan mosaic: http://urldg.com/Ug1UOI Here's a digital autograph:,0.5112,POSITIVE,0.9634,0,['#TeamVisa']
+2014-02-19T05:54:38.000Z,@Itslioncitybreh You’re a part of the #TeamVisa fan mosaic: http://urldg.com/gmzdAT Here's a digital autograph:,0.5112,POSITIVE,0.9782,0,['#TeamVisa']
+2014-02-19T05:24:26.000Z,@ssholee__ You’re a part of the #TeamVisa fan mosaic: http://urldg.com/pR7AH4 Here's a digital autograph:,0.5112,POSITIVE,0.975,0,['#TeamVisa']
+2014-02-19T05:16:23.000Z,@illumanti_high You’re a part of the #TeamVisa fan mosaic: http://urldg.com/b80Mli Here's a digital autograph:,0.5146,POSITIVE,0.986,0,['#TeamVisa']
+2014-02-19T05:15:23.000Z,@MorgsAragon You’re a part of the #TeamVisa fan mosaic: http://urldg.com/C2wh1d Here's a digital autograph:,0.5112,POSITIVE,0.9799,0,['#TeamVisa']
+2014-02-19T04:57:17.000Z,@SmallMountainMD You’re a part of the #TeamVisa fan mosaic: http://urldg.com/nBqa3B Here's a digital autograph:,0.5112,POSITIVE,0.929,0,['#TeamVisa']
+2014-02-19T04:55:15.000Z,@Jeff_d1971 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/WSqyKh Here's a digital autograph:,0.5104,POSITIVE,0.992,0,['#TeamVisa']
+2014-02-19T04:47:11.000Z,@Mdrndaydrftr40 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/y10XWM Here's a digital autograph:,0.5112,POSITIVE,0.9822,0,['#TeamVisa']
+2014-02-19T04:36:04.000Z,@18beachbunny You’re a part of the #TeamVisa fan mosaic: http://urldg.com/qmfqzs Here's a digital autograph:,0.5112,POSITIVE,0.9882,0,['#TeamVisa']
+2014-02-19T03:15:37.000Z,@emily_raman You’re a part of the #TeamVisa fan mosaic: http://urldg.com/Kufdei Here's a digital autograph:,0.5104,POSITIVE,0.9552,0,['#TeamVisa']
+2014-02-19T03:15:36.000Z,@volleyballg14 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/uJAixp Here's a digital autograph:,0.5112,POSITIVE,0.9729,0,['#TeamVisa']
+2014-02-19T03:15:34.000Z,@livvyjanes You’re a part of the #TeamVisa fan mosaic: http://urldg.com/5zDW3R Here's a digital autograph:,0.5112,POSITIVE,0.9861,0,['#TeamVisa']
+2014-02-19T03:14:37.000Z,@JoshuaHaeder You’re a part of the #TeamVisa fan mosaic: http://urldg.com/l6HuGw Here's a digital autograph:,0.5112,POSITIVE,0.9866,0,['#TeamVisa']
+2014-02-19T03:14:35.000Z,@caromanzo You’re a part of the #TeamVisa fan mosaic: http://urldg.com/YTOIWg Here's a digital autograph:,0.5112,POSITIVE,0.992,0,['#TeamVisa']
+2014-02-19T03:12:30.000Z,@LDanBautista You’re a part of the #TeamVisa fan mosaic: http://urldg.com/Q23FlG Here's a digital autograph:,0.5112,POSITIVE,0.9815,0,['#TeamVisa']
+2014-02-19T03:12:30.000Z,@ericrileybrown You’re a part of the #TeamVisa fan mosaic: http://urldg.com/zTFM54 Here's a digital autograph:,0.5112,POSITIVE,0.9893,0,['#TeamVisa']
+2014-02-19T03:12:27.000Z,@kick_freak12 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/XfsCUY Here's a digital autograph:,0.5104,POSITIVE,0.9897,0,['#TeamVisa']
+2014-02-19T03:11:25.000Z,@2kTaylorJ You’re a part of the #TeamVisa fan mosaic: http://urldg.com/ZbBUw6 Here's a digital autograph:,0.5112,POSITIVE,0.9893,0,['#TeamVisa']
+2014-02-19T02:48:03.000Z,@yblair4 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/k27cQl Here's a digital autograph:,0.5112,POSITIVE,0.9781,0,['#TeamVisa']
+2014-02-19T02:46:01.000Z,@FLagggg You’re a part of the #TeamVisa fan mosaic: http://urldg.com/z6ydUf Here's a digital autograph:,0.5112,POSITIVE,0.9816,0,['#TeamVisa']
+2014-02-19T02:46:00.000Z,@Jarruuuuusss You’re a part of the #TeamVisa fan mosaic: http://urldg.com/L6x6ad Here's a digital autograph:,0.5112,POSITIVE,0.9848,0,['#TeamVisa']
+2014-02-19T02:40:57.000Z,@Surviving_MST You’re a part of the #TeamVisa fan mosaic: http://urldg.com/qEAiAo Here's a digital autograph:,0.5104,POSITIVE,0.9915,0,['#TeamVisa']
+2014-02-19T02:40:57.000Z,@Oxoxmaryrayy You’re a part of the #TeamVisa fan mosaic: http://urldg.com/pxhpr2 Here's a digital autograph:,0.5112,POSITIVE,0.9765,0,['#TeamVisa']
+2014-02-19T02:37:56.000Z,@hemmolouis You’re a part of the #TeamVisa fan mosaic: http://urldg.com/WryOlm Here's a digital autograph:,0.5112,POSITIVE,0.9882,0,['#TeamVisa']
+2014-02-19T02:37:55.000Z,@jmsparks23 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/NXkUb4 Here's a digital autograph:,0.5112,POSITIVE,0.962,0,['#TeamVisa']
+2014-02-19T02:35:54.000Z,@bsherbz You’re a part of the #TeamVisa fan mosaic: http://urldg.com/vyAmwS Here's a digital autograph:,0.5112,POSITIVE,0.9792,0,['#TeamVisa']
+2014-02-19T02:32:50.000Z,@patty5742 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/Ux6Jy3 Here's a digital autograph:,0.5112,POSITIVE,0.9848,0,['#TeamVisa']
+2014-02-19T02:02:29.000Z,@rougette66 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/fgVrIo Here's a digital autograph:,0.5112,POSITIVE,0.99,0,['#TeamVisa']
+2014-02-19T02:01:29.000Z,@stevenhassler You’re a part of the #TeamVisa fan mosaic: http://urldg.com/qluyub Here's a digital autograph:,0.5112,POSITIVE,0.9918,0,['#TeamVisa']
+2014-02-19T02:00:28.000Z,@courtneyyh13 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/w1ZfbU Here's a digital autograph:,0.5112,POSITIVE,0.9829,0,['#TeamVisa']
+2014-02-19T02:00:28.000Z,@CaptainApollyon You’re a part of the #TeamVisa fan mosaic: http://urldg.com/uHwq51 Here's a digital autograph:,0.5112,POSITIVE,0.9892,0,['#TeamVisa']
+2014-02-19T01:59:26.000Z,@Alexia_Manesis You’re a part of the #TeamVisa fan mosaic: http://urldg.com/uOyhiQ Here's a digital autograph:,0.5104,POSITIVE,0.9932,0,['#TeamVisa']
+2014-02-19T01:58:25.000Z,@E_Tinez17 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/vX3koq Here's a digital autograph:,0.5127,POSITIVE,0.9899,0,['#TeamVisa']
+2014-02-19T01:56:24.000Z,@DrydenNeal You’re a part of the #TeamVisa fan mosaic: http://urldg.com/rPApTe Here's a digital autograph:,0.5112,POSITIVE,0.9806,0,['#TeamVisa']
+2014-02-19T01:46:20.000Z,@kiss_me_irwin You’re a part of the #TeamVisa fan mosaic: http://urldg.com/hGvjza Here's a digital autograph:,0.5104,POSITIVE,0.9952,0,['#TeamVisa']
+2014-02-19T01:45:19.000Z,@ahtnamaSLeigh You’re a part of the #TeamVisa fan mosaic: http://urldg.com/flHiyU Here's a digital autograph:,0.5112,POSITIVE,0.9744,0,['#TeamVisa']
+2014-02-19T01:28:02.000Z,@MooreMitson You’re a part of the #TeamVisa fan mosaic: http://urldg.com/y2owK2 Here's a digital autograph:,0.5112,POSITIVE,0.9793,0,['#TeamVisa']
+2014-02-19T01:26:30.000Z,@EleniBrecht You’re a part of the #TeamVisa fan mosaic: http://urldg.com/Eiihhj Here's a digital autograph:,0.5112,POSITIVE,0.9855,0,['#TeamVisa']
+2014-02-19T01:25:59.000Z,@Nighthunter713 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/feKrCd Here's a digital autograph:,0.5112,POSITIVE,0.9939,0,['#TeamVisa']
+2014-02-19T01:25:28.000Z,@smileynialley11 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/OhQrjr Here's a digital autograph:,0.5112,POSITIVE,0.9619,0,['#TeamVisa']
+2014-02-19T01:20:26.000Z,@CaitlinVAPayne You’re a part of the #TeamVisa fan mosaic: http://urldg.com/YCDR6S Here's a digital autograph:,0.5112,POSITIVE,0.9863,0,['#TeamVisa']
+2014-02-19T01:17:56.000Z,@SabrinaBuckz You’re a part of the #TeamVisa fan mosaic: http://urldg.com/QRImVB Here's a digital autograph:,0.5112,POSITIVE,0.9771,0,['#TeamVisa']
+2014-02-19T01:15:51.000Z,@reshimahendra You’re a part of the #TeamVisa fan mosaic: http://urldg.com/mOuzv8 Here's a digital autograph:,0.5112,POSITIVE,0.9777,0,['#TeamVisa']
+2014-02-19T01:14:21.000Z,@runedbybooks You’re a part of the #TeamVisa fan mosaic: http://urldg.com/rueaSl Here's a digital autograph:,0.5112,POSITIVE,0.9881,0,['#TeamVisa']
+2014-02-19T01:13:50.000Z,@dabuldabul You’re a part of the #TeamVisa fan mosaic: http://urldg.com/9ZSv4U Here's a digital autograph:,0.5112,POSITIVE,0.99,0,['#TeamVisa']
+2014-02-19T00:51:32.000Z,@cremeluke You’re a part of the #TeamVisa fan mosaic: http://urldg.com/PrXT5E Here's a digital autograph:,0.5112,POSITIVE,0.9794,0,['#TeamVisa']
+2014-02-19T00:43:28.000Z,@meganomaalley You’re a part of the #TeamVisa fan mosaic: http://urldg.com/4HH07Z Here's a digital autograph:,0.5112,POSITIVE,0.9766,0,['#TeamVisa']
+2014-02-19T00:43:27.000Z,@NOOPstah You’re a part of the #TeamVisa fan mosaic: http://urldg.com/cerXQq Here's a digital autograph:,0.5112,POSITIVE,0.9527,0,['#TeamVisa']
+2014-02-19T00:42:28.000Z,@_kyleedavis_ You’re a part of the #TeamVisa fan mosaic: http://urldg.com/9Nq3Rl Here's a digital autograph:,0.5112,POSITIVE,0.9944,0,['#TeamVisa']
+2014-02-19T00:42:26.000Z,@TabathaF You’re a part of the #TeamVisa fan mosaic: http://urldg.com/1HMDaW Here's a digital autograph:,0.5112,POSITIVE,0.9506,0,['#TeamVisa']
+2014-02-19T00:36:25.000Z,@KidrauhlUley You’re a part of the #TeamVisa fan mosaic: http://urldg.com/XVehEr Here's a digital autograph:,0.5112,POSITIVE,0.9919,0,['#TeamVisa']
+2014-02-19T00:36:24.000Z,@emilynguyen2997 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/ffITCk Here's a digital autograph:,0.5112,POSITIVE,0.9884,0,['#TeamVisa']
+2014-02-19T00:33:22.000Z,@jemmaxruth You’re a part of the #TeamVisa fan mosaic: http://urldg.com/uMqAgW Here's a digital autograph:,0.5112,POSITIVE,0.9756,0,['#TeamVisa']
+2014-02-19T00:32:21.000Z,@caitycag You’re a part of the #TeamVisa fan mosaic: http://urldg.com/0j8KpY Here's a digital autograph:,0.5112,POSITIVE,0.9662,0,['#TeamVisa']
+2014-02-18T23:58:57.000Z,@sydneyyy_879 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/er3k9l Here's a digital autograph:,0.5112,POSITIVE,0.9917,0,['#TeamVisa']
+2014-02-18T23:57:56.000Z,@PRINCIPIUM_imp You’re a part of the #TeamVisa fan mosaic: http://urldg.com/jMy29D Here's a digital autograph:,0.5104,POSITIVE,0.9918,0,['#TeamVisa']
+2014-02-18T23:54:55.000Z,@catiemarie772 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/nC9w7r Here's a digital autograph:,0.5112,POSITIVE,0.9868,0,['#TeamVisa']
+2014-02-18T23:50:52.000Z,@F1JuliaJ You’re a part of the #TeamVisa fan mosaic: http://urldg.com/j3D3ZA Here's a digital autograph:,0.5112,POSITIVE,0.9561,0,['#TeamVisa']
+2014-02-18T23:45:49.000Z,@MorganHorbal You’re a part of the #TeamVisa fan mosaic: http://urldg.com/zYgTwy Here's a digital autograph:,0.5112,POSITIVE,0.9849,0,['#TeamVisa']
+2014-02-18T23:42:48.000Z,@wmellorsblair You’re a part of the #TeamVisa fan mosaic: http://urldg.com/DDVvCT Here's a digital autograph:,0.5112,POSITIVE,0.9847,0,['#TeamVisa']
+2014-02-18T23:38:44.000Z,@webcitygirls You’re a part of the #TeamVisa fan mosaic: http://urldg.com/CKnCpZ Here's a digital autograph:,0.5112,POSITIVE,0.8441,0,['#TeamVisa']
+2014-02-18T23:36:43.000Z,@vicosi360 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/DQ3HjD Here's a digital autograph:,0.5112,POSITIVE,0.984,0,['#TeamVisa']
+2014-02-18T23:35:42.000Z,@Negasus_94 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/zTchqT Here's a digital autograph:,0.5112,POSITIVE,0.9948,0,['#TeamVisa']
+2014-02-18T21:41:45.000Z,@ivonne_santos_ You’re a part of the #TeamVisa fan mosaic: http://urldg.com/ai1chn Here's a digital autograph:,0.5104,POSITIVE,0.9905,0,['#TeamVisa']
+2014-02-18T21:41:42.000Z,@BrennaClowney You’re a part of the #TeamVisa fan mosaic: http://urldg.com/iXEXuS Here's a digital autograph:,0.5112,POSITIVE,0.9834,0,['#TeamVisa']
+2014-02-18T21:40:43.000Z,@BigHitCourses You’re a part of the #TeamVisa fan mosaic: http://urldg.com/zwcDz7 Here's a digital autograph:,0.5112,POSITIVE,0.9681,0,['#TeamVisa']
+2014-02-18T21:39:39.000Z,@eduardorrrll You’re a part of the #TeamVisa fan mosaic: http://urldg.com/VsYriF Here's a digital autograph:,0.5112,POSITIVE,0.9938,0,['#TeamVisa']
+2014-02-18T21:39:38.000Z,@Messengerprobz You’re a part of the #TeamVisa fan mosaic: http://urldg.com/tYnTmY Here's a digital autograph:,0.5112,POSITIVE,0.9733,0,['#TeamVisa']
+2014-02-18T21:38:39.000Z,@WaverlyyShea You’re a part of the #TeamVisa fan mosaic: http://urldg.com/AiJPIV Here's a digital autograph:,0.5112,POSITIVE,0.9735,0,['#TeamVisa']
+2014-02-18T21:37:37.000Z,@NEWORLEANSKING1 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/vcPWZE Here's a digital autograph:,0.5112,POSITIVE,0.9831,0,['#TeamVisa']
+2014-02-18T21:36:33.000Z,@Delenafan99 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/u0auJV Here's a digital autograph:,0.5112,POSITIVE,0.968,0,['#TeamVisa']
+2014-02-18T21:35:33.000Z,@Sunny_MacRhys You’re a part of the #TeamVisa fan mosaic: http://urldg.com/kbFmOC Here's a digital autograph:,0.5104,POSITIVE,0.9531,0,['#TeamVisa']
+2014-02-18T21:25:07.000Z,@draMADDOX You’re a part of the #TeamVisa fan mosaic: http://urldg.com/M45J54 Here's a digital autograph:,0.5112,POSITIVE,0.988,0,['#TeamVisa']
+2014-02-18T21:25:05.000Z,@Doug12006 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/8DpC9W Here's a digital autograph:,0.5112,POSITIVE,0.9837,0,['#TeamVisa']
+2014-02-18T21:20:58.000Z,@StephanieKorena You’re a part of the #TeamVisa fan mosaic: http://urldg.com/YifNMI Here's a digital autograph:,0.5112,POSITIVE,0.9698,0,['#TeamVisa']
+2014-02-18T21:20:57.000Z,@em_n_em1995 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/pm56AC Here's a digital autograph:,0.5096,POSITIVE,0.9931,0,['#TeamVisa']
+2014-02-18T21:20:57.000Z,@Jackbell97 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/YC7oLu Here's a digital autograph:,0.5112,POSITIVE,0.9821,0,['#TeamVisa']
+2014-02-18T21:20:56.000Z,@cait_taylorlove You’re a part of the #TeamVisa fan mosaic: http://urldg.com/ihWLQB Here's a digital autograph:,0.5104,POSITIVE,0.987,0,['#TeamVisa']
+2014-02-18T21:20:39.000Z,@aliapranke You’re a part of the #TeamVisa fan mosaic: http://urldg.com/DXCeew Here's a digital autograph:,0.5112,POSITIVE,0.981,0,['#TeamVisa']
+2014-02-18T21:20:38.000Z,@jessicuhhh05 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/ZQOigZ Here's a digital autograph:,0.5112,POSITIVE,0.9894,0,['#TeamVisa']
+2014-02-18T21:20:36.000Z,@Lenagil96 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/5unzPu Here's a digital autograph:,0.5112,POSITIVE,0.9917,0,['#TeamVisa']
+2014-02-18T06:00:01.000Z,@skateee_ You’re a part of the #TeamVisa fan mosaic: http://urldg.com/eYNeSU Here's a digital autograph:,0.5112,POSITIVE,0.9833,0,['#TeamVisa']
+2014-02-18T05:59:58.000Z,@iAllisonSaenz You’re a part of the #TeamVisa fan mosaic: http://urldg.com/pvq8fG Here's a digital autograph:,0.5112,POSITIVE,0.987,0,['#TeamVisa']
+2014-02-18T05:59:50.000Z,@ohmyderekhough You’re a part of the #TeamVisa fan mosaic: http://urldg.com/IjHORE Here's a digital autograph:,0.5112,POSITIVE,0.9577,0,['#TeamVisa']
+2014-02-18T05:59:47.000Z,@Yukari482 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/6anmix Here's a digital autograph:,0.5112,POSITIVE,0.9934,0,['#TeamVisa']
+2014-02-18T05:59:39.000Z,@morganuttrich You’re a part of the #TeamVisa fan mosaic: http://urldg.com/aUzqHj Here's a digital autograph:,0.5112,POSITIVE,0.9802,0,['#TeamVisa']
+2014-02-18T05:59:39.000Z,@schendrickson You’re a part of the #TeamVisa fan mosaic: http://urldg.com/8K7IEW Here's a digital autograph:,0.5112,POSITIVE,0.9843,0,['#TeamVisa']
+2014-02-18T05:59:29.000Z,@noisy_librarian You’re a part of the #TeamVisa fan mosaic: http://urldg.com/pkS9Vs Here's a digital autograph:,0.5104,POSITIVE,0.964,0,['#TeamVisa']
+2014-02-18T05:59:25.000Z,@7Phaedra You’re a part of the #TeamVisa fan mosaic: http://urldg.com/Sg6iVe Here's a digital autograph:,0.5112,POSITIVE,0.9914,0,['#TeamVisa']
+2014-02-18T05:59:12.000Z,@USAiceskater You’re a part of the #TeamVisa fan mosaic: http://urldg.com/2zZyxQ Here's a digital autograph:,0.5112,POSITIVE,0.9901,0,['#TeamVisa']
+2014-02-18T05:58:40.000Z,@miranda_congdon You’re a part of the #TeamVisa fan mosaic: http://urldg.com/nscgkU Here's a digital autograph:,0.5104,POSITIVE,0.9686,0,['#TeamVisa']
+2014-02-18T05:55:51.000Z,@SassMasterWill You’re a part of the #TeamVisa fan mosaic: http://urldg.com/rFKQBs Here's a digital autograph:,0.5112,POSITIVE,0.9834,0,['#TeamVisa']
+2014-02-18T05:55:50.000Z,@JohnJannini You’re a part of the #TeamVisa fan mosaic: http://urldg.com/ApYc2H Here's a digital autograph:,0.5112,POSITIVE,0.9829,0,['#TeamVisa']
+2014-02-18T05:55:48.000Z,@bee_rakow You’re a part of the #TeamVisa fan mosaic: http://urldg.com/PWSy92 Here's a digital autograph:,0.5104,POSITIVE,0.9676,0,['#TeamVisa']
+2014-02-18T05:54:47.000Z,@kassimgant34 #TeamVisa athletes @Meryl_Davis achieved their #everywhere and you were there. See yourself here: http://urldg.com/OcZ8fL,0.505,POSITIVE,0.9919,0,"['#TeamVisa', '#everywhere']"
+2014-02-18T05:54:39.000Z,@1hospitalitea You’re a part of the #TeamVisa fan mosaic: http://urldg.com/snelex Here's a digital autograph:,0.5112,POSITIVE,0.9662,0,['#TeamVisa']
+2014-02-18T05:54:34.000Z,@GeoAmbDance You’re a part of the #TeamVisa fan mosaic: http://urldg.com/YzKWdP Here's a digital autograph:,0.5112,POSITIVE,0.9916,0,['#TeamVisa']
+2014-02-18T05:54:22.000Z,@judy_mania You’re a part of the #TeamVisa fan mosaic: http://urldg.com/IfzRL7 Here's a digital autograph:,0.5104,POSITIVE,0.9648,0,['#TeamVisa']
+2014-02-18T05:53:30.000Z,@kathsusanne You’re a part of the #TeamVisa fan mosaic: http://urldg.com/NBR7XB Here's a digital autograph:,0.5112,POSITIVE,0.9741,0,['#TeamVisa']
+2014-02-18T05:53:27.000Z,@Taylor_TV_ You’re a part of the #TeamVisa fan mosaic: http://urldg.com/Ar1Chd Here's a digital autograph:,0.5112,POSITIVE,0.988,0,['#TeamVisa']
+2014-02-18T05:52:36.000Z,@sherrybear65 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/mtwNPv Here's a digital autograph:,0.5112,POSITIVE,0.9893,0,['#TeamVisa']
+2014-02-18T05:52:26.000Z,@madison_rose_13 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/5h4SaM Here's a digital autograph:,0.5458,POSITIVE,0.9876,0,['#TeamVisa']
+2014-02-18T05:50:17.000Z,@Jesse_waltdis You’re a part of the #TeamVisa fan mosaic: http://urldg.com/wqedAs Here's a digital autograph:,0.5104,POSITIVE,0.9816,0,['#TeamVisa']
+2014-02-18T05:50:16.000Z,@rcracerjason You’re a part of the #TeamVisa fan mosaic: http://urldg.com/BhiJH1 Here's a digital autograph:,0.5112,POSITIVE,0.9844,0,['#TeamVisa']
+2014-02-18T05:50:15.000Z,@DesineeTorres You’re a part of the #TeamVisa fan mosaic: http://urldg.com/kEnPA0 Here's a digital autograph:,0.5112,POSITIVE,0.9879,0,['#TeamVisa']
+2014-02-18T05:49:50.000Z,@meredith4756 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/vFJRV9 Here's a digital autograph:,0.5112,POSITIVE,0.9899,0,['#TeamVisa']
+2014-02-18T05:49:40.000Z,@SimoneKiim You’re a part of the #TeamVisa fan mosaic: http://urldg.com/HqxlNJ Here's a digital autograph:,0.5112,POSITIVE,0.9887,0,['#TeamVisa']
+2014-02-18T05:49:37.000Z,@Anabear2396 You’re a part of the #TeamVisa fan mosaic: http://urldg.com/b2Y0BZ Here's a digital autograph:,0.5112,POSITIVE,0.9832,0,['#TeamVisa']

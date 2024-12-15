@@ -1,0 +1,21 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,Retailers disappear. Amazon refuses to accept visa and offers a competing amazon card.,0,0.504,0.998,NEGATIVE
+,,Already happened in China. Everyone uses Tencent or Alipay. Only the richest people need a card (typical banks issuing cards and UnionPay handling the transactions) for the rare cases where it is useful.,1,0.508,0.58,POSITIVE
+,,r/woooosh?,1,0.508,1.0,NEGATIVE
+,,r/woooosh?,2,0.508,1.0,NEGATIVE
+,,We all pay via mobile from our bank accounts,0,0.568,0.803,POSITIVE
+,,"Sorta different though because these are both credit card services, meaning there’s some aspect of money being extended on credit in your name for the period (one month in most cases) which you pay back. Although I see what you’re saying if the banks set up “credit accounts” and cut out the middle man servicer.",1,0.525,0.665,NEGATIVE
+,,"I was thinking WeChat Pay style, where it just withdrawals directly from your bank account to pay for services. I'm not sure, but I don't think there is any credit aspect.",2,0.556,1.0,NEGATIVE
+,,"You still need a network to route the transactions, and that's what V and MA provide. Physical cards are an optional part of their process",3,0.522,0.972,POSITIVE
+,,So like a debit card but not associated with visa or MasterCard?,1,0.499,0.958,NEGATIVE
+,,People go back to using cash. Lol yeah right.,0,0.506,0.998,POSITIVE
+,,Government comes back to them and says they owe more money than previously determined in the collusion settlement(s) and wipe out existing shareholders.My interpretation was there's still some outstanding litigation based off reading their 10-K filing for fiscal year 2016-2017.,0,0.548,0.996,NEGATIVE
+,,600 billion dollars worth of litigation?,1,0.539,0.991,NEGATIVE
+,,Two words:Balance SheetThe fine would just have to wipe out a couple billion before current shareholders were severely diluted.,2,0.526,0.993,NEGATIVE
+,,Hard to see a scenario playing out where they become dinosaurs. They know their threats and I'm sure have a plan to adapt.,0,0.545,0.907,NEGATIVE
+,,"Peer 2 peer lending systems increase in popularity.Debt Crisis causes people en masse to stop paying their debt. Credit card debt will be one of the first things not paid.Blockchain for small purchases.That being said, As long as i keep on accruing miles I'll still use a credit card.",0,0.543,0.704,NEGATIVE
+,,"V and MA are the processors of the transactions but credit card debt is handled and tied to the bank issuing the card, so unless you are saying banks would stop issuing cards themselves V and MA would still get their cut and not be on the hook for the debt.",1,0.505,0.556,NEGATIVE
+,,How would this work regarding buying things on credit? That’s the service these companies help provide.,1,0.544,0.652,NEGATIVE
+,,"Currently no cryptocurrency has implemented a system of debt. All transactions are settled completely at once, and no one can owe anyone else.But these systems are being explored as we speak.Smart contracts are likely the solution at this time.With decentralized lending, a single request could give a borrower access to a tremendous amount of options for competitive rates. There is no need for background checks or proprietary ratings since all their transactions on the chain are open and auditable by anyone looking to lend to them.This system would primarily benefit small to medium enterprises.But like I said, no current large scale cryptocurrency has established debt systems yet. Although smart contract technology is breaking through at the moment and would allow it.",2,0.532,0.689,POSITIVE
+,,How will this replace people wanting to use credit cards for the perks. I have always paid my card on time and accrue enough miles for a big vacation everyother year.,3,0.546,1.0,POSITIVE
+,,problem is i get miles which helps me travel with my card.,1,0.503,0.573,NEGATIVE

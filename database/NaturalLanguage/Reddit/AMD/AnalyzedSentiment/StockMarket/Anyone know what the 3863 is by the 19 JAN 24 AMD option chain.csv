@@ -1,0 +1,5 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,"Non standard option chain. ""Generally, equity options exercise or assign for 100 shares of stock. However, whenever there is a reverse split, a spin-off, or corporate action, this can cause options to turn non-standard, which may result in a sub-100 share delivery as well as a cash component, a right, etc. Positions that have an ""NS"" next to it denotes a non-standard delivery option, as pictured below.""",0,0.529,0.996,NEGATIVE
+,,Never seen that is this the td app? Try to check thinkorswim app and see if its there too,0,0.505,0.951,NEGATIVE
+,,It’s from their acquisition 1.7234 shares of amd for 1 share of xlnx,0,0.633,0.537,POSITIVE
+,,"Yup it’s there, however it says: “NS - $38.63 Cash in lieu of shares, 172 shares of AMD”",0,0.518,0.998,NEGATIVE

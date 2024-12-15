@@ -1,0 +1,11 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Outlook,Flair Sentiment
+,nan,GPT-REEEE,0,0.5,NEGATIVE,0.999
+,nan,Have you been contacted by the CRA for short term trading in your TFSA? Apparently they can remove the tax free status if it’s not long term investing,0,0.525,NEGATIVE,0.999
+,nan,"You can trade options, but not too regarded,plus CRA usually goes after regards who gained big moneys, like half a lemon or so.",1,0.501,POSITIVE,0.651
+,nan,"I just started this week, but yeah I'm a small fry. Not executing that many trades",2,0.569,NEGATIVE,0.937
+,nan,"Op, how are u making these gains if there is already high IV?",0,0.517,NEGATIVE,0.992
+,nan,"Don't ask me, I just touched the buttons on the screen ",1,0.501,NEGATIVE,1.0
+,nan,"Yummy, I'll touch you...",2,0.502,POSITIVE,0.999
+,nan,Hope you sold bro,0,0.51,POSITIVE,0.994
+,nan,hello fellow Canadian!,0,0.502,POSITIVE,0.992
+,nan,Represent,1,0.5,POSITIVE,0.998

@@ -1,0 +1,96 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Outlook,Flair Sentiment
+,nan,can't wait for the memes when mama su rises above the skanks,1,0.503,POSITIVE,0.998
+,nan,She will rise like a Phoenix!,2,0.525,POSITIVE,1.0
+,nan,"Then crashes it again because fuck you. Seriously, AMD is the worst stock. Never again.",2,0.625,NEGATIVE,1.0
+,nan,"and to add insult to irony, their fundamentals are better than ever/best er ever, and guiding for an even bigger quarter... and the sp responds inversely.",0,0.524,POSITIVE,0.984
+,nan,Sounds like just buy the dip.,1,0.551,NEGATIVE,0.8
+,nan,"Because that price action happened 3 years ago. No one cares about the news, it’s all about the rumor. And AMD doesn’t have much going on right now.",1,0.559,NEGATIVE,0.999
+,nan,"Their corny named ""AI"" series for mobile APU's got potential, and they've been slowing eating away at Intel OEM moat. Without knowing the price for their Strix Halo devices I just can't call how successful it will be.",2,0.536,NEGATIVE,1.0
+,nan,NVIDIA has CUDA but AMD can run GGUF really well. If they can just boost VRAM they can become a real alternative in AI,2,0.584,POSITIVE,0.967
+,nan,And AMD doesn’t have much going on right now.can't tell if serious.,2,0.579,NEGATIVE,0.998
+,nan,"well, NVDA better in every way . Better buy the best. Winner take all",1,0.561,NEGATIVE,0.777
+,nan,Load up while it's cheap. AMD is trading at just 18x 2026 earnings and 13x 2027 earnings.Their high margin data center revenue is up 122% YoY and taking over their declining segments like gaming. Data center went from 25% of total revenue to 50% in one year. You're going to see earnings explode moving forward.,0,0.575,NEGATIVE,1.0
+,nan,I bought shares at $128! AMD will bounce back stronger!,1,0.591,POSITIVE,0.987
+,nan,I bought shares at $5,2,0.52,NEGATIVE,0.584
+,nan,$4 gang here. One of the first stocks I ever bought when I was 18 lol,3,0.541,NEGATIVE,0.995
+,nan,Damn! OG!,4,0.5,POSITIVE,0.656
+,nan,Don't you wish you bought into papa hansen!,4,0.51,NEGATIVE,0.641
+,nan,If I lived my life wishing; I wouldn’t be doing,5,0.508,POSITIVE,0.51
+,nan,"I bought 10k shares at 2.5 and sold $3 covered calls on them for $.20 each.One day I'll get over that, but not today.",3,0.533,NEGATIVE,1.0
+,nan,Yep. Just started buying recently.,1,0.515,POSITIVE,1.0
+,nan,This guy knows,1,0.5,POSITIVE,1.0
+,nan,"I have avg of 131, loading up on the next red day fosho",1,0.527,POSITIVE,0.998
+,nan,They are all red days,2,0.505,POSITIVE,0.999
+,nan,AMD might be ending the year red YTD,3,0.682,NEGATIVE,0.766
+,nan,Holding 400+ shares at $135 average. I pray this is true lol,1,0.507,POSITIVE,0.993
+,nan,What about in the next few weeks? Trying to plan my first options trade,1,0.538,NEGATIVE,0.992
+,nan,I think Intel bouncing back and making up for it is a 5 year long move if they can survive. The pain isn't over yet.,3,0.577,POSITIVE,0.584
+,nan,Companies that can't attract or retain talent very rarely move forward. Intel's problem is leadership based. Very hard to change a culture with bad leadership. Mostly because they'll never point the finger at themselves.,4,0.523,NEGATIVE,1.0
+,nan,"One of the reasons they aren't done hurting. Their shots at a comeback revolves around them being a US fab and benefiting during the Trump tariffs, and if Intel ould siege what AMD won't they could just make some VRAM SKU in the Battlemage series not for gamers but for the AI/ML community to start making open source contributuons and sneak their way past Nvidia's AI monopoly after a few years. Intel is more likely to get their GPU's supporting AI on the software side and AMD sure missed the mark to just make a VRAM dense GPU for everyone in LocalLLama and other ML subs despite sending a rep in to ask what people wanted to see over a year ago.",5,0.552,NEGATIVE,0.96
+,nan,Isn’t 18x2026 and 13x2027 earnings way too much ?,1,0.546,NEGATIVE,0.993
+,nan,If the share price goes nowhere in the next 36 months then AMD would have a trailing PE of 13x when something in the 35-40x range would be reasonable for a company with that kind of growth IMO.A lot of high growth semi stocks are trading at similar multiples or higher right now. I can see a situation where AMD share price triples in the next 36 months. A doubling of the share price looks like a very high probability outcome.Of course there are risks that AMD gets derailed on their growth trajectory or that investment in GenAI falters. The good thing is that AMD is diversified across all layers of computing and will continue to grow its data center and client side CPU segments regardless of AI GPUs.,2,0.578,NEGATIVE,0.996
+,nan,"damn I bought at 176, sold at 140. it's at 130 now. I might buy back in after reading this.the only thing I'm worried about is they said they aren't gonna keep developing high end graphics cards. which means ML researchers are just going to completely abandon them.https://www.techpowerup.com/326415/amd-confirms-retreat-from-the-enthusiast-gpu-segment-to-focus-on-gaining-market-shareat this point though, maybe it doesn't matter what the fuck chips they put on those cards as long as they have VRAM",3,0.554,NEGATIVE,1.0
+,nan,You're supposed to buy low and sell high.,4,0.553,NEGATIVE,0.983
+,nan,Not on this sub you don't!!,5,0.5,NEGATIVE,0.995
+,nan,I’m an ML researcher (applied scientist) and I can tell you we primarily train and serve models using data center GPUs (either in the cloud or on-prem). AMD is precisely focusing on the segment that serves ML researchers and that’s where the explosive growth is coming from.,4,0.53,POSITIVE,0.998
+,nan,"Aren't they specifically lessening focus on high end gaming GPUs and focusing on high end computing cards?Isn't the money in servers/computing/AI, not gaming?",4,0.535,NEGATIVE,0.994
+,nan,Bro is a time traveler from 2027,1,0.528,POSITIVE,1.0
+,nan,"As a multi hundred billion dollar company there are tons of analysts that provide growth forecasts for the next few years. These are the average of all those forecasts.https://finbox.com/NASDAQGS:AMD/explorer/pe_fwd/There are reasonable revenue growth assumptions that can be made based on current growth trajectory, expectations for product market growth, and market share. You can use revenue growth and profitability of their business to determine earnings potential.Obviously the further out you look the more assumptions are made and the higher likelihood of being significantly off. Right now their revenue growth is based on maintaining market share in a rapidly growing data center market. If data center CPU and GPU growth implodes for whatever reason then that would be a risk to these forecasts.",2,0.585,POSITIVE,0.905
+,nan,My dumb ass bought at $205. I wish it was only down 6% ytd for me 🥲,0,0.506,NEGATIVE,1.0
+,nan,My dumbass didn’t sell when it was $205,1,0.512,NEGATIVE,0.997
+,nan,Yeah I’m gonna need the code on this one,0,0.511,POSITIVE,1.0
+,nan,SW-653,1,0.5,NEGATIVE,0.998
+,nan,What is this?Edit: I think I figured it out. It's porn right?,2,0.506,NEGATIVE,0.999
+,nan,"Welcome to the world of JAV, amigo!",3,0.535,POSITIVE,1.0
+,nan,Ticker for you dicker.,3,0.5,NEGATIVE,0.963
+,nan,You're the hero. My man,2,0.507,POSITIVE,1.0
+,nan,No idea why I'm commenting ,2,0.648,NEGATIVE,0.999
+,nan,Let's see Intel's business card,0,0.582,NEGATIVE,0.764
+,nan,"look at that shit brown coloring. the pathetic thinness of it. oh, my god... it even has a skid mark.",1,0.503,NEGATIVE,1.0
+,nan,SW-653,1,0.5,NEGATIVE,0.998
+,nan,"I always meant to ask, no way ya'll are so degenerate that you know these codes off-hand. How do you find these?! Asking for a friend...",2,0.509,NEGATIVE,0.998
+,nan,you can usually just reverse image search,3,0.502,NEGATIVE,0.999
+,nan,Advanced Money Destroyer,0,0.542,POSITIVE,0.699
+,nan,Old but gold lmao,1,0.505,NEGATIVE,0.998
+,nan,That is Time’s 2024 CEO of the year,0,0.747,POSITIVE,0.982
+,nan,I haven't followed semis closely lately. How much of a threat is the jump from x86 to arm for AMD?,0,0.549,NEGATIVE,0.995
+,nan,"Difficult to say, x86 is more convenient overall. For AI arm might pickup some steam but it is still a bit too early to tell. The GH200 is quite peculiar.Worst case I am sure AMD can compete with their own ARM CPU if it comes to it, they have teams looking into it already",1,0.533,NEGATIVE,0.998
+,nan,"Forgive my ignorance on the matter, but do you think a shift to ARM be inevitable for AMD?",2,0.564,NEGATIVE,0.885
+,nan,"I don't think x86 needs to be replaced by ARM. Nvidia cannot add the features it needs to x86 that is why they are looking to ARM. Given Nvidia position it might boost ARM adoption a lot more.AMD can add all the features it needs to x86, so there is no need for AMD to switch unless a demand for it is created. Which Nvidia might be able to do.Ultimately it will boil down to if AMD and Intel are able to produce some.competition on the AI space to reduce the pressure to switch to ARM that Nvidia will apply.",3,0.562,NEGATIVE,1.0
+,nan,"I don’t think so. From my understanding, Nvidia developed the Grace CPU and NVLink C2C to optimize the data path between the host and device, particularly for use cases like UVM and compute offloading. The goal is to integrate host RAM more efficiently into the memory hierarchy. To achieve this, they needed control over the CPU architecture, which meant building their own CPU.They built their own CPU not because ARM is better. Sure, you could argue that ARM is better, but the reason they built their own CPU was that they needed one, not because ARM is better.In contrast, AMD already has a CPU lineup and Infinity Fabric for fast chip-to-chip interconnects. They can leverage their existing tech to achieve similar goals without needing to adopt ARM (they are doing this with x86 from what I know).",3,0.524,POSITIVE,0.915
+,nan,AMD's new server Turin CPUs are more efficient by performance per watt than comparable ARM CPUs,1,0.599,POSITIVE,0.995
+,nan,"Gonna need AAPL, MRVL, and ARM to sit on my face for reasons ",0,0.504,NEGATIVE,0.999
+,nan,Approved.,1,0.53,POSITIVE,0.995
+,nan,Same with Intel. Americans say they support local chips and then shit on their two biggest CPU makers.,0,0.525,NEGATIVE,0.998
+,nan,It fucking baffles me that a company like Marvell with 10% of Intel’s revenue and essentially no earnings is now worth more,1,0.61,NEGATIVE,0.999
+,nan,It's not baffling after you have actually kept up with everything over the past three years. Intel is a fucking shit show. Meme coins perform better.,2,0.521,NEGATIVE,1.0
+,nan,"the last 10 years of “investing” have been a doozy though, in terms of fundamentals.. even hedge fund quants are addicted to gambling “meme” stock run ups with retail fomo intensity.. like yeah some of these quantum computing companies will do something but not every single company with “quantum” in its name should have a 10b market cap when there’s almost no revenue and 120 employees",2,0.549,NEGATIVE,0.987
+,nan,"Always buy your local mom and pop chipmaker. They only use free-range, grass fed, organic silicon",1,0.525,POSITIVE,0.998
+,nan,"intc is down because of their own incompetence and it's at amd's benefit, though. intc SHOULD be down, their financials are godawful. amd's taking their market share in datacenter.",1,0.609,NEGATIVE,0.988
+,nan,"Tesla financials are also crap, yet here we are.",2,0.545,POSITIVE,0.995
+,nan,Yep; financials don’t matter this year. It’s 2021 all over again,3,0.602,POSITIVE,0.802
+,nan,"Financials don't matter, profits don't matter, heck, even revenue doesn't matter: it has potential, let's throw money at it.That's straight from 2000. Dot-com bubble speak.",4,0.509,NEGATIVE,1.0
+,nan,"In 2000, people took money out of the stock market and put it into commodities and RE.Post-2009, if people take money out of the stock market, the Fed prints more and puts it back in. The line isn't allowed to go down and stocks are total risk-off.",5,0.565,NEGATIVE,0.985
+,nan,"Gelsinger pissed everyone in the industry off and no funds want anywhere near INTC with the uncertainty ahead, Lisa is about as charismatic as paint on wall and she doesn't grift to make stock go up unlike his chad cousin Jensen. Meanwhile Musk grifts like his lies will turn to truth if he just spam it enough, but foreign investors are dumb enough to keep going in because TSLA made lots of people rich in the last 5 years.",3,0.522,NEGATIVE,0.999
+,nan,"They look worse off than 2-3 years ago, wtf happened",3,0.522,NEGATIVE,1.0
+,nan,Nobody is patriotic when shopping for a good deal.,1,0.537,POSITIVE,0.782
+,nan,"just started a position in AMD , average 127 hehe",0,0.623,NEGATIVE,0.865
+,nan,CEO of the year btwTakes a special sort to lead a company into the red in 2024,0,0.688,POSITIVE,0.998
+,nan,Martin Brundle having the last laugh!,1,0.529,POSITIVE,0.816
+,nan,"Yoo I forgot about that ""do you speak English"" lol",2,0.501,NEGATIVE,0.883
+,nan,SPY raw. Next question.,0,0.54,NEGATIVE,0.883
+,nan,Intel was so forgotten it doesnt even exist in this pic,0,0.517,NEGATIVE,1.0
+,nan,"AMD will catch up with others soon .. at one time tesla and lulu were the worst stocks of spy few months ago .. so i epxect by April, amd will be 180-200@Remindme in 6 months.",0,0.588,POSITIVE,0.625
+,nan,Nice Asian chicks! 😍,0,0.504,POSITIVE,0.999
+,nan,"AMD fundamentals show it to be undervalued. It has decent earnings even for an AI tech stock, yet it's P/E is low for stocks of similar sectors (and better than competitors like NVDA, which is clearly over-bloated right now). I bought in at 130, thinking of buying more at a lower dip.",0,0.557,NEGATIVE,0.994
+,nan,The SPY chick looks like Melania.,0,0.505,NEGATIVE,0.993
+,nan,Where is Intel in this picture... Burning in hell ? ,0,0.525,NEGATIVE,0.999
+,nan,"It's because I bought AMD in January I am sorry 😔, I will buy Tesla now",0,0.607,POSITIVE,0.817
+,nan,"Love the company, hate the price. At $80-$100 last year, they were a buy. After they've ran up 50+%, all that juice has been squeezed.With that being said, price doesn't actually matter for megacaps cause SPY only goes up. So buy and hold, I guess. Money will pry rotate out of tech soon and go inflate some other component of the index, but more total money's just going to keep pouring in.",0,0.584,NEGATIVE,0.999
+,nan,Wym money will rotate out of tech ?,1,0.526,NEGATIVE,1.0
+,nan,When you make profit you take gains and move the money somewhere else. Not that wsb would know what profit and exit plan means.,2,0.538,NEGATIVE,0.999
+,nan,"I understand that. But do you really think money will move out of tech ? It still is, and will be, the brightest sector of the US economy.",3,0.526,NEGATIVE,0.508
+,nan,Intel is the spilled milk on the bottom panel.,0,0.523,NEGATIVE,1.0
+,nan,It's a laggard stock,0,0.708,NEGATIVE,1.0
+,nan,Times 2024 CEO of the year,0,0.758,POSITIVE,0.996
+,nan,"Glad I sold this shit. Nvidia is just so ingrained with software and development, that there is basically no chance for amd",0,0.587,NEGATIVE,1.0

@@ -1,0 +1,69 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,"INTC has been touted as the ""value"" play out of the semi-conductor industry as companies like NVDA and AMD are trading at insane valuations... but when does ""insane"" become reality? NVDA is growing into it's valuation at an incredible pace.INTC: 10-year revenue growth of 20% (total).NVDA: 10-year revenue growth of 1,900%.Chart from ChartWiz.io",0,0.582,0.999,POSITIVE
+,,"Based on this chart, NVDA revenue is about 40% larger than INTC, but based on market cap, it's worth 900% more.This only makes sense if you believe the exponential revenue growth will continue.",1,0.561,0.896,POSITIVE
+,,Nvda also has massive profit growth to a point where nvda 2024 pe is still less than 40 and forward pe is closer to 30. Thats better than apple at peak.Intel has no profit growth,2,0.566,0.998,NEGATIVE
+,,"Looking at INTC P/E makes no sense because they invest everything into building new fabs. They basically have no profit until the fabs are completed.Meanwhile NVDA has no fabs, they are fully reliant on TSMC and their huge profit is a result of long term production deals made years ago with TSMC. Once those deals run out, TSMC will want a larger cut and their profit margin will drop.",3,0.537,0.878,NEGATIVE
+,,"Intel fab is few years behind tsmc. (Some projects up to 7 years)Gpus out runs cpus for ai and right now there is no way intel can catch up to nvda for at least next 3-4 years.If you are investing in intel, I feel like you are betting that intel succeeds on their tech to compete with tsmc and also to have meaningful clients that can compete with nvda (or even nvda changing to intel)",4,0.544,0.842,POSITIVE
+,,"Intel fab is few years behind tsmc. (Some projects up to 7 years)This is 100% false. If that number could go higher, it would. Intel just started risk production on 18A WITH backside power delivery and GAAFET. Where is TSMC? On 3nm and on FINFET, and they won't have a comparable node until 2026 when their second 2nm plant comes online with backside power delivery.Gpus out runs cpus for ai and right now there is no way intel can catch up to nvda for at least next 3-4 years.The only truth to the statement here is that GPU's outperform CPU's in AI tasks. But what about a dedicated AI accelerator that's neither a CPU, nor GPU? They're already competitive in the hardware. Gaudi 2 already gives 90% of the performance of the H100 and yields 4x the performance per dollar of an H100. Later this year, Gaudi 3 is expected to be a 4x performance increase. Not to mention AMD's MI300X may or may not already beat the H100. Yes, Nvidia has a good product. But the only reason why Nvidia is dominant right now is because the industry was built with their software stack. The entire industry is shifting to open source, and even Nvidia publicly admits that CUDA won't be a moat for much longer. Plus, Intel is making huge strides in their ecosystem and tools to convert workloads over to Gaudi. This is just one of the dozen companies gunning for Nvidia. Everyone else is also making strides in their own development. As the industry moves to open source and the difference comes down to raw computational power, Nvidia is gonna drop like a rock because they're so incredibly price prohibitive.If you are investing in intel, I feel like you are betting that intel succeeds on their tech to compete with tsmc and also to have meaningful clients that can compete with nvda (or even nvda changing to intel)They already have meaningful clients. Microsoft, a multigenerational deal with ARM that gives them exposure to the vast majority of smart phones in the world, plus 2 or possibly 3 other unnamed players at this point (nobody knows if the ARM deal counts as one of those 4). One of which prepaid. Nvidia is using Intel for advanced packaging at the least, if not being one of the unnamed players that have reserved fab space. Then there's the huge defense contract to build all of the US governments high performance silicon. All of this with the limited capacity that their Oregon fab can put out. For all we know, these 4 deals could have bought up the entire fabs capacity. Nobody in the industry will have a comparable node until late 2025 when Samsung is the next to 2nm with backside power delivery and GAAFET. Clearwater Forest early next year will be the spark that starts the fire.",5,0.542,0.993,NEGATIVE
+,,"That’s a lot of insights. I’ll have a look at Intel, thanks.",6,0.521,0.998,POSITIVE
+,,,7,,,
+,,,8,,,
+,,,9,,,
+,,,8,,,
+,,"Don't forget Intels gpu at launch was bad, but within months turning out to be good with driver updates for the value.",6,0.533,0.714,NEGATIVE
+,,,7,,,
+,,"According to Intel's CEO, they will catch up (and maybe surpass) TSMC in 2025. So the question is whether you believe him or not.",5,0.534,0.954,NEGATIVE
+,,"At this pace, they won't.Some even consider tech development of tsmc is even faster than intel at current pace.Only real competition for tsmc at the moment is china and korea.2027 might be realistic target though",6,0.53,0.999,NEGATIVE
+,,,7,,,
+,,"meh.. intel new fab are being equipped with the best from ASML machines tsmc plans to use in 2 years from nowintel tried to hold on upgrade on latest tec from asml 9 yrars ago. purely because financial decision to save moneythey wont make this mistake with the CEO they have nowonce the intel foundry gets first customers, more will follow.building competitor to TSMC is no easy job",5,0.538,0.901,POSITIVE
+,,"Except NVDA has net margins of 50% on that revenue.Intel's have collapsed to as low as 3%, possibly regaining to 10% in the next two years.Add together that complete lack of growth and Intel seems more expensive than nvda",2,0.561,1.0,NEGATIVE
+,,That's unfair because Intel has heavy capex for foundry. They have been additionally slowed down by slow rollout of the chips act.I am invested in NVDA and interested in INTC.,3,0.511,1.0,NEGATIVE
+,,"How is it ""unfair"" that a capex heavy business trades at a lower revenue multiple?That's quite literally how the market is supposed to work",4,0.54,0.999,NEGATIVE
+,,"Ok, now do some other companies that also aren't in the same business, please?",0,0.613,0.978,NEGATIVE
+,,"No, I still want to see companies that are in the chip game. Apple, Micron, etc..",1,0.531,0.808,NEGATIVE
+,,NVDA has no debt,0,0.5,0.951,NEGATIVE
+,,INTC has terrible and incompetent management. How can they be dominating this industry for over 30 years and be going sideways in this irrational bull market? I remember buying INTC at 45$ in 2017!! This is ridiculous. I will never invest in INTC again.,0,0.531,1.0,NEGATIVE
+,,Because the incompetent management have all left recently and the new guys have been doing a good job so far?,1,0.559,0.976,NEGATIVE
+,,Have they? Let’s see. I’m out regardless,2,0.501,0.904,NEGATIVE
+,,"INTC has terrible and incompetent management.I remember buying INTC at 45$ in 2017!!I will never invest in INTC again.Have they?You don't even know such basic info, stock picking, then confidently complaining like you know something? Yeah at this rate, you won't be investing in anything. Take my advice and put it into an ETF. Let the experts and the complicated quant math do the work for you.",3,0.525,1.0,NEGATIVE
+,,,4,,,
+,,"U sound like a girl yelling ""you throw like a girl""",5,0.496,0.999,NEGATIVE
+,,This is the signal to long,1,0.562,0.985,NEGATIVE
+,,GPU’s (nvidia) vs CPU’s (intel).. I think Intel will be the winner in the long run once ai promoting is met.,0,0.563,0.724,POSITIVE
+,,"I've seen a lot of posts hating on Intel today, guess it's time to buy.",0,0.559,0.994,POSITIVE
+,,Don't buy guys sell intc so I can buy,1,0.587,0.557,POSITIVE
+,,"Only one of those 2 companies designs and also has foundries, and is building much more, on home turf btw. That doesn’t mean Nvidia won’t stay the top dog for at least the next 3 years or so, but intel on a 5-10 year timeline has more upside potential.",0,0.569,1.0,NEGATIVE
+,,"The danger with NVDA valuation is that their revenues may not be able to keep up after this kind of explosive growth.What happens once the first wave of AI processor buying is done, and companies like MSFT are designing their own chips? You could see a drop in revenue like you can see on that chart for 2022-23, and the stock price will crater.This is a cyclical industry. Make sure you have an exit strategy, or be prepared to ride some epic volatility.",0,0.54,1.0,NEGATIVE
+,,"I think this is a valid fear and why Nvidia is probably a risky 10 year hold, but the risk on that in the 2y time frame is pretty low. 5y is a bit more of who knows.Also nvidia has gotten insanely lucky the last 10 years with the crypto balloon and just as that was faltering the ai balloon. How often do companies become market leaders three times in a row over the span of 15-20 years?",1,0.56,0.998,NEGATIVE
+,,"Well said. Eventually the money train will end. I'm betting that it's sooner than later, so im staying the hell away from Nvidia at its current prices. It cannot possibly keep exponentially growing each quarter in a fab constrained market.",1,0.58,0.757,NEGATIVE
+,,Gotta get into Intel while it's cheap,0,0.534,0.986,NEGATIVE
+,,"Lucky for you, you can get into it for ""cheap"" now. And again in a year. And again in 5 years. And so on. Going nowhere fast.",1,0.595,0.921,NEGATIVE
+,,,2,,,
+,,"It's truly moronic to think ""intel is going nowhere in the next years"" somehow equates to ""shorting intel is a solid investment strategy""",3,0.541,0.999,NEGATIVE
+,,"You're right, sounds like they should be selling call spreads.",4,0.509,0.987,NEGATIVE
+,,Blackberry has been cheap for the last 15 years,1,0.55,0.888,POSITIVE
+,,One is 200B and the other 2T,0,0.523,0.579,NEGATIVE
+,,INTC has a trailing PE over 100 while NVDA has a trailing PE of 65 even if you take into account forward PE ratio it’s even better for NVDA at 34 while INTC is at 66. It’s not even close.,0,0.506,1.0,NEGATIVE
+,,Weird comparison,0,0.502,0.999,NEGATIVE
+,,Great comparison. Let's show a graph of when Nvidia's tech is fully mature versus Intel in a rebuilding stage. Brilliant!,0,0.532,0.986,POSITIVE
+,,"One thing NVDA has been consistent on, not ever fully maturing, but always innovating.",1,0.512,0.998,POSITIVE
+,,"Well, their tech IS mature, but you are correct that they are always innovating. Still, it's useless comparing the two at this point. If Intel went fabless, with all the CapEx removed from the financials for the fab buildout, that would make Intel a single digit forward PE. Intel is in a rebuilding stage and making aggressive moves to improve its position in the long term. Gelsinger wasn't kidding when he said he bet the company on 18A. How that looks 3-4 years down the road would be a much better comparison if you're going to compare them at all.",2,0.556,1.0,NEGATIVE
+,,I still personally remember the INTC would bury AMD. I picked it up at ~$2.00 and have stood behind Dr. Su since. I will not abandon her as I view her a long-term strategic CEO. I see Xlinx paying off for years to come.,0,0.545,0.988,POSITIVE
+,,They are both way over priced and this AI bullshit is all pump and dump,0,0.548,1.0,NEGATIVE
+,,Intels ttm pe is 107 which is a useless metric. Their forward pe is 31.81,0,0.506,1.0,NEGATIVE
+,,Intels ttm pe is 107 which is a useless metric. Their forward pe is 31.81,1,0.506,1.0,NEGATIVE
+,,It means nothing. The stock market doesn’t care what you did it cares what you’re going to do. The market is forward looking.Amds ttm pe is 335.91,2,0.568,1.0,NEGATIVE
+,,It means nothing. The stock market doesn’t care what you did it cares what you’re going to do. The market is forward looking.Amds ttm pe is 335.91,3,0.568,1.0,NEGATIVE
+,,Alright you can continue thinking that but you are wrong. Good day,4,0.526,0.933,POSITIVE
+,,Alright you can continue thinking that but you are wrong. Good day,5,0.526,0.933,POSITIVE
+,,Would loved it if they included AMD as well,0,0.626,0.815,NEGATIVE
+,,Intel has the risk of going down significantly as they may be starting to loose revenue,0,0.533,1.0,NEGATIVE
+,,Redditors have got to be the dumbest people on earth. NVDA is worth a lot BECAUSE OF PROFIT. Not only revenue.,0,0.531,0.884,POSITIVE
+,,,0,,,
+,,And you’re cooking meth.,1,0.5,1.0,POSITIVE
+,,Sickest of burns😂,2,0.5,1.0,NEGATIVE
+,,CoreWeave enters the chat.,1,0.502,0.861,NEGATIVE
+,,"Yes sell it, then it will continue to climb so I can sell my calls at a profit.",0,0.549,0.779,NEGATIVE
+,,"Yes sell it, then it will continue to climb so I can sell my calls at a profit.",1,0.549,0.779,NEGATIVE
+,,"It's important to take into account the changing supply and demand of these two companies in a changing global market, rather than blindly investing on the basis of published earnings reports",0,0.562,0.999,POSITIVE
+,,ist that why soundhound ai is blowing up? Or is that a squeeze ?,0,0.552,0.996,NEGATIVE

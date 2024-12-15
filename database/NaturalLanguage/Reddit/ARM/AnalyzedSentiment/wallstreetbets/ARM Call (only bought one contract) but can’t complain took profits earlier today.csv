@@ -1,0 +1,46 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,GPT-REEEE,0,0.5,0.999,NEGATIVE
+,,$355 -> $4773 is fuckin beautiful,0,0.5,0.979,POSITIVE
+,,Same. Just one contract. My first spiffy pop 🙂,1,0.561,0.844,NEGATIVE
+,,Same. Just one contract. My first spiffy pop 🙂,2,0.561,0.844,NEGATIVE
+,,360 to 5.4,1,0.5,0.955,POSITIVE
+,,What happens if you go below 0 ?,1,0.502,0.983,NEGATIVE
+,,"Made a $170 call but cashed out at $1800 at market open instead of the $4400 it’s worth right now , it was my first call and I was scared honestly lol wish I held but for just $170 🫨",0,0.529,0.988,NEGATIVE
+,,"Always easy to say that in hindsight but what u did was smart. U took profits and made great money. I honestly did not expect a rally like this, I just sold when I woke up around 9:30am.",1,0.504,0.807,POSITIVE
+,,"Ngl to you brother, first trade; I was up since 1am because right before I made the call I saw it go from 77 to 100+ and I was thinking it was too good to be true, it’d tank overnight or something. Rookie shit I guess haha",2,0.512,0.993,POSITIVE
+,,I seriously want to learn how to do this haha that’s insane,0,0.501,0.994,NEGATIVE
+,,For every 1000% gain post like this there's +99 people who aren't posting their losses,1,0.498,0.761,POSITIVE
+,,"This exactly, it's same as in social media, this is also kinda social. Only the success is visible.",2,0.535,0.874,NEGATIVE
+,,Very true. That's why it's never a bad idea to take a profit.,2,0.534,0.999,POSITIVE
+,,Nobody ever went broke taking profit,3,0.536,0.994,POSITIVE
+,,I honestly don’t know how ppl find these obscure companies and know when to make calls or puts,1,0.526,0.999,NEGATIVE
+,,"This was my thought process, Chip + AI company reporting earnings = 🚀 🚀",2,0.65,0.823,POSITIVE
+,,My dude ARM is absolutely not an obscure company… ,2,0.506,0.991,POSITIVE
+,,"Yeah yeah, just tell me you also bought LEG.",3,0.546,0.99,POSITIVE
+,,"ARM is not obscure, they've been working with Apple on their M Series chips which have been a game changer.",2,0.559,0.987,POSITIVE
+,,"ARM makes the base chip designs for Qualcomm's SNAP Dragons, Apple M chips, NVIDIA, etc. It's one of the best known companies in semiconductors.",2,0.563,1.0,POSITIVE
+,,"It's a bet, you have to have money to throw around for bets. It's not obscure at all, the biggest ipo of 2023. It was silent last months though, this now is nothing more than a bet on earnings. Also some say the people here pushed it further as well by buying into these posts.",2,0.54,1.0,NEGATIVE
+,,"It's a bet, dangerous bet, you could win big or lose big. Don't think any of these are genius, you need intuition, money to throw around already and luck.",1,0.517,0.999,NEGATIVE
+,,This is the way. Make sure yo post your losses tomorrow.,0,0.502,0.882,NEGATIVE
+,,Just got in hold on to the rails take me with,0,0.508,0.987,POSITIVE
+,,With 1 contract you made x10 ?,0,0.583,0.937,NEGATIVE
+,,You do know one contract is 100 shares right?,1,0.578,0.963,NEGATIVE
+,,Nope. So how much did it cost you. And how did you make a x10 ? Markets don't do x10,2,0.538,0.988,NEGATIVE
+,,"Basically options are magnified exposure, instead of 100% value per share as in for example pay $50 for a stock with a price per share $50. You pay a fraction of that, say $5 which 10% is whatever profit/loss takes place is 10x higher, you pay $5 per share for a contract filled with 100 shares, that's minimum. So you end up paying $500 for that contract. The 100 shares on their own actually cost $5000 not $500.",3,0.566,1.0,NEGATIVE
+,,So if the price decrease by 10% you loose all ? If i understand well,4,0.532,0.973,NEGATIVE
+,,"You buy an option contract from the option chain, that option chain dictates the price for trade. First you are seeing a lot more than a 10% move on that screenshot, you are seeing huge market price move and consequently higher trade price for those option contracts. If market price goes down, the options will become cheaper, however cheaper in this case means that you can sell them for less than you bought them at. It doesn't mean that automatically you lose everything. You only lose everything if the options are not valid anymore, when they have expired and you haven't done anything with them. You can sell them or execute them, execution or exercise is something else entirely, typically none of these people here exercise options. They just sell them when the premium price for them in option chain is higher. Exercise means that you are willing to buy 100 shares at the chosen strike price if the strike price is reached, buy with new cash. That's what a call option is.",5,0.537,1.0,NEGATIVE
+,,So you going into $NET today?,0,0.715,0.998,NEGATIVE
+,,Yup got some calls,1,0.507,0.679,POSITIVE
+,,"Same, NET looking just as nice this morning as ARM was yesterday. Here's hoping it runs and\or holds at open.",2,0.56,0.86,POSITIVE
+,,Hell yeah,0,0.5,0.998,POSITIVE
+,,Nicely done! Smart choice you have!,0,0.506,0.998,POSITIVE
+,,I had a similar play for 74.5c. Congratulations!,0,0.506,0.946,POSITIVE
+,,I sold too early (99) but still made 6.4,0,0.519,0.684,NEGATIVE
+,,i had no idea this was going to happen 😭,0,0.512,0.847,NEGATIVE
+,,Had just about the same play but sold when it was ~$112. $335 -> $3400,0,0.522,0.866,NEGATIVE
+,,Next time let’s keep us in the loop and we will tip you for the insight! 🫡,0,0.536,0.992,POSITIVE
+,,Any other call suggestions for next week ? Missed net stock too,0,0.665,0.999,NEGATIVE
+,,"Potentially DraftKings and Coinbase Calls,",1,0.506,0.79,NEGATIVE
+,,"I did the same with a few calls, closed within 15 minutes of open yesterday. It was moving fast, and while I could have made more, it could also have dropped right off a cliff at that speed.",0,0.523,0.989,NEGATIVE
+,,It’s real bruh lmao 🤣,1,0.508,0.998,POSITIVE
+,,"Real man, i didnot have those",1,0.515,0.822,POSITIVE

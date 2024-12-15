@@ -1,0 +1,100 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,Long term hopefully,You're on margin investing in a leveraged ETF? Might as well trade options.,0,0.526,0.999,NEGATIVE
+,Long term hopefully,He will learn about beta slippage soon enough,1,0.504,0.98,POSITIVE
+,Long term hopefully,"OP post history shows that he's 16, he's not even allowed to have a RH account, let alone borrow on margin. In a best case scenario, he gets margin called and won't even get to experience that decay.Going to a casino is literally safer, but OP can't even legally do that.This has red flags in the red flags.",2,0.512,1.0,NEGATIVE
+,Long term hopefully,Damn.Can I get 28k at 11l6 please.Daddy?,3,0.504,0.996,NEGATIVE
+,Long term hopefully,"It’s mommy & daddy’s money, so not sure he will learn the lesson.",3,0.504,0.94,NEGATIVE
+,Long term hopefully,"He’ll learn one way or another, don’t be mean.",4,0.516,0.984,POSITIVE
+,Long term hopefully,I come from the school of tough love. It’s not personal; it’s business,5,0.54,0.729,NEGATIVE
+,Long term hopefully,,4,,,
+,Long term hopefully,"You have $21,000 worth of just NVDA shares. I'm not going to ask about bills or rent etc. My point is you have a minimum of 21k in one stock and that doesn't include any other holdings. This is your portfolio after working a single year and a half?I'm not going to bother doing the math but you may need to double check your balances. Also, you appear to not be aware of APR charges when using margin.TL;DR Take some profits and save yourself some incredibly likely problems.",5,0.555,0.999,NEGATIVE
+,Long term hopefully,,6,,,
+,Long term hopefully,,7,,,
+,Long term hopefully,,7,,,
+,Long term hopefully,,7,,,
+,Long term hopefully,"And who is putting a roof over your head? Providing meals on the table? Contributing (at some point) to college tuition? At this stage of life, you have very little to lose, and can be cavalier with money.You will learn soon enough; the path to wealth is not in picking stocks, my friend, let alone as concentrated as these.",5,0.511,0.978,NEGATIVE
+,Long term hopefully,"I’m getting rid of margin and the leveraged ETFs, this post has been enlightening and I’m not going to turn into another WSB loss porn post. Made 4K on options and feel like my luck is running out so ain’t gonna push it",6,0.506,0.974,POSITIVE
+,Long term hopefully,,7,,,
+,Long term hopefully,Would you explain kind sir 🧐,2,0.51,0.835,NEGATIVE
+,Long term hopefully,"Let's say you invest 100$ in a normal ETF and 100$ in the same ETF but with 2x leverage.Day 1: +10% increaseETF1x goes to 110$, ETF2x goes to 120$Day 2: -10%ETF1x goes to 99$, ETF2x goes to 96$.In high volatility markets you might lose money due to the combination of volatility and leverage. This is the basics of the effect, can't explain it more in-depth because low IQ.",3,0.511,0.999,NEGATIVE
+,Long term hopefully,Why has TQQQ outperformed QQQ so much then,4,0.51,0.593,POSITIVE
+,Long term hopefully,"Because the real formula is CAGR(LETF) = CAGR(QQQ)LEVERAGE - VOL_DECAY(LEVERAGE*QQQ)The trick is that volatility is linear with respect to leverage (volatility decay is roughly to the square of leverage times underlying volatility), however returns (CAGR) is the power of leverage. QQQ happens to have high enough CAGR and low enough volatility that TQQQ beats QLD long-term.",5,0.513,0.81,NEGATIVE
+,Long term hopefully,Beta slippage is positive when it goes up several days in a row: Day 1 +5% ETF1 goes to 105 and ETF2 to 110 Day 2 : +5% ETF1 goes to 110.25 and ETF2 to 121,5,0.519,0.952,NEGATIVE
+,Long term hopefully,Can you explain what that is ELI5 style plz thank you sir,2,0.501,0.786,POSITIVE
+,Long term hopefully,"Imagine you have a toy car that is supposed to go twice as fast as a regular toy car when you push it. If the regular car goes 1 foot in a day, the fast car should go 2 feet, right? Now, let’s say both cars can change their speed every day depending on how hard you push them.1. On Day 1, you push both cars, and just as expected, the regular car goes 1 foot, and the fast car goes 2 feet.2. On Day 2, you push them again, but this time there’s a bit of resistance, like a small hill. The regular car goes back, losing half of what it gained, so it ends up at 0.5 feet in total. The fast car, trying to go twice as fast, ends up going back a full foot, ending up at 1 foot in total.Even though the fast car is supposed to be twice as fast every day, the up-and-down changes mean it doesn’t always end up exactly twice as far as the regular car after several days. This is because the losses hit harder when you’re moving faster (or, in investing terms, when you’re using leverage), and gains have to work harder to make up for losses.",3,0.504,1.0,NEGATIVE
+,Long term hopefully,"Think of beta slippage in TQQQ like a basketball game where you're trying to dribble the ball twice as fast as your friend.If you both start at the same pace, dribbling twice as fast as your friend seems simple and in the short term works just like you want.But as the game goes on, you might get tired or lose focus, causing you to not dribble exactly twice as fast as your friend every time. Over a longer game, your performance might start to drift from your goal of dribbling twice as fast. In fact, it may require 10x the amount of rest time for you to catch your breath and get back to your previous pace. In the meantime your friend needs to rest less and starts scoring more frequently since you can’t catch up.This drifting away from your goal is similar to how beta slippage works in TQQQ over time, where its returns deteriorate the matching leveraged returns of QQQ index due to the negative compounding effect on their daily rebalance.",3,0.507,1.0,NEGATIVE
+,Long term hopefully,Thoughts on Calls on Tqqq?,1,0.513,0.972,NEGATIVE
+,Long term hopefully,This is a perfect post about how new traders get super confident when all they see is green and they don’t know pullbacks until they know pullbacks,0,0.543,0.999,POSITIVE
+,Long term hopefully,Greed is popping,1,0.5,0.99,NEGATIVE
+,Long term hopefully,Time to be fearful?,2,0.542,0.891,NEGATIVE
+,Long term hopefully,It just might be,3,0.5,0.613,POSITIVE
+,Long term hopefully,Nvidia puts time!,3,0.58,0.964,POSITIVE
+,Long term hopefully,This comment unconfirms it tho. Up we go!,2,0.502,0.981,POSITIVE
+,Long term hopefully,Idc what you think. The majority of people think it will continue higher. That is about the time to prepare for downturn. Good luck!,3,0.527,0.762,NEGATIVE
+,Long term hopefully,"We just passed 2021 highs. It's 2024. You don't know shit if it's about to go down or up. If our economy is good, inflation numbers are good this market is going up.",4,0.545,0.89,NEGATIVE
+,Long term hopefully,Corrections / pullbacks are necessary and inevitable.,5,0.5,0.779,NEGATIVE
+,Long term hopefully,Time in always beats timing.,4,0.524,0.999,POSITIVE
+,Long term hopefully,I know that. I am just stating that NOW is not the time to go in heavy leveraged/margin on bullish side when it’s at an all time high. But it absolutely could continue to go higher. my only point was be fearful when other people are greedy,5,0.524,0.974,POSITIVE
+,Long term hopefully,2022 taught me about pullbacks:(,1,0.5,0.979,NEGATIVE
+,Long term hopefully,Euphoria is manifesting,1,0.5,0.995,POSITIVE
+,Long term hopefully,"""Irrational Exuberance""",2,0.5,0.88,POSITIVE
+,Long term hopefully,Its time to sell,1,0.56,0.96,NEGATIVE
+,Long term hopefully,"I mean he sells a billion dollars worth of AMZN every year to finance Blue Origin, who's to say he's not just funding other investments? ",2,0.557,0.981,NEGATIVE
+,Long term hopefully,"I mean he sells a billion dollars worth of AMZN every year to finance Blue Origin, who's to say he's not just funding other investments? ",3,0.557,0.981,NEGATIVE
+,Long term hopefully,"Exactly this. It doesn't mean anything, lol",4,0.5,0.99,POSITIVE
+,Long term hopefully,"If he does that another 50 times he might go broke, or a couple more divorces,...",3,0.509,0.877,NEGATIVE
+,Long term hopefully,Yep exactly. And man will nvda have a pullback when it does,1,0.502,1.0,POSITIVE
+,Long term hopefully,Nvidia stock price will only have a big drop when it splits.,2,0.613,0.998,NEGATIVE
+,Long term hopefully,A pull back in this case will zero the whole port . OoF,1,0.499,1.0,NEGATIVE
+,Long term hopefully,If it’s invested it’s not cash.. you have 28k in equities and 21k in margin,0,0.506,0.996,NEGATIVE
+,Long term hopefully,"28k in equities, 21k in debt.",1,0.499,0.989,NEGATIVE
+,Long term hopefully,"28k gambling, 21k debt 🤣",2,0.498,0.996,NEGATIVE
+,Long term hopefully,How can you tell from OPs screenshot which are margin?,1,0.499,0.933,NEGATIVE
+,Long term hopefully,It’s easy if you just assume the worst and assign the worst possible outcome to anyone elses endeavors.,2,0.501,1.0,NEGATIVE
+,Long term hopefully,"He was updating OP's title, not getting the numbers himself from the screenshot",2,0.502,1.0,NEGATIVE
+,Long term hopefully,Can you explain what margin means for me? Briefly,1,0.499,0.931,NEGATIVE
+,Long term hopefully,"Margin in the stock market is like using a loan to buy more stocks than you can afford with your own money. Imagine you have $50, but you want to buy $100 worth of stocks. You can use margin to borrow the other $50 from your brokerage firm (the company that helps you buy and sell stocks) to buy the stocks you want. This can help you make more money if the stocks go up in value because you have more stocks. However, it’s also riskier because if the stocks go down in value, you still have to pay back the $50 you borrowed, plus any interest. So, using margin can be like a double-edged sword, offering the potential for higher rewards.",2,0.571,0.954,NEGATIVE
+,Long term hopefully,IE you had $100 of Amazon and $50 was your money and $50 was the banks. Well say Amazon goes to $50 now you have $25 yours (which you borrowed against and the bank saw the worth) and $25 the banks but you still owe the bank $50. And a margin call is when the bank sees the stocks you own are getting close to being worth less than what you borrowed. Like if a pawn shop gave you $500 but held an object of yours worth $500 and now that object they hold lost value and is now $250. The pawn shop would freak out because they have $500 in liabilities (debt to you) and $250 in equity (the item they hold),3,0.521,1.0,NEGATIVE
+,Long term hopefully,"The bank then forces you to sell the stock you own and owe in order to pay them back ie margin call. You sell everything, pay them back and you’re at $0",4,0.551,1.0,NEGATIVE
+,Long term hopefully,Yeah that sounds like a horrible idea for 99% of the people here.,3,0.497,1.0,NEGATIVE
+,Long term hopefully,It can be used as a tool but you should always have dry powder especially if you’re on margin,4,0.504,0.908,POSITIVE
+,Long term hopefully,If you have dry powder you dont need margin.,5,0.494,0.865,POSITIVE
+,Long term hopefully,"One downturn and you lose all, including your money. RIP.",0,0.526,1.0,NEGATIVE
+,Long term hopefully,Apparently other peoples money oof,1,0.502,0.998,NEGATIVE
+,Long term hopefully,Its okay. He can just delete the app and along with it the debt gets deleted too.,1,0.497,1.0,NEGATIVE
+,Long term hopefully,I’ll see you at the margin call,0,0.504,0.857,POSITIVE
+,Long term hopefully,You are playing an awfully dangerous game there. Markets been on a great run lately but a downturn comes and you’re gonna get smoked,0,0.514,0.994,NEGATIVE
+,Long term hopefully,Rip,0,0.495,0.982,POSITIVE
+,Long term hopefully,Tech,0,0.575,0.987,POSITIVE
+,Long term hopefully,Congrats you bought at s&p 500 all time highs with elections around the corner,0,0.522,0.985,POSITIVE
+,Long term hopefully,"Yes, statistically when the s&p500 hits all time highs it continues to do soAlso, statistically, election years are great years for the stock marketWhat's the gist of this comment exactly?",1,0.538,0.975,NEGATIVE
+,Long term hopefully,I predicted the future,2,0.525,0.962,POSITIVE
+,Long term hopefully,You think the top is in for the year already?,3,0.684,0.976,POSITIVE
+,Long term hopefully,"Show us your shorts or GTFO.Honestly though, who cares. Set some stop losses and see how it goes.",1,0.508,0.975,POSITIVE
+,Long term hopefully,Very tech heavy and High Beta. Recipe for disaster when market turns,0,0.549,0.996,NEGATIVE
+,Long term hopefully,"Lmao basically 40% of your investment is margin... I can see no reason why that's a bad idea.Keep it up, gains are forever 🤣",0,0.51,0.984,NEGATIVE
+,Long term hopefully,"I feel like we're heading towards 2021-2022 again... So many people were on margin claiming that it was stupid not to be on margin. Needless to say, a lot of people got called.",1,0.498,1.0,NEGATIVE
+,Long term hopefully,How does margin work? He says 28k cash but his account is only worth 28k so where is the 21k margin,1,0.523,1.0,NEGATIVE
+,Long term hopefully,"Good portfolio for what timeframe and how actively managed? R u going to blindly add to them for decades? What r the signs to trigger a sell off? If u don’t have a plan, then u plan to fail.",0,0.51,0.991,POSITIVE
+,Long term hopefully,"As others have mentioned, leveraged indexes like TQQQ are suuuuper risky, and not viable long term holds.For instance, while the S&P 500 has gone higher than its prior peak in 2021, TQQQ has not.",0,0.519,0.999,NEGATIVE
+,Long term hopefully,TQQQ is not very good “long term” you lose a lot more than 3x in a market downturn. NDX is at all time highs while TQQQ is still down 30% + from 2022 levels.,0,0.53,0.998,NEGATIVE
+,Long term hopefully,I would get rid of the margin and just buy QQQm if you love tech,0,0.543,0.99,NEGATIVE
+,Long term hopefully,It was a fine portfolio till you mentioned margin.. good luck.. markets at all time highs on margin is a recipe for disaster.,0,0.525,1.0,NEGATIVE
+,Long term hopefully,"You have $0 cash and $7k in equity. No that’s not a good portfolio. Keep at it though, you won’t learn anything until you hit rock bottom",0,0.516,1.0,NEGATIVE
+,Long term hopefully,"Dude, instantly resolve your margin. You will blow up your account. According to your comments, you don't even know how a leveraged ETF works.",0,0.515,1.0,NEGATIVE
+,Long term hopefully,"Margin comes in handy if you want to make a trade and lack purchasing power due to unsettled funds, but beyond that it is generally a bad idea to use Margin.Margin is debt that charges you high interest. Not meant for long term holds.",0,0.516,0.998,NEGATIVE
+,Long term hopefully,Yes. Cos Stonks go brrrrr Red? Nah u must b color blind we dunno that one,0,0.505,0.979,NEGATIVE
+,Long term hopefully,"Whatever you do, just don't use margin, especially now with high interest rates.... Some negative weeks will kill you.",0,0.518,0.997,NEGATIVE
+,Long term hopefully,TQQQ on margin? You’re going to get crushed.,0,0.509,0.994,NEGATIVE
+,Long term hopefully,“Long term hopefully.”Guarantee these positions are sold off before end of month.,0,0.53,0.908,NEGATIVE
+,Long term hopefully,Definitely not a long term portfolio at these valuations,0,0.554,1.0,NEGATIVE
+,Long term hopefully,"""There are 3 ways men go broke, ladies, liquor and leverage"" - Charlie Munger",0,0.503,0.892,POSITIVE
+,Long term hopefully,"Those are good stocks with good moats (protection against competition). The question now becomes, are they at a good price to buy? With the stock market at all time highs and those being very analyzed companies I would think not. Look back at their history lows in the past few years. Even great companies pull back and that's the time to buy. The market is holding on by a thread and there should be a major correction 15-20% in the near future (1yr).No matter how good a company is it isn't worth an infinite price. Great companies will correct you buying at too high a price but sometimes that takes a lot of years. After 2008 my index didn't get back to the same value for 8yrs. Learn how to find the intrinsic value of a company and then reduce that price by 25-50% and wait to buy at that price. Good luck!!",0,0.57,0.931,NEGATIVE
+,Long term hopefully,Diversification anyone?,0,0.502,0.887,POSITIVE
+,Long term hopefully,Im not crying🥹,0,0.502,0.964,NEGATIVE
+,Long term hopefully,Get rid of TQQQ and UPRO and you’ll be alright,0,0.505,0.994,NEGATIVE
+,Long term hopefully,"Everyone is a money maker in a uptrend, wait till some of these companies drop over night. Leverage becomes your enemy fast if not properly used.",0,0.518,0.983,NEGATIVE
+,Long term hopefully,Whole lotta overlap,0,0.488,0.981,NEGATIVE
+,Long term hopefully,I don’t know what UPRO is but I’d definitely get out of TQQQ.,0,0.513,0.849,POSITIVE
+,Long term hopefully,Potato brain moves over here,0,0.5,0.999,NEGATIVE
+,Long term hopefully,Lots of AI plays. Solid.,0,0.571,0.999,POSITIVE

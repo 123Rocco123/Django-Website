@@ -1,0 +1,51 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Outlook,Flair Sentiment
+,nan,GPT-REEEE,0,0.5,NEGATIVE,0.999
+,nan,water is essental for humans,0,0.508,NEGATIVE,0.987
+,nan,better writer than yahoo finance,1,0.517,POSITIVE,0.722
+,nan,Good news for my calls 🤓,0,0.546,POSITIVE,0.799
+,nan,"my calls are down 80%, maybe this news will push it back to 79%",1,0.524,NEGATIVE,1.0
+,nan,Me too 😅,2,0.5,NEGATIVE,0.975
+,nan,This is the TSM I know,2,0.535,POSITIVE,1.0
+,nan,"Glad I averaged down during the drop to 136 and was able to sell off during the pump the other morning, made out with 70% profit, will take it",1,0.528,NEGATIVE,0.577
+,nan,I almost did it too but I was not sure so I decided to stay like that,2,0.499,NEGATIVE,0.673
+,nan,"Good luck man, think there’ll be some upward movement. I just wasn’t confident it could outpace the theta for 4/19 to be profitable",3,0.514,NEGATIVE,1.0
+,nan,LISAN Ai GAIB,0,0.588,POSITIVE,0.996
+,nan,ASML is mother of every chip,0,0.524,POSITIVE,0.998
+,nan,Canon could be the chain smoking aunt if they step up their production of nanoimprint presses.,1,0.516,NEGATIVE,0.973
+,nan,Problem with other companies is reliability,2,0.545,NEGATIVE,0.913
+,nan,Why canon dropped off,2,0.47,NEGATIVE,0.994
+,nan,"nah, it'll be a niche application on low volume in research fabs. Basically no real interest from the big high volume leading edge customers.",2,0.535,NEGATIVE,1.0
+,nan,There’s few countries who can produce the starting material for monoclinic silicon.,1,0.518,POSITIVE,0.981
+,nan,Poop is an “essential building block” for fertilizer,0,0.51,POSITIVE,0.999
+,nan,Imagine you buy TSM and then China invades and nationalizes the company,0,0.646,NEGATIVE,0.998
+,nan,Won’t happen. Taiwan nor the USA will allow TSM to be taken by china.,1,0.514,NEGATIVE,1.0
+,nan,shhhh... china can hear you,0,0.527,NEGATIVE,0.976
+,nan,"Meanwhile, the stock continues to go down",0,0.613,NEGATIVE,1.0
+,nan,It's held 130 for the 3 month. I think it's gonna run up ahead of earnings,1,0.552,NEGATIVE,0.998
+,nan,It’s been trying but keeps hitting resistance at $145,2,0.502,POSITIVE,0.541
+,nan,I think this week it def closes above 145 and will probably run in the 150ish range ahead of earnings. I've got 4/19 150 calls that I'm looking to unload before earnings,3,0.565,NEGATIVE,1.0
+,nan,"Interesting article… their competition rn is Intel, which is about as useless as a dead horse in this chips race it seems. So, they probably have quite along runway until anyone catches them.",0,0.51,NEGATIVE,0.995
+,nan,"Actually, Intel is doing well in both designing and making chips across the board, they are just behind on leading edge production / foundry.But, they are investing heavily and trying to catch up, with full support of western governments. So yeah, not there yet...but don't count them out as the new leader (or at least #2) 5-10 years from now.Buy now, retire in 10-15 years.",1,0.546,NEGATIVE,0.966
+,nan,Intel has been breaking my heart lately.I’m still down about 9% after DCAing the past few drops.Feels like catching a falling knife.,2,0.508,NEGATIVE,1.0
+,nan,"Mate I had meta at $90 and now it's $500.Love amd and nvidia but intel is a dark horse. Nobody expects them to execute.Wall Street trying bad this week to scoop up shares, just hold and let it be.",3,0.554,NEGATIVE,0.996
+,nan,Meta is at 527.99,4,0.5,NEGATIVE,0.828
+,nan,No this is wsb. Wait until it's up 100 percent then buy calls.,2,0.596,NEGATIVE,0.998
+,nan,"Tried that with Costco, didn't work (yet?)",3,0.5,NEGATIVE,0.955
+,nan,"The problem is that leading edge is where most of the revenue is, and if you're behind that, it's getting exponentially more difficult and expensive to catch up.Intel's future is being a govt-subsidized 3rd party contractor and value player.",2,0.523,NEGATIVE,1.0
+,nan,"It is exponentially difficult to be the leader actually because you are always making risky decisions without knowing whether it will work out (many unknown unknowns wrt design, process, integration).Catching up with the leader is fairly easy because you know the path roughly and can go faster. You can lean on external expertise from the joint vendors and consultants (and hire employees from the competition).It is just very expensive and will take years. Shareholders might not be happy.Intel will be the chip maker of the western world as soon as they have equivalent volume and technology close enough to TSMC. The big question is indeed whether they can do it profitability enough. Today everyone is skeptical, that is the best time to buy cheap shares...",3,0.526,NEGATIVE,1.0
+,nan,"This is certainly the case in other industries.But, in the chip world, if on day one of your competitor producing chips, you begin designing your chip fabrication equipment, 6 months later you order it from ASML, it gets delivered a year later, you get it up and working 4 months later.This isn't like you go change or tweak an existing line, every generation is a new factory setup with new production line and all new equipment. They keep running the old equipment, they just add a new line. That's why older chips are cheaper, everyone has already paid for their equipment and can just keep making chips on it.So if you are watching what a competitor has successfully accomplished, you are going to be able to copy them in 22 months, MINIMUM.They are already on the next generation when you are getting your equipment delivered and dialed in.Also the bulk of the income that pays for the expensive equipment is made in the first 2 years. When margins are very high. 2 years out, competitors come online and you cut your prices by 50%.Now you are making chips that are being replaced in datacenters all over the country. You are a full generation behind.",4,0.558,NEGATIVE,0.825
+,nan,Just forget about them for a few years,2,0.538,NEGATIVE,0.999
+,nan,Just forget about them for a few years,3,0.538,NEGATIVE,0.999
+,nan,"Intel will be eventually, they are building a 4nm fab. Atm TSM is the only bleeding edge fab. ASML is a monopoly though.",1,0.513,NEGATIVE,0.864
+,nan,Intel will catch up eventually if you assume that no one else (or even TSMC) will innovate between now and when that fab is generating revenue. I actually think it might be easier to argue they’re falling further behind than catching up.,2,0.514,NEGATIVE,0.999
+,nan,"Yep. Intel is building a 4nm fab, while TSMC has N4 products on the shelves for sale today. N3's going to hit at the end of this year, and their first GAAFETs on N2 are already cranking out with high yield.Bottom line is, TSMC is pretty much good to go through 2027 right now... their roadmap has minimal risk. Intel is on a high-risk roadmap, and even if it's executed flawlessly, it will still leave them 2 generations behind. Puts on INTC.",3,0.538,POSITIVE,0.999
+,nan,You do realize Intel will have products on 20a GAAFET on the second half of 2024 right?,4,0.526,NEGATIVE,0.999
+,nan,"I'll believe it when I see those products on the shelves.In summer 2022, the Big Tech place I worked for contracted with Intel for 18A deliveries in 2H '24. They slipped schedule twice in 6 months, so we canceled the contract entirely.Those guys couldn't find their ass with two hands. Intel delivering their new game-changing node is the semi industry's equivalent of Charlie Brown and his football.",5,0.536,NEGATIVE,1.0
+,nan,"Intel's 5 nodes in 4 years was always scheduled to end up in 2025 with 18a, meaning deliveries with 18a were most likely always set up to take place in 2025. Can't say much about that contract though.",6,0.529,NEGATIVE,0.999
+,nan,"What's your game plan when china unifies with Taiwan and prevents TSM from selling to the US?Go ahead, bet against America.",4,0.527,NEGATIVE,0.993
+,nan,"If China goes to war with Taiwan, the US goes full wartime infinite money-printing mode and the rest of my portfolio explodes.",5,0.519,NEGATIVE,0.996
+,nan,"Why do you assume it would be a war? China could easily have a treaty with Taiwan to prohibit chip sales to us, in return they do not get invaded. Anything is possible, point in intel is the only company that has their capabilities state side. Shorting it might work short term but good luck betting against America -",6,0.563,NEGATIVE,0.991
+,nan,Monopoly doesn’t apply if you’re the sole distributor of a highly sought product.,2,0.51,NEGATIVE,0.967
+,nan,That’s literally the only time “Monopoly” applies. I bet I could make millions running a trader bro style econ 101 YouTube channel. Maybe if I dress up fundamentals either way some clickbait and promises of getting rich quick you regards might retain some of that info.,3,0.507,NEGATIVE,0.999
+,nan,Busting it open with Julie Hyman,0,0.506,POSITIVE,0.997
+,nan,Buy and hold this stock until 2025!,0,0.712,POSITIVE,0.755

@@ -1,0 +1,3 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,"Existing processor can already do this, but are bottlenecked on main memory throughput. No amount of logic acceleration can improve inference performance unless the memory bottleneck is addressed.I didn't see the article mention anything about how many memory channels this new product will have, nor whether it will have enough HBM stacked on-die to accomodate an LLM, but we will see what they bring to market.",0,0.527,1.0,NEGATIVE
+,,Someone get an engineering sample over to George Hotz.,0,0.52,0.985,NEGATIVE

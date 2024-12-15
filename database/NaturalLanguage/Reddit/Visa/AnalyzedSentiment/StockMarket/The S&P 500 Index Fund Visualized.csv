@@ -1,0 +1,39 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Outlook,Flair Sentiment
+,,Missing two!,0,0.548,NEGATIVE,0.998
+,,CL is missing.,1,0.5,NEGATIVE,1.0
+,,RE,2,0.515,POSITIVE,0.805
+,,9/11,0,0.5,NEGATIVE,0.631
+,,I walked through blood and bone looking for my brother,1,0.502,NEGATIVE,0.866
+,,Turns out he was in northern Ontario,2,0.508,NEGATIVE,0.887
+,,I swiped right into Popular!,0,0.508,NEGATIVE,0.977
+,,That’s the most frustrating design choice,1,0.516,NEGATIVE,0.999
+,,ELI5: GOOGL vs GOOG?,0,0.508,NEGATIVE,0.991
+,,GOOGL (class A) = voting rights GOOG (class C) = no voting rights,1,0.504,NEGATIVE,1.0
+,,Why only Google split like that?,2,0.502,NEGATIVE,1.0
+,,Big moneys,3,0.532,POSITIVE,0.597
+,,Amazon is not a consumer company... AWS is their cash cow I thought. Should be under tech,0,0.61,NEGATIVE,0.981
+,,"AWS only makes up ~15% of their revenue. Online sales, physical stores, and third-party selling services make up almost 70%.AWS generates the most profit, but is not the largest revenue stream by far. Without AWS, Amazon would be losing tons of money - but I guess the classification goes by what market the most revenue is coming from?",1,0.555,NEGATIVE,0.999
+,,Mastercard....need to rethink that logo in monochrome,0,0.499,NEGATIVE,0.981
+,,This is great! Thank you for posting.,0,0.503,POSITIVE,0.964
+,,"Ford is top right with a .1% bubble, next to McDonalds and Starbucks",0,0.531,POSITIVE,0.958
+,,"Ford is top right with a .1% bubble, next to McDonalds and Starbucks",1,0.531,POSITIVE,0.958
+,,Cool visitation,0,0.5,POSITIVE,0.966
+,,But wouldn’t it be much more useful and informative if all these were combined on one graphic. Wtf.,0,0.517,NEGATIVE,0.993
+,,Where the fuck is Tesla?,0,0.495,NEGATIVE,0.969
+,,Consumer discretionary. 2nd biggest behind Amazon.,1,0.51,POSITIVE,0.979
+,,Plus Material's and Real Estate.,0,0.52,POSITIVE,0.977
+,,What software used to make such visualisation ?,0,0.538,NEGATIVE,1.0
+,,Whats the difference between the two google,0,0.525,POSITIVE,0.872
+,,"I bet there are four on here that will be a lot bigger 10 years from now. Google, Apple, Microsoft and Amazon.What people do not get is they have barely even started. Look at the breakthrough from Google with Transformers. That is creating billions already and will create many more billions of revenue in running the models.That will reward three companies a ton. Google, Microsoft and Amazon as they run the three largest clouds and all are growing fast.",0,0.523,POSITIVE,0.965
+,,That’s 😎 cool,0,0.5,POSITIVE,0.999
+,,Did you create these visuals? Or is there a source.,0,0.513,NEGATIVE,0.61
+,,What is a good website that can simply show SP500’s percentage or volume invested in each sector?,0,0.518,POSITIVE,0.942
+,,How about a S&P500 ETF Factsheet?,1,0.503,NEGATIVE,0.919
+,,Am maxing out my 401k investments with mosly S&P 500 index funds. Thanks for sharing this visual of each sector OP.,0,0.51,POSITIVE,0.816
+,,Use the ValueG if you are looking for a balanced measuring tool.,0,0.518,POSITIVE,0.745
+,,NI represent,0,0.5,POSITIVE,0.563
+,,Danaher?,0,0.5,NEGATIVE,0.946
+,,Where is AMZN?,0,0.5,NEGATIVE,0.736
+,,I see ChatGPT was doing the counting for you….,0,0.505,POSITIVE,0.595
+,,wallmart 0.6% and coca cola 0.7%??,0,0.497,NEGATIVE,1.0
+,,Alphabet and Alphabet are the 2 biggest communications lol,0,0.504,POSITIVE,0.985

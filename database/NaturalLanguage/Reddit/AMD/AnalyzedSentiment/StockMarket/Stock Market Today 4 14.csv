@@ -1,0 +1,5 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,"Wow, what's going on MSFT?",0,0.513,0.99,NEGATIVE
+,,They went bankrupt,1,0.512,0.988,NEGATIVE
+,,Wow. Majority of the stocks in the financial sector is green.,0,0.543,0.917,NEGATIVE
+,,Where can I get a live chart like that?,0,0.505,0.974,POSITIVE

@@ -1,0 +1,11 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,Tsla is just killing it.,0,0.502,0.999,NEGATIVE
+,,Wasn't a very good day just watching your investments drop like a stone throughout the day 🫣,0,0.516,0.999,NEGATIVE
+,,"Very new to investing and wasn't aware earnings results would impact, you learn the hard way hey 🤷‍♂️. Every day is a school day! 😀",1,0.546,0.973,POSITIVE
+,,"Very new to investing and wasn't aware earnings results would impact, you learn the hard way hey 🤷‍♂️. Every day is a school day! 😀",2,0.546,0.973,POSITIVE
+,,"Appreciate your insight, I'm in for the long term so expect peaks and troughs, over the long term I should see decent returns 🤞😃",3,0.565,0.509,POSITIVE
+,,"Appreciate your insight, I'm in for the long term so expect peaks and troughs, over the long term I should see decent returns 🤞😃",4,0.565,0.509,POSITIVE
+,,Be careful out there. There is blood in the water for a significant move down.,3,0.53,0.995,NEGATIVE
+,,I'll see that as positive and invest more to get the returns when it picks up 🤔,4,0.525,0.607,POSITIVE
+,,what website is this?,0,0.505,0.997,NEGATIVE
+,,https://finviz.com/map.ashx?t=sec,1,0.505,0.58,NEGATIVE

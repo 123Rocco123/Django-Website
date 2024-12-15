@@ -1,0 +1,14 @@
+date of comment,main comment,comment,depth,PTR Sentiment (Comment),Flair Outlook,Flair Score,PTR Sentiment,Flair Sentiment
+,,GPT-REEEE,0,0.5,NEGATIVE,0.999,0.5,0.999
+,,"Whether my life savings worth of calls print or go up in flames after Wednesday, I’m glad to see technology advancing beyond my wildest dreams",0,0.529,POSITIVE,0.993,0.529,0.993
+,,I’m with you broski,1,0.5,POSITIVE,0.994,0.5,0.994
+,,Nvidia - IONQ news coming after earnings…big things coming.,0,0.538,NEGATIVE,0.574,0.538,0.574
+,,Can you elaborate please,1,0.5,POSITIVE,0.785,0.5,0.785
+,,Basically Skynet is activated,2,0.498,NEGATIVE,0.989,0.498,0.989
+,,Quantum computing will destroy encryption and crypto will crash 🤖,0,0.499,NEGATIVE,1.0,0.499,1.0
+,,Good thing we already have the first post-quantum cryptography algorithms developed.,1,0.523,POSITIVE,0.936,0.523,0.936
+,,"Not really, we already have quantum proof encryption",1,0.508,NEGATIVE,0.997,0.508,0.997
+,,What does this mean for GOOG?,0,0.5,NEGATIVE,0.641,0.5,0.641
+,,Quantum means it can go up or down or both you won’t know until you see the cat,1,0.51,POSITIVE,0.999,0.51,0.999
+,,Quantum bags are neither losses or gains,0,0.498,NEGATIVE,0.737,0.498,0.737
+,,NVIDIA and Google accelerating quantum computing with CUDA-Q is a game-changer for scalable quantum tech,0,0.522,POSITIVE,0.998,0.522,0.998

@@ -1,0 +1,6 @@
+date of comment,main comment,comment,depth,sentiment,PTR Sentiment,Flair Outlook,Flair Sentiment
+,,GPT-REEEE,0,,0.5,NEGATIVE,0.999
+,,"From Bloomberg reporters Youkyung Lee and Georgina McKay:Asian semiconductor-related stocks tumbled, putting regional benchmarks on course for their worst drops in a month amid renewed concerns of overheating in the artificial intelligence rally.The MSCI Asia Pacific Index fell as much as 2.2%, the most since the Aug. 5 panic selloff. Taiwan’s Taiex tumbled as much as 5.3% while Japan’s Topix slid 3.4% and Korea’s Kospi dropped 3%. The declines came after leading global AI chipmaker Nvidia Corp. shed a daily record of $278.9 billion in market value Tuesday.The latest concerns were sparked by analyst comments that AI stocks had gotten too far ahead of what the technology can actually deliver in terms of profits. The risk-off mood was further stoked by worry over the US economy after a closely watched US manufacturing gauge missed estimates. Read the full story here.",0,,0.529,NEGATIVE,1.0
+,,,0,,,,
+,,Sk Hynix is making memory chip not AI chip,0,,0.564,NEGATIVE,0.994
+,,"AI needs memory, lots of it",1,,0.573,NEGATIVE,0.656

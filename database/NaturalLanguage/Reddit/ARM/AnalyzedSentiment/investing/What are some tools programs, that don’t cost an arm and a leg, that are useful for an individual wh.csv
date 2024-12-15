@@ -1,0 +1,18 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Outlook,Flair Sentiment
+,,Microsoft Excel. That's if you're willing to devote some time to it,0,0.526,NEGATIVE,0.988
+,,"I don’t have much experience with Excel, I do hear it’s incredibly useful. I just gather stock data and log it daily to eventually build my own tracker?",1,0.536,POSITIVE,0.998
+,,"Yeah the way I have mine set up is it gives me all the info I could possibly need and literally all I have to do is put in the current price of the ETF. It took a good bit of time and I'm still adding to it but it's really helpful. There is also a thing called an API that will automatically update through the web, but it's a lot harder and I don't know how to do that.",2,0.537,POSITIVE,0.994
+,,"That’s awesome. Is it possible to share that? You don’t have to share the stocks you have or data, just like the setup you have. If not I understand I’ll start trying to make my own. Thank you for the help!",3,0.534,POSITIVE,0.992
+,,Yeah tonight when I get home I can copy the file and delete the specific info and let you have at it. I'll dm it to you,4,0.504,POSITIVE,0.718
+,,"Thank you so much, that’ll help a ton. No rush at all, if you’re busy don’t worry about me. But really thanks a ton!",5,0.505,POSITIVE,0.989
+,,"Check out Martin Shkreli's YouTube channel. Love him, or hate him, he has some pretty tips/tutorials and examples of how to analyze a stock using DCF in excel.",2,0.528,POSITIVE,0.763
+,,"Sweet thank you, I’ll check him out!",3,0.499,POSITIVE,0.994
+,,R,0,0.515,POSITIVE,0.642
+,,R?,1,0.515,NEGATIVE,0.981
+,,programming language for statistics,2,0.5,POSITIVE,0.987
+,,"Ah okay, I’ll check that out. Thank you!",3,0.499,POSITIVE,0.88
+,,"https://www.tiingo.com/Is not very well known, but surprisingly good.",0,0.532,POSITIVE,0.979
+,,Hey thank you I’ll check this out!,1,0.499,POSITIVE,0.99
+,,https://www.portfoliovisualizer.comhttps://www.alphavantage.co/https://www.quantopian.comhttps://www.tradingview.com/,0,0.507,POSITIVE,0.672
+,,"Awesome that’s a list, thank you I’ll go check them out!",1,0.501,POSITIVE,0.997
+,,EquityStat to manage your portfolio and track your performance.,0,0.525,POSITIVE,0.991

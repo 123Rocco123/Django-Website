@@ -1,0 +1,63 @@
+date of comment,main comment,comment,depth,PTR Sentiment (Comment),Flair Outlook,Flair Score,PTR Sentiment,Flair Sentiment
+,My wife thinks I've bought a few etfs.,GPT-REEEE,0,0.5,NEGATIVE,0.999,0.5,0.999
+,My wife thinks I've bought a few etfs.,the FOMO in this sub is going to kill me.,0,0.508,NEGATIVE,0.998,0.508,0.998
+,My wife thinks I've bought a few etfs.,"You and me both. And the instant I do, I’m going to be fked",1,0.509,POSITIVE,0.991,0.509,0.991
+,My wife thinks I've bought a few etfs.,Pro tip: Never go with intuition.. just toss a coin and go all in.,2,0.502,POSITIVE,0.987,0.502,0.987
+,My wife thinks I've bought a few etfs.,"based on most of the GP posts, that seems to be the investment strategy",3,0.55,NEGATIVE,0.967,0.55,0.967
+,My wife thinks I've bought a few etfs.,You and me both friend. I feel like I could buy calls and puts and cause any ticker on the market to go sideways.,2,0.54,POSITIVE,0.999,0.54,0.999
+,My wife thinks I've bought a few etfs.,I’ve been reading this sub for years. Have swung $100k in a day a few times. Have had to take 6 month pauses in to stop the bleedOne thing I’ve learned is there’s ALWAYS a new big play on the horizon. Don’t let the fomo get to you because you’ll have another chance again,1,0.526,NEGATIVE,0.999,0.526,0.999
+,My wife thinks I've bought a few etfs.,"I think this might be the answer. Multiple cheap leaps, don't chase the fomo",2,0.504,NEGATIVE,0.999,0.504,0.999
+,My wife thinks I've bought a few etfs.,We are close to peak,1,0.475,POSITIVE,0.993,0.475,0.993
+,My wife thinks I've bought a few etfs.,"I really need to learn how to trade options. I also don't want to thanks to all the regards posting loss porn saying ""you can tell when I discovered options""",0,0.522,NEGATIVE,1.0,0.522,1.0
+,My wife thinks I've bought a few etfs.,"Options are basically futures but weird. Returns can be stupid but so can the losses.I just trade $SPY 0DTEs like a degenerate but my hit rate is pretty decent. (+85% today) It’s all about risk management, cut the losers early and let the winners run. The people that lose everything usually made a bad play and let it run to zero or doubled down. Don’t do that, options rarely go in your favor after tanking.If you can trade them like a robot they make bank.",1,0.509,NEGATIVE,0.826,0.509,0.826
+,My wife thinks I've bought a few etfs.,This is probably the best advice and some of the hardest advice to follow.,2,0.516,POSITIVE,0.991,0.516,0.991
+,My wife thinks I've bought a few etfs.,"Cut losers early - whats -% you cut them on? Quite often 0dte goes to -20%, -30% before going your direction.",2,0.498,NEGATIVE,1.0,0.498,1.0
+,My wife thinks I've bought a few etfs.,"I’ll cut early manually when the trade idea has been invalidated, but most of the time I’ll also have an automatic SL set for ~40% to give it some breathing room. If it goes down more than that while still being a valid trade, my entry was trash.When a breakout pulls back and is retesting a previous resistance level, I’ll enter when the price holds above the new support. If it breaks back below then I’m immediately out, because my plan failed.",3,0.526,NEGATIVE,1.0,0.526,1.0
+,My wife thinks I've bought a few etfs.,"Thanks for your response. How do you determine 'holds above the new support', how much time should pass? I mean I get all this theory, but quite often it seems like price goes below supports / above resistances just on purpose, to f##k everyone and then it just stays in range or goes opposite way.My losses are huge since I hate to lose even -1% on a trade and then ending up loosing -80% or -90%. Winners are pathetically small since once it's breakeven I typically close at smallish gains, less than 10% in profit. Overall I'd say my 'winning' trades % is over 4 in 5 trades but due to losses and winners % I'm deeply in the red.",4,0.523,NEGATIVE,0.998,0.523,0.998
+,My wife thinks I've bought a few etfs.,"I'm gonna point you to this guy's comment over on r/daytrading because his strat is very similar mine, although he doesn't use options: https://www.reddit.com/r/Daytrading/comments/1ggpvw5/comment/lurk8nd/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_buttonIt's a strategy based on the five-minute opening range. You mark out the high and low of the first 5m candle of the day, and then you just wait. You want a 5m candle to *close* outside of the opening range, then you want to wait for the price to come back to the high or low line, and hit resistance. If a candle wicks into or near the range but doesn't cross, it looks good, and I enter. Usually it'll start picking up momentum pretty quick afterwards.If the price drops back into the range more than halfway or even crosses to the opposite side, get tf out.This strat also has the benefit of being easy to identify consolidation days because you'll clearly see the price just staying in one range. If I don't see anything good by 11, I usually just sit out. Don't need any fancy indicators, just price action.Paper trade to get the hang of the timing, and check out some screenshots in that comment thread for examples. Futures are easier but options can print like this. Some people prefer the 15m opening range, 30min etc. No matter what you pick it'll teach you to get good at reading the chart and candles.",5,0.519,NEGATIVE,0.957,0.519,0.957
+,My wife thinks I've bought a few etfs.,Thank you very much for taking time to share this. I'll try that.,6,0.544,POSITIVE,0.827,0.544,0.827
+,My wife thinks I've bought a few etfs.,,7,,,,,
+,My wife thinks I've bought a few etfs.,,8,,,,,
+,My wife thinks I've bought a few etfs.,,9,,,,,
+,My wife thinks I've bought a few etfs.,I understand options kinda but sofi just unlocked it for me i dont understand all the numbers help me i wanna yolo $100,2,0.5,NEGATIVE,0.999,0.5,0.999
+,My wife thinks I've bought a few etfs.,"Futures, nah. Options are term life insurance on stocks. Options are stock insurance and I love selling it.",2,0.567,NEGATIVE,1.0,0.567,1.0
+,My wife thinks I've bought a few etfs.,Buy LEAPS in decent companies during a bull market. Wait 3-6 months,1,0.589,NEGATIVE,0.997,0.589,0.997
+,My wife thinks I've bought a few etfs.,"I see that leaps cost much more then short term ones, does it pay off well compared to the risk and price it has",2,0.534,POSITIVE,0.987,0.534,0.987
+,My wife thinks I've bought a few etfs.,"Leaps cost more because you are paying for time. If the option expires OTM, it is worthless, so an NVDA 200 call expiring tomorrow won't be in the money. A 200c NVDA expiring 2 years from now still has a good chance of being in the money as long as they continue to trend upward over time.As long as the stock trends in your favor (call or put), leaps will gain value for you, even if they don't end up ITM becsuse they have so much time for expiry.",3,0.541,NEGATIVE,0.913,0.541,0.913
+,My wife thinks I've bought a few etfs.,Can you define LEAPS?,2,0.5,POSITIVE,0.999,0.5,0.999
+,My wife thinks I've bought a few etfs.,Long-term Equity Anticipation something something.,3,0.542,POSITIVE,0.998,0.542,0.998
+,My wife thinks I've bought a few etfs.,Long term options,3,0.578,POSITIVE,0.984,0.578,0.984
+,My wife thinks I've bought a few etfs.,the opposite of 0dte,3,0.5,NEGATIVE,0.999,0.5,0.999
+,My wife thinks I've bought a few etfs.,"Watch some youtube videos, learn what the greeks are and how options are priced, try to stay in pretty liquid contracts and do longer expiries at first. Avoid weeklies unless you really need action and don't care if you lose it all. Don't let your ITM contracts expire. Accept that you will lose money while you're learning. You can also make a ton of money in a hurry if you're willing to risk it. Above all, understand that no matter how good/lucky you are, long options are just glorified gambling. Respect that and have fun.",1,0.513,NEGATIVE,0.887,0.513,0.887
+,My wife thinks I've bought a few etfs.,Options are great if you can avoid 0DTE SPY,0,0.511,NEGATIVE,0.999,0.511,0.999
+,My wife thinks I've bought a few etfs.,I mean all Fidelity users are 1DTE unless you have a milly,1,0.5,NEGATIVE,0.998,0.5,0.998
+,My wife thinks I've bought a few etfs.,Let me introduce you to SPX at Fidelity. Problem solved.,2,0.503,POSITIVE,0.999,0.503,0.999
+,My wife thinks I've bought a few etfs.,"Nice! Did not know that, probably never will...I shouldn't...but I might",3,0.51,POSITIVE,0.954,0.51,0.954
+,My wife thinks I've bought a few etfs.,Is that really the cutoff on Fidelity to get 0dtes?,2,0.507,NEGATIVE,0.997,0.507,0.997
+,My wife thinks I've bought a few etfs.,"I actually just went back and checked, and looks like it changed very recently in July I think. $100,000 seems to be the new amount to have for 0dte with fidelity",3,0.536,POSITIVE,0.863,0.536,0.863
+,My wife thinks I've bought a few etfs.,Know the feeling,0,0.538,POSITIVE,0.999,0.538,0.999
+,My wife thinks I've bought a few etfs.,Ambatukam,0,0.5,POSITIVE,0.989,0.5,0.989
+,My wife thinks I've bought a few etfs.,bro just run. take your money and give yourself a nice vacation,0,0.506,NEGATIVE,0.997,0.506,0.997
+,My wife thinks I've bought a few etfs.,What are the expiries?,0,0.5,NEGATIVE,0.976,0.5,0.976
+,My wife thinks I've bought a few etfs.,Yesterday,1,0.55,NEGATIVE,0.619,0.55,0.619
+,My wife thinks I've bought a few etfs.,We want to see the all time,0,0.532,POSITIVE,0.999,0.532,0.999
+,My wife thinks I've bought a few etfs.,BUT TODAY IS NOT THAT DAY!!!,0,0.595,POSITIVE,0.586,0.595,0.586
+,My wife thinks I've bought a few etfs.,But until then… we ride!,0,0.5,POSITIVE,0.969,0.5,0.969
+,My wife thinks I've bought a few etfs.,how much hw do you put in to make the trades you do?,0,0.506,NEGATIVE,0.971,0.506,0.971
+,My wife thinks I've bought a few etfs.,but not today 💰🤑🤑🤑,0,0.575,NEGATIVE,0.671,0.575,0.671
+,My wife thinks I've bought a few etfs.,I wish I had money to play stocks with.,0,0.542,POSITIVE,0.943,0.542,0.943
+,My wife thinks I've bought a few etfs.,"If options don’t, your wife and her boyfriend might",0,0.503,POSITIVE,0.616,0.503,0.616
+,My wife thinks I've bought a few etfs.,...or make you rich 💰💰💰,0,0.507,NEGATIVE,0.898,0.507,0.898
+,My wife thinks I've bought a few etfs.,no mstr?,0,0.5,NEGATIVE,0.999,0.5,0.999
+,My wife thinks I've bought a few etfs.,See you tomorrow.,0,0.5,POSITIVE,0.952,0.5,0.952
+,My wife thinks I've bought a few etfs.,You could always get out now and just invest all in VOO.,0,0.52,POSITIVE,0.526,0.52,0.526
+,My wife thinks I've bought a few etfs.,But not today!,0,0.65,POSITIVE,0.75,0.65,0.75
+,My wife thinks I've bought a few etfs.,Not today.,0,0.65,NEGATIVE,0.67,0.65,0.67
+,My wife thinks I've bought a few etfs.,Tell me this is your tfsa,0,0.5,POSITIVE,0.978,0.5,0.978
+,My wife thinks I've bought a few etfs.,It would be an honor to touch your nutsack sir,0,0.507,POSITIVE,0.879,0.507,0.879
+,My wife thinks I've bought a few etfs.,"Can somebody actually explain to me how to do this. Just the whole trading options and calls and puts and stuff like that. Or send me in a direction where I can actually learn how to understand what any of this actually means. Also, does anybody know how I can do this with the Fidelity app, because they don't allow me to do it at the moment",0,0.516,NEGATIVE,0.668,0.516,0.668
+,My wife thinks I've bought a few etfs.,"How Chat GPT taught me: strike price = the price you think a stock will be at or above (call) or below or at (put) on a certain day.My first option: 09/02/24: GoPro trading at 1.18 - strike price .50 set to expire 12/20/24. .90 a contract bought 3.....sold last week when 1.56....I still dont know wtf im doing, research is your bff. Why? Bought 5 KMI call strike of 25 on 10/01 for .40 cent a peice expiring 1/25/25.....dipped way down 1st week of Nov, freaked sold 2 kept 3....its at 3.20 a piece set to sell tomorrow.....",1,0.536,NEGATIVE,1.0,0.536,1.0
+,My wife thinks I've bought a few etfs.,Honestly just ask chat and send him some screenshots of some options you want to buy. ,1,0.529,POSITIVE,0.774,0.529,0.774
+,My wife thinks I've bought a few etfs.,Step 1: Learn how to search the web,1,0.506,POSITIVE,0.989,0.506,0.989
+,My wife thinks I've bought a few etfs.,Next time just say you don't understand it either,2,0.535,NEGATIVE,1.0,0.535,1.0
+,My wife thinks I've bought a few etfs.,Step 2: Go to Step 1,3,0.512,POSITIVE,0.993,0.512,0.993

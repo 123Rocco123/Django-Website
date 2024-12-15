@@ -1,0 +1,30 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,GPT-REEEE,0,0.5,0.999,NEGATIVE
+,,What's the implication?,0,0.5,0.958,NEGATIVE
+,,There are around 20k contracts with a strike price of 72.5 expiring January 16th 2026. Is it squeeze season?It's the main reason why I bought calls a couple of days ago.,0,0.518,0.995,NEGATIVE
+,,What do the 2026 contracts imply here?,1,0.5,0.886,NEGATIVE
+,,"Well, if they exercise the contracts that's about 2M shares that will exert buying pressure and catapult the price of the stock. If that happens above the price that short sellers shorted then they may be forced to close their positions. To close a short position, you need to buy back the share this will further increase the buying pressure. I'm not giving financial advice.",2,0.559,1.0,NEGATIVE
+,,"I get that, but why will someone exercise their 2026 contract now? (I'm assuming you're talking about calls)",3,0.581,0.996,NEGATIVE
+,,"Nobody is going to exercise that call now but the unfortunate owners of that seller position on the calls is literally fucked.You might imagine a 200 stock price by 2026 that is almost a quarter billion loss on just that position. The only thing they can do is buy calls on their own, or stocks or bankrupt a bank or 2.",4,0.554,1.0,NEGATIVE
+,,Ah that makes sense. Thank you!,5,0.51,0.984,POSITIVE
+,,lol why did you downvote it?,6,0.5,1.0,NEGATIVE
+,,What'd you pay?,1,0.51,0.986,NEGATIVE
+,,Wait. Are you saying there are 20K contracts with a strike price of 72.5 by 2026?OMG - The market is going to go wild tomorrow if that is true.It's going to be calls all day. That a squeeze for certain.,1,0.526,0.975,NEGATIVE
+,,"Yeah, check the OI, we'll see 🙈",2,0.502,0.949,NEGATIVE
+,,Where Can you check it as being higher than normal?,3,0.533,0.569,POSITIVE
+,,Looks like you are correct.,3,0.502,0.997,POSITIVE
+,,Maybe the run to 108 was because they were covering? Or not? Hopefully not done yet,0,0.5,0.999,NEGATIVE
+,,What happens in this situation? What's the fall out besides the obvious.,0,0.487,1.0,NEGATIVE
+,,look up short squeeze,1,0.5,0.983,NEGATIVE
+,,"Squeeze these nuts you fuckin nerd.I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.",2,0.501,0.974,POSITIVE
+,,He’s back!,3,0.508,0.991,POSITIVE
+,,"Squeeze my dongus you fuckin nerd.I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.",2,0.501,0.948,POSITIVE
+,,Ah the double dunk. Quite the honor,3,0.514,0.996,POSITIVE
+,,"US bank borrowed my ARM shares from fidelity ,it's not going to be a good day for them tomorrow",0,0.537,0.997,NEGATIVE
+,,"It was, in fact, a very good day for them",1,0.543,0.991,POSITIVE
+,,Where do you see it being “shorted as hell”?,0,0.502,0.99,NEGATIVE
+,,It’s only 11.5% short interest.,0,0.502,0.973,NEGATIVE
+,,His the hell do you all find out this information?,0,0.503,0.974,NEGATIVE
+,,10.72M/1.02B = 1.05% per finviz,0,0.529,0.548,NEGATIVE
+,,Can't wait for SoftBank to release those shares,0,0.529,0.643,POSITIVE
+,,When to exit the stock?,0,0.708,0.893,NEGATIVE

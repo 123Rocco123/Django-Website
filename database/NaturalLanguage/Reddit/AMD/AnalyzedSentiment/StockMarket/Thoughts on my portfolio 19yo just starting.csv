@@ -1,0 +1,45 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,Listen kid it’s a great portfolio for someone who’s 19. But you need to balance it out with some growth stocks.,0,0.537,0.867,NEGATIVE
+,,,1,,,
+,,It's sarcasm. You should get a better idea of what your full look through exposure to the companies you hold directly / the allocation to sectors vs the market. Your portfolio is heavier on mega cap growth and tech,2,0.547,0.997,NEGATIVE
+,,"I assume you're Czech, based on the screenshot 😄I would suggest to stick to ETFs, especially when starting out. Pick a well-known S&P500 or All world index fund, and you will not have to care about rebalancing, etc.If you're a Czech tax resident, definitely go for accumulating funds, not distributing, if will save you on taxes",0,0.515,1.0,NEGATIVE
+,,"Close enough, Slovak, and thank you for your comment, here the taxing is made quite complicated, so I'll be thinking about that, thanks.",1,0.501,0.928,NEGATIVE
+,,hele takhle me jeste napada..ty fondy myslis jako S&P500 a VOO? Nebo jeste neco jinyho?Jinak ted taky zacinam..je v cesku nejakej nejlepsi broker co se tyce i treba overenosti od banky?,1,0.503,0.998,NEGATIVE
+,,"My Czech is not that great, so I'll respond in English:)But yes, some S&P500 ETF like SXR8, or an All-world ETF like VWCE. The benefit of an All-world index is that it includes multiple countries, not just the USA. The returns are a bit lower, but it's considered 'safer'. Unfortunately, you can not buy ETFs like VOO in the EU. You need ETFs that are UCITS-certified, you can find them on websites like: http://justetf.com.As for brokers, you can use different european brokers like degiro, interactive brokers, etc. (This is what I do). But if you want some specific Czech one, you can go with Portu or Fio.",2,0.512,0.926,NEGATIVE
+,,Thank you very much for the response. Very helpful tips. I did not even know about the UCITS certificated etfs,3,0.51,0.969,POSITIVE
+,,If tech ever has a bad year you'll be sad.,0,0.616,0.541,NEGATIVE
+,,Can you explain why you invest in the S&P 500 while simultaneously investing in the biggest holdings on the S&P separately?,0,0.517,0.519,NEGATIVE
+,,To increase the allocation rate of the biggest holdings,1,0.582,0.993,POSITIVE
+,,,2,,,
+,,Yes it does. So does picking single stocks. Are you saying you should never have single stocks and etf?,3,0.534,0.856,POSITIVE
+,,,4,,,
+,,Microsoft is about 7% of s&p500 bringing their total weighing of MSFT to 7%. Without MSFT individually their weighing of that would be a bit more than 2%. I really don't see your point.The far more stressing concern is the individual TSLA stake but I have been wrong about that several times.,5,0.511,0.999,NEGATIVE
+,,"You forgot about Amazon, Nvidia, Alphabet and Apple",6,0.544,0.972,POSITIVE
+,,,7,,,
+,,,8,,,
+,,,9,,,
+,,"Diversification isn't always the better choice. If you have a strong believe that the companies you have overlap in will do well, it could help to do both",3,0.543,0.952,NEGATIVE
+,,Then why diversify at all? Why not buy the mag seven stocks instead and enjoy the ride if I’m convinced that they’ll outperform the market? I’m also thinking about transaction costs here.,4,0.549,0.998,NEGATIVE
+,,"Go ahead lol, there's reasons why not. There's also reasons for. Look at the biggest portfolios in the world, almost none of them hold ETFs. Doesn't mean ETFs aren't right for most investors. But there's an argument to be made that over diversification is just as bad as under diversification. But also, you don't have to completely abandon one idea to go with the other. For me, I pick 15 individual stocks and invest evenly amongst them. To me that's like a custom made equal weighted ETF",5,0.527,0.982,POSITIVE
+,,"Your strategy sounds straightforward and that’s totally fine. OP’s strategy simply doesn’t make sense to me. If you want market returns, go the ETF route. If you think, certain stocks will show significant outperformance, invest in those single stocks and adjust your risk exposure accordingly by holding cash or bonds or whatever you seem less risky. Having both ways cancels out the positive effects imo.",6,0.525,1.0,NEGATIVE
+,,"Yeah I never understood why people scream so much about it, like yeah for example QQQ & VOO have a lot of overlap, I am expecting the big companies to do good. It's like doubling down of Microsoft, that's not inherently a bad thing.",4,0.515,1.0,NEGATIVE
+,,"I can't tell if you genuinely doesn't understand overweighing and underweighing specific stocks as a part of the overall portfolio. Let's say you believe Microsoft will outperform, so you buy MSFT in addition to your total market index to overweight it. Obviously this comes with risks, but it's a standard part of the portfolio. Not everyone invests 100% Boglehead strategies.",3,0.529,1.0,NEGATIVE
+,,"If I believed that Microsoft would outperform I would invest in the one outperforming stock: Microsoft. If I additionally bought the ETF, my overall thesis of Microsoft outperforming would be devalued by…myself.",4,0.543,0.999,NEGATIVE
+,,"Now that the single stocks in OP‘s post started dropping I’m curious what y’all are thinking now. The drawdown on the overall portfolio must be worse compared to the ETF alone. But hey, I’m the dumb one right?🤷🏻‍♂️",4,0.515,0.999,NEGATIVE
+,,"Looks great. Hard to see a future where at least most of these companies won't do great. Don't listen to the dim-wits here telling you ""just buy an ETF"". If you want to learn about stocks this is a great start, and in my opinion you've picked some stellar companies.",0,0.535,0.991,POSITIVE
+,,with this portfolio chances of having loss is 0,0,0.52,0.914,NEGATIVE
+,,"They are all in the Tech industry, you need to diversify, best way to do it is buying ETF in other sectors, a good complement to you current positions is energy sector, XLE is a good etf in that sector, utilities PHO, industrial XLI, PPA for aerospace and defense, I like SPYD which is high on dividends, what I’m trying to say is you picked great stocks, good solid companies and they won’t let you down but that doesn’t mean that their stock price will not be affected by cyclical and honestly all AI stocks will have a big correction after the elections.",0,0.538,0.892,POSITIVE
+,,"When tech stocks go, so does your entire portfolio. Diversify into something else so if the 70+ P/E ratios go down you have a landing pad. Different sectors mean safety for your gains. Despite what the internet says stocks don't go up forever.",0,0.525,0.836,NEGATIVE
+,,Solid picks!! 💯🚀📈,0,0.503,1.0,POSITIVE
+,,,0,,,
+,,Your suggestion is to trade one heavyweight for another top 5 that’s already got a heavy allocation. What’s the point? Diversify to another industry.,1,0.521,1.0,NEGATIVE
+,,Trust brother please swap tesla for amzn,2,0.503,0.988,NEGATIVE
+,,Pretty sure amazon and tesla are different industries. I'm saying this because tesla is a bit more risky than the rest of the magic 7 and isn't performing so well now. The future could be different but I don't see it doing much for next year and the year after. Amazon and Microsoft will always be safer investments and able to make more money on them long term.,2,0.574,0.997,NEGATIVE
+,,,0,,,
+,,"All the stocks you choose are in IVV etf.I would do only etf but I would add a mid cap and small cap etf.All the major platforms have a calculator for age and what is your acceptable risk. This platform will then give you a portfolio template to follow.You should also investigate IRA and Roth accounts. This account will be tax free on the capital gains. (Just noticed the English pound sign, I’m sure that the uk has similar retirement accounts)Set it up automatically, $25 a month. $12.50 into the ira and $12.50 Roth now and when you are making more increase the amount. Keep the amount consistent and what you can afford but always do it",0,0.523,0.879,NEGATIVE
+,,English pound sign? Do you mean the euro?,1,0.534,1.0,NEGATIVE
+,,My bad yes euro,2,0.548,0.992,NEGATIVE
+,,,0,,,
+,,Scrap the plan and go all in on Norwegian stocks - especially BergenBio!,0,0.526,1.0,NEGATIVE
+,,,0,,,
+,,"Dividend etf’s/stocks would only be worth it for a person nearing retirement, and ideally only in a tax-advantaged account. And dividends were the first to get slashed during the last few downturns.",1,0.526,1.0,NEGATIVE

@@ -1,0 +1,77 @@
+date of comment,main comment,comment,depth,PTR Sentiment (Comment),Flair Outlook,Flair Score,PTR Sentiment,Flair Sentiment
+,NVDA making power plays!,GPT-REEEE,0,0.5,NEGATIVE,0.999,0.5,0.999
+,NVDA making power plays!,So it's priced in is what you're saying??,0,0.507,NEGATIVE,0.972,0.507,0.972
+,NVDA making power plays!,It just got repriced.,1,0.5,NEGATIVE,0.996,0.5,0.996
+,NVDA making power plays!,They might reprice again later.,2,0.502,NEGATIVE,0.826,0.502,0.826
+,NVDA making power plays!,They will reprice it higher later.*Fixed.,3,0.525,NEGATIVE,0.959,0.525,0.959
+,NVDA making power plays!,"That’s a mind boggling amount of hardware in three months, hard to fathom the logistics process involved in procuring the components, assembling, and then shipping.",0,0.519,NEGATIVE,0.911,0.519,0.911
+,NVDA making power plays!,That number seems low for a 3.5 trillion dollar market cap. Idk how you think that’s high unless you’re fully drinking the kool aid already,1,0.52,NEGATIVE,1.0,0.52,1.0
+,NVDA making power plays!,The GB200 superchip is around $60-70k each. Their complete server racks price at $1.8 million and $3 million each.,2,0.609,POSITIVE,0.972,0.609,0.972
+,NVDA making power plays!,So each super chip is worth the one time investment equivalent of just about 1 regular US employee?Nice.,3,0.54,POSITIVE,0.825,0.54,0.825
+,NVDA making power plays!,The insane capex is going to tank earnings of the tech sector once it starts getting recorded as depreciation.,4,0.535,NEGATIVE,0.997,0.535,0.997
+,NVDA making power plays!,"Ah, but there’s the rub. Depreciation impacts cash flows not at all.If they are this profitable to shareholders with this caped spend, dividends up?",5,0.508,NEGATIVE,0.999,0.508,0.999
+,NVDA making power plays!,"The problem is when large tech companies engage in round tripping to create the illusion of strong cash flows and earnings, without actually producing any outside business activity.For example, you make a $2 Billion investment in an AI startup, contingent on them spending it on your cloud AI service.You spend $2 Billion on H100's/GB200's, which are considered capex, so no expense yet. You then record $2 Billion on your balance sheet for the GPUs you bought. The $2 Billion in cash you invested in the startup gets recorded as an equity method investment. You then record their cloud spending with your money as ""revenue""The result:Initial impact on the balance sheet is a wash, because cash becomes GPUs(capital asset), and the investment in the company is valued at the purchase price.Initially, you show revenue growth and earnings growth in your AI division, because the company you gave money is giving money back to you to use your AI cloud service.The ""value"" of these investments can grow because of a new funding round at a higher valuation, even if the fundamentals are still terrible.The quarterly depreciation on GPU purchases can be obscured by ramping up the rate of AI investment, which is exactly what large tech companies like Microsoft are doing. This continues the illusion of organic growth.So far, tech companies have been able to obscure their AI losses due to the growth in their existing products, which came from past investments in non-ai products. But eventually, it will reach a point where they cannot invest father than their depreciation expense.",6,0.561,NEGATIVE,1.0,0.561,1.0
+,NVDA making power plays!,,7,,,,,
+,NVDA making power plays!,,8,,,,,
+,NVDA making power plays!,,9,,,,,
+,NVDA making power plays!,What’s the depreciation on a GB200? Think I could get a deal used?,5,0.521,NEGATIVE,0.999,0.521,0.999
+,NVDA making power plays!,"Server hardware is generally depreciated over a 3-5 year period. So the more companies ramp up their AI chip spending, the larger their depreciation expense becomes every quarter",6,0.589,NEGATIVE,0.997,0.589,0.997
+,NVDA making power plays!,"So that's about $240bil in revenue on the low end if my math is accurate. $60k a GPU * 8 gpus a server * 500,000. That assumes everything else is free which it isn't ",3,0.513,NEGATIVE,1.0,0.513,1.0
+,NVDA making power plays!,And they’re worth 1000 times 1000 that?…. Make it make senS,3,0.519,POSITIVE,0.996,0.519,0.996
+,NVDA making power plays!,"$480,000/server. 500k servers to be shipped in Q1 2025. That is $240b/quarter, or $960b/year.They are worth 3x that, and that is assuming production remains static at 500k/quarter.",4,0.562,NEGATIVE,0.736,0.562,0.736
+,NVDA making power plays!,Read an econ book maybe?,4,0.507,NEGATIVE,0.889,0.507,0.889
+,NVDA making power plays!,"Uh, that's literally 3x as many as they were shipping last year so yeah it's a lot",2,0.585,POSITIVE,0.865,0.585,0.865
+,NVDA making power plays!,So the stock should 3x right,3,0.643,NEGATIVE,1.0,0.643,1.0
+,NVDA making power plays!,Nah watch it burn down to $110-125 again after the pump. Then blow up to $145 plus when you least expect it.,4,0.509,NEGATIVE,1.0,0.509,1.0
+,NVDA making power plays!,Might have miss understood. I was thinking it was low at first as well. Then I did a double take and realized these are not individual GPU’s but Full Server Racks.,2,0.521,NEGATIVE,1.0,0.521,1.0
+,NVDA making power plays!,Only dropped 2 nuclear bombs? Idk seems kinda weak for a global super power,2,0.506,NEGATIVE,1.0,0.506,1.0
+,NVDA making power plays!,All about the future rn,2,0.52,POSITIVE,0.916,0.52,0.916
+,NVDA making power plays!,almost like they do more than make that specific new chip line....,2,0.589,POSITIVE,0.998,0.589,0.998
+,NVDA making power plays!,considering their growth rate they aren't overvalued.,2,0.541,POSITIVE,0.999,0.541,0.999
+,NVDA making power plays!,"To my understanding computer manufacturing is not a normal process. The efficacy rates on the highest end hardware are not great. Maybe 20%. It's so complex that there's no guarantees. Basically they test every chip, and disable dead the dead gates, and determine the end product off that. It's honestly one of the most impressive achievementa of our species. It's unfathomably precise",2,0.517,POSITIVE,1.0,0.517,1.0
+,NVDA making power plays!,That is good news for my NVDA shares. $200 - $250 by end of 2025.,1,0.548,POSITIVE,0.994,0.548,0.994
+,NVDA making power plays!,Ramping up to 500k units in just a few months seems crazy. Idk how this company does it,0,0.609,NEGATIVE,0.89,0.609,0.89
+,NVDA making power plays!,By sending an email with no subject line to every factory worker at TSMC a picture of Jen's unhappy face.,1,0.511,NEGATIVE,1.0,0.511,1.0
+,NVDA making power plays!,Lol. That email is scheduled to be sent around the end of shift as well to guilt trip the employees to stay and work longer hours.,2,0.513,NEGATIVE,0.991,0.513,0.991
+,NVDA making power plays!,And a gift card for a leather jacket,2,0.501,POSITIVE,0.922,0.501,0.922
+,NVDA making power plays!,"Excellent leadership, hiring top talent, compensating talent well, letting IC do their job without micromanaging, not punishing those who speak up about issues, prioritizing quality initiatives, investing in R&D......And handing out leather jackets at the door.",1,0.512,POSITIVE,0.997,0.512,0.997
+,NVDA making power plays!,"They don't even need to compensate talent directly, they just need to give stock.",2,0.551,NEGATIVE,0.999,0.551,0.999
+,NVDA making power plays!,Just like Boeing!,2,0.497,POSITIVE,1.0,0.497,1.0
+,NVDA making power plays!,"As a Boeing employee, this hurts right in the layoffs.",3,0.493,NEGATIVE,0.97,0.493,0.97
+,NVDA making power plays!,They use AI!!,1,0.673,POSITIVE,0.987,0.673,0.987
+,NVDA making power plays!,This is how people in California work. That is why my state has the fifth largest GDP.,1,0.514,POSITIVE,0.986,0.514,0.986
+,NVDA making power plays!,They don’t. TSMC does.,1,0.497,NEGATIVE,0.989,0.497,0.989
+,NVDA making power plays!,Where's that guy who said it was going down on Monday.. because chat gpt told him so,0,0.616,NEGATIVE,1.0,0.616,1.0
+,NVDA making power plays!,Bankrupt....lol,1,0.5,NEGATIVE,0.987,0.5,0.987
+,NVDA making power plays!,,1,,,,,
+,NVDA making power plays!,"All these dumb anal-yst know they will beat so NVDA will need to blow shit outta the water or else it’s going to tank. For good measure either announce 100 billion dollar buy back, split the stock, announce a special dividend or just say AI throughout the call",0,0.539,NEGATIVE,1.0,0.539,1.0
+,NVDA making power plays!,They should let an AI do the call. Load NotebookLM up with the quarter's financial data and let it script a voice summary and answer questions. Stock would go to 800 by EOD,1,0.561,NEGATIVE,1.0,0.561,1.0
+,NVDA making power plays!,$800 or 800cents,2,0.5,POSITIVE,0.88,0.5,0.88
+,NVDA making power plays!,"Let Jensen run the company, my man. You just buy NVDA and hold. That is all of us are doing.",1,0.618,POSITIVE,0.978,0.618,0.978
+,NVDA making power plays!,"NVDA's best use of capital would probably be to acquire Intel, if they could get away with it from an anti-trust perspective. Having in-house fab capacity would give them more controls over margins and more ability to scale. Right now they're at the mercy of TSMC which is a considerable risk.",1,0.522,NEGATIVE,0.998,0.522,0.998
+,NVDA making power plays!,best use of capital is to buy a shit backwards company that needs government charity to survive? ewe.,2,0.603,NEGATIVE,1.0,0.603,1.0
+,NVDA making power plays!,Intel is a quality company trading at a very cheap valuation with a lot of valuable assets. The only issue was bad management. With new management they would provide a very high return to Nvidia.,3,0.599,POSITIVE,0.973,0.599,0.973
+,NVDA making power plays!,"hehe...I've heard people telling their grams such things. average price target $24, Extremely high resistance at $25, with a lot of options activity around that. i couldn't imagine the logistics, time and money to turn that company around.",4,0.548,NEGATIVE,1.0,0.548,1.0
+,NVDA making power plays!,"The logistics company, that’s the real company to invest into",0,0.766,POSITIVE,1.0,0.766,1.0
+,NVDA making power plays!,Webistics. A real money-maker,1,0.545,POSITIVE,0.786,0.545,0.786
+,NVDA making power plays!,"What a genius. LMAO. Chips are hard to make, here comes a company that is blowing it out of the water and Messrs is looking for new ideas. Buy and hold NVDA.",1,0.591,POSITIVE,0.999,0.591,0.999
+,NVDA making power plays!,Holy crap are we just gonna do this all over again with Rubin in 10 months now that Nvidia is on 1year and not 2year cycles with chip updates.,0,0.536,NEGATIVE,1.0,0.536,1.0
+,NVDA making power plays!,The forecast and margins during earnings release next month will pop it to like 160.,0,0.566,NEGATIVE,0.99,0.566,0.99
+,NVDA making power plays!,$200 - $250 by end of 2025.,1,0.56,NEGATIVE,0.683,0.56,0.683
+,NVDA making power plays!,Don’t jinx it,1,0.5,POSITIVE,0.816,0.5,0.816
+,NVDA making power plays!,so many NVDA Haters in here. I love it.,0,0.505,POSITIVE,0.992,0.505,0.992
+,NVDA making power plays!,"Once in a lifetime opportunity. Buy and hold NVDA.Likely, $200 - $250 by end of 2025. Holding 22K shares.",0,0.534,POSITIVE,0.975,0.534,0.975
+,NVDA making power plays!,I don’t think you understand what a market cap is.,1,0.551,NEGATIVE,0.998,0.551,0.998
+,NVDA making power plays!,But I understand your username.,2,0.497,POSITIVE,0.516,0.497,0.516
+,NVDA making power plays!,People said no company would ever hit 1T market cap and then Apple made the iphone.,2,0.649,NEGATIVE,0.991,0.649,0.991
+,NVDA making power plays!,$200 is only a $5 trillion market cap lol… not out of reach to think about.. Apple grew by $2 trillion ish in the past 4-5 years,2,0.55,NEGATIVE,0.955,0.55,0.955
+,NVDA making power plays!,"""only a 5 trillion market cap""love to read it, money is paper and im all for it",3,0.548,POSITIVE,0.924,0.548,0.924
+,NVDA making power plays!,Its just a number🥱 … that is not too outreached to be frank wit u,4,0.495,NEGATIVE,0.95,0.495,0.95
+,NVDA making power plays!,average price?,1,0.545,NEGATIVE,0.992,0.545,0.992
+,NVDA making power plays!,MSFT up 2% today because they are spending more billions on AI chips than everyone else?  This tells me that market is not close yet to being at the point where they are punishing companies for not monetizing AI effectively.,0,0.557,NEGATIVE,1.0,0.557,1.0
+,NVDA making power plays!,"I mean YTD wise MSFT isn't as overblown as some other companies.I lso think it would be idiotic for the market to think that companies can develop money making programs within a year.Morever, over 99% software developers do not have the training or skillset on ML to make a decent program.Now the company that benefited the most from being associated with AI is Apple. At least MSFT had decent growth, APPL has been stagnant, yet they popped from 170s to 230s this year just by the virtue of implementing AI in their OS (which still hasn't been fully released yet)",1,0.568,NEGATIVE,1.0,0.568,1.0
+,NVDA making power plays!,▂▃▄▅▆▇█▓▒░NVDA $155░▒▓█▇▆▅▄▃▂,0,0.5,NEGATIVE,0.986,0.5,0.986
+,NVDA making power plays!,Dirty HODLer,0,0.5,NEGATIVE,1.0,0.5,1.0
+,NVDA making power plays!,,0,,,,,
+,NVDA making power plays!,Keeping customers happy. What i like to hear,0,0.54,POSITIVE,0.995,0.54,0.995
+,NVDA making power plays!,What were they half a million each?,0,0.66,NEGATIVE,0.998,0.66,0.998

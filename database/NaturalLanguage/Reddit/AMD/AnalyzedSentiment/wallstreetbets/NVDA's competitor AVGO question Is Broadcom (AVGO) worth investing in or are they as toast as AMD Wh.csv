@@ -1,0 +1,39 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,GPT-REEEE,0,0.5,0.999,NEGATIVE
+,,"AVGO and NVDA are not the same. AVGO is best described as a private equity fund that focuses on tech (software, mainframe) and semiconductors, switches and adapters I don’t need to describe NVDA.",0,0.518,0.758,NEGATIVE
+,,The most horrifying thing in the world would be AVGO acquiring pharmaceutical companies.If we want to head to the worst version of the future.,1,0.531,1.0,NEGATIVE
+,,Shit man I am surprised people even know mainframe,1,0.506,0.973,NEGATIVE
+,,Broadcom is closer to Qualcomm.,1,0.495,0.948,NEGATIVE
+,,Which one would you put money on and why?,2,0.531,0.985,NEGATIVE
+,,AVGO,3,0.495,0.974,POSITIVE
+,,Why ignore the second part of the question?,4,0.533,0.991,NEGATIVE
+,,Last time I checked. Broadcom has been gutted and Reddit discussions says enshitification.,1,0.534,1.0,NEGATIVE
+,,There isn't a bigger group of losers that don't understand business,2,0.602,0.999,NEGATIVE
+,,Avgo is not a competitor. It's more like middle man for the AI boom,0,0.544,0.97,NEGATIVE
+,,"Can you explain, I’m trying to grasp this all and it says fabless companies include Nvidia, AMD, Qualcomm, broadcom, even apple and amazon. And Nvidia’s designs are just far ahead for AI if I understand correctly. Then there are foundries that make chips for others in their fabs mainly TSMC and Samsung. And then IDM’s like Intel and Micron do both design and make chips. I guess my biggest confusion is within the fabless companies, there seems to be a wide range and clearly Nvidia and AMD seem to be hyperfocused on chip design so they are a good comparison as competitors, while obviously Apple and Amazon do a bunch of other stuff. Where do qualcomm and broadcom fit into that spectrum?",1,0.539,0.966,NEGATIVE
+,,i have avgo has made me money but no where near as much as NVDA or DELL,0,0.513,0.987,NEGATIVE
+,,DELL is going to be interesting working with NVDA on the Spectrum Ethernet tech.,1,0.523,0.997,POSITIVE
+,,"Avago is not a competitor to Nvidia, in fact they enable GPU farms and other large scalable server infrastructure with their Ethernet switches, so they’re kinda in the business of selling shovels too",0,0.536,0.929,POSITIVE
+,,"Except for their TPU for google, and AI chips for meta and bytedance which bring in tens of billions of dollars per year which is vastly more than amd makes. ",1,0.6,0.766,NEGATIVE
+,,"Broadcom is a 3rd party player, selling chips to other companies to integrate into their own products. They're more similar to Qualcomm than NVidia.",0,0.539,0.918,NEGATIVE
+,,"Among other things, AVGO bought up all the enterprise software companies - Compuware, CA, etc. They are effectively a monopoly now and are squeezing all the boomer companies that run mainframes, which would be all the large financial institutions.",0,0.529,0.998,NEGATIVE
+,,"AVGO is more of a partner/customer, not a competitor.AMD is a hardware competitor, and are trying to compete with their new AI chip, but like you said its going poorly on that front and theyve taken a big loss.Intel has thrown in the towel completely and has a 5 year plan in motion to transition into the foundry business, competing with TSMC and Samsung.NVDA has no competitors on the AI front in terms of shovel-maker, AMD is the closest but they dont really have anything yet to compete with CUDA and the entire software stack that AGI has evolved on up to this point. Not sure how long it would take them to catch up, or if its even possible. Maybe someone with expertise in the area could offer their thoughts on AMDs chances.",0,0.565,0.991,NEGATIVE
+,,"AMD only needs a sliver of the gpu server market to double or triple their operating profits.They don’t need to «reinvent the wheel» per say, if their gpu’s and software is compatible with whatever type of inference customers need for their Application, then They will do Well. I even read from the Microsoft build transcript that Microsoft uses Nvlink on MI300x installations, if that wasn’t a mixup with Infinityfabric it would mean customers Can mix and match network equipment from nvidia with AMD GPUs. I find it to be an unlikely thing, but not sure its technically impossible atleast not from an interface point of view.We’ll see.The «bad» thing about AMD and Intel entering the server AI GPU Market is that They bring the TAM down since They have a much lower price point per unit, so the more revenue They Get from this market you Can essentially multiply that number by 4 to see what nvidia might have made of revenue from the same customers. Not how budgets work, but it is how physical space and planning works When you Get about 3-4 more GPUs for the same price as 1 from nvidia.",1,0.551,1.0,NEGATIVE
+,,"If AMD is smart, it should work with AI software firms to develop CUDA like open software stack. Open software stack always come later than proprietary stuff though unless it is driven from the academic side.",1,0.55,0.985,NEGATIVE
+,,OpenCL is already a thing.Also ZLUDA but I don’t know how well it works if at all.,2,0.55,0.798,NEGATIVE
+,,This is like saying that Ford is a competitor to Deere.,0,0.5,0.911,NEGATIVE
+,,What do you think are the impacts of China vs Taiwan on AVGO?,1,0.521,0.989,NEGATIVE
+,,"Sir, this is a Wendy’s",0,0.502,0.757,POSITIVE
+,,"What’s the “selling, general and administrative” mean? it went up by 4.5x.",0,0.507,1.0,NEGATIVE
+,,Like Salesforce it's probably money put into selling their software/services which resulted in the dramatic change in revenue from that segment,1,0.545,0.995,NEGATIVE
+,,"When you have AI at NVDA's level, it will design the chips for you. AI is exponential, meaning if you have the lead, it will be very difficult to lose it.",0,0.559,0.999,POSITIVE
+,,Why do you think they dropped so much today? How do you think their stock will do in the next few months?,1,0.601,0.999,NEGATIVE
+,,"It had two gap ups, its going to test 95s as support before anything else.",2,0.521,0.993,NEGATIVE
+,,Thanks! What insights for AVGO?,3,0.505,0.994,POSITIVE
+,,"No thanks, I'm not good at this shit. I'm just here for the loss and gain porn.",4,0.627,1.0,NEGATIVE
+,,What about China/Taiwan conflict? Do you think they will affect these companies differently or?,5,0.531,0.928,NEGATIVE
+,,Im not your fortune cookie,6,0.502,0.999,NEGATIVE
+,,"Ugh, they are spending like crazy, are they building fabs or data centers??? Any proof of a large order of AI computing power?",0,0.543,1.0,NEGATIVE
+,,they are spending like crazyha! meanwhile the other guy claim they been busy cutting costs and focused on short term profitability,1,0.512,1.0,NEGATIVE
+,,AVGO management is too focused on short term profitability and cost cutting. I see them going the way of Boeing with insufficient focus on product at the top level,0,0.535,1.0,NEGATIVE
+,,"short term profitability and cost cuttingScreenshot literally shows they doubling their R&D spend, more than $1 billionTheir cost of business doubled... from 2 bil to 5.2 bil... it's in screenshot",1,0.538,0.998,NEGATIVE

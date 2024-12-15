@@ -1,0 +1,46 @@
+date of comment,main comment,comment,depth,PTR Sentiment (Comment),Flair Outlook,Flair Score,PTR Sentiment,Flair Sentiment
+,,GPT-REEEE,0,0.5,NEGATIVE,0.999,0.5,0.999
+,,NVDA runs on TSMC,0,0.5,POSITIVE,0.949,0.5,0.949
+,,TSMC runs on ASML,1,0.505,POSITIVE,0.622,0.505,0.622
+,,ASML runs on DEEZ,2,0.507,NEGATIVE,0.584,0.507,0.584
+,,DEEZ run on NUTS,3,0.5,NEGATIVE,0.502,0.5,0.502
+,,NUTS run on TITS,4,0.498,NEGATIVE,0.959,0.498,0.959
+,,Don't forget about A$$,5,0.505,POSITIVE,0.835,0.505,0.835
+,,So that's why ASTS pumped so hard.,6,0.502,NEGATIVE,0.985,0.502,0.985
+,,Don't forget about PU$$,6,0.502,POSITIVE,0.855,0.502,0.855
+,,,7,,,,,
+,,TITS run on TIKTOK,5,0.498,NEGATIVE,0.971,0.498,0.971
+,,Stfu,6,0.5,NEGATIVE,1.0,0.5,1.0
+,,"Google a bit shy, it's time for it to shine starting tomorrow",0,0.509,POSITIVE,0.571,0.509,0.571
+,,"Ya, but chix dig Nelson.",1,0.5,POSITIVE,0.856,0.5,0.856
+,,Gold rush? Sell blue jeans ahh vibe,0,0.504,NEGATIVE,0.996,0.504,0.996
+,,I think technically Anthropic runs on TPUs,0,0.503,NEGATIVE,0.526,0.503,0.526
+,,"So does Google, and OpenAI is looking for it too:Exclusive: OpenAI builds first chip with Broadcom and TSMC, scales back foundry ambition | Reuters",1,0.513,POSITIVE,0.951,0.513,0.951
+,,"Yea Nvidia’s margins are honestly in trouble, not eminently but over the next 2 years. I’m gonna get a lot of flack for saying that, but a lot of the big buyers of Nvidia Blackwell and hopper for ai compute are switching to in-house designed tpu chips: Amazon, OpenAI, Microsoft, google(already has), Meta and Anthropic.",2,0.526,NEGATIVE,0.999,0.526,0.999
+,,I wonder how big is gonna be damage when that shit explodes. Would affect like the entire world like 2008 or would be more industry localized.,0,0.519,NEGATIVE,0.999,0.519,0.999
+,,You mean when the ai bubble will go boom?,1,0.562,NEGATIVE,0.889,0.562,0.889
+,,I don't thinkt that the AI bubble will go boom. It is more just the LLM part that sales people hype up while it can't do half of the shit they think that it can.,2,0.553,NEGATIVE,0.907,0.553,0.907
+,,"Consider for a moment that the entire United States economy, arguably the world economy, has been ""growing"" thanks to technology companies that don't actually make money for nearly twenty years now. You could throw a dart at a set of tech tickers valuated in the tens of billions and hit one that has negative EPS.Consider that most industry sectors have returned a modest but historically applaudable 5-8% and if you REALLY found a winner, 10%. With present trading, people expect 50-500% in weeks/months and it simply isn't sustainable. It's a fantasy.Consider that every single bit of the entire tech industry is an interwoven web of spending between tech giants and the smaller tech companies, of which there are presently thousands, that have IPO'ed in the last decade. They're all pushing the same narrative simultaneously - AI is going to revolutionize everything and you best get onboard or you will get left behind. Their balance sheets are wholly dependent on each other.In short, the end of this present AI bubble would cease the ongoing promise of catching up to P/E ratios these companies are probably literally never going to see. When it goes, it's going to take the entire market with it, full stop.",1,0.527,NEGATIVE,0.993,0.527,0.993
+,,"Whole world.Because everyone with capital is sending it to the US and almost all of it to the mag 7So yeah, you yanks fuck this up and me and the rest of the Europoors are gonna get a vietnam flashback of 2008.",1,0.516,POSITIVE,0.919,0.516,0.919
+,,Google uses mostly TPUs they've built with Broadcom. OpenAI is also designing chips with Broadcom. Both Meta and Microsoft are diversifying into AMD too.You people just don't learn. Companies ain't gonna pour tens of billions per year in GPUs at 50/60% margin forever locking themselves into a single vendor.,0,0.553,POSITIVE,0.522,0.553,0.522
+,,Tsm will be the clear winner in all of this bc all of them use their manufacturing. Unless a certain neighboring country invades.,1,0.517,POSITIVE,0.989,0.517,0.989
+,,Tsm will be the clear winner in all of this bc all of them use their manufacturing. Unless a certain neighboring country invades.,2,0.517,POSITIVE,0.989,0.517,0.989
+,,The Meta part is not right. Meta runs all live traffic exclusively on AMDs MI300X. Announced 2 weeks ago by Meta themselves.https://www.youtube.com/live/vJ8aEO6ggOs?si=fE-S_BerrnR5jHYC&t=3078,0,0.511,NEGATIVE,1.0,0.511,1.0
+,,And what did they train on?,1,0.495,NEGATIVE,0.793,0.495,0.793
+,,Your mom.,2,0.505,POSITIVE,0.986,0.505,0.986
+,,npm i your-momBecause she’s open source,3,0.508,POSITIVE,0.984,0.508,0.984
+,,Take my angry upboat,4,0.503,NEGATIVE,0.947,0.503,0.947
+,,this is where i run trains on too,3,0.5,POSITIVE,0.988,0.5,0.988
+,,I cant find much but sounds like Meta's in house chips are accelerating AMDs chips for inferencing and accelerating Nvidias for training but they expect to fully replace both with their own in house chips next year or so?,2,0.54,NEGATIVE,0.985,0.54,0.985
+,,Sure they will,3,0.5,POSITIVE,0.995,0.5,0.995
+,,it would be gold if there is a dog's pop with intel on it.,0,0.528,NEGATIVE,0.997,0.528,0.997
+,,"GOOG doesn't need NVDIA they have their own AI chips, https://fortune.com/2024/04/11/meta-google-ai-chips-semiconductor-in-house-nvidia-trillion-dollar-question/",0,0.543,NEGATIVE,0.921,0.543,0.921
+,,lol that MSFT god needs to be a little larger with it pulling the pack a little. Microsoft is key here.,0,0.506,POSITIVE,0.995,0.506,0.995
+,,They need AMD chips,0,0.662,POSITIVE,0.701,0.662,0.701
+,,"Man if I wasn't waiting for Robinhood to give me my BTC back that they sold, which there's no way they will, I would definitely go long on this company, easiest play ever.",0,0.56,POSITIVE,0.997,0.56,0.997
+,,the whole world except reddit,0,0.519,NEGATIVE,0.992,0.519,0.992
+,,Might as well add steam in there too to show most gamers are using nvda cards.,0,0.521,NEGATIVE,0.814,0.521,0.814
+,,remember his girlfriend is $MU ... remember behind a succesful men is a lady in his back.... <3,0,0.502,POSITIVE,0.681,0.502,0.681
+,,Can someone explain why ASML is the only company in the world making that complicates shit?,0,0.615,NEGATIVE,1.0,0.615,1.0
+,,where’s SMCI,0,0.5,NEGATIVE,0.99,0.5,0.99
+,,the more you buy the more you save,0,0.6,POSITIVE,0.999,0.6,0.999

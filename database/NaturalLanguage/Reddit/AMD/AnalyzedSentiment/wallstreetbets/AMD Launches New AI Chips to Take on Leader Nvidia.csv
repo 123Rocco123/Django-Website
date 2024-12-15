@@ -1,0 +1,83 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,GPT-REEEE,0,0.5,0.999,NEGATIVE
+,,Family Feud,0,0.5,0.96,NEGATIVE
+,,Family Fund,1,0.502,0.998,POSITIVE
+,,"Bro, you don't know shit 🤦🤦🤦These articles are such dogshit",0,0.511,1.0,NEGATIVE
+,,Tf? I swear money.usnews.com is where its at,1,0.515,1.0,NEGATIVE
+,,"in this case, it really doesn’t matterthey’re just publishing from the Reuters newswirewhich they pay forand it’s not an editorial, it’s just an AMD presser that hit the Reuters newswireop could have just linked Reuters or even AMD’s own press releasebut USNews.com post the op linked just says the same thing",2,0.524,1.0,NEGATIVE
+,,"For the 1st time I am impressed with AMD. Their CPU for AM4 sockets and 4 CPUs for AM5 socket that too from July 2024 seems great. 9900 with 5.6GHz with only 65W TDP is mind blowing.How on earth is AMD able to increase the GHz, core count and decrease the power consumption byv50%NVDA one was fine but Jensen seemed more like blabbering this time. Nothing for gamers on Blakwell (seems they just want to milk AI for now). Also didn't like where Jensen kept on saying 'We have glued 2 Blackwells with 45x TFLOPs increase but only 10x power consumption increase'. They are going Intel route gluing chips, ignoring power consumption factor. Sooner or later over next 2 generations they'll hit roadblock just like Intel got hit with 11th Gen series and then barely went upto 14th Gen by gluing. I expect NVDA must be aware of it and would solve it but today's glued Blackwell GPUs (He even showed water cooled GPUs) will not fly for long in future. Power consumption /TDP wattage is a big big factor nowadays. Maybe META can afford billion $ power bills but not medium size companies. NVDA got to come up with a 'lesser power hungry architecture' or in next 2 yrs they'll face issues. They had same issues with GTX and RTX series as well.All I could see was AMD's chiplet architecture does favor them. AMD had CPUs for gamers and MI Cards for AI. They seemed to have worked on their material this time. Time will tell in next 1-2 yrs how much TDP wattage each company reduces in future.For now holding both NVDA and AMD long. NVDA does feel threatened and was visible in the presentation. Rubin name reveal especially with comments from Jensen that 'We are far from it but I want you guys to take a picture and share it wherever u can' seemed like a forced marketing to show they are leaders. (When u are forced to show you are a leader means you are feeling threatened)",3,0.539,1.0,NEGATIVE
+,,Lisa Su and Jensen are COUSINS.They probably laugh at this shit via dinner.,0,0.51,0.91,POSITIVE
+,,Do you think Lisa Su has more silicone cooking spatulas in her kitchen than Jensen has in his?,1,0.507,0.953,NEGATIVE
+,,"I’m a bit hungover, but I thought this comment was going to go in a different direction…",2,0.506,0.982,NEGATIVE
+,,Remote cousins,1,0.508,0.825,POSITIVE
+,,They are not cousins in the way you’re implying / most people think.It’s a very complicated family tree and a lot of distance between them,1,0.503,0.746,NEGATIVE
+,,"its not that distant or complicated, Su is jensens first cousins kids. one of my best friends is my first cousins kid.Though their relationship is probably more complicated then the family tree",2,0.519,0.636,POSITIVE
+,,"""AMD, as always, several steps behind leader Nvidia""Store brand company.",0,0.652,0.992,POSITIVE
+,,People said that in 2005 about amd vs intel. How amd will always be second fiddle to intel. Now look at these companies. Just saying.,1,0.665,0.613,POSITIVE
+,,AMD underrated,2,0.738,0.719,NEGATIVE
+,,"So blackwell will be out by then, it has x35 the inference as their previous gen but what's that vs. blackwell?",0,0.507,0.971,NEGATIVE
+,,"Too late, Rubin announced. Blackwell was the best AI chip in the world for like… negative two months.",1,0.57,1.0,NEGATIVE
+,,It never came out,2,0.515,1.0,NEGATIVE
+,,Rubin,0,0.5,0.965,POSITIVE
+,,yawn,0,0.5,1.0,NEGATIVE
+,,Nice ticker name. Just saying.,1,0.504,0.921,POSITIVE
+,,Missed opportunity for a 0 year bond ETF. Or a sleeping pill company.,2,0.677,0.999,NEGATIVE
+,,How many years behind NVDA are they now?,0,0.52,0.691,POSITIVE
+,,"spec wise, they look about on par. even ahead, in some areas.in terms of supply, sales, and adoption - they seem to be about 47 years behind.",1,0.562,0.999,POSITIVE
+,,software is still their weak point too,2,0.531,0.999,NEGATIVE
+,,"They are soon going to have 3 systems in the Top 10, and El Capitan is going to take #1, after Frontier getting #2.",2,0.524,0.997,POSITIVE
+,,"k, but that's not really relevant to this.if anything, the above illustrates amd's problem - they were fixated on hpc/supercomputer deals, which don't have much margin. and el capitan is why the mi300 was just mi300a, as amd was caught flat-footed by the dcai gpu craze.",3,0.542,1.0,NEGATIVE
+,,I wouldn't call capacity of training 1T parameters to be on par with 10T.,2,0.512,1.0,NEGATIVE
+,,"Depends, if the price is good enough I'd say it's more than on par. Reason being how more power efficient it is. Even if it's slower, if it's cheaper and a lot more power efficient, it could hold it's place.",3,0.52,0.895,NEGATIVE
+,,Why is AMD stock not up 1000% today then?,4,0.847,0.907,NEGATIVE
+,,"Because it's not released yet ? How can we know if the specs are real if not a single retail had it in hands. The news itself does seem positive. It would need to be groundbreaking news to move the stock particularly in any side, not to mention TSM got big news today as well, QCOM also promises PC cpus, so all in-all news for AMD are bullish, so does its competition",5,0.563,0.995,NEGATIVE
+,,Because everyone uses programs that rely off nVidia and you'd have to re-train new generations lol.,5,0.558,0.932,POSITIVE
+,,"Yup, it's just promises for now, but considering how consitent they are on improving their chips since Ryzen came out, I am crossing fingers they won't let the chance flop since over a year of time if they would be competetive I see easily 30-50% growth",4,0.554,0.78,POSITIVE
+,,"Yup, it's just promises for now, but considering how consitent they are on improving their chips since Ryzen came out, I am crossing fingers they won't let the chance flop since over a year of time if they would be competetive I see easily 30-50% growth",5,0.554,0.78,POSITIVE
+,,They are Cooper vs Tesseract level of behind,1,0.513,0.998,POSITIVE
+,,On inference performance?,1,0.522,0.598,POSITIVE
+,,Why did both AMD & NVDA announce new chips on the same day?,0,0.656,0.966,NEGATIVE
+,,"Computex, a major tech expo in Taiwan, just started.",1,0.525,0.671,POSITIVE
+,,Theoretical Tflops mean nothing - I want third party benchmarks,2,0.507,0.981,NEGATIVE
+,,Me too buddy me too. 😇,3,0.5,1.0,POSITIVE
+,,"On the AI front they are catching up fast, ...Mi350x looking to bring massive gains in lower precision workloads. Zen 5 looks to dominate CPU sales in both Server and Desktop. Laptop also looks super strong, if they can get OEM buy in for premium designs. They sure as hell aren't standing still, love the competition right now!",0,0.539,1.0,POSITIVE
+,,AMD TO THE MOON !,0,0.743,1.0,POSITIVE
+,,"people are negative because they eat hype, and don't like to be told their meal is not the best",0,0.504,1.0,NEGATIVE
+,,"people are negative because they eat hype, and don't like to be told their meal is not the best",1,0.504,1.0,NEGATIVE
+,,CUDA is the true moat here.,0,0.502,0.85,POSITIVE
+,,Y'all just pretending XLA doesn't exist?,1,0.497,1.0,NEGATIVE
+,,nobody is using it,2,0.508,1.0,NEGATIVE
+,,"Which means no one ever will and Nvidia will have an AI monopoly forever. Thats how it works, right?",3,0.552,0.712,POSITIVE
+,,Yeah only 2 of the top 3 labs (well XLA/Jax/Triton),3,0.528,0.999,NEGATIVE
+,,Poor intell,0,0.5,1.0,NEGATIVE
+,,"hey, a bronze medal isn't bad. Just don't tell anyone you're 3rd out of 3 competitors...lol.",1,0.504,0.796,POSITIVE
+,,This title is a very bold claim,0,0.502,0.986,POSITIVE
+,,AI overhyped.  First crypto now AI. What’s next? Web 3.0?,0,0.588,0.999,NEGATIVE
+,,Comparing AI to crypto is a little out there. AI has already and will continue to become a large part of everyday life. Crypto is just fake money.,1,0.551,0.965,NEGATIVE
+,,"there will be a few big winners in AI for sure. but like all new technology bubbles, there will be LOTS of losers who invested a shitload of money into expensive AI silicon and their use case never materialized or they were never able to generate any actual revenue off of it.",2,0.561,1.0,NEGATIVE
+,,"Oh for sure there will be losers, just like every sector. But what I’m saying is, we are already using AI now with healthcare, financials, a bunch of stuff. It may be a bubble but my prediction is it will snap back fairly quickly if it loses value.",3,0.521,1.0,NEGATIVE
+,,What will be really interesting is what people end up doing with that “dark silicon” after the AI boom goes bust.  ,3,0.535,0.728,POSITIVE
+,,"""A little"" haha",2,0.495,0.902,NEGATIVE
+,,Shit's just NFTs again,1,0.5,0.996,NEGATIVE
+,,"Of all the hypes you mentioned - crypto, web 3.0, AI. Which one do you think will have a lasting impact on humanity and fundamentally disrupt many aspects of our lives?",1,0.524,0.987,POSITIVE
+,,I’ve come to the conclusion that all NVDA bears don’t know how computers work,0,0.511,0.944,NEGATIVE
+,,I’ve come to the conclusion that all NVDA bears don’t know how computers work,1,0.511,0.944,NEGATIVE
+,,Any mention of AMD in the same conversation as Nvidia is simply charitable and graciousnesses. Next 4 years is the ride of a lifetime.,0,0.576,0.996,POSITIVE
+,,Estimated 5-10% market share in the first year suggests otherwise. Took significantly longer for EPYC to achieve that milestone.,1,0.595,0.998,NEGATIVE
+,,The question here is: are people buying AMD doing so because they prefer it or are they buying it because NVDA doesn't have enough stock to accommodate for everyone?,2,0.575,0.986,NEGATIVE
+,,"Not a question, as Jensen stated H100 is no longer supply constrained. Though maybe this wasn't communicated to vendors before they purchased MI300, in which case you would expect to see MI300 revenue decline in coming quarters.   Around the same time Microsoft stated MI300 provides best perf/dollar performance for GPT4. You're free to believe Microsoft is flat out lying, but it's not really the most compelling argument considering the explosive growth of MI300 revenue.  What is an open question, is what the ratio of workloads share this edge.Now of course NVidia could cut prices to recover the price/perf lead, they have plenty of room to move there. That is unlikely to favor their stock price though.",3,0.529,0.993,NEGATIVE
+,,"Did a 165-170 bull put for august, AMD is trading pretty low now, pre-release I expect 5% increase but since I am a brokie I go for the high chance play.",0,0.572,0.999,NEGATIVE
+,,I like how it's so hip in this community to be Anti-NVDA just for the sake of it. Good luck with that.,0,0.51,0.829,NEGATIVE
+,,meanwhile NVDA is up like 3.5? % today,0,0.542,0.965,NEGATIVE
+,,Neat.. what about software?,0,0.56,0.997,POSITIVE
+,,It’s more about cuda and tight integration with PyTorch but whatever,0,0.503,0.919,NEGATIVE
+,,And what is AMD's answer to CUDA??,0,0.662,0.657,NEGATIVE
+,,rocm,1,0.5,0.778,POSITIVE
+,,HIP - they released toolkit for porting CUDA code to their platform. There was also ZLUDA project for running CUDA on AMD but it got scrapped and released open source in unfinished state,1,0.546,0.999,NEGATIVE
+,,NVIDIA updated their legal terms prohibiting translators for its CUDA libraries.https://www.tomshardware.com/pc-components/gpus/nvidia-bans-using-translation-layers-for-cuda-software-to-run-on-other-chips-new-restriction-apparently-targets-zluda-and-some-chinese-gpu-makersZLUDA is basically illegal and you’d be an idiot to use it in an enterprise deployment ,2,0.528,1.0,NEGATIVE
+,,ZLUDA was scraped half a year ago if not more,3,0.605,1.0,NEGATIVE
+,,"Believe it or not, probably legislation. CUDA is practically a monopoly at this point",1,0.501,0.982,NEGATIVE
+,,"Why are the comments filled with CUDA? CUDA cores are great for general purposes math, graphics, crypto mining. But AI operations, includimg gradient descent algorithm is implement with Tensor cores.One of the reasons I love NVDA so much is their execution. They met a set of requirements to facilitate a crypto boom. Now they have completely new innovative architectures to facilitate an AI boom.",2,0.536,0.998,POSITIVE
+,,"They didn't facilitate a crypto boom. A number of cryptos where specifically designed to run best on craphics cards to combat the development ASIC miners for Bitcoin and associated concentration of hashing power. Nvidia just happened to have a fitting product on the market in the moment that boom happened and where totally overrun by demand. Heck, they even tried to restrict mining power of their cards to tackle the supply problems for gamers and compute customers.",3,0.526,1.0,NEGATIVE
+,,"Everything uses cuda, amd is the red headed stepchild and will always be",0,0.561,0.999,POSITIVE
+,,"Silly, silly title. Won't work. Not in this decade.",0,0.528,1.0,NEGATIVE

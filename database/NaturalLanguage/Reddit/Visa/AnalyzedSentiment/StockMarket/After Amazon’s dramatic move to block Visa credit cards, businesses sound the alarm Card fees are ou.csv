@@ -1,0 +1,17 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Outlook,Flair Sentiment
+,,"It’s almost as if basic consumer financial transactions shouldn’t be subjugated to the demands of increasing quarter over quarter, year after year increasing revenue and profits. It’s just a tax on every other business basically.",0,0.595,NEGATIVE,0.994
+,,So... puts on Amex? They have historically had the highest fees.,0,0.497,NEGATIVE,0.955
+,,"Yes, but usually owned by people with the deepest pockets. And, it is a small portion of the entire flow I would think. So want to make an impact? Pick the biggest.",1,0.509,NEGATIVE,0.949
+,,Who comes after Visa?,2,0.508,NEGATIVE,0.91
+,,Mastercard with about a third of the revenue I think.,3,0.533,POSITIVE,0.559
+,,Mastercard?,3,0.505,NEGATIVE,0.976
+,,Transaction fees are crazy…then they double dip with abusive interest for those who don’t pay off their balances,0,0.512,NEGATIVE,0.998
+,,"Banks issue credit and collect interest, not Visa. Visa is also free from any default risk as well.",1,0.533,NEGATIVE,0.9
+,,Good point. I forgot they’re disconnected,2,0.517,POSITIVE,0.6
+,,Sad but business’ charging customers Data Processing fees for using credit cards. Is gaining traction,0,0.523,NEGATIVE,0.695
+,,"Yes, in Britain, because of brexit",0,0.5,POSITIVE,0.781
+,,"Not entirely true. If you've ever skied in the USA, you would know some entire resorts don't take Visa, Amex, Diners, or MC. Thanks to collective processing charges favouring a specific card.",1,0.508,NEGATIVE,1.0
+,,Crypto FTW?,2,0.495,NEGATIVE,0.997
+,,This means contactless payment such as digital wallet should be a good replacement in the future,0,0.518,NEGATIVE,0.909
+,,,0,,,
+,,What do you think the folks in UK will end up using the most?,0,0.528,NEGATIVE,0.949

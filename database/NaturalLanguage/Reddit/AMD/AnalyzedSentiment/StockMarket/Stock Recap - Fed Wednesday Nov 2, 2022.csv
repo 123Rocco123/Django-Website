@@ -1,0 +1,13 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,Im excited to slam the buy button tomorrow. Apple and Amazon wont disappear.,0,0.527,0.997,POSITIVE
+,,Same here. I've been waiting for the moment for three months.,1,0.534,0.748,NEGATIVE
+,,Man. We should of just stopped trading after lunchtime.,0,0.511,1.0,NEGATIVE
+,,"Hello, it looks like you've made a mistake.It's supposed to be could've, should've, would've (short for could have, would have, should have), never could of, would of, should of.Or you misspelled something, I ain't checking everything.Beep boop - yes, I am a bot, don't botcriminate me.",1,0.509,1.0,NEGATIVE
+,,Shoulda Woulda Coulda,2,0.5,0.964,NEGATIVE
+,,"You should of used ""of"" instead of ""a"" to trigger this amazing bot.",3,0.506,1.0,NEGATIVE
+,,Dam I really should of,4,0.502,0.997,NEGATIVE
+,,What is this app?,0,0.5,1.0,NEGATIVE
+,,Thank you,1,0.495,0.919,POSITIVE
+,,Thank you,2,0.495,0.919,POSITIVE
+,,Wasn't too bad heading into the afternoon....,0,0.496,0.817,POSITIVE
+,,Blood bath !,0,0.497,0.898,POSITIVE

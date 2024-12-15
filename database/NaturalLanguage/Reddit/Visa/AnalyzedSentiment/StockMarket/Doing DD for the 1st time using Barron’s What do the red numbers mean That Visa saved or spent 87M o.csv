@@ -1,0 +1,11 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Outlook,Flair Sentiment
+,,(Number) is always spent/loss. Number (without the brackets) is earned/gain,0,0.502,NEGATIVE,1.0
+,,"For accounting and PnLs: (Numbers) means negative, not loss. It is theoretically possible to have negative expense costs which would be expressed in the form of (number) on a PnL despite being earned money.",1,0.503,NEGATIVE,0.656
+,,"And for a profit line like EBIT, negative means loss. For an expense line like cogs, negative means spent.",2,0.529,NEGATIVE,0.993
+,,Thank you!,1,0.495,POSITIVE,0.93
+,,"Learning is good, but many questions can be answered through a quick google or chatgpt search",0,0.513,POSITIVE,0.627
+,,Red number in parentheses is a loss on any financial report whereas black or no parentheses is a gain,0,0.514,NEGATIVE,0.999
+,,"Visa is good, key holding",0,0.53,POSITIVE,0.989
+,,"Visa is good, key holding",0,0.53,POSITIVE,0.989
+,,,0,,,
+,,yeah boo learning!,1,0.497,NEGATIVE,0.966

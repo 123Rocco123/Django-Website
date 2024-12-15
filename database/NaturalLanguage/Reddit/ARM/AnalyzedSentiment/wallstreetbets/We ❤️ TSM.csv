@@ -1,0 +1,5 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Outlook,Flair Sentiment
+,,GPT-REEEE,0,0.5,NEGATIVE,0.999
+,,Are these all leaps ?,0,0.5,POSITIVE,0.999
+,,.,1,0.5,POSITIVE,0.76
+,,"No, these are profits I’ve taken from options within the year",1,0.604,NEGATIVE,0.995

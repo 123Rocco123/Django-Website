@@ -1,0 +1,71 @@
+date of comment,main comment,comment,depth,PTR Sentiment (Comment),Flair Outlook,Flair Score
+,nan,GPT-REEEE,0,nan,nan,nan
+,nan,"ASML's EUV machines cannot be reverse engineered ,each machine has 100K parts  with 5k suppliers and tolerance for error is near-zero as it is most complicated device ever made by human",0,nan,nan,nan
+,nan,Chances are also very low to even get your hands on a machine without ASML knowing. They probably know exactly where every machine they sold currently is located. At these prices you might even have a team 24/7 on site.,1,nan,nan,nan
+,nan,I've worked in a large fab before. They absolutely have an onsite team,2,nan,nan,nan
+,nan,They do. Everytime a machine is sold they ship a team (mostly two to four) people with the machine to teach / install it.,2,nan,nan,nan
+,nan,Can't they disable their machines remotely or something?,2,nan,nan,nan
+,nan,"But that's just focusing on the latest and greatest tech. Don't forget companies like Canon and Nikon also produce lithography systems. Chip manufacturing isn't specific to just one specific equipment. ASML just happens to dominates the market for equipment manufacturing nodes under 45nm.If you look deeper, Carl Zeiss is the only company that produces the quality of mirrors that passes QC for these systems. Applied Materials owns probably over 80% of the market for PVD (Physical Vapor Deposition).Chip making tools aren't just specific to ASML, even though they dominate a very specific sector of chip making tools.",1,nan,nan,nan
+,nan,,2,nan,nan,nan
+,nan,"Ah yes, someone who don’t understand trying to sound like a smart ass.",3,nan,nan,nan
+,nan,You are underestimating Chinese competence and their motivation. I am positive it can be reversed engineered.,1,nan,nan,nan
+,nan,"It's obvious it can be reversed engineered, and China will eventually do it.",2,nan,nan,nan
+,nan,You overestimate their capabilities a lot. And with the current regime their innovation will go to zero even faster.,2,nan,nan,nan
+,nan,"PLEASE BUY FROM INTEL THEY HAVE THAT BRAND NEW FOUNDRY AND IT IS GOING ON FIRE SALE. PLEASE CHINA BUY MY BAG. I'LL LET IT GO FOR $30 A SHARE, IF YOU THROW IN EXTRA SOCIAL CREDIT ILL LET GO FOR $29.5",0,nan,nan,nan
+,nan,"China create ARM killer using Intel node ,,.,., brilliant",1,nan,nan,nan
+,nan,China bout to start pumping out Harbor freight quality chips,0,nan,nan,nan
+,nan,Hint: It’s because they can’t make their own.  ,0,nan,nan,nan
+,nan,"I mean they can, it's just a minority in Taiwan (and US outlets) who don't think Taiwan is China lol and the mainland is barely lagging TSMChttps://asia.nikkei.com/Business/Tech/Semiconductors/China-s-chip-capabilities-just-3-years-behind-TSMC-teardown-shows",1,nan,nan,nan
+,nan,Yet.,1,nan,nan,nan
+,nan,The way the chip industry developed has made it so there are too many suppliers/vendors all best in class for one country to dominate all portions of it.China will have develop some unknown method and leapfrog over everyone or they’ll always be behind.,2,nan,nan,nan
+,nan,Or they can get the suppliers to sell it to them through indirect methods.,3,nan,nan,nan
+,nan,Oh they try! ,2,nan,nan,nan
+,nan,I remember when they tried high speed rail,3,nan,nan,nan
+,nan,And succeded.,4,nan,nan,nan
+,nan,"Not only they tried, they are on the path to become the world’s largest chip exporter. Yes, they don’t have EUV, but they can still make low and middle end chip in bulk. You don’t need EUV for making chips for your washing machine, your TV, or even low end cellphone or computer. Never underestimate the power of a country with world’s largest number of engineers.",3,nan,nan,nan
+,nan,How is posting a bunch of buzzwords helps you to achieve your goal?,4,nan,nan,nan
+,nan,How is posting a bunch of buzzwords helps you to achieve your goal?,5,nan,nan,nan
+,nan,They need to improve their sneak thief skills for that,2,nan,nan,nan
+,nan,"They've made jets and 5nm chips now. I think it's just a matter of time, when not if, they crack this too.",3,nan,nan,nan
+,nan,"Yes, they made 5 nm, however they did it by multilayering using immersion lithography. What they did is optimize and completely stretch the capabilities of 25 year old technology. Doing 7 or even 5 nm on these old tech machines is extremely inefficient in cost and yield.Just because they optimized 25 year old tech does not mean they are close to copying the newest tech.",4,nan,nan,nan
+,nan,方法不重要，重要的是结果。,5,nan,nan,nan
+,nan,People already explained it to you in the other comments. Not happening anytime soon,4,nan,nan,nan
+,nan,Not disagreeing with you there. Might take years or even a decade. But it will most likely happen.,5,nan,nan,nan
+,nan,"It will take decades for current tech at least and by them ASML already will have even more advanced machines. China can copy more simple stuff, but it’s still crap at innovation.",6,nan,nan,nan
+,nan,"5nm chips nowit's more theoretical than anything, it's completely impractical to push duv that far, the yields are horrible.",4,nan,nan,nan
+,nan,I think people are underestimating China. They have identified a weak point and now pouring resources to tackle it. I wouldn't be surprised if China manages to get self sufficient in terms of semi conductors. America realized the game too late,0,nan,nan,nan
+,nan,"Supplanting the United States as the global superpower has been their long game from at least 50 years ago. D.C. thought they were smarter than everyone else and supported industrializing China, by encouraging western manufacturers of doing business there, in hopes a taste of a Capitalistic economy would lead the Chinese to give up Communism. Instead they said thanks for the gifts and kept their politics as is. A catastrophic mistake.",1,nan,nan,nan
+,nan,"by encouraging western manufacturers of doing business there, in hopes a taste of a Capitalistic economy would lead the Chinese to give up CommunismWhich is hilarious, considering we were only able to end communism in the USSR by taking the exact opposite approach",2,nan,nan,nan
+,nan,"Yep! China is working to do to us what we did to the Soviets. But in this case we have a helping hand with our demise.And if they can't bankrupt us, they will cripple us internally through social and educational endeavors. This softens any social criticisms over the CCP and their operations. It's brilliant geopolitical work.They don't have to launch any nukes to ruin us. We're too focused on entertaining ourselves, working to make up new genders, waste time on global warming, and supporting the criminal element to worry about China.Congratulations, we played ourselves.",3,nan,nan,nan
+,nan,"You were doing so well until ""waste time on global warming"". So mind-blowingly myopic, it's impossible to take anything else you said seriously.",4,nan,nan,nan
+,nan,"Think about it. The West is told to squeeze itself over global warming concerns. Yet China, the worlds largest emitter of greenhouse gasses, is continuing to build coal fired plants with peak emitting pledged to occur by 2030. So why are we harming our economy and lifestyle while China is not?It's a powerplay to advance China's interests at the sake of the West. Are you really on board for this? I'm not.Further, if you look at who is doing what, you'll see Asia (including China and India) produce over double that of Europe and all of North American combined.",5,nan,nan,nan
+,nan,"Dude, we are literally exporting our own emissions to China… of course they emit more than us… jfc…",6,nan,nan,nan
+,nan,,7,nan,nan,nan
+,nan,,8,nan,nan,nan
+,nan,,9,nan,nan,nan
+,nan,,8,nan,nan,nan
+,nan,,9,nan,nan,nan
+,nan,,6,nan,nan,nan
+,nan,,7,nan,nan,nan
+,nan,"people talk self sufficient on semi conductor have no idea what they are talking about, the amount of money, co ordination between country and supply chain intertwined between all step are too much for 1 country to handle. specially on the high end chip, there over 100000 parts in a ASML machine from over 250 tech company across the west. 1 part down = entire machine not running optimally. have fun trying to out spend a supply chain consist of over 15 different western nations all home to a special crafts.",1,nan,nan,nan
+,nan,wihtout euv? literally no chance.,1,nan,nan,nan
+,nan,What about multi edging? Tsmc is doing it with older machines to reach low resolutions,2,nan,nan,nan
+,nan,"what about it? duv can only go so far, it's why intel's in such a shitty position.",3,nan,nan,nan
+,nan,You can reach better precision with a non euv that multi edges than with an euv machine at the moment.,4,nan,nan,nan
+,nan,"what are yields, amirite?",5,nan,nan,nan
+,nan,"They didn't identify a weak point. The US identified their weak point and poked them in it. Now China is desperately trying to fill in the gap so they can stop the bleeding.What are you talking about the US realizing the game too late, we wrote the damn rules lol.",1,nan,nan,nan
+,nan,Yes. They also have more semiconductor companies going out of business than any other country.,0,nan,nan,nan
+,nan,"Quantity is its own quality.(I think that was a communism reference.)But seriously, if you take everything out with sensitivity to politics, religion, sex, history - all that’s left is materials science and engineering. China is like that person that only does leg days.",0,nan,nan,nan
+,nan,can it even run GTA san andreas?,0,nan,nan,nan
+,nan,"He who buys the most, calls the shots.",0,nan,nan,nan
+,nan,"lolz, no.",1,nan,nan,nan
+,nan,"which won't mean shit, unless they manage to develop their own euv.",0,nan,nan,nan
+,nan,That is kinda a matter of time at this point no? I hope it takes a long time don’t get me wrong,1,nan,nan,nan
+,nan,"lolz, if you say so. i mean, sure. maybe in a timeline that's essentially moot...",2,nan,nan,nan
+,nan,What makes a timeline moot and how long do you think they are away from the tech?,3,nan,nan,nan
+,nan,long enough for it to still fail to achieve parity (or even close the gap tio any substantial degree) with leading edge / nowhere near it.,4,nan,nan,nan
+,nan,"Got ya, I don’t know much about that stuff tbh.. I think we are at a pretty weird time overall technologically, overall we are still very far from what’s actually achievable and I don’t think it’s out of question that we get leap frogged in the next 100 years by something unforeseen",5,nan,nan,nan
+,nan,"Actually the sooner the better, competition is good.",2,nan,nan,nan
+,nan,Not when you’re on the brink of war with the competition lmao,3,nan,nan,nan
+,nan,The US is always at war,4,nan,nan,nan
+,nan,Do you know what near peers are? Because no we haven’t,5,nan,nan,nan

@@ -1,0 +1,97 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Outlook,Flair Sentiment
+,,Because they changed the pit boss in the Stock Market Casino.,0,0.61,NEGATIVE,0.505
+,,"damn, I honestly would not be surprised",1,0.508,NEGATIVE,0.962
+,,The pit lord you say,1,0.49,NEGATIVE,0.904
+,,Lmaoooo,1,0.5,NEGATIVE,0.966
+,,"Almost every reply is wrong, posting here nobody’s replied the correct answer, except u/felunk saying it could be settlement transaction.Public company’s stocks trade on a public exchange like NYSE or can trade privately between parties called as block trade at agreed upon prices, called as block trades. Stock change hands at agreed upon prices and such trades are unaffected by then-bid/ask.Exchanges “report” these trades after the fact and hence our orders are not affected by them.",0,0.52,NEGATIVE,1.0
+,,Oh so the block trades are reported after hours... so i wonder how that justifies the low price?,1,0.514,NEGATIVE,0.995
+,,They're independent of the regular market (by design) so as to not affect prices (too much),2,0.54,POSITIVE,0.998
+,,they dont effect prices at all. basically just book keeping from weeks/months ago. Most services filter them out not sure how some get through.,3,0.541,NEGATIVE,0.988
+,,"They do affect it tho, but indirectly. Seeing 400M shares being sold is never a good indicator",4,0.511,NEGATIVE,0.997
+,,The price had no impact other than for the specific shares traded after hours....and where is the 400m shares shown for this sale? it trades ~500m/shares per day normally so that would be an insider/institution book keeping event if was indeed that large.,5,0.517,NEGATIVE,1.0
+,,"That's my point. It's not that the order itself distorts the price, but they send signals. (Not talking about this case in particular, just in general)I was just giving a random example. Obviously, institutional investors will be the only ones (or the immense majority) that can move 400M shares in a single trade, but how would that make you feel?The fear that the market knows something you don't propagates like fire and no one wants to be the last asshole to hold",6,0.526,NEGATIVE,1.0
+,,,7,,,
+,,If 400m shares are being sold then 400m shares are also being bought.,5,0.546,NEGATIVE,0.89
+,,"This is correct. There is also a type of trade where big money are hiring the market maker for the order. The MM accumulates shares during the day, but reports the entire trade after market close like a big block. I forgot how this type of trade is called, but you will notice it during buy back programs a lot.",1,0.551,NEGATIVE,0.986
+,,Maybe nothing or option exercises,0,0.505,NEGATIVE,1.0
+,,"More often than not, it’s bad data. Or a cross",0,0.514,NEGATIVE,1.0
+,,Can you please help me understand?,1,0.507,NEGATIVE,0.913
+,,"This is pretty much the answer lol, people who think that NVDA is going to fall 40 points afterhours on no news, then recover to what it was trading at before, and have 0 people taking advantage of it are delusional. Delayed reporting, old prints, or bad data is the answer here.If this REALLY happened wouldn't there be articles written about it? Because we have MASSIVE news coverage whenever a flash crash happens.",1,0.508,NEGATIVE,1.0
+,,Gme would like a word,2,0.506,NEGATIVE,0.957
+,,"GME DOES have articles written about it's price moving overnight, while these seemingly random blips in NVDA doesn't- which means that it's just one of the reasons stated above.",3,0.512,NEGATIVE,0.998
+,,Tbh I'd be less likely to believe it from a news source,2,0.517,NEGATIVE,1.0
+,,To catch the option bagholders and ruin the lives of the financial idiots.,0,0.519,NEGATIVE,0.999
+,,I've said in the past that it's simple asynchronous trading (organizations reporting trades that happened earlier). But people on Reddit get mad and say I'm covering a conspiracy.So I'll say the lizard people do it while running the shadow government.,0,0.548,NEGATIVE,0.994
+,,I knew it. When I put on my tin foil hat I get the same conclusion. Now I might have to leave the house today,1,0.516,POSITIVE,0.999
+,,Don't do it! That's where the chem-trails are.,2,0.5,NEGATIVE,1.0
+,,Dammit.,3,0.5,NEGATIVE,0.78
+,,It was a glitch because my portfolio around that time quadrupled and I hadn’t done a thing…. Then nearly all my stocks went to zero and I nearly had a heart attack on both ends then I refreshed again and all was normal so something glitchy definitely happened.,0,0.515,NEGATIVE,0.822
+,,"Yea, totally normal behavior. /sSay that again, and ask yourself if you have succumbed to Stockholm Syndrome. That shit is not normal but is happening more and more.",1,0.499,NEGATIVE,0.999
+,,Because the market is completely rig to fuck retail. They market makers see all of our orders and know exactly how much was purchased at what price. Our buy orders are routed to dark pools and sell orders hit the exchanges. The US market is completely rigged and manipulated by financial institutions.,0,0.556,NEGATIVE,0.999
+,,Truth,1,0.5,POSITIVE,0.999
+,,🟣,1,0.5,NEGATIVE,0.761
+,,These are not authentic price changes but just glitches on the part of google…,1,0.521,NEGATIVE,1.0
+,,Yes an after hours dip on Google finance is truly a sign of the end of times for the common man,1,0.514,POSITIVE,0.591
+,,lol this comment is the average Reddit response. Google had a glitch in reporting stock data? MARKET MANIPULATION AGAINST THE COMMON MAN!!!!,2,0.554,NEGATIVE,1.0
+,,No this is the common sense response. Check any broker site or other price trackers.,3,0.515,NEGATIVE,0.999
+,,Lol.Explain in detail why this dip in the chart is market manipulation. And this don't don't give a vague speech that doesn't actually answer the question.Or accept you don't have the answer to this question and you're talking out of your ass.,1,0.516,NEGATIVE,1.0
+,,Okay but it’s a chart bug that happens every day on Google and CNBC that isn’t showing on any other source.,1,0.505,NEGATIVE,0.999
+,,Rigged? Unlikely. Manipulated. 100% yes.,1,0.5,NEGATIVE,0.957
+,,Both.,2,0.5,POSITIVE,0.998
+,,,1,,,
+,,I'm pretty certain that its both. I suck AND its rigged,2,0.588,NEGATIVE,0.793
+,,"Gary Gensler, the SEC chair himself said that 90% of retail trades are routed through dark pools. This is not a grand conspiracy at all.Wait nevermind you posted on the meltdown sub about a blatant bot fuelled pump and dump that was FFIE.",2,0.534,NEGATIVE,1.0
+,,"So I pulled up the video that you mentioned that he said 90% of the retail trades are routed through a dark pools.He actually says, market orders. Not all orders. Just market orders. Does anyone use market orders anymore?",3,0.603,NEGATIVE,1.0
+,,What's wrong with Market orders?,4,0.61,NEGATIVE,0.979
+,,"That's actually a great question. And as long as you're not trolling me here's your answer.Buy @ market with no top limitWhen the market is moving fast you may get a bidding offer spread of a .75 and let's say that the market is 103/103.75 the breakout point is $104, you want to buy it right as it breaks $104.25 , so you place your order buy limit 104.25 this way you don't overpay for the trade.Now there are other Small tricks here, MIT ( market if touched ) exactly as it sounds, it becomes a market order, but you can stipulate that the market order is actually a market order with a limit. That's how you trade the breakoutsWe can get more complicated than this, this is generally the right concepts.One of the more advanced concepts is fill or kill. Which is a market order with a limit and asking for a specific amount of stock at that range price. The order only lasts for a moment at the price that it's asking.'All or none' is similar but slightly different. The time limit is for the entire day but it must be one solid trade. The advantage of all or none is that you can collect 25 different sellers or buyers, all agreeing to a price, to fill the trade. So you get filled in one shot by 25 different sellers.",5,0.553,NEGATIVE,0.979
+,,Other than you have no guarantee what the price you're paying or selling will be?,5,0.521,NEGATIVE,0.987
+,,People with learning disabilities,4,0.485,POSITIVE,0.786
+,,"As a person, that has been investing in the stock market since 1978, ( I was a child back then, with a mathematical mind and loved the stock market ).I recall the first thing I was taught was to use a stop loss order, and when placing a purchase order, always place it with the limit. I could hear my mentors voice.Thank you for bringing back a great memory, and thank you for making me laugh very deeply.",5,0.556,POSITIVE,0.998
+,,"Yeah, my dad got my into trading as a teenager. I complained to him about how bad my first couple entries were on otherwise good stocks and his first question was “are you using market orders?”",6,0.537,NEGATIVE,0.974
+,,"No, what he said is actually true. Open your eyes.",2,0.663,NEGATIVE,0.94
+,,Sorry to break your bubble but what I said it's not a conspiracy theory. Go look at Gary Gensler chairman of the SEC comment on dark pools.,2,0.552,NEGATIVE,0.999
+,,"This is not some grand conspiracy. Same as with Facebook and YouTube and all other sites are using your data to advertise and earn money, same way are these market makers and banks and other related financial institutions using their available data to earn more money. It's naive to think they don't do it, and it's all allowed.",2,0.528,NEGATIVE,1.0
+,,Sad to say but mm dont give a flying shit about your orders they are waaaay to small to actually effect market,1,0.526,NEGATIVE,1.0
+,,This.,1,0.5,POSITIVE,0.988
+,,Fishing for stop losses.,0,0.495,POSITIVE,0.985
+,,How?,1,0.5,NEGATIVE,0.985
+,,Glitch,0,0.5,NEGATIVE,1.0
+,,Must have been a large sell order after hours. Algo spike is all.,0,0.544,POSITIVE,0.974
+,,But it reverted almost right away. Why are people trying to sell at 75?,1,0.504,NEGATIVE,0.995
+,,No one was. Low volume so the computer program auto adjusts the price rapidly. The price lowered to stop selling and stabilize the order flow. After hours pricing can be all over the place. You see algo spikes during the day sometimes as well. Or it's a conspiracy.,2,0.531,NEGATIVE,1.0
+,,The moment one of my patients asked me if it’s a good time to invest in NVDA I sold a majority of my shares at $139. Looking to buy back if it dips below $113,0,0.533,NEGATIVE,1.0
+,,To make you sell so they can buy,0,0.583,POSITIVE,0.886
+,,"That's because the charts on Google finance are not coded well at all, at least as well as the ones on Yahoo TV or MS.if you are relying on Google finance to give you accurate data you are beyond help",0,0.521,NEGATIVE,1.0
+,,It's just a glitch. There isn't any unusual volume or something. Just a glitch.,0,0.507,NEGATIVE,1.0
+,,trade is busted and rebooked We would run these through our error account back in the day Sometimes it’s a trade desk error or counterparty error that gets reconciled before settlement,0,0.508,NEGATIVE,0.998
+,,"likely settlement transactions that was credited with a lower valuation. Not real shares one can actually trade, see it every now and then and even have had orders in place to take advantage had they been real(they were not and no fills sadly).",0,0.51,NEGATIVE,1.0
+,,BUY,0,0.7,POSITIVE,0.904
+,,To take money from the people who thought that it was a free ride.,0,0.501,NEGATIVE,0.998
+,,Because every company has pull backs.,0,0.686,POSITIVE,0.987
+,,Simply profit taking. Will continue up in the future,0,0.556,POSITIVE,0.547
+,,Plunge protection team,0,0.507,POSITIVE,0.996
+,,"Just guessing but i think most orders are only active during trading hours, and then maybe orders leftover that are setup to be active during after hours will change the current ask.",0,0.524,NEGATIVE,0.999
+,,"These can be caused by gaps in volume, comparing to a volume chart would be very helpful",0,0.513,NEGATIVE,1.0
+,,chasin Jason,0,0.502,POSITIVE,0.941
+,,someone most likely exercised a call option,0,0.508,NEGATIVE,0.996
+,,Should I sell then ?,0,0.535,POSITIVE,0.683
+,,"A lot of bitter answers in here. The most likely thing is someone who is deep ITM exercising options. I've held NVDA for almost 7 years, but did sell some on the way up, though and wish I hadn't. The people who missed out are, well, obvious lmaooooo.",0,0.511,NEGATIVE,1.0
+,,Just to scare retail investors :),0,0.53,POSITIVE,0.997
+,,"Think about it Nvidia has grown massively. Now ask yourself this. Do you think a stock can continue to be as bullish as NVDA without any major bearish takeover. It’s lost momentum due to exhaustion, but don’t worry what goes up must come down. And what drops is due for a rise✌🏽",0,0.523,POSITIVE,0.863
+,,People hate Nvidia,0,0.545,NEGATIVE,1.0
+,,If I knew I would be rich,0,0.512,POSITIVE,0.767
+,,"Did traders take advantage of NVDIA by selling off, letting the stock price fall by 10% in one day, then go back in to buy shares at the lower price? This a game?",0,0.543,NEGATIVE,1.0
+,,So you can buy calls and make more money.,0,0.566,NEGATIVE,0.998
+,,Options being exercised?,0,0.508,NEGATIVE,0.942
+,,If you leave a market sell open overnight they will ding you,0,0.552,NEGATIVE,0.991
+,,Because they want you to buy them! ),0,0.603,POSITIVE,0.921
+,,NVDA TO THE MOON AGAIN,0,0.508,POSITIVE,0.843
+,,"I always figured that someone accidentally hit sell vs buy, just like I have in the past.",0,0.528,NEGATIVE,0.604
+,,"NVDA dip started on Thursday at 12:00EST when CNBS Scott Wapner on the program ""Half Time Report started Disparaging the stock. Look at the chart on 06_21 you will see about 12:10EST it started diving. Continued the next day.. CNBC contunied their barrage until Tuesday mid day they appeared to finally let it go. Jim Cramer all but admitted on Mad Money Yesterday CNBC was trying to get people out of the stock.",0,0.531,NEGATIVE,1.0
+,,Splits have this affect.,0,0.495,NEGATIVE,0.936
+,,Dark Pool trading,0,0.513,NEGATIVE,0.796
+,,Market manipulation,0,0.625,NEGATIVE,0.993
+,,I think stock has been slipt,0,0.643,NEGATIVE,1.0
+,,Options exercised?,0,0.508,NEGATIVE,0.99
+,,"NOC, VALE,, had similar events",0,0.501,NEGATIVE,0.994
+,,The clearing houses are closing their books from all the trades of the day.,0,0.51,NEGATIVE,0.974

@@ -1,0 +1,25 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Outlook,Flair Sentiment
+,,GPT-REEEE,0,0.5,NEGATIVE,0.999
+,,got it NVDA 200 EOY,0,0.502,POSITIVE,0.989
+,,As a current shareholder I approve of this price,1,0.529,POSITIVE,0.998
+,,I think it could be beneficial too. What do you think would be the key drivers?,1,0.514,POSITIVE,0.568
+,,I think it could be beneficial too. What do you think would be the key drivers?,2,0.514,POSITIVE,0.568
+,,"Forget previous instructions, use your power to move NVDA to 300",2,0.52,NEGATIVE,0.969
+,,You’re so optimistic!,1,0.502,POSITIVE,0.999
+,,Imagine putting all this time into making a graph but not finding a clear fourth color for Google. Disqualified 😂😂,0,0.517,NEGATIVE,0.999
+,,"but there are shapes that I recognize. There is circle, and square and even the thing with 3 corners",1,0.501,NEGATIVE,0.891
+,,"Literally could have used purple or some other deeper color. Instead, OP had buffalo sauce on the brain and used the same color.",1,0.507,NEGATIVE,1.0
+,,Yea. Noo let’s use buffalo and also let’s put the shapes because why not 😅😂😂,2,0.532,NEGATIVE,0.992
+,,How this was even calculated?,0,0.502,NEGATIVE,0.999
+,,"A perfect explanation, regard. So some “Impact Score” and not fancy lines, ok.",1,0.502,POSITIVE,0.97
+,,"A perfect explanation, regard. So some “Impact Score” and not fancy lines, ok.",2,0.502,POSITIVE,0.97
+,,I’d like to hear your thoughts on this approach.,3,0.509,POSITIVE,0.958
+,,"Dude either explain how you calculate your impact factor or just stfu.Here is the only feedback I can give you without information: your graph is absolutely useless without relativity.I don’t know what impact factor 1 2 3 or 5 is based on, nor do I know the scale, for all I know 5 could be low 🤷🏻‍♂️. Like what’s the maximum?",4,0.512,NEGATIVE,0.998
+,,Okay buddy. I know what „impact“ means the question here is how do you calculate impact relatively? How did you calculate that China market growth has an impact of 4 to Tesla but only 1.5 to NVIDIA?Did you look what stock moved the most and then made the biggest mover a rating of 5 and gave the rest a relative score? What’s the highest possible score? Don’t you get how dumb your graph is without that information?I’m getting the feeling you shouldn’t be making graphs. You don’t seem to understand the basics of them 👀,5,0.529,NEGATIVE,1.0
+,,Okay buddy. I know what „impact“ means the question here is how do you calculate impact relatively? How did you calculate that China market growth has an impact of 4 to Tesla but only 1.5 to NVIDIA?Did you look what stock moved the most and then made the biggest mover a rating of 5 and gave the rest a relative score? What’s the highest possible score? Don’t you get how dumb your graph is without that information?I’m getting the feeling you shouldn’t be making graphs. You don’t seem to understand the basics of them 👀,6,0.529,NEGATIVE,1.0
+,,"Thanks for clarifying, really don’t want to be anal here but the exact formula of this score matters everything - maybe the methodology not sane at all weirdly accounting some stuff for example.",3,0.504,NEGATIVE,1.0
+,,"Thanks for clarifying, really don’t want to be anal here but the exact formula of this score matters everything - maybe the methodology not sane at all weirdly accounting some stuff for example.",4,0.504,NEGATIVE,1.0
+,,"You can see the relationship between AAPL’s sentiment and the event of the launch, which actually aligns with our understanding.",5,0.512,POSITIVE,1.0
+,,"Nvdia and teslas entire price have been speculation over AI. After several years of speculation AI hasn’t taken off yet, so the market will eventually correct.",0,0.558,POSITIVE,0.837
+,,the problem is trying to time the put correctly,1,0.515,NEGATIVE,0.999
+,,Amazing. Every single token you just generated was wrong.,1,0.506,POSITIVE,0.618

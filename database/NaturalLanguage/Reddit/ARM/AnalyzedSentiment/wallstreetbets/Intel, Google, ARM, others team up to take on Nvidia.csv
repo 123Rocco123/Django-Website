@@ -1,0 +1,32 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,The others are real mad about CUDA!,GPT-REEEE,0,0.5,0.999,NEGATIVE
+,The others are real mad about CUDA!,Remember when Microsoft and Nokia Joined Hands to beat Apple in PhonesThen Steve Jobs said 2 losers will never make a winner,0,0.569,0.999,NEGATIVE
+,The others are real mad about CUDA!,then they killed him,1,0.5,0.997,NEGATIVE
+,The others are real mad about CUDA!,I knew it!,2,0.5,0.994,POSITIVE
+,The others are real mad about CUDA!,gave him pancreatic cancer no less,2,0.497,1.0,NEGATIVE
+,The others are real mad about CUDA!,"I like the analogy but the combined resources of Google, Samsung, Intel, Broadcom, and ARM are a much more formidable opponent than a weakened and tattered 2010s Microsoft & last-gasps-of-life Nokia team up.It feels a more like a potential first chapter in the future sequel to Chip War",1,0.526,1.0,NEGATIVE
+,The others are real mad about CUDA!,Windows phone was still a banger though.,2,0.517,0.951,NEGATIVE
+,The others are real mad about CUDA!,The lumia was definitely useful to balance my table where one of the legs were short. Remember the advertisement they shot on a rig and claimed to be shot through the phone,3,0.508,0.991,POSITIVE
+,The others are real mad about CUDA!,That was outrageous.,4,0.5,0.692,POSITIVE
+,The others are real mad about CUDA!,He really said that ?,1,0.885,0.966,NEGATIVE
+,The others are real mad about CUDA!,And Microsoft is more valuable than apple…,1,0.518,0.584,NEGATIVE
+,The others are real mad about CUDA!,They think they can yolo on chips and make money? Sounds like our regards!,0,0.508,0.776,NEGATIVE
+,The others are real mad about CUDA!,Anyone else always think about Robocop when they hear ARM?,0,0.507,0.917,POSITIVE
+,The others are real mad about CUDA!,"NVDA will work with anyone,thats what makes them succesful",0,0.51,0.833,POSITIVE
+,The others are real mad about CUDA!,"That's also why Nvidia will never have the entire market. The custom TPUs used by companies like Google are made for specific tasks. Making them more efficient and higher performing for specific use cases.Machine learning companies that make their own machine learning TPUs should gain an edge for their specific use cases, but not in the overall market.",1,0.548,0.909,NEGATIVE
+,The others are real mad about CUDA!,Bring it on pussies.,0,0.522,0.933,POSITIVE
+,The others are real mad about CUDA!,Both Tensorflow and PyTorch are written by Google and Meta.Nvidia doesn't have the moat if Google decides to support mostly only TPUs going forward. And Meta decides to branch out too. The actual ML software is written by Google and Meta. Not Nvidia. Nvidia seriously needs to start teaming with Google. This doesn't bode well.Cuda this cuda that. But Cuda is worthless if Google doesn't want to support cuda much going forward. Google is the one writing the actual ML/AI libraries.,0,0.527,1.0,NEGATIVE
+,The others are real mad about CUDA!,"This just isn't true. Nvidia absolutely writes the software. You can't have these application specific integrated circuits without the software up front. They have whole labs dedicated for it, like GEAR. Who is developing the physics based training grounds? Who is developing the distributed training?https://research.nvidia.com/research-labs NVDA.",1,0.527,0.844,NEGATIVE
+,The others are real mad about CUDA!,"Nvidia right now is booming due to mostly LLM.Also, companies like Google and Meta also work in that front. Waymo is unarguably the best autonomous vehicle out there and works on Google's TPU chips.The difference is until recently, these tech giants didn't care much about sharing their hardware outside their company bounds because there didn't seem much profit to be made. With recent profit margins of Nvidia in light, things can quickly switch. Google is already more aggressively pushing renting out TPU chips in its Cloud. Same with Amazon with Tranium and Inferentia. Big tech is shifting gears really fast as there's so much money to be made.Unless Nvidia lowers its profit margins noticeably, there will be steep competition. The AI companies use the Cloud (AWS, Azure, GCP). And the Cloud is not something Nvidia has much power over.",2,0.544,0.978,NEGATIVE
+,The others are real mad about CUDA!,It's wild on wsb that people think everyone is using Nvidia for their ai.,3,0.556,0.913,NEGATIVE
+,The others are real mad about CUDA!,$GOOG being successful with anything moving forward is a joke,0,0.511,0.998,NEGATIVE
+,The others are real mad about CUDA!,Hell yeah dude excellent point,1,0.502,0.996,POSITIVE
+,The others are real mad about CUDA!,"They need to catch up massivly, while Nvidia keeps sailing Higher and higher with CUDA.",0,0.543,0.924,NEGATIVE
+,The others are real mad about CUDA!,"They are not that far ahead. Look at what Groq can do. Remember, Nvidia makes GPUs. Not LLM chips. It just happens that GPU are okay to run LLMs, just like horse cart wheels were okay to make early prototypes for cars.",1,0.514,1.0,NEGATIVE
+,The others are real mad about CUDA!,Mama Su to the rescue?,0,0.507,0.978,POSITIVE
+,The others are real mad about CUDA!,Pigs comes in herdLions come alone,0,0.502,0.974,NEGATIVE
+,The others are real mad about CUDA!,Literally not true,1,0.5,1.0,NEGATIVE
+,The others are real mad about CUDA!,I hope you know more about stocks than you do animals,1,0.548,0.965,POSITIVE
+,The others are real mad about CUDA!,Most certainly do Holding nvidia since 2018!,2,0.551,0.998,POSITIVE
+,The others are real mad about CUDA!,Jensen tried to buy arm but was blocked.,1,0.547,0.971,NEGATIVE
+,The others are real mad about CUDA!,"No. They're majority owned by Softbank. Not related to Nvidia at all, unless there's a partnership I'm not aware of (aside of course from licensing their CPU tech as a customer, which just about all the manufacturers do at this point).",1,0.551,1.0,NEGATIVE

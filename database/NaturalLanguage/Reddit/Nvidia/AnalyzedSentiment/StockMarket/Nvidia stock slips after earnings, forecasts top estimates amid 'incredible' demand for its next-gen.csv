@@ -1,0 +1,55 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Outlook,Flair Sentiment
+,,"Data look good why stock dropping ? This year ER for many companies are out of whack… some have bad ER and stock jump through the roof, others did well but fall flat",0,0.596,NEGATIVE,1.0
+,,"The forward looking outlook doesn’t have as much growth as the journey for Nvidia to get where it is today.They already cornered so much of the market, it isn’t as easy to gain more of it.",1,0.559,NEGATIVE,1.0
+,,Because Nvidia already increased 161% since Jan 1.,1,0.619,NEGATIVE,0.882
+,,"So if 161% and good ER, so why no stay flat then???",2,0.521,NEGATIVE,0.978
+,,"Many investors were wanting the delusional hyper growth trend to continue.It beat, but not dramatically like it has come to be known for.The outlook was more about the hurdles they face, especially around powering it all, as much as it was about the innovation.We'll likely see the rest of tech continue to spend big on NVDA chips, but not at the same breakneck pace they have been.A correction in the stock would be healthy given this is all the case.",1,0.529,NEGATIVE,0.994
+,,Earnings 12% higher than last quarter,2,0.645,POSITIVE,0.996
+,,Do you think the market is looking backwards or something?,1,0.557,NEGATIVE,0.998
+,,will be green tomorrow.,1,0.505,POSITIVE,0.978
+,,what makes you say this hack?,2,0.502,NEGATIVE,0.999
+,,"Straight up hopium.I really don't think gap down reversal into major green type deals on earnings happen all that often (at least, they don't for me, I can only remember one instance).At this point, your only real two hopes are that: a: it reverses to down 2-3% and b: the NDX and potentially the market don't get completely broken tomorrow off semiconductors getting hammered.",3,0.525,NEGATIVE,0.574
+,,"SMTC had a funny move: they crushed earnings, were up substantially in ETH, retraced THE WHOLE move on open (IV crush) and then recovered and some more until EOD.",4,0.517,NEGATIVE,0.999
+,,Friday could be green. Tomorrow red.,2,0.52,NEGATIVE,0.947
+,,What about saturday?,3,0.5,NEGATIVE,0.905
+,,What about green day,4,0.528,POSITIVE,0.831
+,,"Tomorrow and Friday red, so NVDA calls expire worthless, Mon sideways, and big up Tue…",3,0.513,NEGATIVE,1.0
+,,Profit taking.,1,0.593,POSITIVE,0.964
+,,Analysts are not fund managers,1,0.498,NEGATIVE,0.973
+,,It was trading at a 70x earnings… earnings determined it shouldn’t be… give it sometime to come back to earth then rebuy.,1,0.522,NEGATIVE,1.0
+,,Because the amount that they've been beating estimates by is shrinking.,1,0.516,NEGATIVE,0.999
+,,At 3T mcap the market expectation on you is crazy.,1,0.55,NEGATIVE,0.995
+,,"If i saw this chart before earnings i’d’ve gone all in, and somehow its still not good enough for the market, i understand it was overbought but damn",0,0.544,NEGATIVE,0.999
+,,Nicely put,1,0.497,POSITIVE,0.998
+,,"AI juggernaut Nvidia (NVDA) reported its second quarter earnings after the bell on Wednesday, beating expectations on the top and bottom line, and beating on anticipated guidance for the coming quarter.For the quarter, the company reported earnings per share of $0.68 on revenue of $30 billion. Analysts were expecting EPS of $0.64 and revenue of $28.8 billion. That's a massive increase from the same period last year when Nvidia saw EPS of $0.27 and revenue of $13.5 billion.The company also provided third quarter revenue guidance of $32.5 billion plus or minus 2%, analysts were looking for $31.9 billion.In a statement, CEO Jensen Huang said anticipation for the company's next-generation Blackwell chip is ""incredible.""Read more: https://finance.yahoo.com/news/nvidia-stock-slips-after-earnings-forecasts-top-estimates-amid-incredible-demand-for-its-next-gen-chip-202457442.html",0,0.608,NEGATIVE,0.994
+,,50 Billion stock buyback is a great sign. ,0,0.602,POSITIVE,0.97
+,,No it’s not. It’s a really dumb allocation of money at those valuations. A lot of companies have fucked up buying back shares at high valuations trying to pump the stock even more.Keep in mind their market cap is 3T. So 50B buyback is 1.6% of the shares outstanding.,1,0.534,NEGATIVE,1.0
+,,"May be to avoid dilution from employee stock grant exercise. But this is not the case of propping up the stock by buying the shares to maintain price, rather than investing the funds for Innovation and growth.",2,0.566,POSITIVE,0.659
+,,"Sometimes, there is only so much cash you can burn on development.",2,0.525,NEGATIVE,0.914
+,,,2,,,
+,,"Thanks chatGPT, but my point was that they will only reduce their share count by 1.6% at the current valuations. So i still think it’s a bad allocation of capital unless they seriously don’t have anything else to invest in, which i find hard to believe",3,0.518,NEGATIVE,1.0
+,,My post was eased and possible thanks to Nvidia 😂😂,4,0.534,POSITIVE,0.706
+,,You’re right. Why not spend 50 bill to help meet demand? Waste of money.,4,0.519,NEGATIVE,0.999
+,,What’s the alternative. Are there better uses of excess cash at this stage?,4,0.516,NEGATIVE,0.995
+,,"Perhaps investors are weary this may be a sing that they are scaling down R&D, scaling down investments for the future, which can result in less future growth. They are priced to perfection. So any doubt about the future growth will affect the stock price",5,0.55,POSITIVE,0.851
+,,It's a dumb allocation of money for sure. Think whata company can do with $50B directed at salary and talent increases... But we are talking about stocks here.,2,0.565,NEGATIVE,1.0
+,,,1,,,
+,,New all time highs in 2 weeks max,0,0.598,POSITIVE,0.999
+,,What's your reasoning?,1,0.5,NEGATIVE,0.985
+,,"It couldn't break through $130ish before, and today's outcome isn't exactly making people more confident in going in to NVDA at the moment.",1,0.516,NEGATIVE,0.999
+,,"turns out jwn sen knows more than retail investors about his own company hence his dumping of the stock.for any other company this would be a phenomenal quarter. not for nvda though, as their share price demands otherworldly growth for tbe next 10 years just to be a decent investment right now.the share price will probably rebound tomorrow. who knows - perhaps a full recovery is on its way in the coming week.point stands though - the market has undrealistic expectations for this company, and the share price will suffer because of it",0,0.596,NEGATIVE,1.0
+,,So will my calls be green tmr lol,0,0.509,POSITIVE,0.847
+,,"i’m going to be 100% hones, i don’t understand what makes their chips special at all. how does AI make a GPU better?",0,0.537,POSITIVE,0.986
+,,"AI is matrix operations, which is computationally intense. GPU are designed for such tasks. Better GPU = better AI",1,0.575,POSITIVE,0.778
+,,GPUs are faster in AI calculation that's why they're special. NVDA invested in this sector before anyone and now they've a monopoly,1,0.531,POSITIVE,0.997
+,,"You got it backwards, AI models rely on GPU's to train and NVDA makes the most efficient and powerful GPU's. You can think of GPU's as a worker and training an AI model required thousands of workers.For example, ChatGpt trained GPT-4 in 100 days using 25000 A100 NVDA GPU's. Each A100 GPU cost 10k+. (it's like if you hired 25000 people to mow the the lawn of a whole football field).NVDA sells the shovels in a gold rush.",1,0.517,POSITIVE,0.997
+,,If AI could make GPUs better already we’d reach the AI singularity. AIs improving GPUs that improve AIs. A self reinforcing cycle exponentially spiraling up into super intelligence.,1,0.54,NEGATIVE,0.695
+,,,0,,,
+,,Guess abunch of first time earnings traders lost money. Womp womp…I tried to warn yall,1,0.53,NEGATIVE,1.0
+,,"I got in at $40, I think I will wait and see",0,0.505,NEGATIVE,0.986
+,,"Do you think it could be why they RELEASED earnings after hours? NOW they get a full trade day for us SPECULATORS to PLAY the GAME.WE will see at open if it shoots, BECAUSE afterhours are a different breed of PLAYER",0,0.528,NEGATIVE,1.0
+,,What’s up with the random words being capitalized lmfao?😂,1,0.5,NEGATIVE,1.0
+,,And the SP is made up of get rich quick kids who inflated it to make easy millions,0,0.509,NEGATIVE,0.994
+,,"Any idea where those data centres are located? I mean if only revenue from data centres in Q2 was 26 B (only one company) , the data centres must be popping out like mushrooms after the rain.",0,0.561,NEGATIVE,1.0
+,,"Nobody knows where Nvidia is going to be two or three or four or five days from now, if you knew, you wouldn't be posting your s*** on Reddit. You either hoddle for the long haul and chances are you'll do well long-term or you keep trading and you going to get fekked.",0,0.539,NEGATIVE,0.999
+,,The problem with owning a stock that everyone already owns is that there isn't anyone on the sidelines looking to buy in.,0,0.562,NEGATIVE,0.965

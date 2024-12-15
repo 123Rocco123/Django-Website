@@ -1,0 +1,59 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,GPT-REEEE,0,0.5,0.999,NEGATIVE
+,,Why would you buy puts when the whole sector is showing it can reach and sustain new higher ranges?,0,0.569,0.876,POSITIVE
+,,"the valuations are insane.arm is now a $100+B company with earnings WAY less than amd's of 1 year ago, while worth about what amd was 1 year ago... but with market saturation (vs amd, which had minority share in ~everything and all the room to grow)most semis are insanely overvalued atm, imo.",1,0.65,1.0,NEGATIVE
+,,Waiting for the market to correct itself to human valuations is not really a good strategy lmao,2,0.549,1.0,NEGATIVE
+,,"k, buy calls",3,0.578,0.881,NEGATIVE
+,,I am long NVDA at 700,4,0.565,0.91,POSITIVE
+,,...ooooook?,5,0.5,0.947,NEGATIVE
+,,"You do realise every device in existence on earth has a connection to Arm right now right? So when you put that in perspective, it is not over valued at all",2,0.509,0.864,NEGATIVE
+,,"...and with full saturation of those devices, they pulled in a whole.... $800M in revenue for the quarter.lolz @ not over valued.",3,0.532,0.994,NEGATIVE
+,,"And from what you’ve just said you still fail to realise how much potential exists to increase revenue, they’re basically giving away cores and IP for next to nothing at the moment, imagine when that changes and the windfalls start coming in",4,0.558,1.0,NEGATIVE
+,,"lolzhow? they already sold out their long-term future by raising their fees last year. they ~can't charge much more. they're the cheapo design for a reason. if they try to squeeze their customers for a higher margin, they'll lose their only competitive point - price. there are other ISAs. shit, risc-v...they're incapable of competing at the high end.",5,0.547,1.0,NEGATIVE
+,,"Lmao, ok bro, you do you. You’re sorely mistaken if you think their only competitive point is price 😂. I’ll just leave you to realise it on your own. Toodaloo",6,0.509,0.945,POSITIVE
+,,"yes one can rationalize most things, the point is the risk...is it worth the risk when the market is showing it can and wants to lift these companies to new heights?",2,0.563,0.869,POSITIVE
+,,"if you think the market will also keep them this high, no. if you think a correction is likely, probably",3,0.567,0.998,NEGATIVE
+,,"it's not binary though, you have to time the correction and magnitude. bears tend to rationalize things in their most dramatic form where everything collapses hard and fast but a correction can take many forms over a long period of time, so unless one can keep rolling forward for doomsday,it's usually not worth the risk unless there are much stronger signals out there.",4,0.524,1.0,NEGATIVE
+,,Isn't ARM 90% locked up by softbank who is gonna dump?,2,0.507,1.0,NEGATIVE
+,,yup,3,0.5,1.0,POSITIVE
+,,"ARM has only like 10% free float and 8% is shorted ATM. Of course it went up. When the lockup period ends, it's going down a bunch. Currently holding puts.",2,0.522,1.0,NEGATIVE
+,,"No but you see, he drew a line. It literally cannot go any higher.",1,0.534,1.0,NEGATIVE
+,,Lmao bears are truly insane,1,0.501,0.999,NEGATIVE
+,,You gonna learn not to fade momentum brother,2,0.501,0.994,POSITIVE
+,,You’re about to unlearn that rule real quick,2,0.509,0.993,NEGATIVE
+,,Nobody cares about IPO price it’s a fugazi,2,0.517,1.0,NEGATIVE
+,,Letting this kinda nonsense into your mind will cost you all your money. I don’t care how much you have. Literally all of it. Billions of dollars pouring into a stock and you’re gonna be the guy to stop it in its tracks like some sorta regarded Superman. No.,2,0.526,1.0,NEGATIVE
+,,Ur regarded,2,0.5,0.887,NEGATIVE
+,,So hows that working out for you?,2,0.53,0.905,NEGATIVE
+,,"not yet, before the day closed. buy puts",3,0.538,0.934,POSITIVE
+,,You sir are completely wrong 😂😂 RIP your puts,2,0.495,0.998,NEGATIVE
+,,"i mean, it looks like a pump and dump. the dump might not be til next month, though. shrugsi already blew puts on the er, might as well make the continuation bet. lolz.",0,0.515,1.0,NEGATIVE
+,,How dare youA modest guidance bump is worth at minimum 150% price jump.,1,0.518,0.999,NEGATIVE
+,,Literally the entire world runs on ARM.. and you want to buy puts?,0,0.539,0.849,POSITIVE
+,,Literally it doesn’t. What’s x86?,1,0.499,0.999,NEGATIVE
+,,"lolz @ THIS being downvoted so hard. never change, wsb",2,0.502,1.0,NEGATIVE
+,,"You posted this using a phone with an ARM processor.x86 is dead, I’m assuming you mean x86-64. This is only used in the rapidly shrinking windows home pc market and servers.And even in the server space, there’s a huge push for ARM. The AWS Graviton instances are an example of this.By device count, ARM runs the world.",2,0.52,0.999,NEGATIVE
+,,"That’s right, a phone.X86 isn’t dead. The worlds applications run on it.Count instances not device noob.",3,0.507,0.854,NEGATIVE
+,,lol you want to count virtualized instances instead of chip count? Why not individual cores then if you are making a nonsensical argument.,4,0.512,0.951,NEGATIVE
+,,"No, we’re not talking About the physical chips now. We’re talking about use cases per your comment. Keep up bro.If you have ten software programs that run x86 and one that runs arms shit hole stuff, which one is greater?",5,0.521,0.992,NEGATIVE
+,,"why argue about chip count for a company that doesn't sell chips?they're not amd, nvidia, intel... or even qualcomm. even when an arm chip is made/sold, the money's going to qcom/nvda/etc, not really arm.",5,0.574,1.0,NEGATIVE
+,,"And even in the server space, there’s a huge push for ARM. The AWS Graviton instances are an example of this.and despite how hard amazon's been trying to push it, it still amounts for fuckall of revenue, as evident by their ~800M/quarter. and it's btfo by epyc, anyway. x86 and all.",3,0.515,0.993,NEGATIVE
+,,"By device count, android rules the world. Doesn’t mean Google should be valued higher than Apple",3,0.526,0.957,POSITIVE
+,,How much does Google make for each android phone?What does ARM make licensing its technology?,4,0.544,0.999,NEGATIVE
+,,I don't think the op realizes there's an actual short squeeze going on.,0,0.503,0.998,NEGATIVE
+,,"Squeeze these nuts you fuckin nerd.I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.",1,0.501,0.974,POSITIVE
+,,You're an amazing bot. Can we be friends?,2,0.505,0.999,POSITIVE
+,,Only 1% of the float is short.,1,0.49,0.999,NEGATIVE
+,,"Just remember the lockup shares, that should be done around 3/12/2024",2,0.514,0.741,NEGATIVE
+,,Don’t try to logic your way into something you deem irrational lol.,0,0.505,0.642,POSITIVE
+,,"op trying to say more puts here! what a moron reply, logic my ass!",1,0.494,0.989,NEGATIVE
+,,"you look like a dumb trader, why would you put a trade without a confirmation? ask yourself first before commenting something youre not good either! so shut up and fookk offff",1,0.513,1.0,NEGATIVE
+,,Your comment is as regarded as this post.,2,0.505,0.996,POSITIVE
+,,puts after clearing the highs!,3,0.493,0.993,POSITIVE
+,,Yes puts are going great for everyone recently. Definitely puts,0,0.504,0.998,POSITIVE
+,,What do you mean more puts ?,0,0.495,0.987,POSITIVE
+,,where is all these money coming from ? don't see any sector rotations also these days !! I 'm really suspicious of this market dynamics,0,0.584,1.0,NEGATIVE
+,,"puts printed, call credit spreads 1 and 2 printed, call credit spreads 3-5 still open.playing safe (well, i mean, as far as degenerate gambling goes) and closed 1dtes in case of more fuckery tomorrow.i don't usually revenge trade, but when an already inflated piece of shit goes up 60% on a weak guide that's merely better than the godawful guide expected and the company has a pe of 400 while worth as much as amd was last year... fuck it, revenge was handed on a platinum platter by a harem. i'll bite.",0,0.545,1.0,NEGATIVE
+,,Every chip company is going up except intel. Just fuck me. Am I right?,0,0.619,0.798,NEGATIVE
+,,Calls it is. Have to reverse to make money.,0,0.516,0.85,POSITIVE
+,,This aged like milk 🥛,0,0.499,1.0,NEGATIVE

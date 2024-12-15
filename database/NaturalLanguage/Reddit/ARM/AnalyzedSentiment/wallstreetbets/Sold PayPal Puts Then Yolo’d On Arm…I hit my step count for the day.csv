@@ -1,0 +1,11 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,T,GPT-REEEE,0,0.5,0.999,NEGATIVE
+,T,"Im new to options, why do you buy this deep in the money and how do you then make 60% with them today? Your BE should be 128,50 so you should be making a loss atm. What am I not understanding here?",0,0.575,0.999,NEGATIVE
+,T,In the money calls gain tons of intrinsic value when the stock price increases.How would he be losing money if the stock value has gone up so significantly?,1,0.576,0.707,POSITIVE
+,T,I thought because of the high premium that brings up your break even to 128.50. And sure the stock is up but still below 128.50. I‘m misunderstanding smth here I just don’t get what it is. Somebody explain for a noob,2,0.532,1.0,NEGATIVE
+,T,"Well you can still make money from an option contract without ever reaching your strike or break even price. That break even price only really applies when exercising options.His break even price is likely not 128.5 though, he had bought the contract way before the contract reached 28.50, which is where his gains come front. But again, you never have to reach a break even price and still be able to lock in gains by selling the contract instead of exercising it.",3,0.538,0.751,NEGATIVE
+,T,WOW love to see this... I purchased calls on Jan 20 for 37$ sold them at 125$.,0,0.506,0.998,POSITIVE
+,T,crazy you hit both of those on point. Send me your next buys…,0,0.522,0.613,NEGATIVE
+,T,I did post a more relaxed apple trade. Look into ANET. We are in a ai boom so anything ai related should follow these.,1,0.56,0.981,NEGATIVE
+,T,I will thank you. let me know if you got anything else ANET is looking good so far. Smart af,2,0.514,0.978,POSITIVE
+,T,What’s your position?,3,0.542,0.987,NEGATIVE

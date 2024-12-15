@@ -1,0 +1,6 @@
+date of comment,main comment,comment,depth,sentiment,PTR Sentiment,Flair Outlook,Flair Sentiment
+,,GPT-REEEE,0,,0.5,NEGATIVE,0.999
+,,What software is that?,0,,0.62,NEGATIVE,0.998
+,,Factset,1,,0.5,POSITIVE,0.997
+,,"I was like, that’s so cool! Imma get Factset. Price was not clear which was a bad sign. I asked gpt and I guess it’s $12000 to start? Oof",2,,0.506,NEGATIVE,1.0
+,,Hahahaha,0,,0.5,NEGATIVE,0.883

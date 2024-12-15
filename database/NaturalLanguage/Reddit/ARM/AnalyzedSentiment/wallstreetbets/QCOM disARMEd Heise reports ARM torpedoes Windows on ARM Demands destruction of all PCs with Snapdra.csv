@@ -1,0 +1,13 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,GPT-REEEE,0,0.5,0.999,NEGATIVE
+,,"didn't read (see it's german, anyway), but i presume this is about the arm-qcom lawsuit from 2 years ago that's scheduled for december.it's funny how everyone either forgot that this was still active or had no idea. i figured it would/will be settled.tl;dr - the lawsuit's kinda wacky since it's kind of lose-lose for arm, the one who filed it.",0,0.512,1.0,NEGATIVE
+,,"Yes, but some things have developed since then, with Qualcomm having filed for a counterclaim in april this year. The automatic translation of the article is pretty good.It is a lose - lose situation for both Qualcom and Arm, but Arm looks pretty bad in this.",1,0.534,1.0,NEGATIVE
+,,It's actually translated to English on the site.,1,0.506,0.958,NEGATIVE
+,,All in on LEG,0,0.5,0.995,POSITIVE
+,,My time to shine,1,0.542,1.0,POSITIVE
+,,Dammit! Now I'm a bagholder of Leggett and Pratt.,1,0.586,0.732,POSITIVE
+,,"ARM will inevitably lose this even if it wins in court. Leaving this precedent, a lot of SoC and CPU designers might start going the RISC-V route to avoid the licensing issues maybe 10-20 years from now.",0,0.507,0.998,NEGATIVE
+,,"This will certainly happen in 10-20 years, but for now ARM's ecosystem has that big-endickan energy and established inertia. However this is, short to medium term, rather bad optics for both players.",1,0.518,1.0,NEGATIVE
+,,"Eh, don't think it's that bad short term, they both profit regardless.The worst case would be that ARM revokes ALL of Qualcomm's ARM ISA Architecting licenses due to the Nuvia data center fiasco. I'm frankly impressed at how the FTC allowed Qualcomm at all to buy out Nuvia in the first place all those years back.Secondarily Worst case scenario, ARM strong-arms Qualcomm into the new licensing agreement and everyone is left salty. Qualcomm may begin to slowly design new Risc-V SoCs to get away from the ARM stranglehold. And ARM gets left in the dust for their hubris, just like x86 right now.",2,0.536,1.0,NEGATIVE
+,,ARM doesn't need notebook/laptop penetration now. It's low margin. They have AI. They said AI. Those are magic letters make market cap go high.,0,0.591,0.958,POSITIVE
+,,Artificial Returns Machine,1,0.53,0.999,NEGATIVE

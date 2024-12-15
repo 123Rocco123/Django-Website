@@ -1,0 +1,252 @@
+date,headline,PTR Sentiment,Flair Outlook,Flair Score
+11/28/2024,Talking with my dad about Nvidia over Thanksgiving,0.5425,POSITIVE,0.8124
+11/22/2024,Can someone please explain the reason for the weakness of SEMIs right now when they're hitting record revenues?,0.5105,NEGATIVE,0.6954
+11/15/2024,Amazon Accelerates Q3 Growth with AWS and Holiday Sales Potential,0.5994,POSITIVE,0.9968
+11/12/2024,Nearing retirement w $4 million. Tell me why I would pay 80 basis points annually in fees?,0.5468,NEGATIVE,0.9669
+11/05/2024,"ARM, what's your opinion?",0.515,NEGATIVE,0.8976
+11/04/2024,Which stocks to buy if you think China will attack Taiwan in the next few years,0.5763,POSITIVE,0.7799
+09/24/2024,Ubisoft Stock - Am I Missing Something?,0.605,NEGATIVE,0.9757
+09/19/2024,API for historical TTM EPS,0.5112,POSITIVE,0.9982
+09/12/2024,Update of paying off mortage vs investing in equities,0.5125,NEGATIVE,0.9971
+08/05/2024,Protect your stock portfolio from interest rate risk: Invest in the insurance industry,0.5722,POSITIVE,0.7953
+07/20/2024,Investing options in early 60s,0.5138,NEGATIVE,0.6288
+07/15/2024,Active IRA management vs index funds and ETFs?,0.5193,NEGATIVE,0.5792
+07/10/2024,How far do you think we are in the AI stock market hype cycle?,0.635,NEGATIVE,0.999
+06/29/2024,Using nvda shares to Pay off mortgages. good or bad ideas?,0.5112,POSITIVE,0.9858
+06/29/2024,America’s Frozen Housing Market Is Warping the Economy,0.5425,NEGATIVE,0.9931
+06/27/2024,FSD Pharma Receives Ethics Committee Approval for a Phase-1 Multiple Ascending Doses Clinical Trial for Lucid-21-302 (Lucid-MS) in Australia $HUGE,0.5074,NEGATIVE,0.9561
+06/17/2024,Fidelity vs. Merrill Lynch for 16 year old money.,0.6014,NEGATIVE,0.7705
+06/04/2024,Currently reading Chip War made me realize something,0.5164,POSITIVE,0.8104
+06/03/2024,2 year follow-up on buying the dip on pandemic stocks,0.6275,NEGATIVE,0.8149
+05/21/2024,Which brokerages don't charge fees/commissions for OTC stocks?,0.52,NEGATIVE,0.9719
+05/21/2024,Where Do Companies Invest?,0.585,NEGATIVE,0.9864
+04/27/2024,Cocoa beans production shortages?,0.5112,NEGATIVE,0.9957
+04/10/2024,"Silver has been on a run, but caution needed",0.4988,POSITIVE,0.971
+03/14/2024,401k vs Roth vs Brokerage Account for House Payoff,0.51,NEGATIVE,0.9628
+03/09/2024,Is this approach to investing in Stocks smart or not so smart?,0.539,NEGATIVE,0.9829
+02/22/2024,Nvidia’s sheer dominance can be summed up by this one underrated number,0.5079,POSITIVE,0.9942
+02/13/2024,"Looking at historical data, does it show that this is the worst time to ever invest in the stock market?",0.5865,NEGATIVE,1.0
+02/08/2024,"If AI efficiency leads to mass layoffs, what sectors/companies benefit?",0.5569,NEGATIVE,0.9974
+01/28/2024,Ethical Investing - seeking advice on how to buy into industries I support and avoid those I don't,0.5388,POSITIVE,0.9465
+01/26/2024,Managed account vs. Indexing,0.5112,POSITIVE,0.7818
+01/22/2024,"TSM - I was right, kind of, and i think there's still more value here.",0.525,POSITIVE,0.8
+01/21/2024,NVIDIA - 2023 Q4 earnings projections,0.5938,POSITIVE,0.9904
+01/13/2024,More than 50x investing in art,0.515,NEGATIVE,0.9713
+01/04/2024,Navigating the Electric Vehicle Landscape as a New Investor,0.5733,POSITIVE,0.9979
+12/28/2023,The NYTs is suing Microsoft and I think there is a profitability play on their stocks,0.535,NEGATIVE,0.9938
+12/28/2023,Cannot Purchase Specific Stock,0.6138,NEGATIVE,0.99
+11/30/2023,Family office moves money out of stock and into private markets,0.5864,POSITIVE,0.5923
+11/16/2023,What to do with investment property proceeds,0.5333,NEGATIVE,0.8879
+11/10/2023,Why is currency arbitrage not prevalent in mortgages?,0.5012,NEGATIVE,0.7351
+11/03/2023,1.5 year follow-up on buying the dip on pandemic stocks,0.6275,POSITIVE,0.6461
+11/03/2023,Obsessed with Chip Makers,0.53,POSITIVE,0.9891
+10/10/2023,Is Zurich Investments a legitimate company?,0.6937,NEGATIVE,0.9574
+09/19/2023,What should i do with the ARM shares bought at IPO 🤔,0.519,NEGATIVE,0.9996
+09/12/2023,Playing the ARM IPO for long-term investing,0.5525,POSITIVE,0.9635
+09/06/2023,How to participate in the $arm IPO,0.5233,NEGATIVE,0.9594
+08/10/2023,What about the upcoming ARM IPO?,0.5183,NEGATIVE,0.9842
+07/02/2023,Inventor of ‘Balance-Sheet Recession’ Says China Is Now in One,0.5414,NEGATIVE,0.9956
+06/11/2023,Is an Investment in Nvidia a good idea?,0.585,NEGATIVE,0.9818
+06/05/2023,A $1.5 Trillion Backstop for Homebuyers Props Up Banks Instead,0.5025,NEGATIVE,0.9977
+05/02/2023,"PacWest, Western Alliance Lead Regional Bank Stock Rout",0.5681,NEGATIVE,0.965
+05/02/2023,Hindenburg: Icahn Enterprises: The Corporate Raider Throwing Stones From His Own Glass House,0.5061,POSITIVE,0.5602
+04/19/2023,Firearm manufacturing investing is riskier than you think.,0.524,NEGATIVE,0.9628
+04/14/2023,"Schwab Faces Fresh Risks in the Zero-Fee Landscape It Shaped, Firm grappling with declining deposits in wake of rate shock",0.5057,POSITIVE,0.8252
+03/13/2023,HSBC to buy UK arm of Silicon Valley Bank,0.5579,NEGATIVE,0.9909
+03/11/2023,Investments/securities held through a bank’s investment arm,0.5242,POSITIVE,0.9661
+03/03/2023,How does the place of listing affect the investment in a company?,0.661,NEGATIVE,0.9737
+01/18/2023,Will the tech giant's future growth come from an investment arm?,0.5636,NEGATIVE,0.8821
+01/17/2023,Why I like Berkshire -- and I think you should too... (at the right price),0.522,POSITIVE,0.9992
+12/18/2022,Bayer AG (BAYRY) Due Diligence,0.491,POSITIVE,0.9964
+10/18/2022,"Credit Suisse looks for capital from Middle East, top banker to leave",0.5172,NEGATIVE,0.9896
+10/12/2022,Intel Is Planning Thousands of Job Cuts in Face of PC Slump,0.5088,NEGATIVE,0.9631
+06/16/2022,Would love some eyes on a sell or rent situation.,0.5117,NEGATIVE,0.6396
+05/29/2022,Vanguard and now Fidelity are both using AWS as their cloud provider.,0.5225,POSITIVE,0.9886
+05/28/2022,Recently sold an income property and did well. Should I just pay off my entire mortgage of my primary with the gains?,0.521,POSITIVE,0.9756
+05/11/2022,Percentage of ARM mortgages now at early 2008 levels,0.507,NEGATIVE,0.9016
+05/04/2022,The Aerospace and Defense industry is undervalued,0.5225,NEGATIVE,0.7179
+03/19/2022,Famous TSLA Short Jim Chanos is Now Short Coinbase ($COIN),0.4975,NEGATIVE,0.9487
+03/04/2022,Russia's second biggest oil company calls for an end to Putin's war,0.6239,NEGATIVE,0.9884
+01/17/2022,Unilever Shares Fall 6% as it Defends £50bn Approach for GSK's Aquafresh to Panadol Consumer Arm,0.5023,NEGATIVE,0.9993
+01/05/2022,Can Your Portfolio Outsmart the Three Fed Bears?,0.518,POSITIVE,0.6797
+12/29/2021,Fundamental Valuation Models of Ethereum,0.5037,POSITIVE,0.9982
+12/15/2021,Non warrantable Properties,0.4967,NEGATIVE,0.9976
+12/02/2021,FTC sues to block Nvidia’s $40 billion acquisition of Arm,0.5307,NEGATIVE,0.9945
+09/30/2021,My Thoughts On Why Retail Investors Have An Advantage Over Institutional Investors,0.5317,POSITIVE,0.9647
+09/26/2021,Investment in RISC V processor ecosystem,0.517,POSITIVE,0.9972
+09/20/2021,[DD] Taiwan Semiconductor Manufacturing (TSM),0.528,NEGATIVE,0.7428
+08/01/2021,Intel Due Diligence (INTC),0.5138,POSITIVE,0.7918
+06/21/2021,"What is this? Is my understanding of Finance, bitcoin markets, the bond market and Investment Vehicles Correct?",0.5556,NEGATIVE,0.9993
+05/21/2021,Invest like the Norwegian Oil Fund,0.528,POSITIVE,0.7798
+05/10/2021,MX Arbitrage opportunity with a 6 months timeframe,0.529,NEGATIVE,0.9577
+05/09/2021,The Small Arms Industry is Set to Grow Rapidly,0.5283,POSITIVE,0.9983
+04/14/2021,Coinbase Deep Dive Diligence - Part 1 of 2 (Qualitative Thoughts),0.5114,POSITIVE,0.9506
+04/12/2021,NVIDIA Announces CPU for Giant AI and High Performance Computing Workloads,0.5617,POSITIVE,0.9891
+03/24/2021,Best stocks for the fourth industrial revolution,0.556,POSITIVE,1.0
+03/23/2021,"Some DD on Lockheed Martin LMT, or, how to play America, defense, space and the same time.",0.525,POSITIVE,0.9917
+03/15/2021,Ford ($F) - Ugly Duckling to Golden Goose,0.5058,NEGATIVE,0.566
+03/15/2021,The Tale of eVTOLs (Tickers of focus: $RTP | $EXPC),0.51,NEGATIVE,0.9968
+03/12/2021,fsInsight Special Report: BSV – Business Use Cases of the Bitcoin SV Blockchain,0.5415,POSITIVE,0.9645
+03/06/2021,"SPACS, new engineering, and acronyms",0.6213,POSITIVE,0.9417
+02/26/2021,I believe KWG Resources Inc (CNSX:KWG) and Noront Resources Inc (CVE:NOT) are a great long-term investment opportunity. But what do I know. I’m just an unemployed banquet server.,0.5308,NEGATIVE,0.9998
+02/17/2021,Charles Schwab (schw) about to explode,0.5,NEGATIVE,0.9776
+02/16/2021,$MILE DD: MetroMile JUST went public - here is why I'm investing in this InsureTech DISRUPTOR the market is sleeping on,0.5705,NEGATIVE,0.9975
+02/16/2021,SPCE DD - Test Flight Delay,0.507,NEGATIVE,0.9984
+02/14/2021,Raytheon Technologies: Let's discuss,0.505,POSITIVE,0.9927
+02/06/2021,Amazon orders 700 trucks that run on natural gas - Good news for RDS?,0.5361,NEGATIVE,0.9202
+02/06/2021,$TSMC - a newbe sort of DD,0.505,NEGATIVE,0.9923
+02/05/2021,Why I'm BANKING on Wells Fargo,0.6063,POSITIVE,0.9704
+02/05/2021,VISTA Outdoors Earnings and lack of price movement.,0.55,NEGATIVE,0.6161
+02/01/2021,LMT: A Deep Dive,0.5033,POSITIVE,0.9907
+01/30/2021,Should individual investors focus more of their research on small cap stocks? Since institutional investors can't really enter this area?,0.5327,NEGATIVE,0.9989
+01/30/2021,Gamestop short squeeze may hurt norm people more,0.4993,NEGATIVE,0.9896
+01/21/2021,Expected effect on NVDA of ARM acquisition approval?,0.5467,NEGATIVE,0.9015
+01/13/2021,Impact of IFRS 17 on stock valuations for life insurers,0.5758,POSITIVE,0.9534
+01/04/2021,Son Masayoshi's interesting take on 'is this a bubble?' question -- relevant to some of the previous discussions here on the 'Internet bubble',0.5059,POSITIVE,0.9977
+12/27/2020,What are your opinions on Intel? Do you think it is worth buying?,0.54,POSITIVE,0.9472
+12/21/2020,Shopify Analysis (NYSE: SHOP),0.5212,POSITIVE,0.8369
+12/18/2020,What are some good names in cyber security?,0.53,POSITIVE,0.9919
+12/16/2020,Massachusetts Regulators to File Complaint Against Robinhood,0.502,NEGATIVE,0.9586
+12/01/2020,10 golden tips for investing newbies,0.5138,POSITIVE,0.9994
+11/30/2020,LGVW // Butterfly Network – Room for a Bullish Case,0.5175,NEGATIVE,0.8529
+11/27/2020,Salesforce dip a good buying opportunity?,0.524,NEGATIVE,0.7199
+11/26/2020,Possible implicit benefitors from M1 chip success,0.5142,POSITIVE,0.87
+11/19/2020,"Cathie Wood Might Lose Control of ARK, the Company She Founded",0.5962,NEGATIVE,0.9993
+11/19/2020,What are the implications of Apple's announcement of an ARM-powered M1 chip?,0.5186,NEGATIVE,0.9975
+11/13/2020,NVDA: Impact of Amazon moving away from nVidia chips to custom ASICs?,0.5256,POSITIVE,0.5603
+11/06/2020,Bullish on Nintendo (NTDOY),0.505,NEGATIVE,0.9988
+10/31/2020,What we found after analyzing Hollysys Automation for more than 6 months,0.535,POSITIVE,0.9994
+10/17/2020,Looking to bounce some ideas off folks,0.5012,POSITIVE,0.8649
+10/14/2020,NVIDIA Arm acquisition might be blocked by UK government,0.5564,NEGATIVE,0.9327
+10/10/2020,ThinkOrSwim New Terms of Service,0.6463,POSITIVE,0.9968
+09/30/2020,"Semiconductor sector analysis: Export restrictions on SMIC, military civil fusion, no US chips - no supply, Taiwan independence, Nvidia-Arm IP roll-up",0.5333,NEGATIVE,0.9612
+09/29/2020,[The Information] How Uber Wasted $2.5 Billion on Self-Driving Cars. Uber is nowhere close to getting a car that can drive reliably for any length of time. The unit is riven by infighting and critics question why CEO Dara Khosrowshahi hasn’t held the team accountable.,0.5096,NEGATIVE,0.9975
+09/23/2020,$TSLA - summary of analyst thoughts following Battery Day,0.5171,NEGATIVE,0.9995
+09/19/2020,Investing In what you Know Vs. Diversification?,0.5338,POSITIVE,0.7867
+09/15/2020,"U.S. stock market: closed sharply higher, boosted by new crown vaccine hopes and a wave of corporate mergers and acquisitions (Reuters News)",0.5753,NEGATIVE,0.5583
+09/14/2020,Tech Sell-Off,0.555,NEGATIVE,0.9943
+09/14/2020,"Let me get this right, Soft Bank buys billions of dollars worth on NIVDIA Option Calls. Then Soft Bank announces its completion sell of ARM to NVIDIA. Which causes an additional 10% gain on the NVDA stock price.",0.5472,NEGATIVE,0.9641
+09/14/2020,$NVDA - street's initial take on $40b ARM acquisition from Softbank,0.5269,NEGATIVE,0.9331
+09/12/2020,Can corporations buy options on companies that they plan to acquire?,0.5675,NEGATIVE,0.9588
+09/10/2020,Ambani’s Reliance to Offer $20 Billion Stake in Retail Arm to Amazon,0.5331,POSITIVE,0.6955
+08/17/2020,Stocks making the biggest moves premarket,0.536,NEGATIVE,0.9889
+08/02/2020,Possibility of Berkshire Hathway (BRK) acquiring Arm from Softbank,0.51,NEGATIVE,0.9922
+08/01/2020,what do TWTR SQ PINS AMD have in common?,0.6,NEGATIVE,0.9682
+07/31/2020,Nvidia in Advanced Talks to Buy SoftBank’s Chip Company ARM,0.6631,NEGATIVE,0.9913
+07/24/2020,"Stocks that are Immune, or that Benefit from coming Global China Decoupling.",0.5479,NEGATIVE,0.9785
+07/24/2020,[Bloomberg] Nvidia Eyes Biggest-Ever Chip Deal in Pursuit of SoftBank’s Arm,0.5375,NEGATIVE,0.9875
+07/22/2020,What are your thoughts on the CW2's effects on Chinese exports?,0.501,NEGATIVE,0.9926
+06/27/2020,Remington Arms preps for bankruptcy sale to Navajo Nation,0.505,NEGATIVE,0.945
+06/25/2020,Heron Therapeutics (HRTX) Set to Soar With PDUFA Date Tomorrow,0.5038,POSITIVE,0.9967
+06/24/2020,The semiconductor stock for the next 10 years,0.66,POSITIVE,0.9997
+06/15/2020,Is it Possible to Transfer Index Funds without a Taxable Event?,0.5079,NEGATIVE,0.9982
+06/10/2020,[MarketWatch] Signs of panic-like selling emerge in the stock market Wednesday morning even as tech shares climb. Pullback ahead of the Federal Reserve's updated policy statement,0.5448,NEGATIVE,0.9992
+06/09/2020,Islamic fintech ‘Wahed’ secures £19.7 million from Saudi Arabia as part of expansion,0.559,POSITIVE,0.8568
+06/09/2020,"""Apple will announce move to ARM-based Macs later this month, says report""",0.541,NEGATIVE,0.9978
+06/04/2020,HEADFAKE: Replimune (REPL) rallies 20% today on YESTERDAY'S positive news,0.5506,NEGATIVE,0.5959
+06/02/2020,READOUT CATALYST TOMORROW: Can Replimune Infect Cancer? Key P2 Data Readout Tomorrow AM,0.5064,POSITIVE,0.8797
+06/02/2020,What is Lockheed Martin? Why do I like it?,0.4983,POSITIVE,0.9435
+05/27/2020,European Union Plans $2 Trillion Coronavirus Response Effort: Will Scandinavian countries approve?,0.5185,NEGATIVE,0.9937
+05/20/2020,Fed minutes show fears of ‘extraordinary amount of uncertainty and considerable risks’ because of coronavirus,0.5,NEGATIVE,0.9996
+05/19/2020,The Case Against Moderna,0.4975,POSITIVE,0.8347
+05/09/2020,The new age of Monetary Policy: an in-depth analysis of Federal Reserve Policy in the 2008 and 2020 financial crises,0.5523,POSITIVE,0.9992
+05/06/2020,EU predicts region will contract 7.4% this year in worst economic shock since 1930s,0.597,NEGATIVE,0.9993
+04/29/2020,Gilead Announces Results From Phase 3 Trial of Investigational Antiviral Remdesivir in Patients With Severe COVID-19,0.5045,POSITIVE,0.9842
+04/24/2020,I lost 25% of my savings this week. Here is what I learned.,0.555,NEGATIVE,0.999
+04/23/2020,Credit Market Insight: Blackstone's GSO Hedge Fund loses 30% last month on Distressed Debt,0.5363,NEGATIVE,0.9951
+04/18/2020,Gilead (GILD) will benefit from the Covid 19 Pandemic,0.503,POSITIVE,0.9456
+04/10/2020,WSJ Exclusive: Boeing Considers 10% Cut to Workforce,0.4917,NEGATIVE,0.9879
+04/01/2020,Economists Are Losing Hope in a ‘V-Shaped’ Post-Virus Recovery,0.5012,NEGATIVE,0.9971
+03/31/2020,Now is NOT the time for ETFs. Pick high-dividend stocks instead,0.545,NEGATIVE,0.9997
+03/23/2020,Considering opening my arms wide for Macys,0.506,POSITIVE,0.7597
+03/18/2020,Overloaded Storage Facilities Likely to Mean Even Lower Oil Prices,0.4928,NEGATIVE,0.9909
+03/09/2020,A Fact Based Analysis of Why You Should Invest Now - Stock Analysis Below,0.6125,NEGATIVE,0.8891
+02/25/2020,Mnuchin: No material impact from coronavirus on US-China trade deal — for now: Finance officials from world's 20 largest economies said they would keep a close watch on the fast-spreading outbreak,0.5626,NEGATIVE,0.9988
+02/25/2020,Mac with ARM processor = Intel is going down,0.534,NEGATIVE,1.0
+02/10/2020,Cannabis Opportunity,0.5125,NEGATIVE,0.6553
+02/06/2020,Tin foil hat.,0.5,NEGATIVE,0.9115
+02/05/2020,"Is Grand Canyon Education Really the ""Enron of Education""?",0.5025,NEGATIVE,0.5815
+01/14/2020,"Visa to acquire Plaid, the fintech powering Venmo and other banking apps, in $5.3 billion deal",0.5195,POSITIVE,0.7883
+01/08/2020,Why the Iran panic is just a great buying opportunity.,0.51,POSITIVE,0.9414
+12/29/2019,Donor Advised Funds (DAF) as a vehicle for tax savings?,0.5186,NEGATIVE,0.9747
+12/29/2019,Russian Hypersonic Technology (arms race)?,0.555,NEGATIVE,0.9921
+12/16/2019,How to get exposure in ARM?,0.5217,NEGATIVE,0.9999
+12/11/2019,Prince Mohamed of Saudi Arabia physically threatening investors for Aramco IPO to reach $2 Trillion Target,0.5154,NEGATIVE,0.9991
+12/03/2019,The Water Wars that Defined the American West Are Heading East,0.5093,NEGATIVE,0.9189
+10/29/2019,TikTok owner ByteDance eyes initial public offering in Hong Kong,0.5111,POSITIVE,0.9643
+10/29/2019,Which arm of Disney will Disney+ fall under?,0.4862,NEGATIVE,0.9542
+09/10/2019,Shopify gets 'shot in the arm' after US$450-million acquisition,0.5979,NEGATIVE,0.9958
+09/09/2019,Church & Dwight Target of Short Seller. What Do You Think of His Concerns?,0.5057,NEGATIVE,0.9868
+09/03/2019,The S&P 500 is a global index based on revenue source,0.5608,POSITIVE,0.991
+08/31/2019,2020 Foresight: What to do to Protect and Profit in Bear Market.,0.586,POSITIVE,0.9812
+08/20/2019,"What were the best investments of the ""stagflation"" era?",0.5375,POSITIVE,0.5018
+07/29/2019,Blackstone Made a Quick US$2Bn - US$4Bn from Reuters In Just About a year,0.5944,NEGATIVE,0.9709
+05/31/2019,China Threatens Sweeping Blacklist of Firms After Huawei Ban [Bloomberg],0.5088,NEGATIVE,0.9987
+05/27/2019,Bubble in Hong Kong Property?,0.51,NEGATIVE,0.8258
+05/23/2019,"Endeavor Group Holdings, Parent Company of WME, Files for Initial Public Offering",0.6095,POSITIVE,0.8205
+05/08/2019,What-if Wednesday: So what happens when Amazon's transportation arm pulls the rug out from UPS/FedEx's cash flow and starts competing with them?,0.5135,NEGATIVE,0.9968
+04/24/2019,Ethical Investing,0.5175,POSITIVE,0.9934
+04/12/2019,CIBC Sales Desk: Canopy Rivers (RIV) - one of the best risk/reward opportunities in the Cannabis space,0.5535,POSITIVE,0.9959
+04/06/2019,How to start investment club?,0.52,POSITIVE,0.6731
+03/30/2019,Google parent company Alphabet has more than doubled its money on Lyft to $1 billion in just 17 months (CNBC),0.5965,NEGATIVE,0.9952
+03/20/2019,How do I indirectly long ARM holdings?,0.5425,POSITIVE,0.9067
+03/20/2019,So many mislead posts; Time to get back to the basics...,0.5193,NEGATIVE,0.9996
+03/19/2019,Anonymous source says Principal is in talks with Wells Fargo to buy their retirement arm,0.5345,NEGATIVE,0.9883
+02/27/2019,India-Pakistan Conflict,0.515,NEGATIVE,0.98
+02/08/2019,Discussion about SoftBank,0.51,NEGATIVE,0.5528
+02/07/2019,"EU Slashes Growth Forecasts and Warns Over Brexit, China",0.5457,NEGATIVE,0.9714
+01/09/2019,"What are some tools/programs, that don’t cost an arm and a leg, that are useful for an individual when dealing with stocks?",0.5285,POSITIVE,0.5285
+01/08/2019,Best Technical indicators,0.5517,POSITIVE,0.9997
+12/21/2018,How do you think telehealth companies will affect healthcare REITs?,0.5242,NEGATIVE,0.9539
+11/27/2018,AWS announces its new ARM processor based A1.X instances,0.5617,NEGATIVE,0.8723
+11/05/2018,VXX midterm play,0.5067,POSITIVE,0.9934
+09/07/2018,Using Stock Broker Margin to Buy Real Estate,0.5993,NEGATIVE,0.6017
+09/04/2018,Huawei Caught Cheating on Mobile Benchmarks,0.546,NEGATIVE,0.9969
+08/29/2018,COFCO loses over $100M with wrong-way bets in the agricultural markets,0.5175,NEGATIVE,0.9993
+07/06/2018,"Demand for Augmented Reality/Virtual Reality Headsets Expected to Rebound in 2018, Says IDC",0.529,NEGATIVE,0.9418
+07/05/2018,Want to buy a home but it's a seller's market,0.593,NEGATIVE,0.9927
+05/30/2018,Alibaba leads US$1.4bn investment in Chinese delivery service ZTO,0.5428,POSITIVE,0.9334
+03/27/2018,[POLL] How Will Saudi Arabia Spend the Proceeds from Aramacos IPO?,0.5079,NEGATIVE,0.9998
+03/15/2018,Safe to invest in weapon’s companies?,0.5437,NEGATIVE,0.9576
+03/07/2018,Why The Cohn Resignation Doesn't Really Matter To The Market,0.5408,NEGATIVE,0.999
+03/03/2018,"How do you find ""uncovered"" stocks as a retail investor?",0.539,NEGATIVE,0.9561
+01/23/2018,A note of interest from TDAmeritrade's Quarterly PR,0.509,POSITIVE,0.994
+01/19/2018,"ELI5: What is ""cap"" as far as this one mutual fund (in this case, HCKAX) and what's its effect on the fund's share price at the end of the year?",0.5739,NEGATIVE,0.9525
+01/04/2018,Real talk - Intel / AMD / ARM,0.629,POSITIVE,0.9717
+01/02/2018,It's looking like all recent Intels CPU have a severe bug and the patches are slowing down data center servers by 30%. This will the server world upside down,0.5197,NEGATIVE,0.9998
+11/15/2017,Softbank benevolent skynet,0.5033,NEGATIVE,0.9349
+11/01/2017,GE down 20% this year. Bottomed out?,0.705,NEGATIVE,0.9999
+10/24/2017,Active investing pointless?,0.5133,NEGATIVE,0.9997
+10/04/2017,stockAday: can AMD overcome the apathy? $AMD,0.69,NEGATIVE,0.7395
+08/20/2017,Intra-family loan,0.4967,POSITIVE,0.8958
+08/07/2017,"In the arms race for lithium-ion batteries, what's a good investment strategy?",0.5312,NEGATIVE,0.5356
+07/09/2017,What rarely mentioned or unique websites do you use when researching?,0.5142,POSITIVE,0.6726
+07/04/2017,Why you shouldn't worry about a war with North Korea,0.514,POSITIVE,0.9933
+06/10/2017,stockAday: any love for JD? $JD,0.5025,NEGATIVE,0.9711
+06/06/2017,stockAday: Any inside Intel? $INTC,0.5262,NEGATIVE,0.9992
+05/26/2017,Drone Delivery is a Reality in China (JD),0.521,NEGATIVE,0.9647
+05/21/2017,How to take advantage of Trump's Saudi arms deal?,0.5208,NEGATIVE,0.9959
+05/20/2017,Aerospace & Defense?,0.5025,NEGATIVE,0.8873
+04/20/2017,Subscription Receipts - can someone explain,0.4988,POSITIVE,0.9324
+03/31/2017,How is Palantir for Private investment?,0.535,NEGATIVE,0.8531
+03/15/2017,Am I aiming too high?,0.525,NEGATIVE,0.9999
+02/21/2017,stockAday: nothing left to print at Hewlett Packard Enterprise? $HPE,0.5012,NEGATIVE,0.9682
+02/21/2017,Need some help understanding Softbanks vision fund!,0.5058,POSITIVE,0.6296
+02/14/2017,Softbank nearing a purchase Fortress Investment Group (FIG),0.5614,NEGATIVE,0.9799
+01/31/2017,Long term trend collection,0.56,POSITIVE,0.9989
+12/25/2016,International trading broker for Canadians,0.53,POSITIVE,0.9982
+12/24/2016,The power of tweet: Lockheed Martin CEO Marillyn Hewson promises Trump she'll cut F-35 costs,0.5104,NEGATIVE,0.6701
+12/23/2016,Why is Cameco (top uranium producer) not moving higher?,0.5358,POSITIVE,0.6454
+11/25/2016,stockAday: a GEnius again? $GE,0.5,POSITIVE,0.8726
+11/14/2016,stockAday: the virtual merits of Nvidia ($NVDA),0.536,POSITIVE,0.9996
+10/28/2016,stockAday: is Vista Outdoors in your sights? $VSTO,0.5,NEGATIVE,0.9857
+10/15/2016,Great diagnosis of TWTR,0.505,POSITIVE,0.9928
+09/30/2016,"The Litte Book that (Still) Beats the Market - Review, discussion, thoughts.",0.5475,POSITIVE,0.9941
+09/06/2016,stockAday: Boeing on a nice flight? $BA,0.502,NEGATIVE,0.9936
+09/05/2016,Softbank completes $31 billion acquisition of ARM Holdings,0.5425,POSITIVE,0.8923
+08/09/2016,stockAday: IBM = ignore buffett mania? ($IBM),0.5067,NEGATIVE,0.9996
+07/25/2016,"stockAday: Robert Half full, not half empty? ($RHI)",0.465,NEGATIVE,0.9995
+07/18/2016,Why has the acquisition of ARM lead to an increased stock price?,0.675,NEGATIVE,0.9983
+07/18/2016,"Japan's Softbank has agreed to acquire ARM Holdings, the U.K. semiconductor firm that supplies the chips used in iPhones, in a deal worth over $32 billion",0.53,POSITIVE,0.6578
+12/5/2024,Brokerages with in person support,0.5167,POSITIVE,0.9954
+12/10/2024,"Reached my most substantial milestone yet ($10,000 in yield)!",0.512,POSITIVE,0.9992

@@ -1,0 +1,17 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,GPT-REEEE,0,0.5,0.999,NEGATIVE
+,,So calls on AMD ig,0,0.665,0.998,NEGATIVE
+,,To the moon baby,1,0.505,0.992,POSITIVE
+,,Are you guys taking positions reading reviews on Pcmag ?,0,0.5,0.997,NEGATIVE
+,,Real men use astrology,1,0.53,0.991,POSITIVE
+,,"product matters the most in the long run... company might have high PE, or debt, or whatever, but if the product is good and consumers are happy, the fundamentals will follow",1,0.574,0.946,POSITIVE
+,,1 good review on 1 laptop is meaningless. I have an AMD CPU in my shitty laptop i use for tuning my car and it sucks balls. Is it representative of the company and the rest of the product line up? Hell no. (it is shit however!),2,0.58,1.0,NEGATIVE
+,,"Ps, not one soul will use these Laptop chips for real AI or rendering workloads, so these charts are meaningless",3,0.54,1.0,NEGATIVE
+,,Why do you say this?,4,0.475,0.761,NEGATIVE
+,,"Because its a Laptop? People use laptops for general productivity and the real users of AI, game designers or 3D artists do not render or process real workloads on their laptops? I think the general public are miles away from understanding real world use cases but absolutely no one on earth would do any sizeable rendering/AI workload job on a portable device. It just isnt practical. Theres a reason why game designers use 4090's and massive Imacs or do work in the cloud. Local processing on a laptop is just never realistic. Therefore charts are fun but meaningless.",5,0.522,1.0,NEGATIVE
+,,So long as su bae stops diluting. I trust her as far as I can throw mah own self,0,0.518,0.997,POSITIVE
+,,"Believe in yourself, I'm sure you could toss yourself pretty effectively",1,0.568,0.998,POSITIVE
+,,"Hot take:AMD still overvalued and will likely dip more after earnings. PE of 200, what in their pipeline justifies that? Cus it ain't a shitty laptop chip that's for sure.",0,0.549,0.975,NEGATIVE
+,,"Their P/E ratio is related to their acquisition of Xilinx. Their non-GAAP P/E ratio is 30, and their forward P/E ratio is 39.",1,0.525,0.573,POSITIVE
+,,Could you elaborate more on this ? Having a hard time understanding about how the xilinx acquisition affects them.don't have an accounting or finance btw,2,0.526,1.0,NEGATIVE
+,,"In brief, Xilinx’s acquisition costs are amortized on their balance sheet over the next 10-15 years. This affects the PE ratio for accounting purposes. ",3,0.527,0.997,NEGATIVE

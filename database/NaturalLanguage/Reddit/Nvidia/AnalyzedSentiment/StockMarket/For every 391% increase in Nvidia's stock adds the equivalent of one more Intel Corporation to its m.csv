@@ -1,0 +1,64 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,Nvidia is literally down 3.91% right now.Adios Intel sized company,0,0.646,0.833,NEGATIVE
+,,Uh oh! 23 intels by the close?,1,0.489,0.996,NEGATIVE
+,,Ridiculous valuations aside - that revenue jump IS crazy.,0,0.516,0.987,NEGATIVE
+,,What would the revenue be if you own 25 Intel and even assume their revenue will be cut by half in 4 years?,1,0.521,0.997,NEGATIVE
+,,Intel’s revenue is 12.72B last quarter versus 26B by Nvidia.However Intel’s net income was -381M while Nvidia’s net income is 14.88B.So yeah if you owned 25 Intels you would have lost 9.5B dollars instead of making 14.88B with just one Nvidia.,2,0.568,0.976,NEGATIVE
+,,Smart,3,0.505,0.995,POSITIVE
+,,May be time to short NVDA or buy put options. Even my Lyft driver told me to buy NVDA yesterday… might be the top like CSCO in the ‘90s,0,0.533,0.983,NEGATIVE
+,,How many people are talking about NVDA like it'll change our lives in a week. There aren't that many AI experts. Everyone is just hyping each other up. It'll be interesting how it all unfolds but I really don't see how NVDA can be worth more than MSFT.,1,0.522,1.0,NEGATIVE
+,,Or AAPL,2,0.51,0.55,NEGATIVE
+,,"I'll take the risk of putting my thoughts out there on all three: AAPL just got borked by its VR device which is seeing much smaller interest than anticipated; we're also nearing a point where phones and such devices have more than enough power to last most every user for the next decade. I can't imagine any upgrades the latest iPhone could possibly need to watch TikTok and run Facebook. People just are going to slow their purchases of phones/apple watches/etc, particularly with the increases in every other aspect in the cost of living.Microsoft's best thing going for it is Azure; Windows/office licenses are affected negatively by AI and the prospect of AI taking over a ton of back office jobs, as every job AI takes is one less set of licenses needed. MSFT also is kinda shitting the bed in the console dept; the stepped-down iteration of their current console has turned off alot of developers from releasing on it, as MSFT has mandated they have to make versions for both the regular Xbox of the current gen and the one with considerably lower graphics power.NVDA, on the other hand, might be overhyped, but it might also deliver on a lot of promises that Elon made and couldn't; having watched their keynotes, it looks very much like their massively more powerful chips that are about to hit the market and do AI modelling of various machines, from cars to forklifts to others, could deliver on things like self-driving cars. It certainly looks far, far more put together than anything Tesla shat out.",3,0.523,1.0,NEGATIVE
+,,"Needed a new battery and it would cost $100. So, I exchanged my 11 Pro Max for a 15 Pro Max because Verizon gave me a 830$ credit. So I got it for 350$, just $250 more than the battery.I dont notice a difference at all. Kind of wish I wouldve just replaced the battery.",4,0.523,1.0,NEGATIVE
+,,"It’s crazy because basically the only one turning any profit on AI is NVDA. Eventually the companies it sells to will have to either start making money or start doing something else.If a ton of businesses was being made on AI then I filled understand the valuation, but we are literally hoping the money comes in. There is little to indicate AI will be cash cow for so many that we are predicting.The internet was game changing, it did not lead to extreme cash flows that everyone thought it would. Some people got filthy rich, most internet companies failed.",2,0.53,1.0,NEGATIVE
+,,"OpenAI is rumored to have a $3.2B/year run-rate. Let's say $500m/year revenue for the other models (combined), $2B MSFT co-pilot revenue, another $1b/year to the AI apps like character.ai, imagine generators, AI writing, etc.That's about $6.5B, which anit' a lot, but it's not nothing.",3,0.583,1.0,NEGATIVE
+,,As long as the books are closed we can only speculate to what is being made.As for Microsoft they report 12 billion in revenue for AI assist search which is impressive but they don’t really break down how that number is gotten to or it’s ROI It’s also still less than it makes on LinkedIn.I’m not trying to be an AI doomer just that we should keep our pants on till the actual profits come.,4,0.533,0.999,NEGATIVE
+,,"I don’t think it will be as wide reaching as people think it will be too. I’m aware of what it can do, but all the early implementations we’ve seen are now being rolled back. I think it can do some cool stuff for niche applications, but I think its limitations are showing. ",3,0.505,0.999,NEGATIVE
+,,"To me, the weird is how overhyped chat bots were. Firstly, they're really not that good. Lots of people seemed to go on about how good it was at writing but the truth is, it writes to sound good, but often lacks substance. More importantly, they're only as reliable as the data put into it, so they get lots of things wrong.I think it may have more use in STEM where the data can be more reliable but even if it can scrape all the data from journal articles, there is still a lot of academic misconduct that will ""poison"" the models, differences in techniques, measuring apparatus etc.If you need a pile of data to go in, the advantages may start to dwindle since lots of labs are using Design of Experiments to determine how to get data etc.",4,0.514,1.0,NEGATIVE
+,,"SMCI, QCOM and more",3,0.5,0.993,POSITIVE
+,,"These company’s do not sell AI. They sell the tools to allow company’s to sell AI.That would be like saying a pic axe and shovel company is a company that makes money selling gold. They don’t, they make money selling the ability to mine gold. They may be AI company’s but they do not sell AI as an end product.Right now the only real money being made is in the chips and software to run AI. AI as a service to an end customer is rare.",4,0.586,0.999,NEGATIVE
+,,No one said that,5,0.917,0.848,NEGATIVE
+,,But that’s my point. Pic axe and shovel sales do not equate to a gold boom.Right now everyone is pointing the company’s selling pics and shovels are evidence there is money to be made in AI. But if the only profit being made is selling pic axes and shovels and non on selling gold then you don’t have money being made on gold.NVDIA is the arguably the only one who has an actual AI product and they arnt even selling it as an end product but as a pic and shovel.,6,0.538,0.998,NEGATIVE
+,,,7,,,
+,,,8,,,
+,,"It’s pretty easy to get hyped when the money keeps flowing, and the money started flowing before the hype",2,0.511,0.999,NEGATIVE
+,,This is the way,1,0.53,0.997,POSITIVE
+,,I wish I had the balls to short the damn thing … But you just can’t try to stop a moving train,0,0.498,0.985,NEGATIVE
+,,Well someone did it today. I just saw a guy on WSB short started with 2 k ended with 130 k,1,0.53,0.986,NEGATIVE
+,,Fuck,2,0.49,0.953,NEGATIVE
+,,How did he turn 2k to 130k?,2,0.51,1.0,NEGATIVE
+,,"You could make a reverse locomotive, and then someone else could get on your train. lol",1,0.511,0.992,POSITIVE
+,,"Which is hilarious because without a CPU, they won't be a GPU. Pat its time to put your foot down and show them who's the boss.",0,0.525,0.999,POSITIVE
+,,NVIDIA data center products are using ARM CPU cores.,1,0.56,0.962,NEGATIVE
+,,"Even better, ARM and INTEL has a partnership, manufacture ships at intel. If Pat wants to surpass NVDA again, he should play dirty as NVDA tried to do when buying ARM. NVDA and AMD are both in bed with each other trying serving indirectly bad actors in the East. Intel should start asking a big fee if they want to be on this motherboard. Motherboard are the new turf wars of the techno worlds. Be There or BE SQUARE JENSEN!",2,0.537,0.902,POSITIVE
+,,"All I can say as a fellow Sopranos fan: ""listen to yourself, you sound demented"". 😂",3,0.499,0.975,NEGATIVE
+,,Discontinue the Lithium my little nephew,4,0.497,0.999,NEGATIVE
+,,Does Apple buy motherboards from Intel? Serious question.,3,0.557,0.999,NEGATIVE
+,,"Nope thats why Apple started producing their own designs with the M1 chips etc. Also they had incentive because they achieved faster chips. I'm not an expert by any means, consult with your doctors before eating chips.",4,0.541,0.589,NEGATIVE
+,,That's good to know as Apple is TSM biggest customer.Microsoft and others are moving toward CoPilot PCs with the ARM chips to compete with Apple. Who makes motherboards for these guys? I want to look up. Could be a good investment.,5,0.527,0.95,NEGATIVE
+,,"Well, Apple still uses ARM architecture (Even the new M3)",6,0.568,0.93,POSITIVE
+,,,7,,,
+,,,8,,,
+,,,8,,,
+,,,9,,,
+,,Did you just say ARM manufacture ships at Intel? ARM sells IP man.Motherboards? 😂,3,0.514,0.999,NEGATIVE
+,,Without shoes people wouldn’t be wanting to travel meaningful distances - time for crocs to strike while Boeing shows weakness.,1,0.501,0.966,NEGATIVE
+,,Next time if you want to argue come back heavy or not at all,2,0.534,0.99,NEGATIVE
+,,"thats where AMD comes in, or maybe Qualcomm",1,0.592,0.671,POSITIVE
+,,thats when Pat Gelsinger music hits and he comes down and stunners everyone too,2,0.505,0.619,POSITIVE
+,,US gdp is what 25 trillion. Hmm do we think Nvidia is worthy of a value of 12% of the GDP?,0,0.541,0.999,NEGATIVE
+,,"I get the point you are trying to make, but comparing market cap to annual GDP is like comparing apples and oranges.",1,0.529,0.965,NEGATIVE
+,,His point is comparing tangibles.If you could buy NVDA or 12% of US GDP which would you choose?The market is valuing them the same as of now. However I think we can all agree that NVDA is not actually worth that amount of money.,2,0.538,1.0,NEGATIVE
+,,"Market cap is the value of all shares of the company at the current share price. How you get this value can be different based off what methodology you use (discounted future cash flow analysis, etc.). GDP is the sum of all value during a certain time period (usually annual). It makes no sense to compare the two. GDP has no notion of future growth unless you factor in projections. That being said I personally do think the NVDA valuation is disconnected from fundamentals.",3,0.578,0.993,NEGATIVE
+,,"Thanks for the definitions we’re all aware of. It’s not meant to be a side by side comparison, just an example of just how much that company is worth based on its market cap. ",4,0.58,0.885,POSITIVE
+,,Another way to think about it is if 12% of US productivity solely went towards building a company it would be able to recreate the equivalent of a company like Nvidia within a year.,3,0.636,0.999,NEGATIVE
+,,"191B in 2026? yeah , dream on.",0,0.503,0.997,POSITIVE
+,,Sounds normal to me. NVIDIA to 100 trillion.,0,0.546,0.986,NEGATIVE
+,,"Most people are buying Nvidia, all thinking it can go up every day. Especially this time, the less you can ignore its risks",0,0.523,0.999,POSITIVE
+,,Just saying the market cap of companies is mostly meaningless. The reality is that market cap is not tied to any metric. An increase in market cap doesn’t suddenly make Nvidia have more revenue or produce more…In fact it just makes it more costly for me to buy a dollar of their profit… all else equal this is generally a bad deal for investors assuming profits don’t rise to meet the new price.,0,0.562,1.0,NEGATIVE
+,,It matters to the insiders who have been selling.,1,0.505,0.885,POSITIVE
+,,It’s a good reference point considering stock price is so important ,1,0.575,0.992,POSITIVE
+,,Should Invidia be shorted? Any ideas?,0,0.498,0.999,NEGATIVE
+,,I hate nvidia they are way to mean to the shorts,0,0.54,1.0,NEGATIVE
+,,Will there be a swap of the two in the DOW?,0,0.53,0.928,NEGATIVE
+,,That 3.91% actually decreases after every such step because math and also Intel is shit.,0,0.547,1.0,NEGATIVE

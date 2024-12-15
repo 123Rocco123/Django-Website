@@ -1,0 +1,45 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Outlook,Flair Sentiment
+,nan,Seizing world gdp soon for further growth...,0,0.568,POSITIVE,0.926
+,nan,"how NVIDIA would manage potential disruptions in Asia. He clarified that the present-day GPUs comprise 35,000 components, weigh 80 pounds, and consume 10,000 amps. These GPUs are constructed like electric vehicles, weighing 3,000 pounds when stacked. The production ecosystem in Asia is highly interconnected and diverse.This is some fucking word salad.",0,0.514,NEGATIVE,0.997
+,nan,I can't believe a human would write like that.,1,0.508,POSITIVE,0.841
+,nan,"I mean, the first line is missing the first half of the sentence. If you take that into account it's pretty easy to process",2,0.517,NEGATIVE,1.0
+,nan,"In todays world i doubt it. Some dude probably uploaded a handfull of articles and media reports to chatgpt along with some tweets, and financial data then said make me an article about this. Then posted it without reading it.",2,0.549,NEGATIVE,1.0
+,nan,"Also, I'm pretty sure there's no way that stat refers to an individual GPU. Probably one of their commercial units that has a bunch of stuff inside.",1,0.552,NEGATIVE,1.0
+,nan,"I appreciate the irony of the only way for the fabled free market to compete with corporate socialism is also corporate socialism. The US should rebrand to ""Socialism with American characteristics"".",0,0.541,NEGATIVE,0.999
+,nan,"I appreciate the irony of the only way for the fabled free market to compete with corporate socialism is also corporate socialism. The US should rebrand to ""Socialism with American characteristics"".",1,0.541,NEGATIVE,0.999
+,nan,*with capalist characteristics,2,0.502,POSITIVE,0.859
+,nan,"How many zeroes is that, my clunky calculator goes into Error mode, after 1000.",0,0.502,NEGATIVE,1.0
+,nan,i thought it was a telephone number,1,0.492,NEGATIVE,0.999
+,nan,8008,1,0.5,POSITIVE,0.995
+,nan,"12 zeros!Million = x,000,000 Billion = x,000,000,000 Trillion = x,000,000,000,000It’s 1,000 billions or 100,000 millions.",1,0.554,NEGATIVE,0.534
+,nan,May the powers of NVIDIA and INTEL unite!!!,0,0.565,POSITIVE,1.0
+,nan,Grandma needs to get paid,1,0.516,NEGATIVE,0.981
+,nan,I’m in! Oh… misread the last word,2,0.523,POSITIVE,0.869
+,nan,😂,3,0.5,NEGATIVE,0.761
+,nan,Good news for Samsung Electronics,0,0.539,POSITIVE,0.89
+,nan,"https://wccftech.com/samsung-scrambling-to-boost-3nm-gaa-yields-which-are-extremely-low/They aren't capable of doing it. Reading between the lines, I'm thinking there might be some type of deal coming up with Intel.",1,0.531,NEGATIVE,1.0
+,nan,Can you explain?,2,0.505,NEGATIVE,0.699
+,nan,"Nvidia doesn't want all it's eggs in one basket and anyways TSMC can't meet all the demand that exists for Nvidia products. Samsung's foundry services aren't really up to par when it comes to high end products it seems. Intel, while currently being further behind, might be able to offer an alternative if 18a/14a work out, which of course is a big if. There have been rumors over the year that Nvidia is evaluating the 18a option and I think they're are already using it's packaging services. Add the fact that the US government seems to want some big players to start using Intel as a foundry, I wouldn't be surprised if something ends up happening.",3,0.548,NEGATIVE,1.0
+,nan,"Process size doesn’t make a foundry interchangeable. TSMC has other moats with regards to packaging (SoIC). Anyone working with TSMC is going to be tightly integrated into their pipeline.It’s going to be a struggle for anyone to move away from them to Intel or Samsung, and doing so will likely result in an inferior product at the end of the day. However, Nvidia can’t keep up with demand because of TSMC. So, if they can push second-tier production to other foundries, then they can get more out of TSMC for their flagship product. All they really need is to make a product slightly better than AMD outside of TSMC. The product coming from TSMC will remain the flagship.Given recent events, I highly doubt Intel can get their shit together to make it happen in a reasonable amount of time. I think ultimately international TSMC factories will be the solution. Any other supplier will just be a stopgap to boost the margins.",4,0.524,NEGATIVE,1.0
+,nan,"Wouldn't the new TSMC factory being built in the US be able to deal with it in the future? Although Intel did say they wanted to take some of that market, they are also trying to get out of it now as they are running low on cashflow. Or at least that's my understanding",4,0.557,NEGATIVE,0.998
+,nan,"Apparently it's not going to be their latest process node there, plus, from reports they've been having issues with the workforce.",5,0.507,NEGATIVE,0.995
+,nan,Intel will have the same issues with the workforce.,6,0.525,NEGATIVE,1.0
+,nan,Something is up with Samsung.They put all their chips on GAA technology and it looks like at sub 10% yield.Perhaps there's a reason why TSMC did not jump into GAA bandwagon.,1,0.518,NEGATIVE,0.803
+,nan,No way Intel will catch up. Unless they have the same TSMC working culture.,0,0.53,NEGATIVE,1.0
+,nan,Is there a TLDR for layman?,0,0.5,POSITIVE,0.884
+,nan,Get ai to make you one,1,0.594,NEGATIVE,0.796
+,nan,Nvidia plans to shift away from TSMC for all its manufacturing. The winners will be other foundry companies like Intel and Samsung.,1,0.543,NEGATIVE,0.996
+,nan,There are no current plans to shift away from TSMC. The headline is misleading. The CEO just clarified that they have the ability to if necessary,2,0.521,NEGATIVE,0.999
+,nan,"No they don't plan to, he said he can if necessary. Are you dixlexic or regarded?",2,0.657,NEGATIVE,0.974
+,nan,So calls or puts,0,0.502,NEGATIVE,0.99
+,nan,"Puts TSMC, calls Samsung & Intel?",1,0.519,NEGATIVE,1.0
+,nan,Are you saying you know more about the industry than the founder CEO (not just some mba bean counter golden parachutes) of the largest company in the industry?,0,0.591,NEGATIVE,0.969
+,nan,Are you saying you know more about the industry than the founder CEO (not just some mba bean counter golden parachutes) of the largest company in the industry?,1,0.591,NEGATIVE,0.969
+,nan,"(They are, yes)",2,0.5,POSITIVE,0.999
+,nan,I mean they’re flabbergasted AND rolled their eyes. I might be with them on this one.,2,0.512,POSITIVE,0.74
+,nan,A major part of enterprise computing are interconnect between server nodes. Much of that is done via ethernet today.They bought out mellanox and it's helped them sell expensive multi-node systems. I'd say the ethernet sentence makes total sense.,1,0.52,POSITIVE,0.998
+,nan,It makes sense they would use the insane profits they are making to extend into other markets. You can only spend so much on R&D in a single market,1,0.544,NEGATIVE,0.997
+,nan,Good luck with that.,0,0.54,POSITIVE,0.946
+,nan,Vital Energy,0,0.518,POSITIVE,0.999
+,nan,Nvidia doesnt produce so this plan is kinda silly.Only good thing is to have several suppliers,0,0.533,NEGATIVE,1.0
+,nan,Intel is cooked it will take more thank this to bring it back,0,0.527,NEGATIVE,0.89

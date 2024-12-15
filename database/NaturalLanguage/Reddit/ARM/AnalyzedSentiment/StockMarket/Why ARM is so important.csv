@@ -1,0 +1,95 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,"I'll see you below $15 a share, otherwise, hard pass.",0,0.535,0.999,NEGATIVE
+,,$15 is a little too low. Softbank purchased it in 2016 for $36B and now offering is ~$54B. He is recouping his money by overpricing it. The big issue for me is 24% of the revenue is from ARM China but the financials are essential a black box. I will sit on the side-line until $20-25 range.,1,0.521,1.0,NEGATIVE
+,,"They’re in it 40B since they had to buy back the shares they sold through their visionfund for 2x what those investors paid.Overall that’s 3% annualized. Softbank is IPOing it at a loss.It’s priced at 25x earnings revenue, 104x profits with a negative growth trend.The buy zone is definitely $15.",2,0.536,1.0,NEGATIVE
+,,Thanks for the info - the negative growth is the worse part of the deal.,3,0.546,1.0,NEGATIVE
+,,Trading at 22x sales per Bloomberg.,3,0.631,0.993,NEGATIVE
+,,"Isn’t earnings and profits the same? Do you mean 25x price to sales and 104x earnings?…or then, what’s earnings? Ebitda, and net profit?",3,0.626,0.995,NEGATIVE
+,,RemindMe! 6 months,2,0.562,0.994,POSITIVE
+,,I will be messaging you in 6 months on 2024-03-14 15:17:42 UTC to remind you of this link27 OTHERS CLICKED THIS LINK to send a PM to also be reminded and to reduce spam.Parent commenter can delete this message to hide from others.Info Custom Your Reminders Feedback,3,0.514,0.874,NEGATIVE
+,,This aged like milk.,2,0.498,1.0,NEGATIVE
+,,I 100% agree with you. Once the hype fizzles down. This will be a 10-20$ stock,1,0.603,0.698,POSITIVE
+,,Are you shorting it then? (Genuine question not being a dick) and if so your thesis?,1,0.502,0.979,NEGATIVE
+,,"When options open up, I'll probably buy a few puts but not may. I don't really like playing with puts unless I'm selling.",2,0.551,0.998,NEGATIVE
+,,"God I hope, I'm actually hyped at 70, 100, 200.... the price is insane right now.",1,0.567,0.998,NEGATIVE
+,,"Good prospects, but tomorrow a lot of retail will get burned on the run-up and rapid rug pull. I'll buy it when all the dust has settled and it's gone through several deep red days. Pretty much guaranteed to round trip back to IPO pricing before a measured slow ascent.",0,0.516,0.999,NEGATIVE
+,,so can you do puts? out for like 3 months then buy stocks then?,1,0.585,0.998,NEGATIVE
+,,"Nope, options trading is not available on IPOs",2,0.518,0.984,NEGATIVE
+,,"got it, thanks",3,0.51,0.998,POSITIVE
+,,What’s the reason for that?,3,0.497,0.994,NEGATIVE
+,,"I do not know exactly. Exchanges have some rules, it takes about 6 weeks for companies to be added if they meet criteria. This is what I was able to find, but I don't know if it is accurate:The company must have a mimimum of 7,000,000 publicly held shares outstanding.The stock must be listed on the NYSE, Nasdaq, AMEX or any national stock exchange..For the past 5 trading days, the closing price of the stock must have a minimum per share price for a majority of trading days. This means that IPO issues cannot have options traded on them until 5 days after the initial public offering date.There must be at least 2,000 shareholders in the company.",4,0.567,0.935,NEGATIVE
+,,"Interesting information, What is your source?",5,0.508,0.888,NEGATIVE
+,,Have to short it the old fashioned way.,2,0.505,0.999,NEGATIVE
+,,"ahh..right, the Old fashion way. ….just to confirm we are talking about the same “old fashion way” can you elaborate?",3,0.505,0.75,NEGATIVE
+,,Be a big enough investment bank to naked short it.You might be able to find shares to borrow but it doesn’t seem likely.,4,0.522,0.851,POSITIVE
+,,On trading212 I'm able to short at 5x leverage,2,0.582,0.984,NEGATIVE
+,,"Right!! I feel the same way, VC bought in early, pushes for IPO to dump on retail. Not the first, won’t be the last",1,0.526,0.999,NEGATIVE
+,,SoftBank isn’t a VC in the typical sense. They own 100% of ARM having repurchased the portion they sold to their customers through their visionfund.,2,0.522,0.607,NEGATIVE
+,,"Well the run like a VC. And often pressured these companies to IPO so they can exit all or part of their portfolio by dumping on retail. Take “GRAB” for example, a Singapore based company that operates like Uber, it’s a young company, P&L and balance sheet are garbage, those conditions are not prime for IPO, and it was pressured to, the share price a launch was way overvalued and now anyone that bought in at the start it’s all red.Well ARM is a important part of the semi con ind, but they face many issues, even had their china office invaded and take over by a rouge ceo. If they are so profitable, why IPO and share a cut with retail? They could just do another round of funding to jack up the value of the company.Sry I’m just being extra cautious here, so should many, money is hard earn, don’t waste it.",3,0.55,1.0,NEGATIVE
+,,ARM itself is a hardware architecture.They are commonly used in micro-computer boards for their low power consumption and low heat generation (important for small devices).So basically anything that isn't a desktop computer is probably using an ARM processor.The apple M1 laptops are using ARM. I wouldn't bet on apple sticking with ARM forever as they seem to be fair-weather-chip-partners.China is basically working on its own version of ARM; so that will come up eventually,0,0.517,0.876,NEGATIVE
+,,Apple confirmed they expand their partnership with ARM beyond 2040,1,0.537,0.978,POSITIVE
+,,Ya the phones definitely would be ARM. For desktops & laptops though they signaled they want to do their own chips again. I don't know of that was strategic or aspirational.I am also not an Apple fan boy; just a hardware nerd,2,0.526,0.999,NEGATIVE
+,,The m1/m2 chips are arm based in architecture,3,0.529,0.868,POSITIVE
+,,Well this statement is sort of right. Arm (architecture not the company) is the future.When you say anything that isn't a desktop; is incorrect there are plenty of devices that use the traditional processor such as Intel etc.Arm has been around it was just never powerful enough to compete.But to keep it simple anytnkng that can do computations without a fan is an arm based processor .. phones; auper thin laptops etc. As time goes on these processors are only gunna get better and one day it'll all be arm based instead of what we have now,1,0.539,0.998,NEGATIVE
+,,you have no idea what you're talking about... the new apple chips are absolute powerhouses that are incredibly efficient... the future is ARM,1,0.55,0.996,POSITIVE
+,,The real risk to ARM is RISC-V which is open source.,1,0.515,1.0,NEGATIVE
+,,"Naah, the total cost needed to verify a full risc-v build through the stack that is so widely distributed and less controlled is huge, costly affair. Can hardly match the focused 3000+ odd partners that Arm boasts on their site. I wouldn’t worry about RISC-V. And who is to say that Arm won’t open up their architecture as an end-game if it comes to that? The line between open and open-source is very thin and the wide established ecosystem for arm tilts it to their side.",2,0.514,1.0,NEGATIVE
+,,Apple designs their own silicon - they only license the bare minimum from ARM. Same goes for Qualcomm.Since all of the major companies doing high powered implementations are using their own IP that’s why ARMs revenues have been on a downward trend.,1,0.519,0.983,NEGATIVE
+,,"May I add that Amazon AWS Gravitons are all Arm, Veloce, Ampere based servers powering the data and infrastructure world, 90% of the mobile market is arm powered, From the canon cameras to small microcontrollers in the Philips Hues bulbs are Arm today. IOT on arm for most advanced Nordic semi chipsets to mbed on IOT. A large screen client compute like M1/M2 may be built by Apple using just the architecture and they could be an architecture licensee but there could be tons of other second tier mobile and laptop oems using arm not just their processors, their Mali GPUs or their interconnect or their physical IP which is the standard foundation library for anything chip design ! The future is certainly very very wide considering that they have enabled through their ecosystem partners shipments exceeding 250 Billion chips over the lifetime. The testament to their work as I see it is close to 5000 odd employees worldwide commanding the valuation with future wide open.",2,0.524,1.0,POSITIVE
+,,Yes the ARM ISA as an ecosystem is huge. But licensing the ARM ISA doesn’t produce much revenue.Virtually all of the high powered processors being developed aren’t using ARM cores.For example: https://amperecomputing.com/briefs/ampereone-family-product-briefARM has been languishing for the last decade.,3,0.518,1.0,NEGATIVE
+,,Raspberry Pi and Qualcomm Snapdragon use ARM architecture. https://en.m.wikipedia.org/wiki/Qualcomm_SnapdragonThe competitor to ARM which Russia is backing is called RISC-V. I suspect China will use this too going forward. Intel should be dropping on ARM’s release since they’re a competitor to x86_64 architecture.,1,0.531,0.999,NEGATIVE
+,,Qualcomm is moving to RISC-V internally and working with other partners to use RISC-V so they can get away from ARM and the royalty.https://arstechnica.com/gadgets/2023/08/qualcomm-one-of-arms-biggest-customers-starts-a-risc-v-joint-venture/,2,0.517,0.59,POSITIVE
+,,Oh shit Softbank has its fingers in this company? Without a doubt this stock is going to dip 90%+,0,0.62,1.0,NEGATIVE
+,,Exactly my thoughts. Don’t want anything to do with a SoftBank investment.,1,0.516,0.985,POSITIVE
+,,Go see Kevins video about the topic of how softbank possition itself to be able to sell after IPO good find on his part,1,0.523,0.944,NEGATIVE
+,,They license out ISA where as AMD/Intel own the ISA (x86) and refuse to let any company use it.So they are making money.The problem is there's a rogue ARM division in China that's licensing out ARM ISA and keeping the money themselves. The China division is effectively another company.IIRC ARM tried to fire the guy who run the Chinese division and he went rogue...So yeeeeeahThere are other ISA license out there like RISC and MIPS but the momentum is on ARM because Android adopted it in masses iirc. And then from there the industry just coalesce around ARM ISA.As for what ISA is:It's chip instruction set. Or a set of commands.It's one level of abstraction above 1's and 0's.There much more to this though but that's the basic gist of it.,0,0.546,0.995,NEGATIVE
+,,Because they are an important arm of the chip design industry.,0,0.553,0.999,POSITIVE
+,,HA HA HA,1,0.5,0.865,NEGATIVE
+,,"I don't trust it, I got a push notification for the first time from my broker to buy $ARM, then an hour later ken Griffin was talking about it on CNBC.... I smell a rug pull 😱",0,0.522,1.0,NEGATIVE
+,,Well ARM is a UK based independent chipmaker. They design very energy efficient and easy to program chips. Basically everything mobile is ARM based. They will only become more and more relevant as time moves on.,0,0.551,1.0,POSITIVE
+,,they don't make chips. they make ip that other companies use to make chips,1,0.537,1.0,NEGATIVE
+,,ARM (architecture) is basically the future of computers because the current x86 (I think) architecture is reaching its limits in computing. Apple I believe uses ARM chips in it’s M series chips.,0,0.533,0.997,POSITIVE
+,,"You are right. Generally it's just a much more efficient architecture,and with time the popularity of smartphones have made them powerful too.",1,0.521,0.967,POSITIVE
+,,"SOC = system on chip Meaning cpu, video processing among other functions all on one chip. This is ARM tech",0,0.533,0.993,POSITIVE
+,,low powered chips suitable for smart phones (see Cortex CPUs) and IoT applications (see single board computers like raspberry pi),0,0.509,0.625,POSITIVE
+,,Just so y’all know this company designs the blueprints for the chips it does not make chips,0,0.607,0.999,NEGATIVE
+,,"ARM is important because they have had stagnant growth for almost two years and actually contracted 2% last quarter, which is exactly why they just ipo’d so SoftBank can offload their 90% stake at an inflated price (in 180 days). This very successful IPO paves the way for the big 3 to entice others to ipo this year and ride ARM’s wave.",0,0.554,0.994,POSITIVE
+,,this is to help bail out softbank,0,0.51,0.976,POSITIVE
+,,Looks like a pump.,0,0.5,0.743,NEGATIVE
+,,90% will be owned by one bank. What Could Ever possibly go wrong?,0,0.529,0.983,POSITIVE
+,,SoftBank isn’t a bank…,1,0.503,0.996,NEGATIVE
+,,I dont see the /s though. U forgot it ?,1,0.492,1.0,NEGATIVE
+,,I dont see the /s though. U forgot it ?,2,0.492,1.0,NEGATIVE
+,,Good timing. Now year end rally starts soon.,0,0.613,0.999,POSITIVE
+,,It isn’t. To answer the question.,0,0.505,0.999,NEGATIVE
+,,Trading halted on first day?,0,0.536,0.998,NEGATIVE
+,,Interesting to watch,0,0.515,0.998,POSITIVE
+,,It's below a trillion dollar.Seems to be about right.It doesn't need to make sense. We left that behind us,0,0.511,1.0,NEGATIVE
+,,a short look at the last 100 IPO´s they are mostly a short swing idea at the end of the day...,0,0.524,0.972,NEGATIVE
+,,Gotta leave room to short it and make some money on the way to the true valuation,0,0.507,0.677,NEGATIVE
+,,Probably ganna fall by 60% in couple days,0,0.493,0.996,NEGATIVE
+,,RemindMe! 6 months,0,0.562,0.994,POSITIVE
+,,SoftBank needs to make up for all of their VC losses,0,0.503,0.7,POSITIVE
+,,Sill buy @$25,0,0.6,0.741,POSITIVE
+,,RemindMe! 6 months,0,0.562,0.994,POSITIVE
+,,Should of sold to Nvidia for $40 bil last year. It will fall from ipo opening price. Maybe settle around 40-42 bil market cap.,0,0.585,1.0,NEGATIVE
+,,"first large IPO in a while since Kenvue, if all goes well maybe more IPOs to follow",0,0.528,0.968,POSITIVE
+,,"From Investor’s Business Daily:Research firm New Constructs said the Arm stock valuation is ""based more on SoftBank's self-dealing in private markets to manipulate the valuation higher than the fundamentals of the company.""""We believe investors should avoid this IPO, as we see very limited upside ahead, as there are plenty of other companies in the tech sector that offer investors growth, but at a reasonable valuation,"" New Constructs analysts said in a report.https://www.investors.com/news/technology/arm-stock-chip-designer-launches-ipo/",0,0.607,1.0,NEGATIVE
+,,S O F T B A N KAll you need to know.,0,0.515,0.995,POSITIVE
+,,"The arm isa is one of the most important CPU instruction sets in the world on par with Intel/amd x86. The value here is the IP. Apples silicon runs arm, aws graviton runs arm, and all of the mobile chips in phones run arm. Arm doesn't make cpus they make the spec/instruction set a whole lot of CPUs run.",0,0.535,1.0,POSITIVE
+,,RemindMe! 6 months,0,0.562,0.994,POSITIVE
+,,RemindMe! 6 months,0,0.562,0.994,POSITIVE
+,,I don’t know what it closed at but when it opened at $55 Bloomberg reported that it was trading at 22 x revenue. 👀 way overpriced.,0,0.521,1.0,NEGATIVE
+,,Aren't their chips manufactured by TSMC? the TSMC that is about to be fucked when China seizes Taiwan within the next 18 months? wonder where the stock price will be then. Hard pass.,0,0.548,1.0,NEGATIVE
+,,RemindMe! 6 months,0,0.562,0.994,POSITIVE
+,,So Nvidia should be around $50? ARM will never be below $45 again.,0,0.561,1.0,NEGATIVE
+,,"Well generally ipos have crashed and burned. Arm is used in pretty much every phone, and data centers new high performance servers are mostly switching to arm.",0,0.543,0.975,NEGATIVE
+,,People were bustin nuts with arm today. Im going to wait.,0,0.523,1.0,NEGATIVE
+,,RemindMe! 6 months,0,0.562,0.994,POSITIVE
+,,"All mobile cpu use ARM’s model. They pay licensing fee to its IP. that’s why after NVDA acquisition deal was off, their revenue was flat since all companies paid out in their licensing fee. But this means steady rev annual because license has to renew. Their CFO had said, expected 15% rev growth. This architecture is used by Apple, Samsung, Qualcomm, Google, and Nvda. That’s why they’re heavily invested to off set their expense.",0,0.546,0.859,NEGATIVE
+,,"Every iPhone and Android and tablet and smart watch and now new Macs all use ARM tech, which they have to license. ARM chips are more power efficient which is a huge advantage, because it means longer battery life and thinner devices. Windows and therefore laptop manufacturers may also switch over. It’s the future for the coming decade or two at least. Any new portable tech like VR will also use ARM chips.",0,0.549,0.998,POSITIVE
+,,Softbank gonna bail as soon as they can,0,0.505,0.997,NEGATIVE
+,,Im waiting for the big dip.,0,0.519,0.846,NEGATIVE
+,,"It is not due to earnings or growth potential, but for IP that the Arm has.",0,0.573,0.928,NEGATIVE
+,,It’s not.,0,0.5,0.982,NEGATIVE
+,,RemindMe! 6 months,0,0.562,0.994,POSITIVE

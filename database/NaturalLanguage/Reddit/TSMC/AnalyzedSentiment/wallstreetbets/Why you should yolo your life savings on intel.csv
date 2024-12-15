@@ -1,0 +1,84 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Outlook,Flair Sentiment
+,nan,GPT-REEEE,0,0.5,NEGATIVE,0.999
+,nan,From what I've heard on podcasts making a fab to make these chips is the hardest thing on the planet to get right.,0,0.51,NEGATIVE,0.94
+,nan,Hardest thing on the planet is in my pants.,1,0.497,POSITIVE,1.0
+,nan,Is it also 1.8nm?,2,0.623,NEGATIVE,1.0
+,nan,"Yes, police ... id like to report a MURDER",3,0.502,POSITIVE,0.957
+,nan,This one is going to be closed casket ⚰️,4,0.518,POSITIVE,0.787
+,nan,F,4,0.52,NEGATIVE,0.75
+,nan,Burn,3,0.5,NEGATIVE,1.0
+,nan,"What if i told you, if gets even smaller...",3,0.5,NEGATIVE,0.826
+,nan,🎶That right there is a violation 🎶,3,0.504,NEGATIVE,0.986
+,nan,Probably not the whole hand,2,0.487,NEGATIVE,0.998
+,nan,Probably not the whole hand,3,0.487,NEGATIVE,0.998
+,nan,"This is true. It's the EUV machines. Only one company can make them, and the first batch of next gen high-na EUV machines are going to Intel to be set up at their new fab in Columbus, OH.IIRC, several other companies have tried to make these EUV machines, including INTC, and they have all failed miserably.",1,0.562,POSITIVE,0.985
+,nan,Sounds like everyone should be buying this EUV machine making company. They sell shovels.,2,0.588,POSITIVE,0.86
+,nan,Who is it?,3,0.5,NEGATIVE,0.697
+,nan,"AMSL, based in the southern part of the Netherlands. They are doing so well they are buying up neighbhouring residential streets to expand.",4,0.536,POSITIVE,0.995
+,nan,If ever there was a company that you'd think would have rocketted in sp lately with all the chip hype it would be asml. It's such an obvious company in the sector.Weirdly it hasn't. Either the whole world has not connected the dots. Or they just can't expand their production enough to capitalise.,5,0.574,NEGATIVE,1.0
+,nan,"Are they idiots, they are the only ones making the product just raise the prices by 3000% . No need to expand",6,0.525,NEGATIVE,0.987
+,nan,ASML,4,0.52,POSITIVE,0.613
+,nan,"Always Smell Michael's Logs(and thanks fam, u real)",5,0.505,POSITIVE,1.0
+,nan,Is it Zeiss?,2,0.5,NEGATIVE,0.987
+,nan,"I was referring to ASML, but mentioning Zeiss is a wonderful thing to do because while ASML is the *ONLY* company that produces these machines, they rely on subcompanies like Zeiss that are the *ONLY* companies in the world to produce specific components. It's a global village of outrageously specialized components that allows Moore's law to march on and usher in the angstrom era. Think of how computers were 10, 20 years ago, now think about where they are going to be 10, 20 years from now. Hint: it's not linear, it's exponential.",3,0.536,POSITIVE,0.509
+,nan,Trumpf is one of the few companies that provides lasers for the euv process but they aren't publicly traded. I used to design said lasers.,4,0.58,POSITIVE,0.896
+,nan,"sorta, it's asml.",3,0.51,NEGATIVE,0.993
+,nan,They play a role sometimes,3,0.51,POSITIVE,0.98
+,nan,"billions of transistors each smaller than a virus, and if more than a few don’t work the whole chip is trash. CPU tech honestly feels 100 years beyond anything else we have",1,0.513,NEGATIVE,0.979
+,nan,18A has backside power... very efficient,0,0.519,POSITIVE,0.999
+,nan,18A has backside power... very efficient,1,0.519,POSITIVE,0.999
+,nan,"intel is a power bottom, confirmed.",2,0.533,NEGATIVE,0.995
+,nan,"ah so that's what they mean by ""intel inside""",3,0.526,NEGATIVE,0.973
+,nan,They really have been a power bottom of the market for the last several years. Basically shouting at investors to fuck them up.,3,0.549,NEGATIVE,1.0
+,nan,All machines from ASML ;),0,0.528,POSITIVE,0.999
+,nan,Intel 1.8nm chips. Made at 1% efficiency. 99% waste,0,0.537,NEGATIVE,1.0
+,nan,"Lot higher number, try 12-18% efficiency, and the MAJORITY of the remaining percent that isn’t “efficient” is usually marketed as a cheaper model. I.E 70% of the “wasted” i9 chips are usually usable and are marketed as an i7 or something like that depending on how many cores work and at what energy efficiency.",1,0.52,NEGATIVE,1.0
+,nan,I was making a joke... 12-18% efficiency is much better but what is TSMc's efficiency rate? What is Intels efficiency rate for 3nm chips and what is TSMc's efficiency rate?,2,0.527,NEGATIVE,0.998
+,nan,"At the end of the day it's $ profit per waferTSMC could have better yield, but if your business model is less streamlined, you won't make as much money. Point is that they're not comparable or even really competing with each other",3,0.55,NEGATIVE,1.0
+,nan,You think TSMc's business model is less streamlined than Intel's?lold,4,0.551,NEGATIVE,0.997
+,nan,"Maybe you're confused about what their role is in the fab process?If I design a chip I want to get fabricated and ask Intel to make it for me, they'd be like ""what? We don't do that for other people""Then I go to TSMC and get 80% yield and ask them about the 20% that failed, they'd be like ""well, if you don't have anything in mind for them, we can trash them... we don't design your chips for you, that's your job""So really the question is whether my business model is more streamlined than Intel's. TSMC just makes what I ask them to",5,0.525,NEGATIVE,0.999
+,nan,Intel is starting to take orders to manufacture other's chips as well as well as making their own as well as outsourcing some of their chips to TSMC. The Ohio fab rollout is all part of the plan to expand their next node manufacturing as well as customer order fulfillment. They talk about this plan nearly every earnings call.When TSMC/Samsung/Global Foundaries manufactures wafers for other companies they typically guarantee a certain yield per wafer. Any wafer that doesn't meet that yield the customer typically doesn't have to pay for.,6,0.54,POSITIVE,0.899
+,nan,This is like how a man’s body produces a gazillion sperm cells a day even though only one of them will fertilize an egg. The 1.8 nm chips that work are so valuable that it’s totally worth a ton of failed ones.,1,0.51,NEGATIVE,0.784
+,nan,Not if their competitors produce it at a 4x better rate and can sell it cheaper...,2,0.521,NEGATIVE,0.954
+,nan,Well yeah. But the value of the very best chip is exponentially greater than the value of the second best chip. This is why Nvidia is dominating right now.,3,0.564,POSITIVE,0.528
+,nan,"Intel was the king for decades, not Samsung and TSMC. They’re much more recent. Also, every decade or so there’s a new paradigm in chips. The winners and losers completely shuffle around. Intel lost the most recent round, but they have a chance to win the next one.All that being said, I have no faith in Intel. ASML, TSMC, Nvidia, AMD, and ARM are going to continue to dominate. Similarly, I don’t think SMIC and Huawei are going to be able to do much either.",5,0.563,NEGATIVE,0.999
+,nan,"This is actually not really up in the air. Almost everyone in industry know intel is gonna be first. Intel has always been first except for a 7 year period, that tards think is the entire industries history. And the tards dont even know why that happened",5,0.557,NEGATIVE,1.0
+,nan,Intel smoler pp?,0,0.533,NEGATIVE,1.0
+,nan,Sometimes smoler is better,1,0.522,NEGATIVE,0.991
+,nan,Whatever happened to quantum tunneling?,0,0.501,NEGATIVE,0.999
+,nan,"The ""size"" is just marketing BS. In modern chips the smallest part is around 20-30nm.",1,0.518,NEGATIVE,0.999
+,nan,"Don’t know why this is downvoted, he’s right",2,0.516,NEGATIVE,0.716
+,nan,"The marketing is BS, but there are definitely smaller features than 20nm",3,0.503,NEGATIVE,0.997
+,nan,I think all have found solution on this barrier,1,0.529,POSITIVE,0.994
+,nan,Neither process is actually 2nm or 1.8nm so enjoy your marketing jargon I’ll wait for benchmarks,0,0.508,NEGATIVE,1.0
+,nan,"You mean an unimaginably complex system, produced by teams of thousands of engineers, can’t be just summed up in one single value?",1,0.52,POSITIVE,0.782
+,nan,The advertized nm means very little.,0,0.496,NEGATIVE,0.999
+,nan,"So, per wsb tradition, if I want to make money, I should do the opposite of advice here. So, buy a ton of TSMC stock?",0,0.565,NEGATIVE,0.999
+,nan,Intel delayed 7nm like 5 times and are gonna go for 1.8mm ? sure Buddy. how heavy are those bags?,0,0.511,NEGATIVE,0.977
+,nan,"Intel years ago tried to compete with taiwan.and Intel failed miserably and its stock dropped like a rock as everyone else started eating intels lunch.I dont know if I trust Intel, they havent made good products in a long ass time. And its a boomer stock, those things move in either direction at a snails pace",0,0.547,NEGATIVE,1.0
+,nan,“1.8 nm” I’ll believe it when I see it,0,0.502,NEGATIVE,0.835
+,nan,"Intel’s 7nm keeps getting delayed and cutting its HVM short. What makes you think it can catch up to TSMC? The only company that has no virtual competitor in semiconductor would be ASML. AMAT, TEL, Lam, ASMI all compete for the slice of the same pie. Outside of ASML, I would only put money on KLA or Entegris.",0,0.531,NEGATIVE,1.0
+,nan,Gpu are important for defense. Deep fake detection and intelligence warfare. The US needs to on shore this tech. Intel to the moon. 100 long. Buying more,0,0.534,POSITIVE,0.999
+,nan,"lolwut? intel doesn't even fab their own crappy GPUs.if you want the usa to rely on intel, the usa is doomed.",1,0.517,NEGATIVE,1.0
+,nan,Intel is getting spoodfed government money like eating is going out of fashion.,2,0.523,NEGATIVE,1.0
+,nan,This comment section seems 🔥🔥🔥. Makes me want to read and understand their key products more.,0,0.524,NEGATIVE,0.743
+,nan,Will still use 10x the power of an ARM.If you’re talking about foundry services… good luck.As an FYI the actual geometry size for 1.8 will be around 20nm.,0,0.517,NEGATIVE,1.0
+,nan,"it's not inaccurate, i work in the industry, geometry numbers are just marketing now, they started decoupling from actual gate size, which pisses me off, but i'm not in control, but it should be ilegal to call it what it isn't",2,0.536,NEGATIVE,0.999
+,nan,Started to? They decoupled the terms in 1997. It's all marketing for the last 25 years.,3,0.54,NEGATIVE,0.887
+,nan,"and to be very clearIntel was the first company to lie about feature size.The only accurate metric on this, that can be sus'd out from the official numbers, is transistor density, based on # of transistors and die size.Transistor density tells you how small they really are, how big of a size reduction was really accomplished with a new node.But to give any shits about it, you also need to know the cost per _working_ chip. Intel banged their head against 10nm for so long because of their terrible yields brought upon them by their monolithic chip design.",3,0.55,NEGATIVE,1.0
+,nan,Acksully even transister density is not always helpful. It is actually bs now. You need to actually know the transister's structure and then the density. And even that is not 100% of the picture. Either way intel is about to be significantly ahead of the competition in tech. The only question is volume,4,0.519,NEGATIVE,0.999
+,nan,Why does it need to be illegal? They aren't selling to unsavvy consumers. Their customers know what they are buying.,3,0.53,NEGATIVE,0.852
+,nan,Can you prove ARM uses 1/10th of the power?,3,0.512,NEGATIVE,0.999
+,nan,Nothing I said is inaccurate.The snapdragon and M2 processors use about 1/10th power AS A SYSTEM as the equivalent Intel processor.They’ve burned foundry partners before.And node names have been decoupled from geometry size for a long time.https://en.wikichip.org/wiki/5_nm_lithography_process,2,0.541,NEGATIVE,0.935
+,nan,"No, they don't.And node names first began to decouple from any transistor physical feature long long time ago, and it really wasn't even Intel who started it. It's not like the competition names their nodes any differently, so why should it be relevant to the topic if not only to discredit the information being presented?It's disingenuous.",3,0.522,NEGATIVE,1.0
+,nan,"It really was Intel that started lying about feature size first.They ""justified"" it at the time. It was a big deal.",4,0.541,POSITIVE,0.963
+,nan,"That’s not true at all. You’re spewing pure bs, at worst its 1/2 of the power, plus X86 is supported by so many more applications. It’s not comparable.",3,0.505,NEGATIVE,1.0
+,nan,x86 apps run in emulation: https://learn.microsoft.com/en-us/windows/arm/overviewDell:https://www.dell.com/en-us/lp/qualcomm-snapdragonLenovo:https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx/thinkpad--x13s-(13-inch-snapdragon)/len101t0019Samsung:https://www.samsung.com/us/computing/galaxy-books/galaxy-book2-pro-360-5g/galaxy-book2-pro-360-5g-13-3-snapdragon-8cx-256gb-graphite-np935qna-ka2tt/Qualcomm was looking to use IFS but bailed:https://www.bizjournals.com/sanjose/news/2023/05/30/intel-foundry-services-chips.html (paywalled)https://www.notebookcheck.net/Qualcomm-reportedly-ditches-Intel-20A-in-favour-of-TSMC-and-Samsung.739789.0.html (free),4,0.52,NEGATIVE,0.838
+,nan,TsmcTell me you know nothing about semi conductors without telling me,0,0.509,NEGATIVE,0.54
+,nan,Got something against TSMC?,1,0.5,NEGATIVE,0.992
+,nan,No I’m saying if your going to throw your life savings on a YOLO I would pick TSMC not intel,2,0.525,NEGATIVE,0.999
+,nan,No,0,0.5,NEGATIVE,0.906
+,nan,When you realize both those are only possible with ASML lithography machines... And nothing to do with tsmc or intc ....,0,0.508,NEGATIVE,0.827
+,nan,No one gives a fuck,0,0.528,NEGATIVE,0.844
+,nan,I think you mean 1.8 MM intel chips.,0,0.528,NEGATIVE,0.961
+,nan,haha no.,0,0.5,NEGATIVE,1.0

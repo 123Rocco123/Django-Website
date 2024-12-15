@@ -1,0 +1,5 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,GPT-REEEE,0,0.5,0.999,NEGATIVE
+,,"+$10K LLY, bought and sold within one hour",0,0.518,0.817,NEGATIVE
+,,you don't use a laptop?,0,0.542,0.59,POSITIVE
+,,who can afford that in this economy,1,0.502,0.568,POSITIVE

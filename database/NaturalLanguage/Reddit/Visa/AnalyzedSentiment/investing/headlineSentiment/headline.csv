@@ -1,0 +1,254 @@
+date,headline,PTR Sentiment,Flair Outlook,Flair Score
+11/17/2024,Brokerage vs 401k for early retirement,0.508,NEGATIVE,0.852
+10/09/2024,Eligible for buying on treasurydirect.gov?,0.5038,NEGATIVE,0.8258
+09/28/2024,Please analyze and critique my portfolio (I’m new to this),0.5742,POSITIVE,0.5683
+09/22/2024,Complications with Robinhood account investing,0.51,NEGATIVE,0.9797
+09/04/2024,Experience with US Bank self-directed IRA account?,0.535,NEGATIVE,0.9951
+08/22/2024,Gold ETFs for USD depreciation,0.5188,NEGATIVE,0.9783
+08/01/2024,Continue investing in VWCE or Roth IRA as a PhD student in the US?,0.5231,NEGATIVE,0.9984
+07/30/2024,Indian citizen moved back to India from US in July 2023. Looking to learn about tax implications on investments still in US.,0.5325,POSITIVE,0.5454
+07/13/2024,Query regarding access to stock internationally,0.589,NEGATIVE,0.7532
+06/30/2024,VISA Inc. and the countries where they operate.,0.5375,NEGATIVE,0.5187
+06/24/2024,Would this be considered an investing strategy,0.5388,NEGATIVE,0.6495
+06/11/2024,Question about purchasing T-Bills through Fidelity (1st time T-Bill buyer),0.5144,POSITIVE,0.8077
+05/22/2024,Have Fidelity Cash Back VISA and new Fidelity Roth IRA for investing and cashback features...what to choose.,0.5413,POSITIVE,0.9693
+04/30/2024,Which of these stocks is undervalued?,0.5625,NEGATIVE,0.9617
+04/22/2024,Investing in US Stocks (Fidelity) while I’m Canada,0.5442,NEGATIVE,0.6516
+03/25/2024,which one of these would be considered a good choice to invest in,0.5375,NEGATIVE,0.9856
+03/15/2024,Opinions on this portoflio for a 15 years plus time horizon,0.5275,POSITIVE,0.999
+02/13/2024,Pagaya (PGY) is a hidden gem with a lot of potential.,0.505,POSITIVE,0.9993
+02/07/2024,What does your individual stock holdings look like for long term?,0.5986,NEGATIVE,0.6935
+01/29/2024,"Which Brokerage Acct to use, to start investing in Fractional ETFs, if I am going to move to Canada & become a resident there in 2 years?",0.5212,NEGATIVE,0.9558
+01/20/2024,Where should I invest in Index Fund/Mutual Fund: Canadian Stock Market Or USA's,0.5828,NEGATIVE,0.9809
+01/03/2024,"Deciding Between VNQ, SCHH, or if I should drop REITS all together",0.4933,NEGATIVE,0.5749
+01/01/2024,What are your thoughts on concentrating your positions?,0.5083,NEGATIVE,0.6669
+12/29/2023,Is a company’s debt a red flag?,0.5,NEGATIVE,0.9699
+12/29/2023,"""Outside of the Magnificent 7, the rest of the S&P 500 did nothing.""",0.51,NEGATIVE,0.9978
+12/20/2023,"Need Investing advice, being an Immigrant in US",0.523,POSITIVE,0.514
+12/03/2023,Tax-advantaged Retirement Account for Us-Expats,0.5183,NEGATIVE,0.7529
+11/30/2023,What would you pick? FICO or SPGI,0.5088,NEGATIVE,0.9971
+11/14/2023,Please Roast My Portfolio,0.5167,NEGATIVE,0.998
+11/10/2023,Why is currency arbitrage not prevalent in mortgages?,0.5012,NEGATIVE,0.7351
+10/02/2023,My Willy-Nilly Stock Portfolio,0.6163,POSITIVE,0.9985
+09/24/2023,"A personal attempt at a Holiday ""play""",0.5088,NEGATIVE,0.9647
+09/05/2023,"Paid Surveys, Interviews & Product Testing - USA",0.515,POSITIVE,0.9942
+08/20/2023,Im 17 right now and want to invest for retirement and this is my plan. Is there any advice or tips you guys have?,0.5083,POSITIVE,0.9177
+08/08/2023,What are the most boring companies that have been great long-term investments?,0.5667,NEGATIVE,0.9999
+07/15/2023,What happens to financial stocks when CBDCs are rolled out?,0.543,NEGATIVE,0.9993
+07/01/2023,[M25] International Student in the US - How to prepare to move assets overseas,0.5231,POSITIVE,0.9927
+04/10/2023,A Deep Dive on PayPal: Is it a good time to Buy? [DD],0.5571,NEGATIVE,0.9991
+03/19/2023,SSGA is reclassifying a few stocks to different GICS groups,0.5242,NEGATIVE,0.6005
+03/12/2023,Buffett's advice for investing during inflation,0.5162,POSITIVE,0.7622
+03/05/2023,Is Bitcoin useful for real world implications?,0.531,NEGATIVE,0.7254
+03/04/2023,Visa: A Double-Digit Grower of Earnings - Poised for Long-Term Growth,0.5817,POSITIVE,0.8663
+01/25/2023,What could have caused this correlated stock price spike and dip between two competitor companies at the exact same time?,0.5696,NEGATIVE,0.9988
+01/03/2023,Pick 30-50 stocks moneyball style to create a pseudo-ETF with a portion of your portfolio?,0.5239,NEGATIVE,0.9996
+11/14/2022,Best investing platform for ppl without a ssn,0.5333,POSITIVE,0.9988
+11/04/2022,"What companies have potential to be the next Walmart, Costco, Microsoft, Alphabet, Visa, PepsiCo, etc.?",0.5335,NEGATIVE,0.9775
+10/01/2022,"My father is exhausted, so I need to take a huge decision for my life.",0.5079,POSITIVE,0.9713
+08/06/2022,The best stocks or sector ETF's to own during rising rates?,0.5508,POSITIVE,0.9996
+07/31/2022,is investing 5k as a college student a good idea?,0.5225,NEGATIVE,0.995
+07/02/2022,Have analysts done a good enough job estimating S&P500 earnings growth in your opinion?,0.551,NEGATIVE,0.7974
+06/14/2022,"What are some good brokerages to use to invest in ETFs, Index Funds and Mutual Funds for OPT workers?",0.5164,POSITIVE,0.756
+06/13/2022,Opinion: Growth stocks make just as much sense as Value stocks right now,0.5667,NEGATIVE,0.5034
+04/30/2022,I could use some advice on where to invest my money in? Student edition.,0.5271,NEGATIVE,0.9993
+04/27/2022,"VGT losing Visa, Mastercard, and PayPal",0.498,NEGATIVE,0.9993
+03/21/2022,"White House to meet with oil, bank, other companies about Russia invasion",0.555,NEGATIVE,0.7181
+02/14/2022,Warren Buffett buys ATVI and NU Bank in Q4 of 2021,0.5136,NEGATIVE,0.8532
+01/29/2022,"Other than Apple and Microsoft, what earnings have impressed you the most so far?",0.562,POSITIVE,0.988
+01/27/2022,Visa Earnings - Visa stock gains as quarterly revenue tops $7 billion for the first time,0.5909,POSITIVE,0.9863
+12/29/2021,Fundamental Valuation Models of Ethereum,0.5037,POSITIVE,0.9982
+12/18/2021,Is Tax loss harvesting needed if I am not selling at all,0.512,NEGATIVE,0.771
+11/01/2021,Transatlantic Flights Are Set to Boost Oil Demand by a Quarter Million Barrels a Day,0.582,POSITIVE,0.8867
+08/02/2021,Chase not letting me open a RoboAdvisor Account on an F1 Visa,0.505,NEGATIVE,0.9978
+07/27/2021,"Visa Earnings: Visa Profit, Net Revenue Climbs with Payments Volume Increasing",0.6015,POSITIVE,0.8195
+06/25/2021,Citigroup Top 50 Holdings,0.53,POSITIVE,0.9992
+06/24/2021,Wells Fargo Top 50 Holdings,0.5188,POSITIVE,0.9994
+06/13/2021,Is this a ad investment strategy?,0.5517,NEGATIVE,0.989
+05/07/2021,Possible overvalued stocks in S&P 500,0.5338,NEGATIVE,0.988
+04/24/2021,The 100 Year Portfolio: A Look at Using the Dragon Portfolio as a Retail Investor,0.6031,POSITIVE,0.9983
+04/20/2021,Venmo just put crypto access in the palm of everyone's hand,0.5036,NEGATIVE,0.7673
+03/23/2021,"Boston Federal Reserve, MIT to release digital dollar prototypes as soon as July",0.522,NEGATIVE,0.8859
+03/19/2021,"Is an Expected Renewal of ""Trust Busting"" Another Factor in Recent Stock Drops for Large Companies?",0.5645,NEGATIVE,0.9333
+03/09/2021,Stocks to keep an eye on during this market dip,0.579,NEGATIVE,0.77
+03/08/2021,Designing a profile from scratch for the long haul,0.526,POSITIVE,0.9975
+02/13/2021,The next high growth blue chip stock: Paypal,0.6236,NEGATIVE,0.5455
+02/06/2021,Payoneer (FTOC): Updated DD,0.5075,NEGATIVE,0.7299
+02/04/2021,Investment DD: Payoneer (FTOC),0.525,POSITIVE,0.9046
+01/27/2021,"Schwab brokerage account locked for 29 days, banned from TD Ameritrade",0.5019,NEGATIVE,0.9997
+01/26/2021,Is Visa still worth the buy?,0.575,NEGATIVE,0.8898
+01/15/2021,Jamie Dimon says JPMorgan Chase should absolutely be ‘scared s---less’ about fintech threat,0.5105,NEGATIVE,0.9971
+01/13/2021,Visa abandons takeover of Plaid after DOJ raises antitrust concerns,0.5012,NEGATIVE,0.9983
+01/08/2021,Top 50 Companies by Market Cap and the Percentage Owned of Each by Institutional Investors,0.5663,POSITIVE,0.9997
+01/08/2021,$MOGO - A Different Play On Bitcoin,0.5088,NEGATIVE,0.9979
+01/04/2021,Where to invest my 200€,0.52,POSITIVE,0.9451
+01/03/2021,Is it worth it to invest in 2021 with the inflated bubble territory stock values?,0.5764,NEGATIVE,0.9996
+12/14/2020,Afterpay $APT.AX joins ASX 20,0.5,NEGATIVE,0.9874
+12/12/2020,Future Predictions: Visa $V Mastercard $MA & Crypto,0.505,NEGATIVE,0.9877
+11/29/2020,Can foreigners with SSN (working in US on visa) buy series-I bonds?,0.5438,NEGATIVE,0.9849
+11/24/2020,Investing for non-resident aliens?,0.505,NEGATIVE,0.9891
+11/22/2020,"Will Afterpay, Klarna, Affirm become big enough to disrupt the credit card industry, payment processors, and card networks?",0.5161,NEGATIVE,0.9992
+11/20/2020,"If y’all are looking for growth Stocks, I’ve found them",0.56,POSITIVE,0.9971
+11/12/2020,"The Economist: ""Value investing is struggling to remain relevant""",0.52,NEGATIVE,0.9973
+11/02/2020,Beyond doom and gloom: A nuanced discussion of multifamily rentals / REITs in very high cost of living cities (VCOL),0.515,POSITIVE,0.9992
+10/28/2020,Visa beats earnings and revenues by 1.94% for Q3,0.562,POSITIVE,0.588
+09/11/2020,Any German day traders living abroad? [tax related question],0.5181,NEGATIVE,0.9986
+09/03/2020,"Handling Corporate Actions, Specifically Mini-tender offers with guaranteed loss",0.5161,NEGATIVE,0.7696
+08/29/2020,Divergence between ATR and RSI = imminent breakout?,0.501,NEGATIVE,0.9773
+08/25/2020,BigCommerce Teams Up with Facebook to Unlock Checkout on Instagram Feature for US Merchants,0.5128,POSITIVE,0.9689
+08/02/2020,"Over 21 months later, here's how /r/investing performed on the underrated stock survey. Inspired by Mr_Suzan and galloog1.",0.5521,POSITIVE,0.6758
+08/01/2020,Dividend growth investing for young people,0.55,NEGATIVE,0.5191
+07/28/2020,Visa tops earnings expectations but travel category remains slow to snap back,0.5275,NEGATIVE,0.9679
+07/22/2020,Which stock do you see to top market cap rank at 2029?,0.6225,NEGATIVE,0.5053
+07/19/2020,Ayden vs Paypal,0.5117,NEGATIVE,0.8604
+07/11/2020,Payment Processors,0.5,POSITIVE,0.993
+07/08/2020,is active investing based on fundamentals really this easy year in and out?,0.6136,NEGATIVE,0.7222
+07/02/2020,Deutsche Bank Considers Financial Support for Wirecard Bank Subsidiary,0.5487,POSITIVE,0.6457
+06/30/2020,Planet Money//Hertz Bankruptcy Investing,0.513,NEGATIVE,0.9977
+06/24/2020,Blue chip stock swing trade,0.605,NEGATIVE,0.998
+06/21/2020,Market impact after h1-b restriction order?,0.58,NEGATIVE,0.8748
+06/09/2020,near the money put call spread,0.512,NEGATIVE,0.9965
+06/06/2020,Why go for dividends when there are capital gains?,0.5212,NEGATIVE,0.8722
+05/27/2020,Long term bargains,0.5733,POSITIVE,0.9977
+05/22/2020,Trading stocks as a business,0.6567,POSITIVE,0.9896
+05/20/2020,"Number of unpaid credit card accounts in April increased 10,000% from a year ago. Number of unpaid auto loans up 350%.",0.5777,NEGATIVE,0.9965
+05/18/2020,"Uber to cut 3,000 more jobs",0.4683,NEGATIVE,0.8845
+05/15/2020,Crypto.com's MCO Visa card gets approval for use in Europe,0.5233,POSITIVE,0.7377
+05/10/2020,Secret compounders,0.4925,POSITIVE,0.9053
+04/26/2020,Upcoming S&P 500 earnings April 27 to May 1,0.565,POSITIVE,0.9931
+04/20/2020,Am I the only one who thinks MasterCard/Visa business model is at risk?,0.5564,NEGATIVE,0.9836
+04/18/2020,"Visa & Mastercard are 1 wechat away from disaster, why are they recommended longterm?",0.5007,NEGATIVE,0.9709
+04/16/2020,"Why is Discover Financial Services at such a low P/E as compared to Visa, Mastercard, PayPal, or Square?",0.5464,NEGATIVE,0.9987
+04/16/2020,Trading earnings reporting companies,0.6,POSITIVE,0.8954
+04/14/2020,Whats the deal with American Express?,0.5225,NEGATIVE,0.9938
+04/13/2020,Trimming down Portfolio,0.525,POSITIVE,0.9475
+04/09/2020,BTC rewards on Visa,0.5033,POSITIVE,0.9954
+04/08/2020,value vs growth,0.61,POSITIVE,0.981
+03/24/2020,Why did Visa do so much worse than MasterCard today?,0.536,NEGATIVE,1.0
+03/18/2020,What stocks are you looking at now that the market is down big?,0.6125,NEGATIVE,0.8607
+03/15/2020,A good time to accumulate great companies if the market continues to overreact.,0.5713,POSITIVE,0.9976
+03/13/2020,Visa vs Mastercard,0.515,NEGATIVE,0.71
+03/12/2020,Which dividend stocks will I get the highest returns of this bear marker?,0.5257,NEGATIVE,0.9924
+03/12/2020,"Washington Post: ""The first U.S. layoffs from the coronavirus are here""",0.5017,NEGATIVE,0.9991
+03/08/2020,Should I even bother investing if I know I want to immigrate out of the US? Because your Roth IRA is no longer valid after you receive an international paycheck. I know I plan on applying for visas to live in New Zealand in the near-ish future. But I also have a really keen interest in investing,0.5376,NEGATIVE,0.9996
+03/02/2020,Visa Warns on Q2 Revenue Amid Virus-Led Hit to Cross-Border Business,0.5368,NEGATIVE,0.9906
+02/25/2020,If we are worried of a recession does investing in Berkshire Hathaway make sense?,0.5121,NEGATIVE,0.9692
+02/25/2020,Mastercard sees lower revenue growth as coronavirus curbs travel,0.5206,NEGATIVE,0.9995
+02/08/2020,Best platform to Option call Visa,0.541,POSITIVE,0.999
+02/07/2020,What electronic payment stock has the best dividend structure?,0.6,POSITIVE,0.8033
+02/01/2020,Growth cloud companies vs Long term blue chip companies,0.5883,NEGATIVE,0.8867
+01/31/2020,Selling Visa because Earnings Meet Estimates,0.566,POSITIVE,0.8334
+01/21/2020,Growth or Dividend Investing for someone in their 20s?,0.557,NEGATIVE,0.5752
+01/20/2020,Views on Tesla Stock: is it still worth it?,0.6,NEGATIVE,0.985
+01/15/2020,Phase One Trade Deal and Visa/Mastercard/Amex,0.53,NEGATIVE,0.938
+01/15/2020,Visa thoughts? $V,0.5083,NEGATIVE,0.9886
+01/14/2020,"Visa to acquire Plaid, the fintech powering Venmo and other banking apps, in $5.3 billion deal",0.5195,POSITIVE,0.7883
+01/14/2020,Reasons *not* to invest in Visa compared to other individual stocks?,0.535,NEGATIVE,0.9784
+01/04/2020,Will crypto make companies like JPM and Visa obsolete in like a decade?,0.5144,NEGATIVE,0.9923
+01/02/2020,S&P 500 or Whole Market fund *MINUS* The Big 10,0.5508,NEGATIVE,0.7782
+01/01/2020,what companies offer real competition to visa and mastercard (not bitcoin) ?,0.5364,NEGATIVE,0.9738
+12/30/2019,"Selling startup, how to invest $1 mln?",0.5938,NEGATIVE,0.972
+12/28/2019,Building a financial portfolio on a student's salary,0.538,POSITIVE,0.9433
+12/24/2019,How will crypto currency affect our current financial system? Will companies like JPM or Visa be able to adapt or will crypto make these sorts of companies obsolete?,0.5309,NEGATIVE,0.9978
+12/23/2019,Goldman sees one of its portfolios for clients tripling the return of the market next year,0.6155,NEGATIVE,0.6719
+12/19/2019,"Better to buy companies like Visa, MA and Paypal individually or get an ETF?",0.5425,NEGATIVE,1.0
+11/19/2019,WSJ Exclusive: AmEx Is Paying Up to Get Businesses to Accept Its Cards,0.5081,POSITIVE,0.8571
+11/17/2019,TD Ameritrade Checking Account Question,0.502,NEGATIVE,0.9909
+11/16/2019,PayPal stock (buy sell or hold),0.634,NEGATIVE,0.7416
+11/04/2019,Will holding long positions in different brokerages cause tax-loss harvesting to be nullified?,0.5185,NEGATIVE,0.9814
+10/14/2019,Tax-advantaged retirement accounts vs taxable brokerage accounts as a visa holder,0.506,NEGATIVE,0.7945
+10/12/2019,"Five companies, led by Mastercard, Visa and eBay, pulled out of Facebook’s planned digital currency Libra",0.5179,NEGATIVE,0.9995
+09/24/2019,Investing while on an H1B via lendingclub or prosper.,0.515,POSITIVE,0.929
+09/22/2019,"Calculated the Intrinsic Value of Visa Inc (V) for long-term investing, but now I'm doubting I did the math right",0.5658,NEGATIVE,0.9952
+09/11/2019,Visa and MasterCard,0.505,POSITIVE,0.8277
+09/04/2019,Help me build out my ROTH without overlap in my SEP...odd dilemma,0.5075,POSITIVE,0.8218
+09/03/2019,Buy Excellence They Say,0.5583,POSITIVE,0.9843
+08/30/2019,Exxon Poised to Drop From S&P 500’s Top 10 for First Time Ever,0.525,NEGATIVE,0.9864
+08/06/2019,Why it’s not too late to invest in Visa,0.5162,POSITIVE,0.963
+08/06/2019,Which companies are involved in mobile payment transactions?,0.567,NEGATIVE,0.9957
+08/05/2019,Is now a good time to buy Visa?,0.5925,POSITIVE,0.8515
+07/27/2019,Long term holds,0.5767,POSITIVE,0.9991
+07/19/2019,Is Visa a long term buy at this price?,0.6,NEGATIVE,0.984
+07/09/2019,4 stock portfolio.,0.7325,POSITIVE,0.9537
+07/07/2019,Visa or master,0.505,POSITIVE,0.6251
+07/06/2019,High risk etfs?,0.52,NEGATIVE,0.9935
+06/30/2019,fidelity visa rewards or amex charles schawab,0.5017,POSITIVE,0.9884
+06/23/2019,Libra Cryptocurrency,0.5025,POSITIVE,0.9955
+06/08/2019,Are Visa and MasterCard a safe investment?,0.5225,NEGATIVE,0.9842
+06/06/2019,Trying to maximize growth,0.5717,POSITIVE,0.7143
+06/02/2019,"GURU vs Titan, 12 month review",0.528,NEGATIVE,0.8717
+06/01/2019,Why is Tangible Book Value Dropping for US Stocks?,0.5508,NEGATIVE,0.9985
+05/28/2019,VISA is a solid buy right now because...,0.5575,POSITIVE,0.9992
+05/03/2019,"Theory about this ""bubble"" people keep hypothesizing about",0.497,NEGATIVE,0.9911
+04/29/2019,american express long term buy,0.587,POSITIVE,0.9426
+04/26/2019,VTI/VOO/VFORX/Schwab,0.5,NEGATIVE,0.7904
+04/25/2019,What's An IPO?,0.525,NEGATIVE,0.9948
+04/24/2019,Thoughts on visa?,0.5125,NEGATIVE,0.9429
+04/20/2019,"If you were me, how will you adjust the following portfolio?",0.5267,NEGATIVE,0.9927
+04/03/2019,visa stock,0.71,POSITIVE,0.6687
+03/25/2019,Golden Visa Investment scheme. Low risk or a good opportunity?,0.5244,POSITIVE,0.9907
+03/18/2019,Non US citizen tax?,0.5238,NEGATIVE,0.9974
+03/06/2019,I have too much cash in my savings,0.55,NEGATIVE,0.9988
+03/05/2019,How to find the Net Investment of a stock?,0.74,NEGATIVE,0.8886
+02/28/2019,How do VISA and MasterCard not make money...,0.5137,NEGATIVE,0.9883
+02/22/2019,Investing in REITs in the US as an International Student,0.535,POSITIVE,0.6068
+02/21/2019,Company Stock,1.0775,POSITIVE,0.9747
+02/19/2019,Investing in Weed stocks as a Canadian living in the U.S.,0.5217,NEGATIVE,0.8894
+02/01/2019,"Thoughts on Current Portfolio (Health, Tech, Finance, Consumer)",0.5314,POSITIVE,0.9978
+01/28/2019,M1 Spend / M1 Plus - Checking Account with M1,0.5029,NEGATIVE,0.8683
+01/20/2019,Top 3 Stock picks for 2019,0.6617,POSITIVE,0.9993
+01/16/2019,"Brushing up on my stock analysis skills, need help estimating stock price!",0.6072,POSITIVE,0.9762
+01/14/2019,Brexit: Fight or Flight?,0.5017,NEGATIVE,0.9943
+01/12/2019,Investing account for non US citizens,0.523,POSITIVE,0.7594
+01/05/2019,Can I get advice on my investment strategy?,0.5475,POSITIVE,0.6216
+12/25/2018,Are you as excited as I am?!,0.51,POSITIVE,0.9995
+12/24/2018,What are your individual stock picks for the coming weeks/months?,0.595,NEGATIVE,0.9986
+11/27/2018,My first 3 stocks purchased,0.5617,POSITIVE,0.9892
+11/25/2018,"passive investors, if you have any individual stocks, what percent of your portfolio are allocated to individual stocks?",0.5706,NEGATIVE,0.997
+11/21/2018,Capital Gains question,0.5267,NEGATIVE,0.9643
+11/04/2018,Everyone list 3 positions that they have either established or added to in the recent market correction!,0.5378,POSITIVE,0.5943
+10/27/2018,Question - are digital payments a threat or opportunity for Visa/Mastercard?,0.5079,NEGATIVE,0.9983
+10/14/2018,"My High Hopes ETFs bouquet, what do you think",0.516,NEGATIVE,0.8274
+10/12/2018,Buy the dip? Rotate positions? what do I do,0.5513,NEGATIVE,0.9998
+10/08/2018,square & visa,0.5025,POSITIVE,0.9303
+10/04/2018,Brokerage for International Students in the USA,0.5175,POSITIVE,0.9959
+10/03/2018,An index-plus strategy where you buy the S&P and then buy the top performers in it would not have significantly improved your performance and in fact would have hurt it in the last 30 years.,0.5609,NEGATIVE,0.9984
+09/29/2018,Help - Investing advice needed,0.5138,POSITIVE,0.9818
+09/28/2018,give me some scenarios in which visa and mastercard become the next GE,0.5221,NEGATIVE,0.8389
+09/21/2018,Why is everyone recommending VISA?,0.505,POSITIVE,0.8429
+09/19/2018,Options,0.515,POSITIVE,0.9501
+09/16/2018,Do you agree with Morgan Stanley?,0.4967,NEGATIVE,0.8372
+08/29/2018,Growth Investing vs Value Investing - Help!,0.5708,POSITIVE,0.981
+08/27/2018,Diversifying My Portfolio,0.525,POSITIVE,0.9985
+08/22/2018,Question about Visa/MA,0.5017,NEGATIVE,0.9959
+08/12/2018,Is there a big difference between a paid investment hub ex: (e-trade/ameritrade) over a free hub like robinhood?,0.5169,NEGATIVE,0.9743
+08/11/2018,what are some scenarios in which visa or mastercard become the next GE? (other than crypto),0.52,NEGATIVE,0.9577
+08/02/2018,Am I diversified enough?,0.505,POSITIVE,0.9762
+07/31/2018,Kroger's California subsidiary to bar Visa credit cards amid fee dispute,0.504,NEGATIVE,0.9596
+07/19/2018,"If one day, all stocks are set to their true intrinsic value and you had the option of buying 1-5 companies which you must hold for 30+ years, which companies would you invest in?",0.5506,NEGATIVE,0.696
+07/11/2018,Portfolio help,0.5375,POSITIVE,0.9721
+07/02/2018,"What are your biggest 3 holdings, and why?",0.515,POSITIVE,0.7093
+06/16/2018,Visa and Mastercard have strong franchises networks and valuations. But how big is the threat from disrupting Fintech companies?,0.5359,NEGATIVE,0.8602
+06/12/2018,How is Visa addressing alternative payment processor competition?,0.5042,NEGATIVE,0.7952
+06/07/2018,Investing in Canada - for residency,0.5167,POSITIVE,0.9884
+06/03/2018,What’s your average dividend yield for Ira?,0.514,NEGATIVE,0.9967
+05/23/2018,"What is your biggest holdings, and why?",0.515,POSITIVE,0.9038
+05/18/2018,Visa [V] vs. MasterCard [MA] - what advantages do you see in one over the other?,0.5144,POSITIVE,0.7174
+05/10/2018,Comparing Stocks,0.5625,NEGATIVE,0.8062
+05/09/2018,what is the real potential of Venmo ?,0.5217,POSITIVE,0.7414
+05/07/2018,Visa Vs. Blockchain,0.5133,NEGATIVE,0.8849
+04/28/2018,How much upside does visa and mastercard have?,0.5112,NEGATIVE,0.9969
+04/25/2018,Entrypoint for $V,0.5,POSITIVE,0.9121
+04/15/2018,Playing around with the stock market-critique.,0.643,NEGATIVE,0.98
+04/13/2018,VISA Stock: your thoughts,0.6467,NEGATIVE,0.9374
+04/09/2018,Possible to ignore complete sectors in portfolio focused on diversification?,0.5143,NEGATIVE,0.8269
+04/07/2018,Square vs Visa,0.5133,NEGATIVE,0.7658
+04/01/2018,What is the benefit to Chase when I use ChasePay instead of just my CC?,0.5175,POSITIVE,0.9984
+03/28/2018,what can possibly hurt visa or mastercard(excluding crypto),0.4933,POSITIVE,0.7058
+03/09/2018,Townsquare Media is a local radio and entertainments business trading on a trailing/current year PE of 11/7.4,0.5936,NEGATIVE,0.9333
+03/03/2018,Is it a bad idea to pair long term investment equities with their competitors? (example: Buy Visa and Mastercard; Pepsi and Coke; Ford and GM),0.5344,NEGATIVE,0.9995
+02/22/2018,TD Ameritrade as EU citizen,0.5025,POSITIVE,0.9938
+02/08/2018,Case for Mastercard,0.5,POSITIVE,0.5511
+11/29/2024,Investing in small Hotels,0.5117,NEGATIVE,0.8318
+11/30/2024,How do I diversify my equity investment across multiple stock brokers as a non-US resident?,0.5595,POSITIVE,0.7786
+12/11/2024,Investing in US real estate as a foreign national,0.5325,NEGATIVE,0.6747

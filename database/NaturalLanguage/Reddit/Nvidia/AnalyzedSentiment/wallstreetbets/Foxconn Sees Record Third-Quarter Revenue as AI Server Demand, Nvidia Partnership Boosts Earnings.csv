@@ -1,0 +1,8 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Outlook,Flair Sentiment
+,nan,GPT-REEEE,0,0.5,NEGATIVE,0.999
+,nan,Do you guys think Nvidia will continue to rise in the near future?,0,0.554,POSITIVE,0.687
+,nan,The total US stock market is worth roughly $50 trillion.Nvidia is worth about $3.5 trillion.I can’t see how it can continue to grow at the rates we’ve seen previously considering it’s 6% of the entire stock market value.,1,0.585,NEGATIVE,0.869
+,nan,If it continues to stay 6% of the market - with the market growing as it has yearly. Then it’s going to hit 200$ in 2 years.,2,0.567,POSITIVE,0.689
+,nan,Don't bet on it,1,0.49,NEGATIVE,0.774
+,nan,"Yes, no one can catch up with GPUs or CUDA.Also if they make CPUs optimized with the GPUs.But also big enough TAM for AMD, INTC, QCOM, AVGO, TXN, etc.",1,0.558,NEGATIVE,0.812
+,nan,NVIDA roadmap is looking remarkable. Probably a year or two out from doubling its cap. One break thought application or app and its to the moon again.,0,0.557,POSITIVE,0.999

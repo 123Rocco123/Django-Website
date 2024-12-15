@@ -1,0 +1,11 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,GPT-REEEE,0,0.5,0.999,NEGATIVE
+,,"Noice, bought calls without even knowing what it does.",0,0.509,1.0,NEGATIVE
+,,lol... plastics my friend... car wraps and scotch tape,1,0.5,1.0,POSITIVE
+,,well yeah... just giving a broad brush lol.. use to work there... they give you the shpeel.,2,0.523,0.953,POSITIVE
+,,well yeah... just giving a broad brush lol.. use to work there... they give you the shpeel.,3,0.523,0.953,POSITIVE
+,,Doesn’t matter until they decide how much they r cutting the dividend.,0,0.512,0.926,NEGATIVE
+,,"From WSJ: ""The quarterly dividend is now at $1.51 per share. Roman declined to specify what the new amount would be, but said the dividend payout ratio will equal about 40% of 3M’s adjusted free cash flow. The board will make the final decision in May, he said.""https://www.wsj.com/livecoverage/stock-market-today-earnings-04-30-2024/card/3m-to-cut-dividend-in-wake-of-health-care-spinoff-f0gTghcjrgguP0ZwyGjr",1,0.581,0.999,NEGATIVE
+,,"Yup, that's a big factor to consider.",1,0.516,0.999,POSITIVE
+,,The Ponzi scheme company?https://en.wikipedia.org/wiki/MMM_(Ponzi_scheme_company),0,0.621,0.994,NEGATIVE
+,,"No, think post-it noteshttps://en.wikipedia.org/wiki/3M",1,0.503,0.68,NEGATIVE

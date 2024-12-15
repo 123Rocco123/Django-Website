@@ -1,0 +1,101 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Outlook,Flair Sentiment
+,,GPT-REEEE,0,0.5,NEGATIVE,0.999
+,,They can make EUV lithography machines that cost $300 million a piece but they cannot upload a pdf file on the planned release date.Bullish.,0,0.548,NEGATIVE,1.0
+,,"One is done by engineers, the other by HR...",1,0.521,POSITIVE,0.784
+,,In what universe does HR present the quarterly financials,2,0.506,POSITIVE,0.905
+,,"No idea, i just wanted to bash HR",3,0.504,NEGATIVE,0.897
+,,"Oh, you don’t know the engineers at ASML (I work at ASML)",2,0.517,POSITIVE,0.517
+,,"Are they as chaotic and utterly leaderless as all the other Dutch companies 😂 (I also work for a Dutch company...)I would describe Dutch business culture as 'strategy by Brownian motion'.. Everything bounces around enough that it ends up going in mostly the right direction on a macro scale, but there isn't anyone directing anything.",3,0.552,NEGATIVE,0.999
+,,"Chaos? Yes. Too big a company not to be chaotic. My first day at the job, they assigned my laptop to someone else and I had to go to IT support to get it fixed. I can’t say about other dutch companies.",4,0.554,NEGATIVE,0.911
+,,,1,,,
+,,I guess this is what all those memes about selling the shovel when everyone is digging for gold were talking about,0,0.505,NEGATIVE,0.994
+,,"I feel like they are more like the furnace that makes the shovel, rather than being the shovel itself.",1,0.504,NEGATIVE,0.99
+,,I feel like they are the furnace makers that makes the furnace to make the shovels...,2,0.509,POSITIVE,0.996
+,,Shovelception,3,0.5,NEGATIVE,0.993
+,,They’re more like the fire,3,0.492,POSITIVE,0.673
+,,These are very sophisticated shovels that require dozens of companies in multiple countries to make.,3,0.527,POSITIVE,1.0
+,,The furnace burns cash,4,0.51,NEGATIVE,0.961
+,,"I do R&D on new nodes. if the device is the bread (Apple, NVIDIA), TSMC/Samsung is the baker, and ASML/AMAT/LAM design the ovens.I design the ovens. we make fuckloads of money during node ramps.",2,0.536,POSITIVE,0.739
+,,"…. But they also give away the gold for free, too? They just released an open source llm that rivals gpt 4",2,0.523,NEGATIVE,0.993
+,,"A shovel company with really only 3 clients: TSM, Intel and Samsung",1,0.624,NEGATIVE,0.999
+,,The only shovel company*,2,0.87,POSITIVE,0.999
+,,You made me think about something$CAT makes big shovels and Gold is ripping as far as a monitory commodity goes.Now I get why $CAT is pulling 35% profit and knocking on the door of $400 while other old school large manufacturers are not doing much,3,0.518,NEGATIVE,0.978
+,,Which together produce basically all CPUs and GPUs in the world?,2,0.526,POSITIVE,0.886
+,,"I thought those three were the shovel makers, and all of the AI based startups are the miners.",2,0.556,NEGATIVE,0.997
+,,Can someone tell me why it fell tho? What was the bad news?,0,0.476,NEGATIVE,1.0
+,,ASML booked only about half the orders analysts estimated in the third quarter and lowered guidance for 2025,1,0.519,NEGATIVE,1.0
+,,"Net bookings for the September quarter came in at 2.6 billion euros ($2.83 billion), the company said — well below the 5.6 billion euro LSEG consensus estimate.",1,0.674,NEGATIVE,0.995
+,,how do these analysts miss so bad. I want their job.,2,0.493,NEGATIVE,0.999
+,,Some of analysts likely knew of a miss but didn’t release the data to public and kept it internal,3,0.516,NEGATIVE,0.793
+,,to short it,4,0.48,NEGATIVE,1.0
+,,"how about u eat my ASSI am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.",5,0.499,POSITIVE,0.783
+,,Good bot,6,0.54,POSITIVE,0.941
+,,The best guiding Analists for portfolio fissure and loss porn advice.9.5/10Does anyone have DD on these top and bottom analists?,5,0.52,POSITIVE,0.999
+,,Not enough insider trading I guess.,3,0.511,NEGATIVE,0.997
+,,Leaked the revenue before date,1,0.525,NEGATIVE,0.998
+,,"earnings, they do not make enough coins as they thought .....",1,0.548,NEGATIVE,0.956
+,,Less margin on the machines they sell,1,0.511,POSITIVE,0.671
+,,What is the nvidia news?,0,0.628,NEGATIVE,0.996
+,,"Reports that the US is going to restrict chip sales to more foreign countries, for national security/economic protectionism",1,0.569,NEGATIVE,1.0
+,,"TBF, there is plenty of market still to saturate production capacity for the next 5 years with the restrictions.",2,0.56,NEGATIVE,0.925
+,,Yeah but most of Nvidia’s stock price already accounts for that. The market cap is insane right now and any news of limiting orders would affect the stock.,3,0.587,NEGATIVE,0.999
+,,Every restriction creates an opportunity. A shell company in Australia buys nvidia h100 sets up a datacenter and rents out the h100 to Chinese companies. Sanction averted. Pretty soon they’ll sanction nvidia to death because there will always be a bypass.,2,0.55,NEGATIVE,1.0
+,,Smci does this and got punished in the Hindenburg short report,3,0.501,NEGATIVE,0.999
+,,Nancy bought puts (this is satire),1,0.504,NEGATIVE,0.745
+,,"yo this is the funniest shit, someone getting fired",0,0.502,POSITIVE,0.886
+,,fat fingered by the IR intern,1,0.504,NEGATIVE,1.0
+,,More like gaining an extra day for the Board ro prepare on retaining their Bonuses...,1,0.51,NEGATIVE,0.991
+,,"ASML is quite volatile, but in the end, the fact remains that the world needs ASML. For now and in the near future.",0,0.53,POSITIVE,1.0
+,,Yeah a company who spends 4 billion on RnD can’t fail. They will innovate,1,0.601,POSITIVE,0.998
+,,"Down for -14 today, According to my credo it's time to buy the dip...",0,0.588,NEGATIVE,0.98
+,,,1,,,
+,,"As someone who is balls deep in semis it’s very justified, it’s a huge miss from one of the largest players in the game, them citing less demand recovery in other sectors and EUV specifically does not bode well for the short term. Especially since we’re reaching price premiums after immensely rallying.Semi bros we are suffering today and will continue to suffer this year it seems.",0,0.535,NEGATIVE,1.0
+,,The pain is real brother. If Intel scraps High NA EUV and TSMC does not step in we are in for a rough ride in the whole supply chain. I am seriously concerned. Feels a bit like the late 90s.,1,0.518,NEGATIVE,0.924
+,,Dont forget that US restrictions on ASML machine export to China is costing them more than half their market. I would think that the earnings lost by this restriction would somehow be compensated by US so shareholders wouldn’t get hurt. But it looks like US doesn’t care.,2,0.53,NEGATIVE,1.0
+,,The US doesn’t give a fuck since it’s a European company with a mostly European supply chain.,3,0.594,NEGATIVE,0.943
+,,This is incorrect two of the main supply chains are in USA California and ConnecticutASML has to play with US rules otherwise they cannot assemble anything in Netherlands,4,0.527,NEGATIVE,0.997
+,,"It's not like TSMC stops buying ASML litho hardware, and if Intel scraps their fabs someone has to make up for that demand, which is likely TSMC",2,0.515,NEGATIVE,1.0
+,,The late 90s was great for tech stocks,2,0.546,POSITIVE,0.966
+,,"What's your move from the position of ""balls deep."" Going to double down, nut up, hold your bags, look for a squeeze?",1,0.522,NEGATIVE,0.641
+,,"Same as always, buy a little each month from my salary and hold. I’m no degen anymore, most I’ll likely do is hedge a little against my upcoming semi earnings now and sell some calls and buy some puts. Maybe I’ll bump up how much I’m buying by 10-20%.Got adult responsibilities and bills nowadays so can’t afford to punt it all away on a double down like I used to.",2,0.522,POSITIVE,0.997
+,,"Oh god. Should I not have just bought this dip? I’m balls, elbows, necks deep in semis..",1,0.504,NEGATIVE,0.978
+,,Same I'm like 150% semis now lmao,2,0.606,NEGATIVE,0.999
+,,I also work in semis so I’m double fucked lol,3,0.542,POSITIVE,0.944
+,,"""first time?"" - SaaS bros",1,0.538,POSITIVE,0.718
+,,"Overreaction on the restriction news.If TSMC give shit earnings and guidance, then it's a justifiable selloff since TSMC makes most of NVDA's GPUs. ASML sells the machine that makes the shovels, you don't need millions of shovel makers to make millions of shovel so they don't benefit from AI rush unless there's consistent design improvements and/or new designs that requires new machines.",0,0.543,NEGATIVE,1.0
+,,"If you take the idea further, you will also realise that you don’t need millions of shovels to train more models.At a certain point, it is not the chips that fall short , but the quality of the available data",1,0.521,POSITIVE,0.987
+,,ok i think you all have stretched this analogy way too far,2,0.508,NEGATIVE,0.995
+,,JUST LIKE YOUR MOTHER TREBEK,3,0.498,POSITIVE,0.997
+,,Ambatukam,3,0.5,POSITIVE,0.989
+,,"Yes but that is nowhere in the near future, by then NVDA themselves probably already furthered their GPU tech enough and probably are the ones selling shovels that beats millions of other shovels at extremely cut throat price. Nvidia is not going to stop, Intel is the tech industry's greatest lesson; innovate or be replaced.",2,0.522,NEGATIVE,0.863
+,,"not exactly true. new generation of nvidia have lower power and higher speed, and if ai is your only business, you will buy newer nvidia cards to train as many ai models as you can at the shortest time possible. the biggest downside for ai and for nvidia, the upside is that you can’t debug ai models.",2,0.585,NEGATIVE,1.0
+,,"At a certain point, there will not be enough electricity to power additional GPUs.NVIDIA's days are truly numbered.",2,0.521,NEGATIVE,0.986
+,,Are you planning to blow up many electric power stations?,3,0.51,NEGATIVE,0.999
+,,"But ASML is insane that the cells decrease comes from TSMC. They’re saying that the cells decrease comes from China. Unless TSMC is lumped in with China, but that shouldn’t be the case since TSMC is Taiwan.",1,0.508,NEGATIVE,1.0
+,,"I’m speculating Intel is pulling the brakes on euv equipment buys. Maybe the whole world needs to deal with that, Intel shrinking.",0,0.535,NEGATIVE,1.0
+,,"Yeah, Intel have delayed their Fab in Germany and Israel, there simply had to have been some ASML gear in those fabs.",1,0.511,NEGATIVE,1.0
+,,"Fuck it. ASML should immediately double the price of its machines and maintenance. USA says no to 50% of their sales, they can pay up the difference. Unfucking real.",0,0.561,NEGATIVE,0.999
+,,"This is a great strategy to go from a bad quarter to no quarters. Relax, and don’t be so short sighted, there is more than your portfolio driving these decisions.",1,0.521,POSITIVE,0.999
+,,To make matters worse the Robinhood gang can't buy the dip.,0,0.53,NEGATIVE,0.997
+,,"Doesn't ASML have the biggest moat in the world. Like no one is even close to doing what they do, which is essential to produce the best chips. Doesn't mean they can't be overpriced. Also interesting they released the news early.",0,0.531,POSITIVE,0.952
+,,"They released the news early on accident. They deleted the link to their earnings after, but people saw and news was already made for it. Then they republished their earnings later on in the day. Someone said that this had happened before to them as well with a “leak” of earnings report. Very odd to have multiple instances of earning report leaks on their own website.",1,0.561,NEGATIVE,1.0
+,,Betting on the over reaction. Bought 5 ASML @ 129. Also rebought in 10 NVDA @ 130.8 (My previous NVDA position closed with my last sell at 134.5) Probably won't buy anymore ASML but I'll buy 10 shares of NVDA for each $10 drop in share price down to $100/share.,0,0.56,NEGATIVE,1.0
+,,"Net bookings for the September quarter came in at 2.6 billion euros ($2.83 billion), the company said — well below the 5.6 billion euro LSEG consensus estimate.  Lmao only 50% miss definitely not seeing a bubble here \s",0,0.632,NEGATIVE,0.995
+,,"If one pays attention to what ASML execs said, they are forecasting into the lower range of expectations of revenue going forward, but not because of demand from AI, but because of demand from other sectors is taking longer than expected.So for NVIDIA, this should be a nothing burger (aka buying opportunity).",0,0.56,NEGATIVE,1.0
+,,Feels intentional,0,0.502,POSITIVE,0.981
+,,Agreed. Board buying 24 hours to.xome up with a story to retain their bonuses,1,0.519,NEGATIVE,0.662
+,,'Tis but a flesh wound!,0,0.5,NEGATIVE,1.0
+,,"Enough about garden tools, where do I bet my money?",0,0.51,NEGATIVE,0.658
+,,I am starting a position and buying a lot tomorrow before market close.Here for the long run and not selling in at least a decade. Will be accumulating when everyone realizes that Nvidia is not even close to a $3 trillion company and when China invades Taiwan.This company is 30 years ahead of the competition and we need chips.,0,0.58,NEGATIVE,0.914
+,,I´m buying the dip,0,0.507,POSITIVE,0.837
+,,Sold other semiconductor stocks today to profit from rebound. Already green on intraday. Will have a Heineken when it gets over this valley... All tax free on a Roth-IRA account.,0,0.534,NEGATIVE,0.988
+,,I think it's an overreaction but it's painful to watch.,0,0.506,NEGATIVE,0.998
+,,It is definitely an overreactionJust look at TSLA. It's still GREENLOL,1,0.509,NEGATIVE,0.996
+,,Opportunity,0,0.52,POSITIVE,0.998
+,,Isn’t ASML supposed to be soothing?,0,0.505,NEGATIVE,1.0
+,,"Just for all the genius who don’t understand how to use a thing called “ask Jeeves “No, Nvidia (NVDA) does not manufacture its own chips. Instead, Nvidia uses external suppliers for all aspects of manufacturing, including assembly, testing, packaging, and wafer fabrication. Nvidia focuses on product design, quality assurance, customer support, and marketing",0,0.531,POSITIVE,0.979
+,,tsmc earnings will say ..,0,0.563,NEGATIVE,0.885
+,,"Will recover. We could see an all-time high tomorrow or Thursday over $140. It likes an Aries moon better. Will take a massive shit on Friday, October 18th, tho because the moon will be in Taurus. It's down today because when the moon is in Pisces, it's moderate. Nivida don't like Leo, Cancer, Virgo, Scorpio, or Taurus season.",0,0.516,NEGATIVE,1.0
+,,Lol,1,0.5,POSITIVE,0.737
+,,"This happens when Intel finds out they are running out of money and has to put a plug on investments, meanwhile financial experts forgets to deduct those amounts from the order books 😂",0,0.528,NEGATIVE,1.0
+,,overreaction,0,0.5,NEGATIVE,0.998

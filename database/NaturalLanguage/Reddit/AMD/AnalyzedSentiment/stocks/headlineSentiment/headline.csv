@@ -1,0 +1,258 @@
+date,headline,PTR Sentiment,Flair Outlook,Flair Score
+11/22/2024,AMD: The $145 Recovery Rally is Coming Next Week,0.6283,POSITIVE,0.805
+11/15/2024,Naive question: Intel 18A--what could go wrong?,0.5186,NEGATIVE,0.9911
+11/13/2024,"AMD to lay off 4% of workforce, or about 1,000 employees",0.5638,NEGATIVE,0.9992
+11/10/2024,Reuters Exclusive: US ordered TSMC to halt shipments to China of chips used in AI applications,0.5438,NEGATIVE,0.9944
+10/29/2024,AMD Reports Third Quarter 2024 Financial Results,0.625,POSITIVE,0.8357
+10/20/2024,I compiled a list of all 190 stocks and funds from the September 2024 Quarterly Thread,0.5321,NEGATIVE,0.9003
+10/20/2024,Ripe for picking - (FDMT) 4D Molecular Therapeutics?,0.5,NEGATIVE,0.5608
+10/16/2024,"Global chip stocks fall on ASML’s disappointing outlook, possible U.S. export cap",0.5214,NEGATIVE,0.9998
+10/15/2024,"ASML plummets 11% after releasing disappointing earnings, lowering revenue and gross margin guidance for the full year",0.5783,NEGATIVE,0.9999
+10/10/2024,AMD down 4% as they kick of AI event and unveil new chip to challenge Nvidia.,0.6561,NEGATIVE,0.8991
+10/10/2024,AMD AI event on Oct 10: Any expectations?,0.66,NEGATIVE,0.6427
+10/09/2024,TSMC's revenue for September surged 39.6% YoY,0.535,NEGATIVE,0.9889
+09/28/2024,"AI Plays: NVD, AMD, GOOGL + a Couple Broader Questions",0.595,POSITIVE,0.9774
+09/25/2024,Can AMD be considered as a AI chips provider?,0.674,NEGATIVE,0.678
+09/19/2024,(9/19) - Thursday's Pre-Market News & Stock Movers,0.645,POSITIVE,0.8462
+09/17/2024,How much monthly should one invest in ETF’s?,0.525,NEGATIVE,0.9883
+09/13/2024,Chatgpt says its new AI can reason like a person -- which stocks benefit from this?,0.6017,NEGATIVE,0.9982
+09/10/2024,Taiwan Semiconductor's August sales surge as AI demand continues,0.615,POSITIVE,0.9904
+09/04/2024,Nvidia says it didn’t receive antitrust subpoena from DOJ,0.5421,NEGATIVE,0.9782
+09/04/2024,(9/4) - Wednesday's Pre-Market News & Stock Movers,0.6433,POSITIVE,0.8211
+09/04/2024,Alibaba to allow payment through Tencent's WeChat Pay on e-commerce apps,0.5044,NEGATIVE,0.9847
+09/03/2024,Taiwan semiconductor Manufacturing Company,0.7125,POSITIVE,0.9571
+08/29/2024,"Dell beats estimates as server sales soar 80%, riding AI wave",0.5956,POSITIVE,0.9715
+08/29/2024,Is Intel a good investment for the next 5 - 10 years?,0.589,POSITIVE,0.6606
+08/27/2024,What could stop the NVDIA frenzy?,0.5088,NEGATIVE,0.9768
+08/26/2024,Still meaningful alpha left in NVIDIA?,0.54,POSITIVE,0.9398
+08/22/2024,How many stocks is too many? I hold 50 now.. Better just go for an index ETF?,0.53,NEGATIVE,0.9865
+08/22/2024,Follow-Up: “I bought the dip on Friday (8/2)”,0.515,NEGATIVE,0.8444
+08/21/2024,Should I add more stocks on my portfolio or just keep it as it is?,0.555,POSITIVE,0.9646
+08/19/2024,Why is QCOM so cheap?,0.5075,NEGATIVE,0.9981
+08/19/2024,These are the stocks on my watchlist (8/19),0.5625,POSITIVE,0.9502
+08/19/2024,AMD to acquire server builder ZT Systems for $4.9 billion in cash and stock,0.6233,NEGATIVE,0.9299
+08/15/2024,Ex-Google CEO Eric Schmidt sees Nvidia as big AI winner: ‘You know what to do in the stock market’,0.5814,POSITIVE,0.8975
+08/15/2024,Does AMD seem ridiculously underpriced to anyone else? Thinking about moving some of my MSFT/AMZN money into AMD.,0.5817,NEGATIVE,0.9936
+08/14/2024,Intel sells stake in UK chip designer Arm amid company-wide restructuring and cost cuts,0.5877,NEGATIVE,0.9798
+08/14/2024,These are the stocks on my watchlist (8/14),0.5625,POSITIVE,0.985
+08/14/2024,The Consumer Recession of 2023-2024 and the Future,0.5267,NEGATIVE,0.9893
+08/09/2024,These are the stocks on my watchlist (8/9),0.5625,POSITIVE,0.9889
+08/08/2024,These are the stocks on my watchlist (8/8),0.5625,POSITIVE,0.9961
+08/07/2024,These are the stocks on my watchlist (8/7),0.5625,POSITIVE,0.9936
+08/07/2024,Is AMD nearing a good entry point in the midst of the semi’s crisis?,0.5694,NEGATIVE,0.8179
+08/06/2024,Getting a gut check on INTC,0.5038,NEGATIVE,0.8932
+08/06/2024,These are the stocks on my watchlist (8/6),0.5625,POSITIVE,0.9943
+08/05/2024,I bought the dip on Friday (8/2),0.53,POSITIVE,0.9264
+08/04/2024,"While intel is down 50% this year, Windows is still holds 72% of the market share, with intel CPUs being the majority, what's actually next?",0.6204,POSITIVE,0.9255
+08/03/2024,Average down- AMD ARM AvGO,0.6288,NEGATIVE,0.996
+08/03/2024,AI is not a bubble? well it sure popped like one. Those analysts / pumpers should be dragged outside and tarred and feathered.,0.535,NEGATIVE,1.0
+08/02/2024,You guys need to realize something about Intel...,0.518,NEGATIVE,0.7657
+08/02/2024,Nvidia antitrust probe: Which competitors to buy?,0.579,NEGATIVE,0.995
+08/02/2024,Opinions on Tech Mutual Fund (VWUSX),0.517,POSITIVE,0.9681
+08/02/2024,Intel is now trading at the same price it was at in 1997,0.5733,POSITIVE,0.5508
+08/02/2024,"Intel heads for worst day on Wall Street in 50 years, falls to lowest in over a decade",0.527,NEGATIVE,1.0
+08/02/2024,"US launches antitrust probe into Nvidia over sales practices, The Information reports",0.5839,NEGATIVE,0.9925
+08/01/2024,Analyzing the Analysts: Using average analyst price target to identify buying opportunities amongst the top 100 companies in the S&P,0.5296,POSITIVE,0.8811
+08/01/2024,Any insights as to today's weird poor preformance?,0.53,NEGATIVE,0.9999
+07/31/2024,"Nasdaq, S&P 500 post best day since Feb after Powell signals possible rate cut in Sept",0.515,NEGATIVE,0.8846
+07/31/2024,These are the stocks on my watchlist (7/31),0.5625,POSITIVE,0.9474
+07/30/2024,AMD Delivers Upbeat Sales Forecast as It Shifts Into AI Chips,0.6631,NEGATIVE,0.5878
+07/30/2024,All eyes on AMD tonight,0.6617,POSITIVE,0.9981
+07/30/2024,"Semiconductor, AI, and AI-adjacent companies have been getting pummeled the last few weeks. Are you buying, selling, or just waiting?",0.5725,NEGATIVE,0.9999
+07/30/2024,These are the stocks on my watchlist (7/30),0.5625,POSITIVE,0.9718
+07/26/2024,What does your stock allocation look like?,0.6088,NEGATIVE,0.9989
+07/19/2024,What are (in your opinion) the best buying opportunities arising from this dip?,0.5225,NEGATIVE,0.9504
+07/18/2024,AMD the buy of the week?,0.7733,NEGATIVE,0.7443
+07/18/2024,These are the stocks on my watchlist (7/18),0.5625,POSITIVE,0.9838
+07/17/2024,These are the stocks on my watchlist (7/17),0.5625,POSITIVE,0.9392
+07/16/2024,Recent Intel Gaming Chips have >50% Failure Rate,0.5308,NEGATIVE,0.9989
+07/16/2024,Anyone else having this problem?,0.5,NEGATIVE,0.9971
+07/12/2024,The case for Intel from a former bear,0.5225,NEGATIVE,0.9339
+07/08/2024,Future AI Growth Stock Ideas?,0.687,NEGATIVE,0.7614
+07/08/2024,How to determine your exit strategy for each stock?,0.6263,NEGATIVE,0.9999
+06/21/2024,Nvda is a meme stock at this point,0.6063,NEGATIVE,0.9941
+06/21/2024,Intel current management is just bad,0.5537,NEGATIVE,0.9999
+06/20/2024,Best long term stocks to invest in?,0.597,POSITIVE,0.9998
+06/20/2024,Thoughts on Intel as long-term?,0.585,NEGATIVE,0.9544
+06/17/2024,Intel discussion,0.555,NEGATIVE,0.526
+06/10/2024,These are the stocks on my watchlist (6/10),0.5625,POSITIVE,0.993
+06/10/2024,Riding the AMD Wave,0.66,POSITIVE,0.9962
+06/07/2024,$RDDT a legitimate long term play,0.548,POSITIVE,0.9882
+06/06/2024,TSMC ponders boosting AI chip production prices for Nvidia: Morgan Stanley,0.5525,NEGATIVE,0.7185
+06/04/2024,INTC now is time to get in?,0.5383,POSITIVE,0.7453
+06/03/2024,"Reuters - ""AMD launches new AI chips to take on leader Nvidia"".",0.6522,POSITIVE,0.8434
+06/02/2024,Nvidia announces new AI chips as market competition heats up,0.64,POSITIVE,0.9724
+05/31/2024,These are the stocks on my watchlist (5/31),0.5625,POSITIVE,0.985
+05/25/2024,Is it a good idea to invest in tech companies before the computex event?,0.55,NEGATIVE,0.9986
+05/22/2024,Qualcomm vs AMD vs Intel (Laptops running Windows OS),0.5689,NEGATIVE,0.8557
+05/22/2024,These are the stocks on my watchlist (5/22),0.5625,POSITIVE,0.9846
+05/20/2024,Microsoft announces new PCs with AI chips from Qualcomm,0.6036,POSITIVE,0.6382
+05/20/2024,Should I still keep/hold my AMD Stocks?,0.632,POSITIVE,0.7382
+05/10/2024,These are the stocks on my watchlist (5/10),0.5625,POSITIVE,0.9977
+05/07/2024,Is the big AI hardware spend behind us?,0.5725,NEGATIVE,0.982
+05/01/2024,These are the stocks on my watchlist (5/1),0.5625,POSITIVE,0.9981
+04/30/2024,AMD Reports First Quarter 2024 Financial Results,0.6308,POSITIVE,0.9738
+04/30/2024,These are the stocks on my watchlist (4/30),0.5625,POSITIVE,0.9895
+04/30/2024,Why is INTC (Intel) so down? Did I miss some news?,0.5463,NEGATIVE,0.995
+04/24/2024,INTC vs TSLA - Trying to understand market sentiment.,0.5421,NEGATIVE,0.8177
+04/19/2024,Nvidia’s stock plunge leads Magnificent Seven to record weekly market-cap loss,0.5705,NEGATIVE,0.9996
+04/18/2024,Anyone tap out yet?,0.495,POSITIVE,0.9698
+04/15/2024,These are the stocks on my watchlist (4/15),0.5625,POSITIVE,0.9945
+04/12/2024,These are the stocks on my watchlist (4/12),0.5625,POSITIVE,0.9939
+04/12/2024,"China tells telecom firms to phase out foreign chips in blow to Intel, AMD - WSJ",0.5659,NEGATIVE,0.9997
+04/09/2024,"ALAB Astera Labs, one of the most obvious shorts in semiconductors",0.5107,NEGATIVE,0.9971
+04/09/2024,Google unveils custom Arm-based chips,0.5317,NEGATIVE,0.9706
+04/09/2024,These are the stocks on my watchlist (4/9),0.5625,POSITIVE,0.9931
+04/08/2024,What is TSM's bear case?,0.4983,NEGATIVE,0.9793
+04/07/2024,Changing my Roth IRA from VOO to 10 individual stocks,0.5225,NEGATIVE,0.9919
+03/25/2024,These are the stocks on my watchlist (3/25),0.5625,POSITIVE,0.9921
+03/21/2024,Amazon gets boost from 72% pop in AI company Astera Labs' IPO,0.6156,POSITIVE,0.9774
+03/20/2024,"Intel awarded up to $8.5 billion in CHIPS Act grants, with billions more in loans available",0.5439,NEGATIVE,0.9106
+03/19/2024,"Anyone have Astera Labs' IPO on their radar? If so, what are your thoughts?",0.5092,NEGATIVE,0.5257
+03/17/2024,Qualcomm Vs AMD Vs Intel,0.624,NEGATIVE,0.8361
+03/05/2024,"Talk to me like I'm five - AI, and ebbs/flows in the stock market",0.6539,POSITIVE,0.9986
+03/05/2024,AI Madness and profitablity,0.5883,NEGATIVE,0.9452
+02/22/2024,"Nvidia- Don't Mistake a Highly Cyclical stock for Perpetual Growth. Perspective from a Software Engineer, why I set a $250 price target.",0.5835,POSITIVE,0.9994
+02/18/2024,Summary of stock market performance,0.68,POSITIVE,0.8701
+02/16/2024,Ultimate Nvidia DD (The Best),0.5763,POSITIVE,1.0
+02/13/2024,Next week is nvidia’s earnings. Anyone betting it’ll drop like crazy? Or go up like crazy?,0.5342,NEGATIVE,0.9914
+02/11/2024,"Top 10 Stocks in the S&P 500 YTD, and also 10 Worst. Were You Able to Score Any of the 10?",0.565,NEGATIVE,1.0
+02/10/2024,Advanced Micro Devices (AMD) $171 A good long term buy,0.655,POSITIVE,0.9859
+02/09/2024,Exclusive: Nvidia pursues $30 billion custom chip opportunity with new unit -sources,0.58,POSITIVE,0.9789
+02/09/2024,Growth stocks-is it starting to feel like early 2021?,0.5533,NEGATIVE,0.8503
+02/09/2024,"TSM, what do you all think?",0.51,NEGATIVE,0.9951
+02/04/2024,Ships that have sailed and those still set to sail,0.513,POSITIVE,0.9984
+02/02/2024,SMCI is undervalued at $600,0.5025,NEGATIVE,0.9869
+02/01/2024,2024 One Month Reflection,0.5433,NEGATIVE,0.9921
+02/01/2024,Two Big Differences Between AMD & NVDA,0.628,POSITIVE,0.9018
+01/31/2024,"Isn't AMD extremely overpriced, am I missing something?",0.5817,NEGATIVE,0.8967
+01/31/2024,We went from FAANG to Mag7 to AI5...what will be the next stock grouping to lead the way?,0.5683,NEGATIVE,0.9132
+01/30/2024,AMD shares fall as first-quarter forecast comes in light,0.5869,NEGATIVE,0.9979
+01/25/2024,Intel stock sinks as early 2024 outlook comes up short,0.5743,NEGATIVE,1.0
+01/24/2024,Some AMD vs Intel CPU 3D cache design theory,0.5856,POSITIVE,0.7841
+01/22/2024,Reddit ETF progress from Jan 2021 to Jan 2024,0.499,NEGATIVE,0.7021
+01/22/2024,These are the stocks on my watchlist (1/22),0.5625,POSITIVE,0.9211
+01/20/2024,Can someone help explain this straddle chart to me please,0.505,NEGATIVE,0.5208
+01/20/2024,Is buying a put and a call ever a good idea?,0.5208,NEGATIVE,0.9785
+01/19/2024,These are the stocks on my watchlist (1/19),0.5625,POSITIVE,0.9366
+01/18/2024,These are the stocks on my watchlist (1/18),0.5625,POSITIVE,0.9717
+01/18/2024,Seeking Opinions on Semiconductor Giants and Uranium Stocks,0.5258,POSITIVE,0.8482
+01/17/2024,What market trends are you BULLISH on in 2024?,0.59,NEGATIVE,0.9964
+01/11/2024,Blind Stock Eval. Ticker in first comment,0.5808,NEGATIVE,0.9993
+01/08/2024,I am a ex-prop trader trading US equities and these are the stocks on my watchlist (1/8).,0.5331,POSITIVE,0.9992
+01/04/2024,is it too late to put vti types in roth at my age?,0.5025,NEGATIVE,0.7884
+01/03/2024,Could someone please help me wrap my head around with what is going on with AMD's high P/E with other indicators showing it's good?,0.5583,NEGATIVE,0.9538
+01/01/2024,How do you know when to sell a stock? Especially a profitable one ?,0.6042,POSITIVE,0.9738
+12/31/2023,My attempt at DD for INTC in 2024,0.51,NEGATIVE,0.9947
+12/30/2023,Stocks for shorting in 2024 -Would you?,0.5467,NEGATIVE,0.8421
+12/29/2023,Opinions on AMD?,0.7375,POSITIVE,0.8338
+12/28/2023,"Out of this list of tickers, which 5 would you feel the best to DCA into over 20 years",0.5314,NEGATIVE,0.554
+12/22/2023,If you could only invest in four tickers that are not etfs for maximal diversification and growth (~10 year hold),0.5995,NEGATIVE,0.9771
+12/20/2023,"Thoughts on selling covered calls - AAPL, AMD, GOOGL, AMZN",0.5675,NEGATIVE,0.8502
+12/17/2023,"If I were to DCA for 2 years into two large cap value plays for long term hold, what would you recommend?",0.5458,NEGATIVE,0.9456
+12/15/2023,"Intel shows Gaudi3 AI accelerator, promising quadruple BF16 performance in 2024, is Intel a buy now considering its low valuation",0.5511,NEGATIVE,0.9721
+12/11/2023,Energy stock or semiconductor stock?,0.725,NEGATIVE,0.8348
+12/07/2023,$AMD shares up 8% following rollout of new MI300 AI chips,0.6481,POSITIVE,0.505
+11/26/2023,Nvidia looks cheap to me now,0.565,NEGATIVE,1.0
+11/26/2023,Which companies (will) compete with NVIDIA for AI ?,0.6438,NEGATIVE,0.9738
+11/24/2023,Satya is such a good CEO,0.5667,POSITIVE,0.9902
+11/23/2023,"When is a good time to buy NVIDIA stocks, AMD and Intel?",0.6757,NEGATIVE,0.9268
+11/23/2023,"How important are the ""normal"" cores in an AI workload? Do AI-specific chips like Microsoft's actually threaten Nvidia's business?",0.5793,NEGATIVE,0.9997
+11/16/2023,"""Magnificent 7"" vs S&P 500?",0.525,NEGATIVE,0.9805
+10/31/2023,"AMD beats earnings estimates, misses Q4 guidance",0.61,NEGATIVE,0.9979
+10/21/2023,Is NVDA losing demand?,0.5167,NEGATIVE,0.9882
+10/20/2023,Suggestions on how to recover losses if I am not selling my winners,0.499,NEGATIVE,0.7524
+10/06/2023,Is there a more no-brainer stock to own now,0.7075,POSITIVE,0.999
+09/26/2023,Tesla or Nvidia or Microsoft over the next 1-3 years?,0.583,NEGATIVE,0.8255
+09/19/2023,How Competitive will AMD be against Nvidia in AI Accelerator Market,0.6992,POSITIVE,0.9642
+09/19/2023,I started investing in March 2019 and every year I'm in the red. What would you do?,0.6412,POSITIVE,0.9951
+09/17/2023,Intel is poised for a Comeback,0.5433,NEGATIVE,0.6056
+09/08/2023,"How likely is it that S&P 500, NVDA, and AMD return 10+% a year in the current economic environment? Impact of interest rates.",0.6087,NEGATIVE,0.889
+09/04/2023,"Intel claims on track to regain foundry leadership from TSMC in 2025, secures ""large customer"" for 18A node tech",0.5204,POSITIVE,0.9406
+09/03/2023,Opinion on AMD vs Intel?,0.6525,NEGATIVE,0.9466
+09/02/2023,Can you go wrong with NVIDIA and AMD?,0.6588,POSITIVE,0.9997
+08/26/2023,is it worth it to baghold blue chip stocks?,0.55,NEGATIVE,0.9638
+08/19/2023,Massive Misconception About the Writers Strike,0.4975,NEGATIVE,0.9996
+08/09/2023,This sell off,0.535,NEGATIVE,0.9846
+08/09/2023,"Here’s my portfolio, 13% return after ~1 year. What should I improve?",0.658,POSITIVE,0.9782
+08/02/2023,(8/2) Wednesday's Pre-Market Stock Movers & News,0.6433,POSITIVE,0.5931
+08/01/2023,"Advanced Micro Devices Q2 EPS $0.58 Beats $0.57 Estimate, Sales $5.36B Beat $5.32B Estimate",0.57,NEGATIVE,0.5357
+07/29/2023,"Intel $INTC earnings beat expectations which is good news for Apple $AAPL, Qualcomm $QCOM, and AMD $AMD",0.6173,POSITIVE,0.9904
+07/29/2023,Intel - not overvalued amid this euphoric market,0.565,POSITIVE,0.9953
+07/27/2023,"Intel surges as Q2 results show PC rebound underway, strong guidance",0.533,POSITIVE,0.9956
+07/26/2023,Favorite stocks to swing trade?,0.545,POSITIVE,0.9996
+07/24/2023,AMD suspicious accounting and financial statements? (Goodwill),0.5975,NEGATIVE,0.9951
+07/22/2023,Why you should never invest in INTC (Intel),0.5363,NEGATIVE,0.999
+07/21/2023,Is this going to be like the March 2020 peak?,0.5,POSITIVE,0.7083
+07/20/2023,Predictions: Next 1T company?,0.7137,NEGATIVE,0.9947
+07/19/2023,Is there a reason there’s no discussion here about Lucid stock ? Is there no comeback for Lucid to be the next big thing after Tesla ?,0.5559,NEGATIVE,0.5951
+07/19/2023,How do you buy more an individual stock that seems to be going up ... up ... up,0.636,NEGATIVE,0.9581
+07/17/2023,Investment plan for about 85 000$ USD over the coming year,0.654,POSITIVE,0.9916
+07/11/2023,Started Investing 9/2021 and Finally Break Even,0.516,NEGATIVE,0.9999
+07/11/2023,"Nvidia’s stock could fly to $550 amid ‘robust demand’ across the board in AI, analyst says",0.575,NEGATIVE,0.7804
+07/10/2023,Breaking: Nvidia’s Market Volatility Exposed as Graphics Card Price Drops Signal Intense Competition in Semiconductor Industry.,0.5329,NEGATIVE,0.9981
+07/07/2023,How are we feeling about Intel?,0.555,NEGATIVE,0.7578
+07/04/2023,Having trouble dollar cost averaging up.,0.5212,NEGATIVE,0.9991
+06/30/2023,Why Buy AMD?,0.8375,NEGATIVE,0.9906
+06/22/2023,Intel stock drops 6% as company updates chip manufacturing plans,0.6831,NEGATIVE,0.9996
+06/21/2023,4 Tech stocks benefiting from the AI boom.,0.599,POSITIVE,0.9832
+06/19/2023,"Berlin, Intel strike deal on $33 billion chip plant after months of subsidy talks",0.554,NEGATIVE,0.8991
+06/19/2023,Is AMD's PE of ~500 justified? Do people still even care about PE?,0.5606,NEGATIVE,0.9998
+06/17/2023,"Wish me luck, I went Amd this time, let's see how much ot will grow back",0.5609,POSITIVE,0.9887
+06/16/2023,Intel to invest $4.6 billion in new chip plant in Poland,0.6136,NEGATIVE,0.8369
+06/09/2023,Review my AAPL stock prediction from 2022,0.6175,NEGATIVE,0.5538
+06/08/2023,Elon Agrees that NVIDIA will dominate for a long time but not forever. Competition is coming...,0.5444,POSITIVE,0.8923
+06/04/2023,"Intel (INTC) is Underrated, Nvidia is Overrated",0.555,NEGATIVE,0.9958
+06/02/2023,"The future picks and shovels of AI may not be GPUs but ASICs, following the crypto trajectory. GOOGL and the dreaded Samsung appear to be the leaders in this space. What is the highest-weighted Samsung ETF and what are other industry-leading AI FPGA/ASICs tickers?",0.5335,NEGATIVE,0.9895
+06/01/2023,$INTC is a very undervalued AI play.,0.5738,NEGATIVE,0.9997
+05/30/2023,Nvidia CEO Says Intel's Test Chip Results For Next-Gen Process Are Good. Former competitors could be using Intel's third party foundries.,0.5555,POSITIVE,0.9823
+05/30/2023,Nvidia hits $1 trillion market cap,0.587,POSITIVE,0.7376
+05/30/2023,(5/30) Tuesday's Pre-Market Stock Movers & News,0.645,POSITIVE,0.574
+05/28/2023,Justification of AMD Intel gap,0.645,NEGATIVE,0.9512
+05/27/2023,Analyzing a Company's Potential for Rapid Expansion: #RBLX - A Glimpse into the Metaverse,0.6037,POSITIVE,0.9887
+05/27/2023,How is a stock price determined at the very beginning when markets open?,0.615,NEGATIVE,0.9424
+05/26/2023,Nvidia and The Coming Darkness,0.5567,NEGATIVE,0.9933
+05/25/2023,(5/25) Thursday's Pre-Market Stock Movers & News,0.645,POSITIVE,0.7287
+05/24/2023,"NVIDIA beat earnings, top expectations.",0.606,POSITIVE,0.6248
+05/22/2023,Micron Stock Tumbles as China Says Its Chips Are Security Risk,0.5844,NEGATIVE,1.0
+05/22/2023,Taiwan Semiconductor is a screaming buy,0.56,NEGATIVE,0.9995
+05/15/2023,"Give me a stock and name me its main competitor, i will deliver an in deep DD about the most voted one next week + an Equity Evaluation",0.5689,NEGATIVE,0.6145
+05/12/2023,Are we there yet ?,0.48,POSITIVE,0.9446
+05/10/2023,High dividend return stocks,0.56,POSITIVE,0.9566
+05/10/2023,Best way to hedge my overexposure on AMD?,0.624,NEGATIVE,0.5677
+05/06/2023,"High PE tech stocks sorted with Palo Alto, SalesForce, AMD, NVDA, ServiceNow tops the list",0.5585,POSITIVE,0.995
+05/04/2023,"AMD shares jump over 6% following collaboration with Microsoft on new AI chip codenamed ""Athena""",0.6191,POSITIVE,0.5576
+05/04/2023,Is there a hardware technology index fund to buy?,0.593,NEGATIVE,0.9471
+05/03/2023,(5/3) Wednesday's Pre-Market Stock Movers & News,0.6433,POSITIVE,0.7536
+05/02/2023,"Advanced Micro Devices Q1 EPS $0.60 Beats $0.56 Estimate, Sales $5.35B Beat $5.30B Estimate",0.5683,POSITIVE,0.5319
+05/01/2023,Softbank files for ARM IPO. Looking to raise $8-10b. I'm not buying.,0.5606,NEGATIVE,1.0
+04/30/2023,The Semiconductor/Chip Bubble,0.535,POSITIVE,0.6551
+04/24/2023,EU Chips act passed - who will win?,0.514,NEGATIVE,0.8866
+04/19/2023,Nvidia stock pops on HSBC upgrade: 'We're shocked by Nvidia's pricing power on AI',0.6014,NEGATIVE,0.9989
+04/14/2023,"Wall Street Week Ahead for the trading week beginning April 17th, 2023",0.5622,POSITIVE,0.8912
+04/06/2023,Changes in this sub/cash on the sidelines = bullish for growth stocks?,0.5543,NEGATIVE,0.9994
+03/31/2023,Intel Gains 6% GPU market share to almost match AMD in less than a year.,0.6675,POSITIVE,0.8068
+03/29/2023,19 and Need Advice!,0.495,NEGATIVE,0.7948
+03/20/2023,"Thinking of going with $45,000 in the market tomorrow for at least 2 qtrs",0.5483,NEGATIVE,0.988
+03/16/2023,"safe haven The stock market is red-eyed. At present, it is not only bank stocks but also energy stocks that are killing.",0.5988,NEGATIVE,0.9857
+03/09/2023,Will there be a bigger crash soon.,0.5083,NEGATIVE,0.7633
+03/09/2023,Questions regarding options trading and relationship to stock price,0.5829,POSITIVE,0.5885
+03/06/2023,"Looking for stock picks for A.I., Green Energy, and 3D Printing",0.5679,NEGATIVE,0.8934
+02/26/2023,"What's the biggest ""I told you so"" stock moment?",0.6063,NEGATIVE,0.9989
+02/23/2023,Stocks VS Index and ETFs investing.,0.542,NEGATIVE,0.5481
+02/11/2023,Non alcoholic beverage stock(s) to buy?,0.62,NEGATIVE,0.9132
+02/08/2023,Investing Themes for the Next 20-30 Years,0.5563,POSITIVE,0.9995
+02/05/2023,Top 25 Large-Cap/Mega-Cap Stocks During the Low Interest Era: A Look Ahead,0.5314,POSITIVE,0.9934
+02/02/2023,"CEO Lisa Su confirmed that AMD has been “undershipping” chips for a while now to keep CPU, GPU prices elevated",0.5571,POSITIVE,0.7763
+02/01/2023,(2/1) Wednesday's Pre-Market Stock Movers & News,0.6433,NEGATIVE,0.723
+01/31/2023,AMD Earnings - beats on sales and profit but warns of a 10% revenue decline in Q1,0.6611,NEGATIVE,0.9786
+01/29/2023,"Apple and Amazon Earnings, a Federal Reserve Decision, January Jobs Data, and More for Investors to Watch This Week",0.5458,POSITIVE,0.9829
+12/4/2024,I Want to Hear Your Thoughts on the Qualities Intel’s Next CEO Should Have and Why,0.5386,POSITIVE,0.9959
+12/5/2024,TSMC in talks with Nvidia for AI chip production in Arizona,0.5779,NEGATIVE,0.6856
+12/7/2024,SMCI Recovery and loose DD,0.5075,POSITIVE,0.8302
+12/8/2024,SMCI Recovery and loose DD,0.5075,POSITIVE,0.8302
+12/9/2024,"$260+ down in AMD, should I buy more or sell it off? Will the long term investment pay off here?",0.6421,NEGATIVE,0.9956
+12/9/2024,Why I'm bullish on Intel (INTC),0.6375,NEGATIVE,0.9993
+12/10/2024,Top 10 Non-US Stocks,0.5663,POSITIVE,0.9985
+12/12/2024,Missed NVIDIA Surge? Three AI potential stocks are waiting for your chance!,0.5717,NEGATIVE,0.9996
+12/13/2024,Semiconductor Stocks Exposed To China With Tariffs Incoming,0.5392,NEGATIVE,0.9992

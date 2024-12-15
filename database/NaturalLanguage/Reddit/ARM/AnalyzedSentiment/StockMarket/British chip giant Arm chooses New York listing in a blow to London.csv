@@ -1,0 +1,15 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,"At one point in time, Apple, Inc owned shares in Arm.",0,0.543,0.529,POSITIVE
+,,"To me, the more interesting fact is the recent (2020/22) takeover by Nvidia fell through",1,0.502,0.984,NEGATIVE
+,,"It was a good thing, more competition. I wish the same thing happened with Disney.",2,0.51,0.503,POSITIVE
+,,Facts,3,0.5,0.997,POSITIVE
+,,Wow…,2,0.5,0.988,POSITIVE
+,,lots of perks with the CHIPS bill,0,0.505,0.998,POSITIVE
+,,On the LSE you have to pay stamp duty reserve tax of 0.5% when buying stocks. No wonder they choose listing on the NYSE.,0,0.515,0.982,NEGATIVE
+,,Brexit means Brexit,0,0.498,0.995,NEGATIVE
+,,I thought they called them Crips over the pond,0,0.506,0.998,NEGATIVE
+,,Anybody know if the IPO this year?,0,0.677,0.947,NEGATIVE
+,,Brexit has consequences. Who knew?,0,0.5,0.987,NEGATIVE
+,,lord sugar leaves ze room in protest,0,0.499,0.981,NEGATIVE
+,,"Nope, by a Japanese business called Softbank. Their Vision Fund had not performed well so they have been disposing of some assets such as ARM.",1,0.545,1.0,NEGATIVE
+,,"That's odd, I also thought that you thought ARM was owned by a Chinese company.",1,0.632,1.0,NEGATIVE

@@ -1,0 +1,6 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,ARM IPO should be great for INTC.,0,0.519,0.837,NEGATIVE
+,,INTC is a terrible company. Even worse investment.,1,0.637,1.0,NEGATIVE
+,,Intel is not a terrible company. They are doing poorly now but you are talking about a huge chip manufacturer that has some backing by the US government. I don’t hold intel but I will definitely be watching them for an entry point.,2,0.567,0.979,NEGATIVE
+,,Good luck. Dead money.,3,0.526,1.0,NEGATIVE
+,,What's the number of stocks units for this IPO?,0,0.529,0.997,NEGATIVE

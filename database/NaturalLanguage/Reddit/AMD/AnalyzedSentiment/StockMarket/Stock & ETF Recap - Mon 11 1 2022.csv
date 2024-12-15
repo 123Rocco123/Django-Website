@@ -1,0 +1,9 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,Aah red the color of love,0,0.505,0.999,POSITIVE
+,,Another bloody day in tech and comms. Goog down 4%!,0,0.52,1.0,NEGATIVE
+,,"yes, more of the same.",1,0.5,0.876,POSITIVE
+,,Microsoft just keeps bleeding,0,0.522,1.0,NEGATIVE
+,,Do you think it’s warranted or just all tech getting punished?,1,0.517,0.998,NEGATIVE
+,,All tech being revalued. It will recover eventually,2,0.52,0.974,NEGATIVE
+,,Meta bounced back a little bit. #IBelieveInZuck LOL,0,0.501,0.81,NEGATIVE
+,,"LOL, that hashtag. You and Cramer! Meta has a long way to go to get back in my good graces!",1,0.527,0.888,POSITIVE

@@ -1,0 +1,20 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Outlook,Flair Sentiment
+,,"Apple, that cute little consumer electronics company, is projected to have only 3x the next 12 months' revenue and about half of Nvidia's EBITDA margin.And guess what? It's not crazy to think Nvidia might surpass Microsoft soon too, being only 22.07% away!",0,0.559,NEGATIVE,1.0
+,,"Hey, is that table in excel? Does it update automatically with the latest prices?",1,0.502,NEGATIVE,0.972
+,,"If it’s a Google sheet, yes",2,0.507,POSITIVE,0.79
+,,Thank you for sharing,3,0.5,POSITIVE,0.928
+,,You are very welcome!,4,0.53,POSITIVE,0.995
+,,"It does. I did the update in the middle of the day, not the market close. So the stock price looks slightly different",2,0.576,POSITIVE,0.974
+,,Where did you get this data from? Very compelling and exciting,0,0.522,POSITIVE,1.0
+,,I paid for an API service,1,0.568,NEGATIVE,0.995
+,,"Nice, thanks for sharing with everyone here. Great data set and chart, looking forward to next month’s set.",2,0.528,POSITIVE,0.983
+,,"You are welcome. I want to share this on a weekly basis when I have more time, stay tune.",3,0.546,POSITIVE,0.877
+,,Which api mention please,2,0.502,POSITIVE,0.898
+,,"Not to burst your bubble, but using just using even a free trading software like ThinkorSwim will get you this for free.",2,0.518,POSITIVE,0.986
+,,Thanks for sharing! :-) Look at that NVDA % Change YTD!!!,0,0.51,POSITIVE,0.834
+,,:) stay tune for more update!,1,0.505,NEGATIVE,0.96
+,,The 10/1 split in June will skyrocket their stock even more!,0,0.592,NEGATIVE,0.998
+,,"Fuck the big three, it's just big nv.",0,0.535,NEGATIVE,0.968
+,,"When researching stocks, obviously you can’t tell the future but how would one be able to ascertain that perhaps a stock could end up like Nvidia. What are the tells, if any?",0,0.559,POSITIVE,0.988
+,,"If there were, every single person on earth would be rich. Also, 90% of the jobs in capital markets trading would be gone.Serious answer: there are theses one can develop, but are more likely to be wrong, and take years to develop. For example: The early 2000s. Even if you had developed the idea of a smartphone like the iPhone, that’s great—but what company is going to do it? Motorola? BlackBerry?Same goes for NVDA, you could have the correct thesis about AI and the resulting chip demand, but choose AMD instead.Most stocks that end up like NVDIA are a result of game changing innovations. Samsung could’ve been what Apple is, and no one would’ve been able to actually predict it. Hope that makes sense.",1,0.542,NEGATIVE,0.999
+,,call it enron,0,0.508,POSITIVE,0.975

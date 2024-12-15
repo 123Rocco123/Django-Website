@@ -1,0 +1,6 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Sentiment,Flair Outlook
+,,Looks like only MDFT has the biggest impact. As wel as nividia,0,0.504,0.924,POSITIVE
+,,"Many news articles about MSFT and NVDA have been published. However, I think I made a mistake by evaluating only news published during market hours. If I also consider news published outside of market hours, NVDA's ranking would be much higher in y axis cumulative %",1,0.543,0.98,NEGATIVE
+,,os this the amount of times a company says it or something else?,0,0.627,0.998,NEGATIVE
+,,os this the amount of times a company says it or something else?The size of the circles represents the number of news articles where a company's name and AI-related terms are mentioned,1,0.608,1.0,NEGATIVE
+,,Was AI used for this sample?,0,0.593,1.0,NEGATIVE
