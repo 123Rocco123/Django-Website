@@ -26,3 +26,38 @@
     background-color: white;
 }
 
+.stock-list {
+    list-style: none;
+    padding: 0;
+}
+
+.stock-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    font-size: 1.1rem;
+}
+
+.stock-logo {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.stock-name {
+    flex-grow: 1;
+    color: black;
+}
+
+.stock-arrow {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.stock-up {
+    color: green;
+}
+
+.stock-down {
+    color: red;
+}
