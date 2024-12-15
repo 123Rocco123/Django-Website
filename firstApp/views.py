@@ -1,6 +1,16 @@
 import os
+import time
+import requests
+
+import pandas as pd
 
 from datetime import date
+
+# Used for reading websites
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.chrome.options import Options
 
 from plotly.offline import plot
 from plotly.graph_objs import Scatter
