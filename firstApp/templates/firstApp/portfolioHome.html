@@ -17,20 +17,20 @@
         {% endautoescape %}
       </div>
 
-
       <div class="col-md-2 col-12 p-3 watchList">
         <ul class="stock-list">
             {% for stock in stocks %}
-            <li class="stock-item">
-              <img src="{% static 'firstApp/images/' %}{{ stock.name }}.png" alt="{{ stock.name }} Logo" class="stock-logo">
+            <li class="stock-item" data-stock-name="{{ stock.name }}">
+                <img src="{% static 'firstApp/images/' %}{{ stock.name }}.png" alt="{{ stock.name }} Logo" class="stock-logo">
                 <span class="stock-name">{{ stock.name }}</span>
-                <span class="stock-price">{{stock.currency}}{{ stock.price }}</span>
+                <span class="stock-price">{{ stock.currency }}{{ stock.price }}</span>
                 {% if stock.is_profitable %}
                     <span class="stock-arrow stock-up">&#9650;</span>
                 {% else %}
                     <span class="stock-arrow stock-down">&#9660;</span>
                 {% endif %}
             </li>
+          
             {% endfor %}
         </ul>
       </div>
