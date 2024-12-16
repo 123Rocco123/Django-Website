@@ -15,6 +15,8 @@ urlpatterns = [
 
     # Contains the view link to the user's homepage
     path("home/", views.portfolioHome, name = "portfolioHome"),
+    # Used to change the graph to the user specified stock
+    path('get-stock-graph/', views.get_stock_graph, name='get_stock_graph'),
     
     # Different path means that its a subdirectory
     path("idea", views.projectIdea, name = "projectIdea"),
