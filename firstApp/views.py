@@ -188,12 +188,13 @@ def get_stock_graph(request):
         print(f"Error fetching stock graph: {e}")
         return JsonResponse({'error': 'An unexpected error occurred'}, status=500)
 
+def portfolioHome(request):
     # Variable used to contain the file names of the tracked stocks
         # Used so that we can display the options (initially only)
     allowedStocks = [{"name" : stock, "currency" : returnCurrency(stock), "price" : returnPrice(stock), "logo" : checkForLogo(stock), "is_profitable" : returnIsProfitable(stock)}
                      for stock in os.listdir(f"{os.getcwd()}/database/StockValues/")]
 
-    return render(request, 'firstApp/portfolioHome.html', context={'plot_div': plot_div, "stocks" : allowedStocks})
+    return render(request, 'firstApp/portfolioHome.html', context={"stocks" : allowedStocks})
 
 def register(request):
     return render(request, 'firstApp/createAccount.html')
