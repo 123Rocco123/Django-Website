@@ -145,13 +145,48 @@ def index(request):
                                                    "importantMessages" : importantMessages,
                                                    "footer" : footer})
 
-def portfolioHome(request):
-    x_data = [0,1,2,3]
-    y_data = [x**2 for x in x_data]
-    plot_div = plot([Scatter(x=x_data, y=y_data,
-                        mode='lines', name='test',
-                        opacity=0.8, marker_color='green')],
-               output_type='div')
+def get_stock_graph(request):
+    stock_name = request.GET.get('stock_name')  # Get the stock name from the GET parameter
+    if not stock_name:
+        return JsonResponse({'error': 'Stock name is required'}, status=400)
+    
+    try:
+        file_path = os.path.join(os.getcwd(), "database", "StockValues", stock_name, f"{stock_name}.csv")
+        if not os.path.exists(file_path):
+            return JsonResponse({'error': f'Stock data for {stock_name} not found'}, status=404)
+
+        file = pd.read_csv(file_path)  # Load the last 20 records
+        if file.empty or "date" not in file or "Close" not in file:
+            return JsonResponse({'error': f'Invalid data in {file_path}'}, status=400)
+
+        # Prepare the data for Plotly
+        x_data = file["date"].tolist()
+        y_data = file["Close"].tolist()
+
+        # Return the data needed for Plotly.newPlot
+        graph_data = {
+            "data": [
+                {
+                    "x": x_data,
+                    "y": y_data,
+                    "type": "scatter",
+                    "mode": "lines",
+                    "name": stock_name,
+                    "opacity": 0.8,
+                    "line": {"color": "green"}
+                }
+            ],
+            "layout": {
+                "title": f"{stock_name} Stock Prices",
+                "xaxis": {"title": "Date"},
+                "yaxis": {"title": "Close Price"}
+            }
+        }
+        return JsonResponse(graph_data, status=200)
+    
+    except Exception as e:
+        print(f"Error fetching stock graph: {e}")
+        return JsonResponse({'error': 'An unexpected error occurred'}, status=500)
 
     # Variable used to contain the file names of the tracked stocks
         # Used so that we can display the options (initially only)
