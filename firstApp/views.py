@@ -173,15 +173,28 @@ def get_stock_graph(request):
                     "mode": "lines",
                     "name": stock_name,
                     "opacity": 0.8,
-                    "line": {"color": "green"}
+                    "line": {"color": "black"}
                 }
             ],
-            "layout": {
-                "title": f"{stock_name} Stock Prices",
-                "xaxis": {"title": "Date"},
-                "yaxis": {"title": "Close Price"}
-            }
-        }
+            "layout" : {
+            "title": f"{stock_name} Stock Prices",
+            "xaxis": {
+                "title": {
+                    "text": "Date",
+                    "standoff": 20  # Space between title and axis ticks (better way)
+                },
+                "autorange": True,  # Auto-adjust the x-axis range
+                "ticks": "outside",  # Ensure ticks are outside the plot for more spacing
+                "showgrid": True,  # Optional: Show grid lines for better clarity
+            },
+            "yaxis": {
+                "title": "Close Price",
+                "autorange": True,  # Auto-adjust the y-axis range
+                "range": [min(y_data) * 0.9, max(y_data) * 1.1],  # Set a zoomed-out y-axis range
+            },
+            "autosize": True,
+            "margin": {"l": 50, "r": 50, "t": 50, "b": 100},  # Increase bottom margin for space
+        }}
         return JsonResponse(graph_data, status=200)
     
     except Exception as e:
