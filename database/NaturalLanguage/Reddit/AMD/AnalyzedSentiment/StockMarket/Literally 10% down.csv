@@ -1,0 +1,9 @@
+date of comment,main comment,comment,depth,PTR Sentiment,Flair Outlook,Flair Sentiment
+,nan,You might want to ditch stocks headquartered outside the US.,0,0.533,NEGATIVE,0.985
+,nan,how are you this stupid with this amount of money,0,0.508,NEGATIVE,0.999
+,nan,Isn't that $27k?,1,0.5,NEGATIVE,0.921
+,nan,what do u mean,1,0.487,NEGATIVE,0.826
+,nan,i’m much more stupid with much more money,2,0.516,NEGATIVE,1.0
+,nan,Theyre just buying shitterstocks,2,0.502,NEGATIVE,0.999
+,nan,If you can’t beat a savings account yield/ bond yield why invest into stocks at all.,0,0.542,NEGATIVE,0.66
+,nan,NIO and VFSYikes bro,0,0.5,POSITIVE,0.894
