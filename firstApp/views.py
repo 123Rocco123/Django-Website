@@ -201,6 +201,27 @@ def get_stock_graph(request):
         print(f"Error fetching stock graph: {e}")
         return JsonResponse({'error': 'An unexpected error occurred'}, status=500)
 
+# Function used to return the news articles for the specific user selected stock
+def getStockArticles(request):
+    stock_name = request.GET.get('stock_name')
+
+    if not stock_name:
+        return JsonResponse({'error': 'Stock name is required'}, status=400)
+    
+    # Path to the articles file
+    file_path = os.path.join(os.getcwd(), "database", "NaturalLanguage", "Newspapers", stock_name, "articles.csv")
+    
+    if not os.path.exists(file_path):
+        return JsonResponse({'error': f'Stock data for {stock_name} not found'}, status=404)
+
+    try:
+        articles_df = pd.read_csv(file_path).tail(25)
+        articles = articles_df.to_dict(orient='records')
+        
+        return JsonResponse({'articles': articles}, status=200)
+    except Exception as e:
+        return JsonResponse({'error': 'Failed to read articles', 'details': str(e)}, status=500)
+
 def portfolioHome(request):
     # Variable used to contain the file names of the tracked stocks
         # Used so that we can display the options (initially only)
