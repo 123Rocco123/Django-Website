@@ -251,9 +251,11 @@ def getStockArticles(request):
         return JsonResponse({'error': f'Stock data for {stock_name} not found'}, status=404)
 
     try:
-        articles_df = pd.read_csv(file_path).tail(25)
-        articles = articles_df.to_dict(orient='records')
-        
+        # Reads the articles file and returns the 25 most recent articles
+        articles_df = returnedOrderedDate(pd.read_csv(file_path), "Date Posted").tail(25)
+        # Returns the inverted dictionary so as to display the most recent articles first
+        articles = articles_df.to_dict(orient='records')[::-1]
+
         return JsonResponse({'articles': articles}, status=200)
     except Exception as e:
         return JsonResponse({'error': 'Failed to read articles', 'details': str(e)}, status=500)
