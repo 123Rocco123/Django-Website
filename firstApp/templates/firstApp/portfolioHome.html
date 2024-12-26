@@ -16,23 +16,33 @@
             {{ plot_div }}
         {% endautoescape %}
       </div>
-
-      <div class="col-md-2 col-12 p-3 watchList">
-        <ul class="stock-list">
-            {% for stock in stocks %}
-            <li class="stock-item" data-stock-name="{{ stock.name }}">
-                <img src="{% static 'firstApp/images/' %}{{ stock.name }}.png" alt="{{ stock.name }} Logo" class="stock-logo">
-                <span class="stock-name">{{ stock.name }}</span>
-                <span class="stock-price">{{ stock.currency }}{{ stock.price }}</span>
-                {% if stock.is_profitable %}
-                    <span class="stock-arrow stock-up">&#9650;</span>
-                {% else %}
-                    <span class="stock-arrow stock-down">&#9660;</span>
-                {% endif %}
-            </li>
-            {% endfor %}
-        </ul>
+    
+    <div class="col-md-2 col-12 p-3 sideLists">
+        <div class="watchList mb-3">
+            <ul class="stock-list">
+                {% for stock in stocks %}
+                <li class="stock-item" data-stock-name="{{ stock.name }}">
+                    <img src="{% static 'firstApp/images/' %}{{ stock.name }}.png" alt="{{ stock.name }} Logo" class="stock-logo">
+                    <span class="stock-name">{{ stock.name }}</span>
+                    <span class="stock-price">{{ stock.currency }}{{ stock.price }}</span>
+                    {% if stock.is_profitable %}
+                        <span class="stock-arrow stock-up">&#9650;</span>
+                    {% else %}
+                        <span class="stock-arrow stock-down">&#9660;</span>
+                    {% endif %}
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    
+        <div class="predictionList">
+          <h5>Prediction Models</h5>
+          <ul class="model-list">
+              <!-- Models will be dynamically added here -->
+          </ul>
       </div>
+    </div>
+  
     </div>
 
   <div class="row g-3">
