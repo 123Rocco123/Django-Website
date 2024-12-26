@@ -48,6 +48,25 @@ def returnCurrency(stock):
         if stock in currencies[values]:
             return values
 
+# Function used to order the values in the dataframe by the datetime
+def returnedOrderedDate(dataframe, dateColumn="date"):
+    # Converts the date column to a datetime object
+    dataframe[dateColumn] = pd.to_datetime(dataframe[dateColumn])
+    # Orders the dataframe by the date column
+    dataframe = dataframe.sort_values(by=dateColumn)
+
+    # Contains the array used for the datetime column
+        # In string format
+    dateColumnArr = []
+    # Iterates through the date column to convert and add the string date to the dateColunn
+    for date in dataframe[dateColumn]:
+        dateColumnArr.append(f"{date.month}/{date.day}/{date.year}")
+
+    # Converts the date column back to a string
+    dataframe[dateColumn] = dateColumnArr
+
+    return dataframe
+
 # LOGO FUNCTIONS
 
 # Function used to set driver to headless mode
