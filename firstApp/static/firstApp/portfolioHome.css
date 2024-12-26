@@ -7,13 +7,34 @@
     background-color: rgb(65, 65, 65);
 }
 
-.graphContainer, .watchList {
+.graphContainer {
     height: 60vh;
     overflow: scroll;
 
     background-color: white;
     
     border-radius: 10px;
+    border: 1px solid black;
+}
+
+.sideLists {
+    display: flex;
+    /* Stacks the child elements vertically */
+    flex-direction: column;
+    /* Match the height of the graphContainer */
+    height: 62.5vh;
+    margin: 0px;
+}
+
+.watchList, .predictionList {
+    padding: 10px;
+    overflow-y: scroll;
+    background-color: white;
+    
+    /* Each takes half the available space */
+    flex: 1;
+    border-radius: 10px;
+    /* Space between the two lists */
     border: 1px solid black;
 }
 
@@ -25,8 +46,10 @@
     border: 1px solid black;
     background-color: white;
 
-    overflow-y: scroll; /* Ensures vertical scrolling */
-    overflow-x: hidden; /* Hides horizontal overflow (if not needed) */
+    /* Ensures vertical scrolling */
+    overflow-y: scroll;
+    /* Hides horizontal overflow (if not needed) */
+    overflow-x: hidden;
 }
 
 .news-article {
@@ -69,21 +92,54 @@
     text-decoration: underline;
 }
 
-.stock-list {
+.predictionList h4 {
+    text-align: center;
+}
+
+/* Style for the buttons in the prediction list */
+.prediction-button {
+    border: 1px solid #ccc; /* Matches the stock-list border style */
+    border-radius: 5px; /* Adds slight rounding for a modern look */
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%; /* Makes the button take up the full width */
+    padding: 10px; /* Adds padding for a better appearance */
+    margin-bottom: 5px; /* Adds spacing between buttons */
+    font-size: 1.1rem; /* Ensures font size matches the stock-list items */
+    color: black; /* Text color */
+    background-color: white; /* Button background */
+    cursor: pointer; /* Shows pointer cursor on hover */
+}
+
+/* Hover effect for buttons */
+.prediction-button:hover {
+    background-color: #f5f5f5; /* Matches the stock-list hover effect */
+}
+
+/* Align text to the center */
+.prediction-button span {
+    flex-grow: 1; /* Ensures the text spans the button */
+    text-align: center;
+}
+
+.stock-list, .model-list {
     list-style: none;
     padding: 0;
 }
 
 .stock-item {
     display: flex;
-    align-items: center;
-    margin-bottom: 5px;
     font-size: 1.1rem;
-
-    cursor: pointer;
-    padding: 10px;
-    border: 1px solid #ccc;
+    margin-bottom: 5px;
+    border-radius: 5px;
     align-items: center;
+
+    padding: 10px;
+    cursor: pointer;
+    align-items: center;
+    border: 1px solid #ccc;
 }
 
 .stock-item:hover {
