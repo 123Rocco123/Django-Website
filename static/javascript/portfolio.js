@@ -244,6 +244,13 @@ document.addEventListener("DOMContentLoaded", function () {
                         data.priceTargets.forEach(entry => {
                             const row = document.createElement('tr');
 
+                            // Check the boolean value of entry.more
+                            if (entry.more === true) {
+                                row.style.backgroundColor = 'rgba(144, 238, 144, 0.5)'; // Light green for True
+                            } else if (entry.more === false) {
+                                row.style.backgroundColor = 'rgba(255, 99, 71, 0.5)'; // Light red for False
+                            }
+
                             row.innerHTML = `
                                 <td>${entry.date}</td>
                                 <td>${entry.low}</td>
@@ -257,7 +264,7 @@ document.addEventListener("DOMContentLoaded", function () {
                             priceTargetBody.appendChild(row);
                         });
                     })
-            .catch(error => console.error('Error fetching recommendations:', error));
+                    .catch(error => console.error('Error fetching recommendations:', error));
         });
     });
 });
