@@ -310,6 +310,56 @@ def getStockValues(request):
     except Exception as e:
         return JsonResponse({'error': str(e)}, status=500)
 
+def get_model_prediction(request):
+    stock_name = request.GET.get('stock_name')
+    model_name = request.GET.get('model_name')
+
+    if not stock_name or not model_name:
+        return JsonResponse({'error': 'Stock name and model name are required'}, status=400)
+    
+    try:
+        file_path = os.path.join(f"{os.getcwd()}/database/Predictions/{stock_name}/linearRegression", f"{model_name}.csv")
+        if not os.path.exists(file_path):
+            return JsonResponse({'error': f'Model data for {model_name} not found'}, status=404)
+
+        file = pd.read_csv(file_path)
+
+        if file.empty or "date" not in file or "daily prediction" not in file:
+            return JsonResponse({'error': 'Invalid data in model file'}, status=400)
+        
+        else:
+            # Organizes the dataframe by the date
+            file = returnedOrderedDate(file)
+            file = removeIncorrectDates(stock_name, file)
+
+            # Ensure date and prediction arrays match
+            dates = pd.to_datetime(file["date"])
+            predictions = file["daily prediction"].tolist()
+
+            if len(dates) < len(predictions):
+                # Calculate the interval between dates
+                date_diff = dates.diff().mean()  # Average difference
+                if pd.isna(date_diff):  # Handle edge case for single date
+                    date_diff = pd.Timedelta(days=1)
+                
+                # Generate additional dates
+                extra_dates = [dates.iloc[-1] + i * date_diff for i in range(1, len(predictions) - len(dates) + 1)]
+                # Extend the dates list
+                dates = dates.tolist() + extra_dates
+
+            # Convert extended dates back to strings for JSON response
+            extended_dates = [date.strftime(f'{date.month}/{date.day}/{date.year}') for date in dates]
+
+            return JsonResponse({
+                "data": {
+                    "x": extended_dates,
+                    "y": predictions
+                }
+            }, status=200)
+
+    except Exception as e:
+        return JsonResponse({'error': 'An unexpected error occurred', 'details': str(e)}, status=500)
+
 def portfolioHome(request):
     # Variable used to contain the file names of the tracked stocks
         # Used so that we can display the options (initially only)
