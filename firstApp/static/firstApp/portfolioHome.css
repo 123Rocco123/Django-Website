@@ -7,6 +7,28 @@
     background-color: rgb(65, 65, 65);
 }
 
+.stockValues {
+    height: 60vh;
+    margin: 2.5px;
+    overflow: scroll;
+
+    background-color: white;
+    
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.stockValues h3 {
+    text-align: center;
+}
+
+.stockValues .tableContent thead {
+    background-color: #f2f2f2; /* Light gray background for headers */
+    position: sticky; /* Make the header row sticky */
+    top: 0; /* Stick to the top of the container */
+    z-index: 1; /* Ensure the headers appear above other content */
+}
+
 .graphContainer {
     height: 60vh;
     overflow: scroll;
