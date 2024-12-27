@@ -278,6 +278,38 @@ def getStockArticles(request):
     except Exception as e:
         return JsonResponse({'error': 'Failed to read articles', 'details': str(e)}, status=500)
 
+# Function used to return the daily stock values for the clicked stock
+def getStockValues(request):
+    stock_name = request.GET.get('stock_name')
+
+    if not stock_name:
+        return JsonResponse({'error': 'Stock name is required'}, status=400)
+    
+    try:
+        file_path = os.path.join(os.getcwd(), "database", "StockValues", stock_name, f"{stock_name}.csv")
+        if not os.path.exists(file_path):
+            return JsonResponse({'error': f'Stock data for {stock_name} not found'}, status=404)
+
+        file = pd.read_csv(file_path)
+        if file.empty or "date" not in file or "Close" not in file:
+            return JsonResponse({'error': f'Invalid data in {file_path}'}, status=400)
+
+        # Prepare the data for the response
+        stock_values = file.to_dict(orient="records")
+        for entry in stock_values:
+            # If condition used to make sure that the stock value is readable when its worth much less
+                # And becomes more readable when its worth more
+            entry["open"]     = round(entry["Open"], 4) if entry["Open"] < 1 else round(entry["Open"], 2)
+            entry["high"]     = round(entry["High"], 4)
+            entry["low"]      = round(entry["Low"], 4)
+            entry["closing"]  = round(entry["Close"], 4)
+            entry["volume"]   = entry["Volume"]
+
+        return JsonResponse({"stock_values": stock_values[::-1]}, status=200)
+
+    except Exception as e:
+        return JsonResponse({'error': str(e)}, status=500)
+
 def portfolioHome(request):
     # Variable used to contain the file names of the tracked stocks
         # Used so that we can display the options (initially only)
