@@ -11,6 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
     graphContainer.innerHTML = "<p>Select a stock to view its graph.</p>";
     newsContainer.innerHTML = "<p>Select a stock to view its related news.</p>";
     predictionContainer.innerHTML = "<p>Select a stock to view prediction models.</p>";
+    dailyStockTableBody.innerHTML = "<p>Select a stock to view daily values.</p>";
 
     const stockItems = document.querySelectorAll('.stock-item');
     stockItems.forEach(item => {
@@ -224,4 +225,3 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     });
 });
-
