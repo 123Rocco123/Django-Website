@@ -310,6 +310,30 @@ def getStockValues(request):
     except Exception as e:
         return JsonResponse({'error': str(e)}, status=500)
 
+# Function used to return the recommendations made by instiutions about the selected stock
+def returnRecommendations(request):
+    stock_name = request.GET.get('stock_name')
+
+    # Contains the dataframe for the recommendations
+    recommendationValues = pd.read_csv(f"{os.getcwd()}/database/Company/{stock_name}/recommendations/analystRecommendations.csv")
+
+    if recommendationValues.empty or "date" not in recommendationValues:
+        return JsonResponse({'error': f'Invalid data in {os.path.abspath(recommendationValues)}'}, status=400)
+
+    # Prepare the data for the response
+    stock_values = recommendationValues.to_dict(orient="records")
+
+    for entry in stock_values:
+        entry["date"]        = entry["date"]
+        entry["strong_buy"]  = entry["strongBuy"]
+        entry["buy"]         = entry["buy"]
+        entry["hold"]        = entry["hold"]
+        entry["sell"]        = entry["sell"]
+        entry["strong_sell"] = entry["strongSell"]
+        entry["total"]       = entry["number of analysts"]
+
+    return JsonResponse({"recommendations": stock_values[::-1]}, status=200)
+
 def get_model_prediction(request):
     stock_name = request.GET.get('stock_name')
     model_name = request.GET.get('model_name')
