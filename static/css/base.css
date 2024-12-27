@@ -4,7 +4,8 @@
 }
 
 /* Used to set the background color for the page */
-body {
+html, body {
+    overscroll-behavior: none;
     background-color: rgb(31, 31, 31) !important;
 }
 
