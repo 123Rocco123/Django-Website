@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const graphContainer = document.querySelector('.graphContainer');
     const newsContainer = document.querySelector('.news');
     const predictionContainer = document.querySelector('.predictionList');
+    const dailyStockTableBody = document.querySelector(".dailyStockTable tbody");
 
     // Store the currently displayed prediction trace
     let currentPredictionTrace = null;
@@ -20,6 +21,7 @@ document.addEventListener("DOMContentLoaded", function () {
             graphContainer.innerHTML = "<p>Loading graph...</p>";
             newsContainer.innerHTML = "<p>Loading news...</p>";
             predictionContainer.innerHTML = "<p>Loading prediction models...</p>";
+            dailyStockTableBody.innerHTML = "<tr><td colspan='4'>Loading stock data...</td></tr>";
 
             // Fetch and render the stock graph
             fetch(`/get-stock-graph/?stock_name=${encodeURIComponent(stockName)}`)
@@ -151,6 +153,39 @@ document.addEventListener("DOMContentLoaded", function () {
                     console.error('Error fetching prediction models:', error);
                     predictionContainer.innerHTML = `<p>Could not load prediction models. Please try again later.</p>`;
                 });
+
+            // Fetch and update the daily stock values
+            fetch(`/get-stock-values/?stock_name=${encodeURIComponent(stockName)}`)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    dailyStockTableBody.innerHTML = "";
+                    if (data.stock_values && data.stock_values.length > 0) {
+                        data.stock_values.forEach(stock => {
+                            const row = document.createElement("tr");
+                            row.innerHTML = `
+                                <td>${stock.date}</td>
+                                <td>${stock.open}</td>
+                                <td>${stock.high}</td>
+                                <td>${stock.low}</td>
+                                <td>${stock.closing}</td>
+                                <td>${stock.volume}</td>
+                            `;
+                            dailyStockTableBody.appendChild(row);
+                        });
+                    } else {
+                        dailyStockTableBody.innerHTML = "<tr><td colspan='4'>No stock data available for this stock.</td></tr>";
+                    }
+                })
+                .catch(error => {
+                    console.error('Error fetching stock values:', error);
+                    dailyStockTableBody.innerHTML = "<tr><td colspan='4'>Could not load stock data. Please try again later.</td></tr>";
+                });
         });
     });
 });
+
