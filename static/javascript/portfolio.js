@@ -245,10 +245,11 @@ document.addEventListener("DOMContentLoaded", function () {
                             const row = document.createElement('tr');
 
                             // Check the boolean value of entry.more
+                                // If true, set the row color to light green
                             if (entry.more === true) {
-                                row.style.backgroundColor = 'rgba(144, 238, 144, 0.5)'; // Light green for True
+                                row.style.backgroundColor = 'rgba(144, 238, 144, 0.5)';
                             } else if (entry.more === false) {
-                                row.style.backgroundColor = 'rgba(255, 99, 71, 0.5)'; // Light red for False
+                                row.style.backgroundColor = 'rgba(255, 99, 71, 0.5)';
                             }
 
                             row.innerHTML = `
@@ -258,7 +259,6 @@ document.addEventListener("DOMContentLoaded", function () {
                                 <td>${entry.mean}</td>
                                 <td>${entry.median}</td>
                                 <td>${entry.current}</td>
-                                <td>${entry.more}</td>
                             `;
 
                             priceTargetBody.appendChild(row);
