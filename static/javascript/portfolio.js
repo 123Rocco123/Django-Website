@@ -185,6 +185,42 @@ document.addEventListener("DOMContentLoaded", function () {
                     console.error('Error fetching stock values:', error);
                     dailyStockTableBody.innerHTML = "<tr><td colspan='4'>Could not load stock data. Please try again later.</td></tr>";
                 });
+
+            // Fetch and update the stock recommendations
+            fetch(`/get-analyst-recommendations/?stock_name=${stockName}`)
+                .then(response => response.json())
+                    .then(data => {
+                        if (data.error) {
+                            console.error(data.error);
+                            return;
+                        }
+
+                        // Ensure the table body element is correctly selected
+                        const analystRecommendationsBody = document.querySelector('.analystRecommendations tbody');
+                        if (!analystRecommendationsBody) {
+                            console.error('Table body not found. Check the table structure or selector.');
+                            return;
+                        }
+
+                        analystRecommendationsBody.innerHTML = ''; // Clear existing rows
+
+                        data.recommendations.forEach(entry => {
+                            const row = document.createElement('tr');
+
+                            row.innerHTML = `
+                                <td>${entry.date}</td>
+                                <td>${entry.total}</td>
+                                <td>${entry.strong_buy}</td>
+                                <td>${entry.buy}</td>
+                                <td>${entry.hold}</td>
+                                <td>${entry.sell}</td>
+                                <td>${entry.strong_sell}</td>
+                            `;
+
+                            analystRecommendationsBody.appendChild(row);
+                        });
+                    })
+            .catch(error => console.error('Error fetching recommendations:', error));
         });
     });
 });
