@@ -3,6 +3,9 @@ document.addEventListener("DOMContentLoaded", function () {
     const newsContainer = document.querySelector('.news');
     const predictionContainer = document.querySelector('.predictionList');
 
+    // Store the currently displayed prediction trace
+    let currentPredictionTrace = null;
+
     // Show placeholder messages initially
     graphContainer.innerHTML = "<p>Select a stock to view its graph.</p>";
     newsContainer.innerHTML = "<p>Select a stock to view its related news.</p>";
@@ -30,6 +33,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     if (data.data && data.layout) {
                         graphContainer.innerHTML = "";
                         Plotly.newPlot(graphContainer, data.data, data.layout);
+                        currentPredictionTrace = null; // Reset prediction trace when new stock is selected
                     } else if (data.error) {
                         graphContainer.innerHTML = `<p>Error: ${data.error}</p>`;
                     }
@@ -49,7 +53,6 @@ document.addEventListener("DOMContentLoaded", function () {
                 })
                 .then(data => {
                     if (data.articles && data.articles.length > 0) {
-                        // Clear and populate the news container with articles
                         newsContainer.innerHTML = data.articles
                             .map(article => `
                                 <div class="news-article">
@@ -86,7 +89,7 @@ document.addEventListener("DOMContentLoaded", function () {
                             <div class="button-list">
                                 ${data.predictions
                                     .map(prediction => `
-                                        <button class="prediction-button" data-model-name="${prediction}">
+                                        <button class="prediction-button" data-stock-name="${stockName}" data-model-name="${prediction}">
                                             ${prediction}
                                         </button>
                                     `)
@@ -99,7 +102,43 @@ document.addEventListener("DOMContentLoaded", function () {
                         predictionButtons.forEach(button => {
                             button.addEventListener('click', function () {
                                 const modelName = this.getAttribute('data-model-name');
-                                // Add further functionality here, such as navigating or loading model-specific data
+                                const stockName = this.getAttribute('data-stock-name');
+
+                                // Check if this prediction trace is already added
+                                if (currentPredictionTrace && currentPredictionTrace.name === modelName) {
+                                    // Remove the current prediction trace
+                                    Plotly.deleteTraces(graphContainer, -1);
+                                    currentPredictionTrace = null; // Reset the trace tracker
+                                } else {
+                                    // Fetch the model's prediction data
+                                    fetch(`/get-model-prediction/?stock_name=${encodeURIComponent(stockName)}&model_name=${encodeURIComponent(modelName)}`)
+                                        .then(response => {
+                                            if (!response.ok) {
+                                                throw new Error(`HTTP error! status: ${response.status}`);
+                                            }
+                                            return response.json();
+                                        })
+                                        .then(data => {
+                                            if (data.data) {
+                                                // Add model data to the graph
+                                                const newTrace = {
+                                                    x: data.data.x, // Ensure sorted dates are sent from the backend
+                                                    y: data.data.y,
+                                                    type: "scatter",
+                                                    mode: "lines+markers", // Add markers for clarity
+                                                    name: modelName,
+                                                    line: { color: "red", dash: "dot" } // Customize line style
+                                                };
+                                                Plotly.addTraces(graphContainer, newTrace);
+                                                currentPredictionTrace = newTrace; // Update the tracker
+                                            } else if (data.error) {
+                                                console.error(`Error: ${data.error}`);
+                                            }
+                                        })
+                                        .catch(error => {
+                                            console.error('Error fetching model prediction:', error);
+                                        });
+                                }
                             });
                         });
                     } else if (data.error) {
