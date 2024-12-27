@@ -67,6 +67,24 @@ def returnedOrderedDate(dataframe, dateColumn="date"):
 
     return dataframe
 
+# Function used to remove dates from the prediction dataframe
+    # These are values which are less than the most recent date and not in the date of the stock values
+def removeIncorrectDates(stockName, dataFrame):
+    # Contains the stock values
+    stockValues = pd.read_csv(f"{os.getcwd()}/database/StockValues/{stockName}/{stockName}.csv")
+
+    # Contains the most recent date in datetime format
+        # Used so that we can check if we have to remove the date or we can keep it as a future prediciton
+    mostRecentDate = pd.to_datetime(stockValues["date"].tail(1).values[0])
+    # Contains the dates which are not in the stock values
+        # Used so that we can remove them from the dates of the preditions
+    datesToRemove = [x for x in dataFrame["date"] if (pd.to_datetime(x) < mostRecentDate) and (x not in stockValues["date"].tolist())]
+
+    # Removes the dates from the predictions
+    dataFrame = dataFrame[~dataFrame["date"].isin(datesToRemove)]
+    # Returns the predictions
+    return dataFrame
+
 # LOGO FUNCTIONS
 
 # Function used to set driver to headless mode
