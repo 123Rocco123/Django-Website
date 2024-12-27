@@ -18,6 +18,8 @@ urlpatterns = [
     # Used to change the graph to the user specified stock
     path('get-stock-graph/', views.get_stock_graph, name='get_stock_graph'),
     path('get-stock-articles/', views.getStockArticles, name='get_stock_articles'),
+    path('get-stock-predictions/', views.returnPredictionModels, name='get_stock_models'),
+    path('get-model-prediction/', views.get_model_prediction, name='get-model-prediction'),
     
     # Different path means that its a subdirectory
     path("idea", views.projectIdea, name = "projectIdea"),
