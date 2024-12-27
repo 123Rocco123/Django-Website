@@ -18,7 +18,17 @@
     border: 1px solid black;
 }
 
-.stockValues h3 {
+.recommendationValues {
+    height: 60vh;
+    overflow: scroll;
+
+    background-color: white;
+    
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.stockValues h3, .recommendationValues h3 {
     text-align: center;
 }
 
@@ -27,6 +37,14 @@
     position: sticky; /* Make the header row sticky */
     top: 0; /* Stick to the top of the container */
     z-index: 1; /* Ensure the headers appear above other content */
+}
+
+.analystRecommendations {
+    padding: 1rem;
+    border-radius: 10px;
+    margin: 10px 10% 10px 10%;
+    
+    background-color: rgb(65, 65, 65);
 }
 
 .graphContainer {
@@ -190,4 +208,9 @@
 
 .stock-down {
     color: red;
+}
+
+.dividerHeaders {
+    text-align: center;
+    color: white;
 }
