@@ -222,6 +222,42 @@ document.addEventListener("DOMContentLoaded", function () {
                         });
                     })
             .catch(error => console.error('Error fetching recommendations:', error));
+
+            // Adds the functionality for the price target button
+            fetch(`/get-pricetargets/?stock_name=${stockName}`)
+                .then(response => response.json())
+                    .then(data => {
+                        if (data.error) {
+                            console.error(data.error);
+                            return;
+                        }
+
+                        // Ensure the table body element is correctly selected
+                        const priceTargetBody = document.querySelector('.priceTarget tbody');
+                        if (!priceTargetBody) {
+                            console.error('Table body not found. Check the table structure or selector.');
+                            return;
+                        }
+
+                        priceTargetBody.innerHTML = ''; // Clear existing rows
+
+                        data.priceTargets.forEach(entry => {
+                            const row = document.createElement('tr');
+
+                            row.innerHTML = `
+                                <td>${entry.date}</td>
+                                <td>${entry.low}</td>
+                                <td>${entry.high}</td>
+                                <td>${entry.mean}</td>
+                                <td>${entry.median}</td>
+                                <td>${entry.current}</td>
+                                <td>${entry.more}</td>
+                            `;
+
+                            priceTargetBody.appendChild(row);
+                        });
+                    })
+            .catch(error => console.error('Error fetching recommendations:', error));
         });
     });
 });
