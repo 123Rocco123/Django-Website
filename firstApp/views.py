@@ -359,6 +359,30 @@ def returnPriceTargets(request):
 
     return JsonResponse({"priceTargets": stock_values[::-1]}, status=200)
 
+# Function used to return the gathered ratings for the selected stock
+def returnStockRatings(request):
+    stock_name = request.GET.get('stock_name')
+
+    # Contains the dataframe for the recommendations
+    recommendationValues = pd.read_csv(f"{os.getcwd()}/database/Company/{stock_name}/recommendations/ratings.csv")
+
+    recommendationValues = recommendationValues.fillna("N/A")
+
+    if recommendationValues.empty or "Reported Date" not in recommendationValues:
+        return JsonResponse({'error': f'Invalid data in {os.path.abspath(recommendationValues)}'}, status=400)
+
+    # Prepare the data for the response
+    stock_values = recommendationValues.to_dict(orient="records")
+
+    for entry in stock_values:
+        entry["date"]      = entry["Reported Date"]
+        entry["Firm"]      = entry["Firm"]
+        entry["FromGrade"] = entry["FromGrade"]
+        entry["ToGrade"]   = entry["ToGrade"]
+        entry["Outlook"]   = entry["Outlook"]
+
+    return JsonResponse({"ratings": stock_values[::-1]}, status=200)
+
 def get_model_prediction(request):
     stock_name = request.GET.get('stock_name')
     model_name = request.GET.get('model_name')
