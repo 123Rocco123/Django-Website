@@ -22,7 +22,8 @@ urlpatterns = [
     path('get-model-prediction/', views.get_model_prediction, name='get-model-prediction'),
     path('get-stock-values/', views.getStockValues, name='get-stock-values'),
     path('get-analyst-recommendations/', views.returnRecommendations, name='get-analyst-recommendations'),
-
+    path('get-pricetargets/', views.returnPriceTargets, name='get-pricetargets'),
+    path('get-ratings/', views.returnStockRatings, name='get-ratings'),
     
     # Different path means that its a subdirectory
     path("idea", views.projectIdea, name = "projectIdea"),
