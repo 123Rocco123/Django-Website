@@ -265,6 +265,40 @@ document.addEventListener("DOMContentLoaded", function () {
                         });
                     })
                     .catch(error => console.error('Error fetching recommendations:', error));
+
+            // Adds the functionality for the price target button
+            fetch(`/get-ratings/?stock_name=${stockName}`)
+                .then(response => response.json())
+                    .then(data => {
+                        if (data.error) {
+                            console.error(data.error);
+                            return;
+                        }
+
+                        // Ensure the table body element is correctly selected
+                        const RatingsBody = document.querySelector('.Ratings tbody');
+                        if (!RatingsBody) {
+                            console.error('Table body not found. Check the table structure or selector.');
+                            return;
+                        }
+
+                        RatingsBody.innerHTML = ''; // Clear existing rows
+
+                        data.ratings.forEach(entry => {
+                            const row = document.createElement('tr');
+
+                            row.innerHTML = `
+                                <td>${entry.date}</td>
+                                <td>${entry.Firm}</td>
+                                <td>${entry.FromGrade}</td>
+                                <td>${entry.ToGrade}</td>
+                                <td>${entry.Outlook}</td>
+                            `;
+
+                            RatingsBody.appendChild(row);
+                        });
+                    })
+                    .catch(error => console.error('Error fetching recommendations:', error));
         });
     });
 });
