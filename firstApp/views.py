@@ -392,6 +392,37 @@ def returnStockRatings(request):
 
     return JsonResponse({"ratings": stock_values[::-1]}, status=200)
 
+# Function used to return the closing and afterhours prices of the stock
+def returnStockClosingPrices(request):
+    stockName = request.GET.get('stock_name')
+
+    # Contains the formal stock name, ticker, of the function
+    formalName = returnFormalName(stockName)
+    # Contains the yahoo finance information about the stock
+    stockInformation = yf.Ticker(formalName).info
+
+    # Variable contains the symbol of the currency of the stock
+    currency = "$" if stockInformation["currency"] == "USD" else "€"
+
+    # Contains the afterhours values of the stock
+        # We get the most recent afterhours values
+    afterHoursFiles = os.listdir(f"{os.getcwd()}/database/StockValues/{stockName}/afterHours/")
+    afterHours      = [pd.to_datetime(x[x.index("_") + 1 : ].replace("_", "/")) for x in afterHoursFiles]
+    afterHours      = sorted(afterHours)[-1]
+    
+    # Convert the afterHours variable to a string
+    afterHours      = f"{afterHours.month}_{afterHours.day}_{afterHours.year}"
+    afterHoursFiles = [x for x in afterHoursFiles if afterHours in x][0]
+
+    # Contains the afterhours values of the stock
+    afterHours = pd.read_csv((f"{os.getcwd()}/database/StockValues/{stockName}/afterHours/{afterHoursFiles}"))
+    afterHours = afterHours["Close"].values.tolist()[-1]
+
+    closingValues = pd.read_csv(f"{os.getcwd()}/database/StockValues/{stockName}/{stockName}.csv")
+    closingValues = closingValues["Close"].values.tolist()[-1]
+
+    return JsonResponse({"closing": round(closingValues, 2), "afterHours": round(afterHours, 2), "currency" : currency}, status=200)
+
 def get_model_prediction(request):
     stock_name = request.GET.get('stock_name')
     model_name = request.GET.get('model_name')
