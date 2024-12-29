@@ -87,6 +87,14 @@ def removeIncorrectDates(stockName, dataFrame):
     # Returns the predictions
     return dataFrame
 
+# Function used to return the formal name of the stock
+def returnFormalName(stockName):
+    # Contains the formal stock name, ticker, of the function
+    formalName = pd.read_csv(f"{os.getcwd()}/database/stockInformation.csv")
+    formalName = formalName[formalName["Informal Stock Name"] == stockName]["Formal Stock Name"].values[0]
+
+    return formalName
+
 # LOGO FUNCTIONS
 
 # Function used to set driver to headless mode
