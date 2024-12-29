@@ -16,6 +16,7 @@ urlpatterns = [
     # Contains the view link to the user's homepage
     path("home/", views.portfolioHome, name = "portfolioHome"),
     # Used to change the graph to the user specified stock
+    path('returnClosingPrices/', views.returnStockClosingPrices, name='returnClosingPrices'),
     path('get-stock-graph/', views.get_stock_graph, name='get_stock_graph'),
     path('get-stock-articles/', views.getStockArticles, name='get_stock_articles'),
     path('get-stock-predictions/', views.returnPredictionModels, name='get_stock_models'),
@@ -24,6 +25,8 @@ urlpatterns = [
     path('get-analyst-recommendations/', views.returnRecommendations, name='get-analyst-recommendations'),
     path('get-pricetargets/', views.returnPriceTargets, name='get-pricetargets'),
     path('get-ratings/', views.returnStockRatings, name='get-ratings'),
+    path('getStockInfo/', views.returnGeneralInfo, name='getStockInfo'),
+    path('getOfficeres/', views.returnCompanyOfficers, name='getOfficeres'),
     
     # Different path means that its a subdirectory
     path("idea", views.projectIdea, name = "projectIdea"),
