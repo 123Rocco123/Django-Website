@@ -423,6 +423,41 @@ def returnStockClosingPrices(request):
 
     return JsonResponse({"closing": round(closingValues, 2), "afterHours": round(afterHours, 2), "currency" : currency}, status=200)
 
+# Function used to return the stock's general information
+def returnGeneralInfo(request):
+    stockName = request.GET.get("stock_name")
+
+    # Contains the formal stock name, ticker, of the function
+    formalName = returnFormalName(stockName)
+    # Contains the yahoo finance information about the stock
+    stockInformation = yf.Ticker(formalName).info
+
+    # Contains the market information about the stock
+    marketInformation = pd.read_csv(f"{os.getcwd()}/database/stockInformation.csv")
+    marketInformation = marketInformation[marketInformation["Informal Stock Name"] == stockName]
+
+    # Prepare the data for the response
+    stock_values = marketInformation.to_dict(orient="records")
+    #
+    ceo = [x["name"] for x in stockInformation["companyOfficers"] if "CEO" in x["title"]]
+
+    for entry in stock_values:
+        # If - Else statement used to check if all of the values are inside of the stockInformation dictionary
+        if all([values in stockInformation for values in ["city", "state", "country"]]):
+            entry["hq"] = stockInformation["city"], stockInformation["state"], stockInformation["country"]
+        else:
+            entry["hq"] = "N/A"
+        
+        entry["CEO"]       = ceo[0]
+        entry["type"]      = entry["Stock Type"].capitalize()
+        entry["market"]    = entry["Listed Market"]
+        entry["country"]   = stockInformation["country"]
+        entry["website"]   = stockInformation["website"]
+        entry["industry"]  = stockInformation["industry"]
+        entry["employees"] = stockInformation["fullTimeEmployees"] if "fullTimeEmployees" in stockInformation else "N/A"
+
+    return JsonResponse({"information": stock_values[::-1]}, status=200)
+
 def get_model_prediction(request):
     stock_name = request.GET.get('stock_name')
     model_name = request.GET.get('model_name')
