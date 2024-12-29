@@ -244,21 +244,13 @@ document.addEventListener("DOMContentLoaded", function () {
                         data.priceTargets.forEach(entry => {
                             const row = document.createElement('tr');
 
-                            // Check the boolean value of entry.more
-                                // If true, set the row color to light green
-                            if (entry.more === true) {
-                                row.style.backgroundColor = 'rgba(144, 238, 144, 0.5)';
-                            } else if (entry.more === false) {
-                                row.style.backgroundColor = 'rgba(255, 99, 71, 0.5)';
-                            }
-
                             row.innerHTML = `
                                 <td>${entry.date}</td>
                                 <td>${entry.low}</td>
                                 <td>${entry.high}</td>
                                 <td>${entry.mean}</td>
                                 <td>${entry.median}</td>
-                                <td>${entry.current}</td>
+                                <td style="background-color: ${entry.more === false ? 'rgba(255, 99, 71, 0.5)' : 'rgba(144, 238, 144, 0.5)'};">${entry.current}</td>
                             `;
 
                             priceTargetBody.appendChild(row);
@@ -292,13 +284,122 @@ document.addEventListener("DOMContentLoaded", function () {
                                 <td>${entry.Firm}</td>
                                 <td>${entry.FromGrade}</td>
                                 <td>${entry.ToGrade}</td>
-                                <td>${entry.Outlook}</td>
+                                <td style="background-color: ${
+                                    entry.Outlook === 'up' ? 'rgba(144, 238, 144, 0.5)' :
+                                    entry.Outlook === 'down' ? 'rgba(255, 99, 71, 0.5)' :
+                                    ''
+                                };">
+                                    ${entry.Outlook}
+                                </td>
                             `;
 
                             RatingsBody.appendChild(row);
                         });
                     })
                     .catch(error => console.error('Error fetching recommendations:', error));
+
+            // Adds the stock information functionality to the main script
+            fetch(`/getStockInfo/?stock_name=${stockName}`)
+                .then(response => response.json())
+                    .then(data => {
+                        if (data.error) {
+                            console.error(data.error);
+                            return;
+                        }
+
+                        // Ensure the table body element is correctly selected
+                            // We then output the data to the div tag inside of the stockInformationDiv class
+                        const stockInformationBody = document.querySelector('.companyDetails ul');
+                        if (!stockInformationBody) {
+                            console.error('Table body not found. Check the table structure or selector.');
+                            return;
+                        }
+
+                        // Clear existing rows
+                        stockInformationBody.innerHTML = '';
+
+                        data.information.forEach(entry => {
+                            const row = document.createElement('p');
+
+                            row.innerHTML = `
+                                <li><strong>CEO:</strong> ${entry.CEO}</li>
+                                <li><strong>Market:</strong> ${entry.market}</li>
+                                <li><strong>Sector:</strong> ${entry.type}</li>
+                                <li><strong>Industry:</strong> ${entry.industry}</li>
+                                <br>
+                                <li><strong>Headquarters:</strong> ${entry.hq}</li>
+                                <li><strong>Country:</strong> ${entry.country}</li>
+                                <li><strong>Employees:</strong> ${entry.employees || 'N/A'}</li>
+                            `;
+
+                            stockInformationBody.appendChild(row);
+                        });
+                    })
+                    .catch(error => console.error('Error fetching recommendations:', error));
+
+                // 
+                fetch(`/getOfficeres/?stock_name=${stockName}`)
+                    .then(response => response.json())
+                        .then(data => {
+                            if (data.error) {
+                                console.error(data.error);
+                                return;
+                            }
+    
+                            // Ensure the table body element is correctly selected
+                                // We then output the data to the div tag inside of the stockInformationDiv class
+                            const keyPeopleListBody = document.querySelector('.keyPeople .keyPeopleList');
+                            if (!keyPeopleListBody) {
+                                console.error('Table body not found. Check the table structure or selector.');
+                                return;
+                            }
+    
+                            keyPeopleListBody.innerHTML = ''; // Clear existing rows
+    
+                            data.officers.forEach(entry => {
+                                const row = document.createElement('p');
+    
+                                row.innerHTML = `
+                                    <li><strong>Name:</strong> ${entry.name}</li>
+                                    <li><strong>Role:</strong> ${entry.role}</li>
+                                `;
+    
+                                keyPeopleListBody.appendChild(row);
+                            });
+                        })
+                        .catch(error => console.error('Error fetching recommendations:', error));
+                
+                fetch(`/returnClosingPrices/?stock_name=${stockName}`)
+                    .then(response => response.json())
+                        .then(data => {
+                            if (data.error) {
+                                console.error(data.error);
+                                return;
+                            }
+                    
+                            // Ensure the elements for displaying stock data are correctly selected
+                            const stockInfoDiv  = document.querySelector('.priceInformation');
+                            if (!stockInfoDiv) {
+                                console.error('Stock information div not found. Check the HTML structure or selector.');
+                                return;
+                            }
+                    
+                            // Clear existing content
+                            stockInfoDiv.innerHTML  = '';
+                    
+                            // Display the fetched closing and after-hours prices
+                            const closingPriceElem = document.createElement('div');
+                            closingPriceElem.innerHTML = `
+                                                    <div class="priceInformationInner">
+                                                        <h3>Closing Price:</h3> <span class="closingPrice">${data.currency}${data.closing}</span>
+
+                                                        <h3>After Hours Price:</h3> <span class="afterHour">${data.currency}${data.afterHours}</span>
+                                                    </div>`;
+
+                            stockInfoDiv.appendChild(closingPriceElem);
+                        })
+                        .catch(error => console.error('Error fetching stock closing prices:', error));
+                    
         });
     });
 });
