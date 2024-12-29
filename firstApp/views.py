@@ -458,6 +458,31 @@ def returnGeneralInfo(request):
 
     return JsonResponse({"information": stock_values[::-1]}, status=200)
 
+# Function used to return the selected stock's officers
+def returnCompanyOfficers(request):
+    stockName = request.GET.get("stock_name")
+    # Contains the array used to store the officer's name and role
+        # Returned at the end of the function for the JSON response
+    returnArray = []
+
+    # Contains the market information about the stock
+    roles = os.listdir(f"{os.getcwd()}/database/StockValues/{stockName}/Officers/")
+    roles = sorted(roles)
+    # For loop used to iterate over the different files in the officers directory
+        # Used to merge the role and the name of the officer into the dictionary and append it to the returnArray
+    for file in roles:
+        # Contains the dictionary used to store the officer's name and role
+        returnDictionary = {}
+        # Contains the officers file
+        openedFile = pd.read_csv(f"{os.getcwd()}/database/StockValues/{stockName}/Officers/{file}")
+        # Appends the officer's name and role to the dictionary
+        returnDictionary["name"] = openedFile["name"].tolist()[0]
+        returnDictionary["role"] = file.replace(".csv", "")
+        # Appends the dictionary to the returnArray
+        returnArray.append(returnDictionary)
+
+    return JsonResponse({"officers": returnArray}, status=200)
+
 def get_model_prediction(request):
     stock_name = request.GET.get('stock_name')
     model_name = request.GET.get('model_name')
