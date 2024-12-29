@@ -1,10 +1,25 @@
-.notifications, .dailyStockTable {
+.notifications, .dailyStockTable, .companyRow, .priceInformation {
     margin: 10px 10% 10px 10%;
     padding: 1rem;
 
     border-radius: 10px;
     
     background-color: rgb(65, 65, 65);
+}
+
+.companyRow .companyInfo, .companyRow .keyPeople, .institutionalHolders {
+    display: flex;
+    /* Stacks the child elements vertically */
+    flex-direction: column;
+    /* Match the height of the graphContainer */
+    margin: 10px;
+
+    height: 30vh;
+    padding: 0px;
+    border-radius: 10px;
+    background-color: white;
+
+    overflow: scroll;
 }
 
 .stockValues {
@@ -18,7 +33,7 @@
     border: 1px solid black;
 }
 
-.recommendationValues {
+.recommendationValues, .priceTarget, .Ratings {
     height: 60vh;
     overflow: scroll;
 
@@ -28,10 +43,31 @@
     border: 1px solid black;
 }
 
-.stockValues h3, .recommendationValues h3 {
+* h3 {
+    padding: 10px;
     text-align: center;
 }
 
+.priceInformation h3 {
+    text-align: left;
+    font-size: large;
+    font: bold;
+
+    margin: 0;
+    padding: 0;
+    
+    display: inline;
+}
+
+.priceInformationInner {
+    border-radius: 10px;
+    background-color: white;
+    text-align: center;
+}
+
+.recommendationValues thead, 
+.priceTarget thead,
+.Ratings thead,
 .stockValues .tableContent thead {
     background-color: #f2f2f2; /* Light gray background for headers */
     position: sticky; /* Make the header row sticky */
