@@ -409,7 +409,41 @@ document.addEventListener("DOMContentLoaded", function () {
                             stockInfoDiv.appendChild(closingPriceElem);
                         })
                         .catch(error => console.error('Error fetching stock closing prices:', error));
-                    
+
+                fetch(`/institutionalHolder/?stock_name=${stockName}`)
+                    .then(response => response.json())
+                        .then(data => {
+                            if (data.error) {
+                                console.error(data.error);
+                                return;
+                            }
+    
+                            // Ensure the table body element is correctly selected
+                                // We then output the data to the div tag inside of the stockInformationDiv class
+                            const keyPeopleListBody = document.querySelector('.holdersList tbody');
+                            if (!keyPeopleListBody) {
+                                console.error('Table body not found. Check the table structure or selector.');
+                                return;
+                            }
+    
+                            keyPeopleListBody.innerHTML = ''; // Clear existing rows
+    
+                            data.holders.forEach(entry => {
+                                const row = document.createElement('tr');
+
+                                row.innerHTML = `
+                                    <td>${entry.date}</td>
+                                    <td>${entry.holder}</td>
+                                    <td>${entry.shares}</td>
+                                    <td>${entry.percentage}</td>
+                                    <td>${entry.value}</td>
+                                `;
+    
+                                keyPeopleListBody.appendChild(row);
+                            });
+                        })
+                        .catch(error => console.error('Error fetching recommendations:', error));
+                
         });
     });
 });
