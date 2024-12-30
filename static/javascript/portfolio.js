@@ -276,10 +276,19 @@ document.addEventListener("DOMContentLoaded", function () {
 
                         RatingsBody.innerHTML = ''; // Clear existing rows
 
-                        data.ratings.forEach(entry => {
+                        if ("error" in data.ratings) {
                             const row = document.createElement('tr');
-
+                            
                             row.innerHTML = `
+                                <td colspan="5">N/a</td>
+                            `;
+
+                            RatingsBody.appendChild(row);
+                        } else {
+                            data.ratings.forEach(entry => {
+                                const row = document.createElement('tr');
+                                
+                                row.innerHTML = `
                                 <td>${entry.date}</td>
                                 <td>${entry.Firm}</td>
                                 <td>${entry.FromGrade}</td>
@@ -292,9 +301,10 @@ document.addEventListener("DOMContentLoaded", function () {
                                     ${entry.Outlook}
                                 </td>
                             `;
-
-                            RatingsBody.appendChild(row);
-                        });
+    
+                                RatingsBody.appendChild(row);
+                            });
+                        }
                     })
                     .catch(error => console.error('Error fetching recommendations:', error));
 
